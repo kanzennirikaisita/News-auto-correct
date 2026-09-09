@@ -3,7 +3,7 @@
   {"id":"jpcert","name":"JPCERT/CC","category":"work","type":"rss","url":"https://www.jpcert.or.jp/rss/jpcert.rdf","enabled":true,"official":true},
   {"id":"jvn","name":"JVN","category":"work","type":"rss","url":"https://jvn.jp/rss/jvn.rdf","enabled":true,"official":true},
   {"id":"jpcert-blog","name":"JPCERT/CC Eyes","category":"work","type":"rss","url":"https://blogs.jpcert.or.jp/ja/atom.xml","enabled":true,"official":true},
-  {"id":"openai","name":"OpenAI 日本語ニュース","category":"ai-dev","type":"html-links","url":"https://openai.com/ja-JP/news/","linkPattern":"/index/[a-z0-9-]+/?","enabled":true,"official":true},
+  {"id":"openai","name":"OpenAI 日本語ニュース","category":"ai-dev","type":"html-links","url":"https://openai.com/ja-JP/news/","linkPattern":"/index/[a-z0-9-]+/?","enabled":false,"official":true},
   {"id":"github","name":"GitHub Changelog","category":"ai-dev","type":"rss","url":"https://github.blog/changelog/feed/","enabled":false,"official":true},
   {"id":"dify","name":"Dify","category":"ai-dev","type":"github-releases","url":"https://api.github.com/repos/langgenius/dify/releases?per_page=30","enabled":false,"official":true},
   {"id":"codex","name":"Codex","category":"ai-dev","type":"github-releases","url":"https://api.github.com/repos/openai/codex/releases?per_page=10","enabled":false,"official":true},

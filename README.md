@@ -74,7 +74,7 @@ GitHub Pagesのサブパスを再現する場合は、一つ上のフォルダ�
 | カテゴリ | 情報源 | 方式 |
 |---|---|---|
 | Work | デジタル庁、JPCERT/CC、JVN、JPCERT/CC Eyes | RSS / Atom |
-| AI / Dev | OpenAI日本語ニュース | 公式日本語ページのリンク取得 |
+| AI / Dev | OpenAI日本語ニュース | Actionsから403となるため初期状態は無効 |
 | AI / Dev | GitHub Changelog、Dify、Codex、Claude Code | 英語配信のため初期状態は無効 |
 | Game | FFXIV Lodestone | 公式ニュースのリンク取得 |
 | Game | ELDEN RING、Steam News | 日本語指定付きRSS |

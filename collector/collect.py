@@ -58,6 +58,12 @@ def title_key(value):
     return " ".join(unicodedata.normalize("NFKC", value).casefold().split())
 
 
+def is_japanese_title(value):
+    """Require Japanese kana in the headline; kanji alone cannot distinguish Japanese from Chinese."""
+    normalized = unicodedata.normalize("NFKC", clean(value))
+    return bool(re.search(r"[ぁ-ゖァ-ヺー]", normalized))
+
+
 def child(node, *names):
     for name in names:
         for element in node:
@@ -187,7 +193,7 @@ def score(item, source, rules, now):
     return min(100, max(0, points)), list(dict.fromkeys(reasons)), tags
 
 
-def collect(sources, rules, previous, now, loader=fetch):
+def collect(sources, rules, previous, now, loader=fetch, language="ja"):
     now_s = stamp(now)
     old = {item["id"]: item for item in previous.get("items", [])}
     items = dict(old)
@@ -199,28 +205,28 @@ def collect(sources, rules, previous, now, loader=fetch):
         try:
             rows = parse(loader(source), source)
             valid = []
+            fetched_count = len(rows)
             for row in rows[:200]:
                 try:
                     row["url"] = normalize_url(row["url"])
-                    if row["title"]:
+                    if row["title"] and (language != "ja" or is_japanese_title(row["title"])):
                         valid.append(row)
                 except (ValueError, KeyError):
                     continue
-            if rows and not valid:
-                raise ValueError("No valid articles")
-            return source, valid, None
+            return source, valid, None, fetched_count
         except Exception as exc:  # A failed source must not destroy the last good feed.
-            return source, [], f'{type(exc).__name__}: {str(exc)[:160]}'
+            return source, [], f'{type(exc).__name__}: {str(exc)[:160]}', 0
 
     # Ordered map gives deterministic source priority for exact cross-source URL duplicates.
     with ThreadPoolExecutor(max_workers=4) as pool:
         results = list(pool.map(load, enabled))
     seen = set()
-    for source, rows, error in results:
+    for source, rows, error, fetched_count in results:
         prior = prior_states.get(source["id"], {})
         states.append({"id": source["id"], "name": source["name"], "category": source["category"],
                        "url": source["url"], "status": "error" if error else "ok", "error": error,
-                       "lastSuccess": prior.get("lastSuccess") if error else now_s, "count": len(rows)})
+                       "lastSuccess": prior.get("lastSuccess") if error else now_s,
+                       "count": len(rows), "fetchedCount": fetched_count})
         for row in rows:
             identity = digest(row["url"])[:24]
             if identity in seen:
@@ -252,6 +258,8 @@ def collect(sources, rules, previous, now, loader=fetch):
     for item in items.values():
         if item["sourceId"] not in source_map:
             continue
+        if language == "ja" and not is_japanese_title(item["title"]):
+            continue
         # Retention is based on the last detected change, not last fetch.
         if date(item.get("updatedAt") or item["detectedAt"]) < now - timedelta(days=30):
             continue
@@ -262,7 +270,7 @@ def collect(sources, rules, previous, now, loader=fetch):
     success = sum(s["status"] == "ok" for s in states)
     return {"schemaVersion": 1, "generatedAt": now_s if success else previous.get("generatedAt"),
             "collector": {"lastRun": now_s, "success": success, "failed": len(states) - success},
-            "sources": states, "items": retained[:3000]}
+            "language": language, "sources": states, "items": retained[:3000]}
 
 
 def write_json(path, data):
@@ -283,9 +291,10 @@ def main():
     args = parser.parse_args()
     sources = json.loads((ROOT / "config/sources.json").read_text(encoding="utf-8"))
     rules = json.loads((ROOT / "config/scoring.json").read_text(encoding="utf-8"))
+    settings = json.loads((ROOT / "config/radar.json").read_text(encoding="utf-8"))
     previous = json.loads(args.output.read_text(encoding="utf-8")) if args.output.exists() else {}
     loader = (lambda source: (args.snapshot_dir / (source["id"] + ".raw")).read_bytes()) if args.snapshot_dir else fetch
-    result = collect(sources, rules, previous, datetime.now(UTC), loader)
+    result = collect(sources, rules, previous, datetime.now(UTC), loader, settings.get("language", "ja"))
     if args.snapshot_dir:
         result["collector"]["mode"] = "snapshot-replay"
     write_json(args.output, result)

@@ -3,7 +3,7 @@ import json
 from pathlib import Path
 import tempfile
 import unittest
-from collector.collect import collect, parse_feed, parse, normalize_url, write_json, score
+from collector.collect import collect, parse_feed, parse, normalize_url, write_json, score, is_japanese_title
 
 NOW = datetime(2026, 9, 9, 3, tzinfo=timezone.utc)
 SOURCE = {'id': 'test', 'name': 'Test', 'category': 'work', 'type': 'rss', 'url': 'https://example.org/feed', 'enabled': True, 'official': True}
@@ -13,6 +13,16 @@ def feed(title='脆弱性に関する注意喚起', content='body', pub='Wed, 09
     return f'<rss><channel><item><title>{title}</title><link>https://example.org/a?utm_source=feed</link><pubDate>{pub}</pubDate><description>{content}</description></item></channel></rss>'.encode()
 
 class CollectorTests(unittest.TestCase):
+    def test_japanese_title_filter(self):
+        self.assertTrue(is_japanese_title('Difyの新バージョンをリリース'))
+        self.assertTrue(is_japanese_title('脆弱性に関する注意喚起'))
+        self.assertFalse(is_japanese_title('Dify v1.10.0 released'))
+        result = collect([SOURCE], RULES, {}, NOW, lambda _: feed(title='English release only'))
+        self.assertEqual(result['items'], [])
+        self.assertEqual(result['sources'][0]['fetchedCount'], 1)
+        self.assertEqual(result['sources'][0]['count'], 0)
+        self.assertEqual(result['sources'][0]['status'], 'ok')
+
     def test_new_unchanged_and_updated(self):
         first = collect([SOURCE], RULES, {}, NOW, lambda _: feed())
         item = first['items'][0]
@@ -56,6 +66,14 @@ class CollectorTests(unittest.TestCase):
         self.assertEqual(after['items'], [])
         after2 = collect([SOURCE], RULES, after, NOW+timedelta(days=32), lambda _:feed())
         self.assertEqual(after2['items'], [])
+
+    def test_existing_english_item_is_removed(self):
+        first = collect([SOURCE], RULES, {}, NOW, lambda _: feed())
+        english = {**first['items'][0], 'title': 'English release only'}
+        previous = {**first, 'items': [first['items'][0], english]}
+        result = collect([SOURCE], RULES, previous, NOW + timedelta(hours=1), lambda _: feed())
+        self.assertEqual(len(result['items']), 1)
+        self.assertTrue(is_japanese_title(result['items'][0]['title']))
 
     def test_rdf_and_atom(self):
         rdf=b'<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:dc="http://purl.org/dc/elements/1.1/"><item><title>RDF</title><link>https://example.org/a</link><dc:date>2026-09-09T00:00:00Z</dc:date></item></rdf:RDF>'

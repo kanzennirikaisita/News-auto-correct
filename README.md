@@ -2,6 +2,8 @@
 
 **前回確認から、自分に関係する何が変わったか。** iPhoneで10〜30秒で状況を把握する個人用情報レーダーです。
 
+収集対象は日本語タイトルの記事に限定しています。英語のみのリリースや記事は公開JSONへ保存せず、画面にも表示しません。
+
 [My Radarを開く](https://kanzennirikaisita.github.io/News-auto-correct/) · [収集Actions](https://github.com/kanzennirikaisita/News-auto-correct/actions/workflows/collect.yml)
 
 > 初回は下記のPages設定とmainへのマージが必要です。公開前は上のリンクが404になります。
@@ -67,7 +69,7 @@ GitHub Pagesのサブパスを再現する場合は、一つ上のフォルダ�
 
 ## 情報源と追加方法
 
-`config/sources.json` に集約しています。初期13ソースです。
+`config/sources.json` に集約しています。初期13ソースです。全体の言語設定は `config/radar.json` の `language: "ja"` です。
 
 | カテゴリ | 情報源 | 方式 |
 |---|---|---|
@@ -93,6 +95,8 @@ GitHub Pagesのサブパスを再現する場合は、一つ上のフォルダ�
 `id` は一意にし、カテゴリは `work` / `ai-dev` / `game` / `gadget`。`type` は `rss`（Atom・RDFも対応）、`github-releases`、`html-links`。HTML方式には `linkPattern` 正規表現が必要です。可能ならRSSを使い、追加後は手動収集で件数とエラーを確認してください。公開情報・利用条件を確認した公式配信に限定します。
 
 `enabled: false` にすると次回収集から公開一覧から除外されます。端末の保存済み記事は残ります。GitHubのdraft / prereleaseは初期設定では対象外です。
+
+日本語判定はタイトルにひらがな・カタカナが含まれるかで行います。漢字だけでは日本語と中国語を安定して区別できないため、漢字だけのタイトルも除外します。取得自体に成功し、日本語記事が0件だった情報源はエラーにしません。`sources[].fetchedCount` が取得件数、`sources[].count` が日本語判定後の採用件数です。
 
 グラブル、ゼンレスゾーンゼロ、MOD、総務省、J-LIS、IPAなどは初期対象に含めていません。安定した取得方法を確認してから追加する方針です。GitHub APIは匿名の制限内で取得します。多数追加する場合はレート制限を確認してください。
 

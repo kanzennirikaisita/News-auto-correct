@@ -69,15 +69,15 @@ GitHub Pagesのサブパスを再現する場合は、一つ上のフォルダ�
 
 ## 情報源と追加方法
 
-`config/sources.json` に集約しています。初期13ソースです。全体の言語設定は `config/radar.json` の `language: "ja"` です。
+`config/sources.json` に集約しています。初期13ソースのうち、日本語情報を配信できる8ソースを有効にしています。全体の言語設定は `config/radar.json` の `language: "ja"` です。
 
 | カテゴリ | 情報源 | 方式 |
 |---|---|---|
 | Work | デジタル庁、JPCERT/CC、JVN、JPCERT/CC Eyes | RSS / Atom |
-| AI / Dev | OpenAI、GitHub Changelog | RSS |
-| AI / Dev | Dify、Codex、Claude Code | GitHub Releases API |
+| AI / Dev | OpenAI日本語ニュース | 公式日本語ページのリンク取得 |
+| AI / Dev | GitHub Changelog、Dify、Codex、Claude Code | 英語配信のため初期状態は無効 |
 | Game | FFXIV Lodestone | 公式ニュースのリンク取得 |
-| Game | ELDEN RING、Steam News | RSS |
+| Game | ELDEN RING、Steam News | 日本語指定付きRSS |
 | Gadget | Apple Newsroom日本語 | RSS |
 
 ```json

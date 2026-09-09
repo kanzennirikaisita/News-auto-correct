@@ -1,11 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-09T03:28:56+00:00",
+  "generatedAt": "2026-09-09T06:55:38+00:00",
   "collector": {
-    "lastRun": "2026-09-09T03:28:56+00:00",
+    "lastRun": "2026-09-09T06:55:38+00:00",
     "success": 13,
     "failed": 0
   },
+  "language": "ja",
   "sources": [
     {
       "id": "digital-agency",
@@ -14,8 +15,9 @@
       "url": "https://www.digital.go.jp/rss/news.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-09T03:28:56+00:00",
-      "count": 34
+      "lastSuccess": "2026-09-09T06:55:38+00:00",
+      "count": 31,
+      "fetchedCount": 31
     },
     {
       "id": "jpcert",
@@ -24,8 +26,9 @@
       "url": "https://www.jpcert.or.jp/rss/jpcert.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-09T03:28:56+00:00",
-      "count": 20
+      "lastSuccess": "2026-09-09T06:55:38+00:00",
+      "count": 20,
+      "fetchedCount": 20
     },
     {
       "id": "jvn",
@@ -34,8 +37,9 @@
       "url": "https://jvn.jp/rss/jvn.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-09T03:28:56+00:00",
-      "count": 20
+      "lastSuccess": "2026-09-09T06:55:38+00:00",
+      "count": 17,
+      "fetchedCount": 20
     },
     {
       "id": "jpcert-blog",
@@ -44,8 +48,9 @@
       "url": "https://blogs.jpcert.or.jp/ja/atom.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-09T03:28:56+00:00",
-      "count": 15
+      "lastSuccess": "2026-09-09T06:55:38+00:00",
+      "count": 15,
+      "fetchedCount": 15
     },
     {
       "id": "openai",
@@ -54,8 +59,9 @@
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-09T03:28:56+00:00",
-      "count": 200
+      "lastSuccess": "2026-09-09T06:55:38+00:00",
+      "count": 0,
+      "fetchedCount": 1180
     },
     {
       "id": "github",
@@ -64,8 +70,9 @@
       "url": "https://github.blog/changelog/feed/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-09T03:28:56+00:00",
-      "count": 10
+      "lastSuccess": "2026-09-09T06:55:38+00:00",
+      "count": 0,
+      "fetchedCount": 10
     },
     {
       "id": "dify",
@@ -74,8 +81,9 @@
       "url": "https://api.github.com/repos/langgenius/dify/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-09T03:28:56+00:00",
-      "count": 27
+      "lastSuccess": "2026-09-09T06:55:38+00:00",
+      "count": 0,
+      "fetchedCount": 27
     },
     {
       "id": "codex",
@@ -84,8 +92,9 @@
       "url": "https://api.github.com/repos/openai/codex/releases?per_page=10",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-09T03:28:56+00:00",
-      "count": 5
+      "lastSuccess": "2026-09-09T06:55:38+00:00",
+      "count": 0,
+      "fetchedCount": 5
     },
     {
       "id": "claude-code",
@@ -94,8 +103,9 @@
       "url": "https://api.github.com/repos/anthropics/claude-code/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-09T03:28:56+00:00",
-      "count": 30
+      "lastSuccess": "2026-09-09T06:55:38+00:00",
+      "count": 0,
+      "fetchedCount": 30
     },
     {
       "id": "ff14",
@@ -104,8 +114,9 @@
       "url": "https://jp.finalfantasyxiv.com/lodestone/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-09T03:28:56+00:00",
-      "count": 30
+      "lastSuccess": "2026-09-09T06:55:38+00:00",
+      "count": 27,
+      "fetchedCount": 30
     },
     {
       "id": "elden-ring",
@@ -114,8 +125,9 @@
       "url": "https://steamcommunity.com/games/1245620/rss/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-09T03:28:56+00:00",
-      "count": 10
+      "lastSuccess": "2026-09-09T06:55:38+00:00",
+      "count": 0,
+      "fetchedCount": 10
     },
     {
       "id": "steam",
@@ -124,8 +136,9 @@
       "url": "https://store.steampowered.com/feeds/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-09T03:28:56+00:00",
-      "count": 10
+      "lastSuccess": "2026-09-09T06:55:38+00:00",
+      "count": 0,
+      "fetchedCount": 10
     },
     {
       "id": "apple",
@@ -134,172 +147,53 @@
       "url": "https://www.apple.com/jp/newsroom/rss-feed.rss",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-09T03:28:56+00:00",
-      "count": 20
+      "lastSuccess": "2026-09-09T06:55:38+00:00",
+      "count": 20,
+      "fetchedCount": 20
     }
   ],
   "items": [
     {
-      "id": "cf45e2be25e062a0c2997346",
-      "title": "GPT-6 Astra is generally available in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-09-04-gpt-6-astra-is-generally-available-in-github-copilot",
-      "sourceId": "github",
-      "sourceName": "GitHub Changelog",
-      "category": "ai-dev",
-      "publishedAt": "2026-09-04T18:59:51+00:00",
-      "detectedAt": "2026-09-09T03:28:56+00:00",
+      "id": "f8c27174312917ddad75108c",
+      "title": "baserCMS用プラグイン「BurgerEditor」における複数の脆弱性",
+      "url": "https://jvn.jp/jp/JVN21088484/",
+      "sourceId": "jvn",
+      "sourceName": "JVN",
+      "category": "work",
+      "publishedAt": "2026-09-09T05:00:00+00:00",
+      "detectedAt": "2026-09-09T06:55:38+00:00",
       "updatedAt": null,
-      "sourceUpdatedAt": null,
+      "sourceUpdatedAt": "2026-09-09T05:00:00+00:00",
       "changeType": "new",
       "kind": "article",
       "summary": null,
-      "contentHash": "c3fb8871605de163589bf44aef8288ca888e70820e46e6da46ae5d9b86cdad5d",
+      "contentHash": "5054b260f34d0e8428a517eb0eebae0f1de7045fbc063d2b0ce70d5f74ab8f63",
       "revision": 1,
-      "importance": 40,
-      "importanceReasons": [
-        "公式一次情報"
-      ],
-      "tags": []
-    },
-    {
-      "id": "c96e7378059165d6a60dd1c4",
-      "title": "New API endpoint provides privacy-safe star history data",
-      "url": "https://github.blog/changelog/2026-09-04-new-api-endpoint-provides-privacy-safe-star-history-data",
-      "sourceId": "github",
-      "sourceName": "GitHub Changelog",
-      "category": "ai-dev",
-      "publishedAt": "2026-09-04T16:43:56+00:00",
-      "detectedAt": "2026-09-09T03:28:56+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "e26f493543c640efb22bd4d91526739206b375076ac3070b8f348609e9f925e5",
-      "revision": 1,
-      "importance": 40,
-      "importanceReasons": [
-        "公式一次情報"
-      ],
-      "tags": []
-    },
-    {
-      "id": "b4a5078b867d2be19dbfff81",
-      "title": "Dify 1.15.0",
-      "url": "https://github.com/langgenius/dify/releases/tag/1.15.0",
-      "sourceId": "dify",
-      "sourceName": "Dify",
-      "category": "ai-dev",
-      "publishedAt": "2026-06-25T13:16:14+00:00",
-      "detectedAt": "2026-09-09T03:28:56+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": "2026-09-01T16:00:04+00:00",
-      "changeType": "new",
-      "kind": "release",
-      "summary": null,
-      "contentHash": "1aa0dbc51f178287c39fcbf37a69ea6fd337139bbf1c8b99541ce662fdf7e7ee",
-      "revision": 1,
-      "importance": 65,
+      "importance": 80,
       "importanceReasons": [
         "公式一次情報",
-        "バージョン公開",
-        "dify"
+        "24時間以内",
+        "脆弱性"
       ],
       "tags": [
-        "更新"
+        "セキュリティ"
       ]
     },
     {
-      "id": "8f62bc1d25dba6ca5b994764",
-      "title": "Dify v1.16.1 - Bug Fixes and Security Enhancements",
-      "url": "https://github.com/langgenius/dify/releases/tag/1.16.1",
-      "sourceId": "dify",
-      "sourceName": "Dify",
-      "category": "ai-dev",
-      "publishedAt": "2026-07-28T03:43:51+00:00",
-      "detectedAt": "2026-09-09T03:28:56+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": "2026-09-01T15:59:51+00:00",
-      "changeType": "new",
-      "kind": "release",
-      "summary": null,
-      "contentHash": "7ff4b44fd1e895a8f6157a59b75a0f66e9a935803df7508b27eee4d69130bfd1",
-      "revision": 1,
-      "importance": 85,
-      "importanceReasons": [
-        "公式一次情報",
-        "バージョン公開",
-        "security",
-        "dify"
-      ],
-      "tags": [
-        "セキュリティ",
-        "更新"
-      ]
-    },
-    {
-      "id": "7905e02a3e2fcd1df2b9d8a9",
-      "title": "Upcoming deprecation of selected GitHub Copilot models",
-      "url": "https://github.blog/changelog/2026-09-03-upcoming-deprecation-of-selected-github-copilot-models",
-      "sourceId": "github",
-      "sourceName": "GitHub Changelog",
-      "category": "ai-dev",
-      "publishedAt": "2026-09-03T19:40:14+00:00",
-      "detectedAt": "2026-09-09T03:28:56+00:00",
+      "id": "a04ceb545c05617c4b2a705d",
+      "title": "任期付職員 人事・給与関係業務情報システム担当（システム運用）の募集を掲載しました",
+      "url": "https://www.digital.go.jp/recruitment/fixed-term",
+      "sourceId": "digital-agency",
+      "sourceName": "デジタル庁",
+      "category": "work",
+      "publishedAt": "2026-09-09T06:00:00+00:00",
+      "detectedAt": "2026-09-09T06:55:38+00:00",
       "updatedAt": null,
       "sourceUpdatedAt": null,
       "changeType": "new",
       "kind": "article",
       "summary": null,
-      "contentHash": "ea0a17ac92158be359616cccb00dddaaeb44c1faab5e9966e252557161629d00",
-      "revision": 1,
-      "importance": 40,
-      "importanceReasons": [
-        "公式一次情報"
-      ],
-      "tags": []
-    },
-    {
-      "id": "6b1ae1400526ed94fce0318d",
-      "title": "Dify v1.16.0",
-      "url": "https://github.com/langgenius/dify/releases/tag/1.16.0",
-      "sourceId": "dify",
-      "sourceName": "Dify",
-      "category": "ai-dev",
-      "publishedAt": "2026-07-17T11:14:06+00:00",
-      "detectedAt": "2026-09-09T03:28:56+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": "2026-09-01T16:00:43+00:00",
-      "changeType": "new",
-      "kind": "release",
-      "summary": null,
-      "contentHash": "0ebbf80f677287e55cb5bf3c980478f59a2b8cd41e2d4c6e37491bac1a550c38",
-      "revision": 1,
-      "importance": 65,
-      "importanceReasons": [
-        "公式一次情報",
-        "バージョン公開",
-        "dify"
-      ],
-      "tags": [
-        "更新"
-      ]
-    },
-    {
-      "id": "56c4269b99a656fe7ff20a44",
-      "title": "Enterprise-managed sandbox in Copilot for JetBrains",
-      "url": "https://github.blog/changelog/2026-09-08-enterprise-managed-sandbox-in-copilot-for-jetbrains",
-      "sourceId": "github",
-      "sourceName": "GitHub Changelog",
-      "category": "ai-dev",
-      "publishedAt": "2026-09-09T02:43:38+00:00",
-      "detectedAt": "2026-09-09T03:28:56+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "023da9e4b6553d1706aa8944ad7516ce4d41131709f1ae5329e610a3c1e4945c",
+      "contentHash": "e75acdfcb5b29a70398625cfec5b6462710280482f007c485eeb201590945f98",
       "revision": 1,
       "importance": 50,
       "importanceReasons": [
@@ -309,52 +203,27 @@
       "tags": []
     },
     {
-      "id": "5024ef0cc7b0b96301fd1468",
-      "title": "GitHub Enterprise Server 3.22 is now generally available",
-      "url": "https://github.blog/changelog/2026-09-08-github-enterprise-server-3-22-is-now-generally-available",
-      "sourceId": "github",
-      "sourceName": "GitHub Changelog",
-      "category": "ai-dev",
-      "publishedAt": "2026-09-08T21:52:42+00:00",
-      "detectedAt": "2026-09-09T03:28:56+00:00",
-      "updatedAt": null,
+      "id": "9e61fed8ef3759fbd23c5ff2",
+      "title": "松本大臣記者会見（令和8年9月8日）要旨を掲載しました",
+      "url": "https://www.digital.go.jp/speech/minister-260908-01",
+      "sourceId": "digital-agency",
+      "sourceName": "デジタル庁",
+      "category": "work",
+      "publishedAt": "2026-09-09T06:00:00+00:00",
+      "detectedAt": "2026-09-09T03:22:00+00:00",
+      "updatedAt": "2026-09-09T06:55:38+00:00",
       "sourceUpdatedAt": null,
-      "changeType": "new",
+      "changeType": "updated",
       "kind": "article",
       "summary": null,
-      "contentHash": "a10537a2c11a99de941afe0d36c331a0395a0e4a3c55747480c0acbd5a67e76f",
-      "revision": 1,
+      "contentHash": "b818507e6584d87117f74d047d9d7e4fd9dfe03ba8846e413bfe69154eee63c2",
+      "revision": 2,
       "importance": 50,
       "importanceReasons": [
         "公式一次情報",
         "24時間以内"
       ],
       "tags": []
-    },
-    {
-      "id": "473fea8bb1cbf9cbdac8b2a5",
-      "title": "GitHub Actions: Early September 2026 updates",
-      "url": "https://github.blog/changelog/2026-09-03-github-actions-early-september-2026-updates",
-      "sourceId": "github",
-      "sourceName": "GitHub Changelog",
-      "category": "ai-dev",
-      "publishedAt": "2026-09-03T20:30:53+00:00",
-      "detectedAt": "2026-09-09T03:28:56+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "9dd36068efca6e78fb2865c48828c304d50f335d36100e13fe18b0e04ff7b9d0",
-      "revision": 1,
-      "importance": 55,
-      "importanceReasons": [
-        "公式一次情報",
-        "update"
-      ],
-      "tags": [
-        "更新"
-      ]
     },
     {
       "id": "36efbdc240e5274174c03846",
@@ -379,99 +248,6 @@
       "tags": []
     },
     {
-      "id": "33eecf1d106431d923355b6c",
-      "title": "Automatic Dependabot access to GitHub-hosted registries",
-      "url": "https://github.blog/changelog/2026-09-08-automatic-dependabot-access-to-github-hosted-registries",
-      "sourceId": "github",
-      "sourceName": "GitHub Changelog",
-      "category": "ai-dev",
-      "publishedAt": "2026-09-08T16:46:05+00:00",
-      "detectedAt": "2026-09-09T03:28:56+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "ab109994617846e5d2ca3ddff2e17d43fae709b40d357d3416508604af578001",
-      "revision": 1,
-      "importance": 50,
-      "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
-      ],
-      "tags": []
-    },
-    {
-      "id": "322b7c88af36f3ac7934c0ba",
-      "title": "Multiple trusted publishing configurations for npm",
-      "url": "https://github.blog/changelog/2026-09-03-multiple-trusted-publishing-configurations-for-npm",
-      "sourceId": "github",
-      "sourceName": "GitHub Changelog",
-      "category": "ai-dev",
-      "publishedAt": "2026-09-03T20:34:34+00:00",
-      "detectedAt": "2026-09-09T03:28:56+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "78c9d365899ca205cfe10995a5b381ad9d5ce37c6326c60245ad52dd7c98aa2e",
-      "revision": 1,
-      "importance": 40,
-      "importanceReasons": [
-        "公式一次情報"
-      ],
-      "tags": []
-    },
-    {
-      "id": "306fd67e2ac59a7669c508a2",
-      "title": "New customer portal help.github.com",
-      "url": "https://github.blog/changelog/2026-09-08-new-customer-portal-help-github-com",
-      "sourceId": "github",
-      "sourceName": "GitHub Changelog",
-      "category": "ai-dev",
-      "publishedAt": "2026-09-08T18:00:10+00:00",
-      "detectedAt": "2026-09-09T03:28:56+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "bc9a1fdfd22bc893e6c5c8e30762fda61fac8127796507b189c52b968b54abe3",
-      "revision": 1,
-      "importance": 50,
-      "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
-      ],
-      "tags": []
-    },
-    {
-      "id": "0ae7999661e848f084ecbd1e",
-      "title": "GitHub Copilot weekly releases — August 31",
-      "url": "https://github.blog/changelog/2026-09-04-github-copilot-weekly-releases-august-31",
-      "sourceId": "github",
-      "sourceName": "GitHub Changelog",
-      "category": "ai-dev",
-      "publishedAt": "2026-09-04T21:05:01+00:00",
-      "detectedAt": "2026-09-09T03:28:56+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "05ea867dc6184ee9aff9239f6372903fe208372e7621730865a5b11e48b011b0",
-      "revision": 1,
-      "importance": 55,
-      "importanceReasons": [
-        "公式一次情報",
-        "release"
-      ],
-      "tags": [
-        "更新"
-      ]
-    },
-    {
       "id": "cb21266417edd1d963a6a120",
       "title": "[メンテナンス] オンラインストア／モグステーション メンテナンス作業のお知らせ(9/10)",
       "url": "https://jp.finalfantasyxiv.com/lodestone/news/detail/9b71933d5270aeb12e3a3262fbc479e936806b33",
@@ -487,10 +263,9 @@
       "summary": null,
       "contentHash": "9ab0b66e7f1717d8864e5dcf3dabd4946d9ba49d9621a3018bc18d904900095c",
       "revision": 2,
-      "importance": 75,
+      "importance": 65,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "メンテナンス"
       ],
       "tags": [
@@ -532,7 +307,7 @@
       "sourceId": "ff14",
       "sourceName": "FFXIV Lodestone",
       "category": "game",
-      "publishedAt": "2026-09-08T09:50:00+00:00",
+      "publishedAt": "2026-09-09T03:35:00+00:00",
       "detectedAt": "2026-09-09T03:22:00+00:00",
       "updatedAt": "2026-09-09T03:26:17+00:00",
       "sourceUpdatedAt": null,
@@ -680,72 +455,6 @@
       ]
     },
     {
-      "id": "fe23f369e01db08d4a047717",
-      "title": "Expanding OpenAI’s presence in Brazil",
-      "url": "https://openai.com/index/expanding-our-presence-in-brazil",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "category": "ai-dev",
-      "publishedAt": "2026-08-27T03:00:00+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "8eda214a1ee8c571ef964bfbf86c8af40ff0d8912bd69cd6d2e38d640e0a4f59",
-      "revision": 1,
-      "importance": 40,
-      "importanceReasons": [
-        "公式一次情報"
-      ],
-      "tags": []
-    },
-    {
-      "id": "fc40ddafdd41e0cc6b8e9f20",
-      "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
-      "url": "https://openai.com/index/daybreak-for-frontline-defenders",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "category": "ai-dev",
-      "publishedAt": "2026-09-03T13:15:00+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "45da7c1554a8231025b40b88463bdb2535917e516fa901537e3115e9fd6f6b6b",
-      "revision": 1,
-      "importance": 40,
-      "importanceReasons": [
-        "公式一次情報"
-      ],
-      "tags": []
-    },
-    {
-      "id": "fa2791fbc9af008fbec5e3ce",
-      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "category": "ai-dev",
-      "publishedAt": "2026-08-26T10:00:00+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "962d31b9db25f3d46c70f4a65452aef0c4370bbd25e9ab6882e2f4054e964afc",
-      "revision": 1,
-      "importance": 40,
-      "importanceReasons": [
-        "公式一次情報"
-      ],
-      "tags": []
-    },
-    {
       "id": "f36e5271bbc78c8eec653534",
       "title": "Hugging Face製Transformersにおけるユーザー同意確認前のリモートコード不正キャッシュの脆弱性",
       "url": "https://jvn.jp/vu/JVNVU97909245/",
@@ -765,54 +474,6 @@
       "importanceReasons": [
         "公式一次情報",
         "脆弱性"
-      ],
-      "tags": [
-        "セキュリティ"
-      ]
-    },
-    {
-      "id": "f2694bfa96c49e91da594bc0",
-      "title": "Path to Astra: critical capabilities and frontier safeguards",
-      "url": "https://openai.com/index/path-to-astra",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "category": "ai-dev",
-      "publishedAt": "2026-09-01T13:00:00+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "07092f3f07a3d89dd51849ba6ea074fcdf6dd85ed1fcdff17bdc8aed6b7fcd25",
-      "revision": 1,
-      "importance": 70,
-      "importanceReasons": [
-        "公式一次情報",
-        "critical"
-      ],
-      "tags": []
-    },
-    {
-      "id": "f0aa91974e0ad6ca58685787",
-      "title": "Strengthening democratic oversight in national security",
-      "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "category": "ai-dev",
-      "publishedAt": "2026-08-18T19:00:00+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "4fa07ec0e3b371b552e33cb85daa1f1fb1270336abcc63640df919cbd542337d",
-      "revision": 1,
-      "importance": 60,
-      "importanceReasons": [
-        "公式一次情報",
-        "security"
       ],
       "tags": [
         "セキュリティ"
@@ -855,28 +516,6 @@
       "kind": "article",
       "summary": null,
       "contentHash": "eddbd9756603955188f1c047699b1e8ac7cb5eecfce653100aac6cc9958ef6a0",
-      "revision": 1,
-      "importance": 40,
-      "importanceReasons": [
-        "公式一次情報"
-      ],
-      "tags": []
-    },
-    {
-      "id": "e47c3933a6999cc1de488be6",
-      "title": "New Elden Ring Mini Replicas Arrive: Malenia, Messmer & Wylder",
-      "url": "https://steamcommunity.com/games/1245620/announcements/detail/680760490643685550",
-      "sourceId": "elden-ring",
-      "sourceName": "ELDEN RING",
-      "category": "game",
-      "publishedAt": "2026-09-07T07:25:52+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "3ef2a9f52703922af73d9c0c339ddaca437bf831ce2acd40e82e35f082529361",
       "revision": 1,
       "importance": 40,
       "importanceReasons": [
@@ -932,117 +571,6 @@
       "tags": []
     },
     {
-      "id": "e0f75446731d598ce3aa6549",
-      "title": "An Alien Mind",
-      "url": "https://openai.com/index/an-alien-mind",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "category": "ai-dev",
-      "publishedAt": "2026-09-06T09:00:00+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "19a1a857fc62b4fcd0fcce3a2e352588a28b3b4c18e09b47ef78f10001192909",
-      "revision": 1,
-      "importance": 40,
-      "importanceReasons": [
-        "公式一次情報"
-      ],
-      "tags": []
-    },
-    {
-      "id": "e063daae6225e15695395681",
-      "title": "From assistance to execution: How enterprises put AI to work",
-      "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "category": "ai-dev",
-      "publishedAt": "2026-08-12T06:00:00+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "ea09bd4734111f0927619e21b2f413b5fa6b014feb03217e622ba744ee0c834e",
-      "revision": 1,
-      "importance": 40,
-      "importanceReasons": [
-        "公式一次情報"
-      ],
-      "tags": []
-    },
-    {
-      "id": "df8f12302a5b421ac18657dd",
-      "title": "Offering Zero Data Retention for frontier models",
-      "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "category": "ai-dev",
-      "publishedAt": "2026-08-19T19:00:00+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "ad00beaab68652bd9aa9ea153d2f792f434a55f26e8c965a43a168031fca629d",
-      "revision": 1,
-      "importance": 40,
-      "importanceReasons": [
-        "公式一次情報"
-      ],
-      "tags": []
-    },
-    {
-      "id": "de7baa3cf0ba60394c96f3de",
-      "title": "AMC Theaters Is Broadcasting the 2026 Rocket League World Championship Finals at Select Cinemas Across the US",
-      "url": "https://store.steampowered.com/news/group/9869/view/687516524528795657",
-      "sourceId": "steam",
-      "sourceName": "Steam News",
-      "category": "game",
-      "publishedAt": "2026-09-09T00:18:39+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "9be272f451b7b3f2b5fd45eaffbeef064ed3403d4633d80ca16430f30b186826",
-      "revision": 1,
-      "importance": 50,
-      "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
-      ],
-      "tags": []
-    },
-    {
-      "id": "da0278257b5b407b26f982ee",
-      "title": "「黄金秘話」第5話公開！",
-      "url": "https://jp.finalfantasyxiv.com/lodestone/topics/detail/ef09bdd8d5026d25eeabd2ebc2cbca5bcc38544a",
-      "sourceId": "ff14",
-      "sourceName": "FFXIV Lodestone",
-      "category": "game",
-      "publishedAt": null,
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "62b1b4f02c5e66a01b6e37c8f757b101dea7a594b91cbc23dbea880ae4b9b10d",
-      "revision": 1,
-      "importance": 40,
-      "importanceReasons": [
-        "公式一次情報"
-      ],
-      "tags": []
-    },
-    {
       "id": "ceff15cdf9f1e36737948cc8",
       "title": "東京ゲームショウ2026 出展情報&会場グッズ販売情報！",
       "url": "https://jp.finalfantasyxiv.com/lodestone/topics/detail/ae0caabcfeb32c5f503100419189d7de93f70a78",
@@ -1087,50 +615,6 @@
       "tags": []
     },
     {
-      "id": "cb1db0d5c74b6e9eeb890e2e",
-      "title": "Supporting Thailand’s next generation of AI startups",
-      "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "category": "ai-dev",
-      "publishedAt": "2026-08-28T02:00:00+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "bf0c5ac97ac158909d84b0cfafd902c720bc0f74ddc3b6cc549ddc16aa19d07a",
-      "revision": 1,
-      "importance": 40,
-      "importanceReasons": [
-        "公式一次情報"
-      ],
-      "tags": []
-    },
-    {
-      "id": "c3b0ed374d41680783fa20fc",
-      "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
-      "url": "https://openai.com/index/chatgpt-for-teens",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "category": "ai-dev",
-      "publishedAt": "2026-08-18T11:00:00+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "1fc3f00a2bddd4b4cd01bcb5b9cfcde7340f41226f849afbf7f61b4679be4d0e",
-      "revision": 1,
-      "importance": 40,
-      "importanceReasons": [
-        "公式一次情報"
-      ],
-      "tags": []
-    },
-    {
       "id": "c2a468223f3b79152633dff3",
       "title": "Apple、EU域内でのアプリに対する変更を発表",
       "url": "https://www.apple.com/jp/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/",
@@ -1167,50 +651,6 @@
       "kind": "article",
       "summary": null,
       "contentHash": "41d0be22f8192aa264acd87220365ebb525fcdbeb9dd623d7867ba27a107b1c9",
-      "revision": 1,
-      "importance": 40,
-      "importanceReasons": [
-        "公式一次情報"
-      ],
-      "tags": []
-    },
-    {
-      "id": "c0986f6628d189a1ac370992",
-      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
-      "url": "https://openai.com/index/previewing-ultrafast",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "category": "ai-dev",
-      "publishedAt": "2026-08-13T10:00:00+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "8b9ba3c02bf8d358fd3c48693454eee071357bbcd02356a80e643a0edfac0c55",
-      "revision": 1,
-      "importance": 40,
-      "importanceReasons": [
-        "公式一次情報"
-      ],
-      "tags": []
-    },
-    {
-      "id": "c0364833b41073ca7c0ea92e",
-      "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-      "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "category": "ai-dev",
-      "publishedAt": "2026-09-01T12:00:00+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "69dd35251cb3ea8ad510142764b881b5f5179a9bc7ea01e88ccc4a8a39cd3090",
       "revision": 1,
       "importance": 40,
       "importanceReasons": [
@@ -1313,28 +753,6 @@
       "tags": []
     },
     {
-      "id": "baf07daff59f271b90795fd5",
-      "title": "How NVIDIA scales expertise with ChatGPT Work",
-      "url": "https://openai.com/index/nvidia/chatgpt-work",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "category": "ai-dev",
-      "publishedAt": "2026-08-18T00:00:00+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "c815a9ad64fef82cb2e6b69e35e99f80b3f83c09540da84cdbf97b2f7b3ebd11",
-      "revision": 1,
-      "importance": 40,
-      "importanceReasons": [
-        "公式一次情報"
-      ],
-      "tags": []
-    },
-    {
       "id": "b9da15ae554302418c6ba81b",
       "title": "Skullcandy製ワイヤレスイヤホン「Dime 3」における不適切な認証の脆弱性",
       "url": "https://jvn.jp/vu/JVNVU91877671/",
@@ -1361,53 +779,6 @@
       ]
     },
     {
-      "id": "b9406ae170bd91336ab3bb25",
-      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
-      "url": "https://openai.com/index/jalapeno-first-results",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "category": "ai-dev",
-      "publishedAt": "2026-08-25T07:00:00+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "623e31cf515019a81f6711710867a40de8868c04ec2b788fdd7075279a0dfaeb",
-      "revision": 1,
-      "importance": 40,
-      "importanceReasons": [
-        "公式一次情報"
-      ],
-      "tags": []
-    },
-    {
-      "id": "b7c9f8eee20a579a13b020b9",
-      "title": "Patch Notes Version 1.17",
-      "url": "https://steamcommunity.com/games/1245620/announcements/detail/667248424192575312",
-      "sourceId": "elden-ring",
-      "sourceName": "ELDEN RING",
-      "category": "game",
-      "publishedAt": "2026-08-27T14:00:22+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "608794ba5ddf43698403a4d8276738cff83d2b6c17fa261c5a3e40881898f886",
-      "revision": 1,
-      "importance": 55,
-      "importanceReasons": [
-        "公式一次情報",
-        "patch"
-      ],
-      "tags": [
-        "更新"
-      ]
-    },
-    {
       "id": "b667b1d042f62f089b674b75",
       "title": "リコー製Web Image Monitorを実装している複数のレーザープリンタおよび複合機（MFP）における反射型クロスサイトスクリプティングの脆弱性",
       "url": "https://jvn.jp/jp/JVN48718197/",
@@ -1431,51 +802,6 @@
       "tags": [
         "セキュリティ"
       ]
-    },
-    {
-      "id": "b5f6c9cc565e9d75f2eb7eeb",
-      "title": "Star Trek Officially Announces New Spock Actor For 60th Anniversary",
-      "url": "https://store.steampowered.com/news/group/38666666/view/695397823941705746",
-      "sourceId": "steam",
-      "sourceName": "Steam News",
-      "category": "game",
-      "publishedAt": "2026-09-09T03:08:47+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "6c52b20fe3b1e29747284d9b85346b7686aafa23c2390b8965020a36ac2cec86",
-      "revision": 1,
-      "importance": 50,
-      "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
-      ],
-      "tags": []
-    },
-    {
-      "id": "b42ac281ecaf56c08abb6956",
-      "title": "Our decision on Cursor following its acquisition by SpaceX",
-      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "category": "ai-dev",
-      "publishedAt": "2026-08-28T06:00:00+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "1faa1636493685361ad7b621fa34682f5262d2abdcd053e7c5404166779fc5c5",
-      "revision": 1,
-      "importance": 40,
-      "importanceReasons": [
-        "公式一次情報"
-      ],
-      "tags": []
     },
     {
       "id": "b3af8c0f2993068e36cab3d4",
@@ -1524,50 +850,6 @@
       "tags": [
         "セキュリティ"
       ]
-    },
-    {
-      "id": "b19ec562c455e753267b0e04",
-      "title": "Testing ads in ChatGPT",
-      "url": "https://openai.com/index/testing-ads-in-chatgpt",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "category": "ai-dev",
-      "publishedAt": "2026-08-11T10:00:00+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "fff2c79dcdfc6e0d15b80a4e117fb86ff4a7628530945d57cd3c2ef6dc2dbce7",
-      "revision": 1,
-      "importance": 40,
-      "importanceReasons": [
-        "公式一次情報"
-      ],
-      "tags": []
-    },
-    {
-      "id": "b0cbef382238cdd5b88df7d9",
-      "title": "How AI-native companies turn workflows into operating capability",
-      "url": "https://openai.com/index/ai-native-company-workflows",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "category": "ai-dev",
-      "publishedAt": "2026-09-01T17:00:00+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "886b78a179cbdb0bcbe9ce65e58ed6f773c52c177500df45aa4faca00b757311",
-      "revision": 1,
-      "importance": 40,
-      "importanceReasons": [
-        "公式一次情報"
-      ],
-      "tags": []
     },
     {
       "id": "b0501a8bb1f957e556f8b1ed",
@@ -1628,72 +910,6 @@
       "kind": "article",
       "summary": null,
       "contentHash": "3893871f727e08860b4936ee23af75b839a12500d96989e61972ce5b397b6095",
-      "revision": 1,
-      "importance": 40,
-      "importanceReasons": [
-        "公式一次情報"
-      ],
-      "tags": []
-    },
-    {
-      "id": "adb90435a78267f73597feb3",
-      "title": "ELDEN RING - Community Quests",
-      "url": "https://steamcommunity.com/games/1245620/announcements/detail/680760490643685470",
-      "sourceId": "elden-ring",
-      "sourceName": "ELDEN RING",
-      "category": "game",
-      "publishedAt": "2026-09-02T14:10:31+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "41d474f1a483d54ee9730ec61a0524e32f480d3bdfe46a90df8111c2cc6c31be",
-      "revision": 1,
-      "importance": 40,
-      "importanceReasons": [
-        "公式一次情報"
-      ],
-      "tags": []
-    },
-    {
-      "id": "ad89fb510e3c78c26282cfd4",
-      "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
-      "url": "https://openai.com/index/stampli",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "category": "ai-dev",
-      "publishedAt": "2026-08-20T00:00:00+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "9a560caa3995939c0908b7e954bea1c1b8fc293dc1aa7d038db03269ce04556f",
-      "revision": 1,
-      "importance": 40,
-      "importanceReasons": [
-        "公式一次情報"
-      ],
-      "tags": []
-    },
-    {
-      "id": "abd52c9f1dde403ea312fe1d",
-      "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
-      "url": "https://openai.com/index/gpt-5-6-in-kiro",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "category": "ai-dev",
-      "publishedAt": "2026-08-24T12:00:00+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "b428199cd140a9f1636a6054b2dc5c7ff727da8f84bf354ab8475ee257778345",
       "revision": 1,
       "importance": 40,
       "importanceReasons": [
@@ -1768,78 +984,6 @@
       "tags": []
     },
     {
-      "id": "a1b72811dd254b5043b516f3",
-      "title": "1Password increases engineering productivity 21% with Codex",
-      "url": "https://openai.com/index/1password",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "category": "ai-dev",
-      "publishedAt": "2026-09-08T00:00:00+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "b0f7f1d39671ee168bf4c02791b4a6fdfc471f25b85fe8c11b0d7609c39db710",
-      "revision": 1,
-      "importance": 50,
-      "importanceReasons": [
-        "公式一次情報",
-        "codex"
-      ],
-      "tags": []
-    },
-    {
-      "id": "a0509a434a386605e91edf83",
-      "title": "Tianji: Shadow of the Ancients releases for PC Steam, PS5, and Switch 1&2 worldwide in 2027",
-      "url": "https://store.steampowered.com/news/group/6070552/view/701027323413004295",
-      "sourceId": "steam",
-      "sourceName": "Steam News",
-      "category": "game",
-      "publishedAt": "2026-09-09T03:18:43+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "730380bbb4d827836f8d3a14de0966e30553b0e34acc4316d58bcfb5a4c0a3e9",
-      "revision": 1,
-      "importance": 65,
-      "importanceReasons": [
-        "公式一次情報",
-        "24時間以内",
-        "release"
-      ],
-      "tags": [
-        "更新"
-      ]
-    },
-    {
-      "id": "a00fc889a2dd293b42049381",
-      "title": "The Work Now Within Reach",
-      "url": "https://openai.com/index/the-work-now-within-reach",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "category": "ai-dev",
-      "publishedAt": "2026-09-08T13:00:00+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "d067d9ef6fb95060c36137a8c7b1412b5cfa3c836b6ee448e166bdd873068d22",
-      "revision": 1,
-      "importance": 50,
-      "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
-      ],
-      "tags": []
-    },
-    {
       "id": "9eb716911e47e799af27e2bb",
       "title": "インターネットで大人気の猫が「プシーンのおうち」でApple Arcadeに登場",
       "url": "https://www.apple.com/jp/newsroom/2026/09/the-internets-favorite-cat-comes-to-apple-arcade-with-pusheens-place/",
@@ -1888,51 +1032,6 @@
       ]
     },
     {
-      "id": "9e61fed8ef3759fbd23c5ff2",
-      "title": "松本大臣記者会見（令和8年9月8日）動画を掲載しました",
-      "url": "https://www.digital.go.jp/speech/minister-260908-01",
-      "sourceId": "digital-agency",
-      "sourceName": "デジタル庁",
-      "category": "work",
-      "publishedAt": "2026-09-08T02:56:25+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "7b5cd3801c42520345390fa952c807771d9c83f7434d084859fe5d1ebe6464d1",
-      "revision": 1,
-      "importance": 40,
-      "importanceReasons": [
-        "公式一次情報"
-      ],
-      "tags": []
-    },
-    {
-      "id": "9c25f4ae7a186d68926fabf7",
-      "title": "Pacing model development in an era of cyber-critical capabilities",
-      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "category": "ai-dev",
-      "publishedAt": "2026-08-18T11:00:00+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "06ee10d1b204f9e53931ddb1e3e67d8a6386d57eaf7e5f3ec0519ffa753a913a",
-      "revision": 1,
-      "importance": 70,
-      "importanceReasons": [
-        "公式一次情報",
-        "critical"
-      ],
-      "tags": []
-    },
-    {
       "id": "9bc73bd78689458caf3ccaa4",
       "title": "「新生祭」8月27日（木）より開催！",
       "url": "https://jp.finalfantasyxiv.com/lodestone/topics/detail/63f326f825b5c6e3bb8071d2e6d5903ca9a5e078",
@@ -1955,28 +1054,6 @@
       "tags": [
         "イベント"
       ]
-    },
-    {
-      "id": "9bafa93fe08b847d5d921409",
-      "title": "How RingCentral builds AI-native work from engineering to ops",
-      "url": "https://openai.com/index/ringcentral",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "category": "ai-dev",
-      "publishedAt": "2026-08-12T00:00:00+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "53ab55ba2589c48492fdc585efd75f8f32824a1fcb3731213733ea389705eefc",
-      "revision": 1,
-      "importance": 40,
-      "importanceReasons": [
-        "公式一次情報"
-      ],
-      "tags": []
     },
     {
       "id": "97dd22e71d9f14be348bb99e",
@@ -2027,28 +1104,6 @@
       "tags": []
     },
     {
-      "id": "95f74aeac90a93bb12cebd08",
-      "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
-      "url": "https://openai.com/index/model-ml",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "category": "ai-dev",
-      "publishedAt": "2026-08-10T12:00:00+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "3327cb78963dd2595fa7b2d9f6f568a7d9da1679134c4e3379acbaf0a950b272",
-      "revision": 1,
-      "importance": 40,
-      "importanceReasons": [
-        "公式一次情報"
-      ],
-      "tags": []
-    },
-    {
       "id": "92afcd602f389322c027f16e",
       "title": "注意喚起: 2026年8月マイクロソフトセキュリティ更新プログラムに関する注意喚起 (公開)",
       "url": "https://www.jpcert.or.jp/at/2026/at260022.html",
@@ -2072,28 +1127,6 @@
       "tags": [
         "セキュリティ"
       ]
-    },
-    {
-      "id": "9281d6906e8350b6fb5c6bd1",
-      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-      "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "category": "ai-dev",
-      "publishedAt": "2026-09-03T12:00:00+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "1a37e2849ee16661022fa03fa750a34df79aaf94ed9a4dd229d47284433854d2",
-      "revision": 1,
-      "importance": 40,
-      "importanceReasons": [
-        "公式一次情報"
-      ],
-      "tags": []
     },
     {
       "id": "9278633e93431533dbaff3ed",
@@ -2195,29 +1228,6 @@
       ]
     },
     {
-      "id": "8e9e78a784f52245b0da9645",
-      "title": "PlayStation console mastermind Mark Cerny is \"nearing the end\" of his career and putting millions into helping the next generation of game devs",
-      "url": "https://store.steampowered.com/news/group/38509069/view/688642424435638283",
-      "sourceId": "steam",
-      "sourceName": "Steam News",
-      "category": "game",
-      "publishedAt": "2026-09-09T00:08:41+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "8550254b21b4d43011a9f4de8eaaabdc39f7aa222e51049ba279ca26a0fef7b6",
-      "revision": 1,
-      "importance": 50,
-      "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
-      ],
-      "tags": []
-    },
-    {
       "id": "8e7a3b4937b896cb3cbc2263",
       "title": "7.56パッチノート公開！",
       "url": "https://jp.finalfantasyxiv.com/lodestone/topics/detail/67caf3b6b5e0ee7569afb5ec8bdcae5113f9df49",
@@ -2255,98 +1265,6 @@
       "kind": "article",
       "summary": null,
       "contentHash": "31efe44adb10fb54559c4603a76ae8590efc0da5053c27f1b91c7f866b6ada9d",
-      "revision": 1,
-      "importance": 40,
-      "importanceReasons": [
-        "公式一次情報"
-      ],
-      "tags": []
-    },
-    {
-      "id": "8a7cdd78fd48385994a8dbca",
-      "title": "A milestone in expanding access to AI",
-      "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "category": "ai-dev",
-      "publishedAt": "2026-08-31T04:00:00+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "68c4c4fd3645ab3490a5642d24273eb49ce3b7e32ec297a8d3225b3c03fd6268",
-      "revision": 1,
-      "importance": 40,
-      "importanceReasons": [
-        "公式一次情報"
-      ],
-      "tags": []
-    },
-    {
-      "id": "85ad37b4c7329cf0cb9a217e",
-      "title": "v.271- MapleStory x Frieren: Beyond Journey's End Patch Notes",
-      "url": "https://store.steampowered.com/news/app/216150/view/713412222387224577",
-      "sourceId": "steam",
-      "sourceName": "Steam News",
-      "category": "game",
-      "publishedAt": "2026-09-08T23:37:17+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "35dbeab3beec3e27b8e5ed70effd239e42519be716df41cb5278374024468ff7",
-      "revision": 1,
-      "importance": 65,
-      "importanceReasons": [
-        "公式一次情報",
-        "24時間以内",
-        "patch"
-      ],
-      "tags": [
-        "更新"
-      ]
-    },
-    {
-      "id": "8393c843a171d72369b2dfab",
-      "title": "ChatGPT Ads expands across Europe",
-      "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "category": "ai-dev",
-      "publishedAt": "2026-08-18T22:00:00+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "65e0b88dc98c0d765ee203a5bacff1a3a801ac380700ae02f732465f24702315",
-      "revision": 1,
-      "importance": 40,
-      "importanceReasons": [
-        "公式一次情報"
-      ],
-      "tags": []
-    },
-    {
-      "id": "832a12c8f33a104e2b49b2d1",
-      "title": "Learning never stops: How AI makes learning continuous",
-      "url": "https://openai.com/index/learning-never-stops",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "category": "ai-dev",
-      "publishedAt": "2026-08-26T10:00:00+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "b008d306ed0997c68122e7438964b6bbd3b66f3ae04271ba3f2666821073143c",
       "revision": 1,
       "importance": 40,
       "importanceReasons": [
@@ -2398,29 +1316,6 @@
       "importance": 40,
       "importanceReasons": [
         "公式一次情報"
-      ],
-      "tags": []
-    },
-    {
-      "id": "814d7f6c16ce32636d4b3dc0",
-      "title": "Corporations want to kill physical media because it suits them, but Big Box PC game packaging just got a second chance",
-      "url": "https://store.steampowered.com/news/group/1850/view/715664022201958410",
-      "sourceId": "steam",
-      "sourceName": "Steam News",
-      "category": "game",
-      "publishedAt": "2026-09-08T23:58:46+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "7f7efb8e590dab297b5c82f08978d26d6b6d6fe1ac1a7b80399bbc51c29e2508",
-      "revision": 1,
-      "importance": 50,
-      "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
       ],
       "tags": []
     },
@@ -2522,52 +1417,6 @@
       ]
     },
     {
-      "id": "7948c39493cbd65ea48c44d8",
-      "title": "Funding grants for new research into AI and teen development",
-      "url": "https://openai.com/index/teen-development-research-grants",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "category": "ai-dev",
-      "publishedAt": "2026-09-08T09:00:00+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "63968b7a7167398c2a5a99f7776f5ae308d4317f3cfa317465b05324ea9ed326",
-      "revision": 1,
-      "importance": 50,
-      "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
-      ],
-      "tags": []
-    },
-    {
-      "id": "76c95cd852987031f9d74cac",
-      "title": "How loveholidays is making everyone a builder with Codex",
-      "url": "https://openai.com/index/loveholidays",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "category": "ai-dev",
-      "publishedAt": "2026-08-26T00:00:00+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "1b5b70de6ac633df4a7517dc373c45d8afb4ccbc2901b7035d12196c52656e31",
-      "revision": 1,
-      "importance": 50,
-      "importanceReasons": [
-        "公式一次情報",
-        "codex"
-      ],
-      "tags": []
-    },
-    {
       "id": "7650eca196d312d19965a06c",
       "title": "令和8年熊本地震に関する対応状況について（9月4日）",
       "url": "https://www.digital.go.jp/news/14d4b2c8-4a92-44b6-a472-b2df25570de1",
@@ -2582,28 +1431,6 @@
       "kind": "article",
       "summary": null,
       "contentHash": "d4aaebd40463f3e1d2fba9485d65cb021ba33e47b363d6e8cb737686fd365904",
-      "revision": 1,
-      "importance": 40,
-      "importanceReasons": [
-        "公式一次情報"
-      ],
-      "tags": []
-    },
-    {
-      "id": "76486483d7f6b4cf284bf483",
-      "title": "「gamescom 2026」出展情報！",
-      "url": "https://jp.finalfantasyxiv.com/lodestone/topics/detail/9c9316c0a6ed5c3693bee7181a3d352e41e0ad09",
-      "sourceId": "ff14",
-      "sourceName": "FFXIV Lodestone",
-      "category": "game",
-      "publishedAt": null,
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "900e2e0230046042abade7b209d12563e11b931025843e3f725391fd5e3a33be",
       "revision": 1,
       "importance": 40,
       "importanceReasons": [
@@ -2657,72 +1484,6 @@
       "tags": [
         "セキュリティ"
       ]
-    },
-    {
-      "id": "6f8368ac763b73731923fdf2",
-      "title": "The builder’s guide to GPT‑5.6",
-      "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "category": "ai-dev",
-      "publishedAt": "2026-08-13T11:00:00+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "b4af9d5e69827535745428dcb6ff9029d1ecdf7f169be900d3f312bb76ba485b",
-      "revision": 1,
-      "importance": 40,
-      "importanceReasons": [
-        "公式一次情報"
-      ],
-      "tags": []
-    },
-    {
-      "id": "6eaab463a55def8752bc46f2",
-      "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
-      "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "category": "ai-dev",
-      "publishedAt": "2026-08-13T09:00:00+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "486cc65881a0b1e424c2a0fb033ecb76dc2ca4717c7efe259e21f6ad841e1809",
-      "revision": 1,
-      "importance": 40,
-      "importanceReasons": [
-        "公式一次情報"
-      ],
-      "tags": []
-    },
-    {
-      "id": "6d4ec902c728a02128d0e9d0",
-      "title": "Partnering with CodeAI to prepare the first AI generation",
-      "url": "https://openai.com/index/partnering-with-codeai",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "category": "ai-dev",
-      "publishedAt": "2026-08-18T11:00:00+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "0b7276468532a513e42544998ddd1ba23f69dfebd960d36063e6ac1bacede34a",
-      "revision": 1,
-      "importance": 40,
-      "importanceReasons": [
-        "公式一次情報"
-      ],
-      "tags": []
     },
     {
       "id": "6bca1cf508695fd2c28d5641",
@@ -2824,28 +1585,6 @@
       ]
     },
     {
-      "id": "68bd2e32c09542cb22fc0e9c",
-      "title": "Introducing Intelligence Age",
-      "url": "https://openai.com/index/introducing-intelligence-age",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "category": "ai-dev",
-      "publishedAt": "2026-08-20T07:00:00+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "bd2d54e993f40ea0275a98d865b283c69766eb377f53d5c6abacc514b1fcdc02",
-      "revision": 1,
-      "importance": 40,
-      "importanceReasons": [
-        "公式一次情報"
-      ],
-      "tags": []
-    },
-    {
       "id": "64a44ea9bc6eac486e0136b1",
       "title": "注意喚起: Adobe AcrobatおよびReaderの脆弱性（APSB26-141）に関する注意喚起 (公開)",
       "url": "https://www.jpcert.or.jp/at/2026/at260026.html",
@@ -2891,96 +1630,6 @@
       "importance": 40,
       "importanceReasons": [
         "公式一次情報"
-      ],
-      "tags": []
-    },
-    {
-      "id": "62003111f3b592c56acd9673",
-      "title": "Disrupting a new covert influence campaign from Russia",
-      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "category": "ai-dev",
-      "publishedAt": "2026-08-25T00:00:00+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "0b4741684bd545693fc25c445ec093ea57770d79002478c78230b6d4d8391525",
-      "revision": 1,
-      "importance": 40,
-      "importanceReasons": [
-        "公式一次情報"
-      ],
-      "tags": []
-    },
-    {
-      "id": "6023038a8912cd08a228ab14",
-      "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
-      "url": "https://openai.com/index/asana",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "category": "ai-dev",
-      "publishedAt": "2026-08-18T07:00:00+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "54f23a2f8a17973e86cc00fe1b871ef4466df00666ec993c2505e5a9154cd2a0",
-      "revision": 1,
-      "importance": 50,
-      "importanceReasons": [
-        "公式一次情報",
-        "codex"
-      ],
-      "tags": []
-    },
-    {
-      "id": "5d3aff0aba5d0b8a3f2e93df",
-      "title": "Daybreak models are now available on AWS",
-      "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "category": "ai-dev",
-      "publishedAt": "2026-08-11T10:00:00+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "f204168a7588bad8a1d553aa6fdddcfdd64a80c63d8ee887dc8e7fc53c18f689",
-      "revision": 1,
-      "importance": 40,
-      "importanceReasons": [
-        "公式一次情報"
-      ],
-      "tags": []
-    },
-    {
-      "id": "5c8d75ef9c12c05961137bb4",
-      "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
-      "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "category": "ai-dev",
-      "publishedAt": "2026-08-27T09:00:00+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "c648da2acaf2a52f4c9edee2d38b484e1986d045d194f8a9f5df59da6ad33ee1",
-      "revision": 1,
-      "importance": 70,
-      "importanceReasons": [
-        "公式一次情報",
-        "critical"
       ],
       "tags": []
     },
@@ -3047,78 +1696,10 @@
       "summary": null,
       "contentHash": "21aeb3c7637a9a79f33aa5bac6777d413168be2a7ddeedfdb16e9266131c01b6",
       "revision": 1,
-      "importance": 90,
+      "importance": 80,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "障害"
-      ],
-      "tags": []
-    },
-    {
-      "id": "5367cc95a8fd98172eb15540",
-      "title": "What building an AI-native finance function taught me",
-      "url": "https://openai.com/index/building-an-ai-native-finance-function",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "category": "ai-dev",
-      "publishedAt": "2026-08-10T17:00:00+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "005621a876fd30871f272ee945f416b394307c9afaf731ee42f51aa3a91d8818",
-      "revision": 1,
-      "importance": 40,
-      "importanceReasons": [
-        "公式一次情報"
-      ],
-      "tags": []
-    },
-    {
-      "id": "51cfe3db04ed0bd3efb5e0e3",
-      "title": "The full stack behind abundant intelligence",
-      "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "category": "ai-dev",
-      "publishedAt": "2026-08-25T07:05:00+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "71e1a0491ff8bdba457089f4d18aaafddfef7e0a03191e9cd19a1405a44277b6",
-      "revision": 1,
-      "importance": 40,
-      "importanceReasons": [
-        "公式一次情報"
-      ],
-      "tags": []
-    },
-    {
-      "id": "503e9c2326e78f3e54698b50",
-      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
-      "url": "https://openai.com/index/codex-quantum-computing-experiments",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "category": "ai-dev",
-      "publishedAt": "2026-09-08T17:00:00+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "f1fcba6478a5f9319e5b9ca70cf5f5a75f0aab543da87787645c0672d5c8ec16",
-      "revision": 1,
-      "importance": 50,
-      "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
       ],
       "tags": []
     },
@@ -3149,50 +1730,6 @@
       ]
     },
     {
-      "id": "4a36ea7ba6bb268a569ba1bd",
-      "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
-      "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "category": "ai-dev",
-      "publishedAt": "2026-09-08T00:00:00+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "7e03125c2396f32748dae28a35edcec302c5777afa939cfd535b3e6e1ba60628",
-      "revision": 1,
-      "importance": 40,
-      "importanceReasons": [
-        "公式一次情報"
-      ],
-      "tags": []
-    },
-    {
-      "id": "4862f3d2c68fb1ad680a585c",
-      "title": "OpenAI supports California’s bill to advance youth AI safety",
-      "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "category": "ai-dev",
-      "publishedAt": "2026-08-31T07:00:00+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "b4ea3dbd161e693acdee9461a3ce539a6d2cb01afcf60e327014ecd0ef173a4b",
-      "revision": 1,
-      "importance": 40,
-      "importanceReasons": [
-        "公式一次情報"
-      ],
-      "tags": []
-    },
-    {
       "id": "4803f4549b369851065cd005",
       "title": "中途採用（行政人材） 業務説明会・イベントを掲載しました",
       "url": "https://www.digital.go.jp/recruitment/career-government-official/recruiting-session",
@@ -3208,10 +1745,9 @@
       "summary": null,
       "contentHash": "2d77c62df764ea9edfd827a98062cd09b39fdb393b2aa2f32ef8cca299d04667",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": [
         "イベント"
@@ -3243,117 +1779,6 @@
       ]
     },
     {
-      "id": "41627b9ee1de874f7b657c3a",
-      "title": "NC will showcase Astrae Oratio at Tokyo Game Show 2026",
-      "url": "https://store.steampowered.com/news/group/6070552/view/701027323413004291",
-      "sourceId": "steam",
-      "sourceName": "Steam News",
-      "category": "game",
-      "publishedAt": "2026-09-09T01:28:39+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "6e4aaa05fff14db056f599439a6d09d71c135575ffb54f18aff0be508eab891b",
-      "revision": 1,
-      "importance": 50,
-      "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
-      ],
-      "tags": []
-    },
-    {
-      "id": "3ff02964da6b7f4fea83906b",
-      "title": "New policy ideas for the Intelligence Age",
-      "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "category": "ai-dev",
-      "publishedAt": "2026-08-17T03:15:00+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "b64c422f50980d2786be9e1799da5e3cb84d2805815b5777219a57f561c338fb",
-      "revision": 1,
-      "importance": 40,
-      "importanceReasons": [
-        "公式一次情報"
-      ],
-      "tags": []
-    },
-    {
-      "id": "3d196224ab27a2df369cbcf0",
-      "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
-      "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "category": "ai-dev",
-      "publishedAt": "2026-08-10T14:00:00+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "f362d85068e457d8ef84dfb1fd19c1353d90331f94ba98e78fff7fd9c70c56b1",
-      "revision": 1,
-      "importance": 40,
-      "importanceReasons": [
-        "公式一次情報"
-      ],
-      "tags": []
-    },
-    {
-      "id": "3bda12e16fd31e0e48f8154e",
-      "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-      "url": "https://openai.com/index/atv-big-air-tour",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "category": "ai-dev",
-      "publishedAt": "2026-09-02T12:00:00+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "571805194fa9c8e9a9061177318f90f70650677573f80718613d8581c2d176c5",
-      "revision": 1,
-      "importance": 40,
-      "importanceReasons": [
-        "公式一次情報"
-      ],
-      "tags": []
-    },
-    {
-      "id": "39be316df51923f9e5496f49",
-      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月03日）",
-      "url": "https://jvn.jp/vu/JVNVU94249914/",
-      "sourceId": "jvn",
-      "sourceName": "JVN",
-      "category": "work",
-      "publishedAt": "2026-09-04T01:15:30+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": "2026-09-04T01:15:30+00:00",
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "086f4a38d113c6faf15e9ab0b4c5d559f748bd7d5ec2b96f293fbbf099a1337d",
-      "revision": 1,
-      "importance": 40,
-      "importanceReasons": [
-        "公式一次情報"
-      ],
-      "tags": []
-    },
-    {
       "id": "39a74555fff7f4c306f03fff",
       "title": "マイナンバーカードを用いた公的個人認証サービス（JPKI）導入事業者及び事例一覧を更新しました",
       "url": "https://www.digital.go.jp/policies/mynumber/private-business/jpki-introduction/mynumbercard-user-list",
@@ -3368,28 +1793,6 @@
       "kind": "article",
       "summary": null,
       "contentHash": "68b8e973c075d504adad56e18500063bb8842ea53f423fb3d66734893353e7d9",
-      "revision": 1,
-      "importance": 40,
-      "importanceReasons": [
-        "公式一次情報"
-      ],
-      "tags": []
-    },
-    {
-      "id": "39210f987919e80e66f6bbb1",
-      "title": "Safety overview: GPT-6 Astra",
-      "url": "https://openai.com/index/safety-overview-gpt-6-astra",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "category": "ai-dev",
-      "publishedAt": "2026-09-03T00:00:00+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "065687cbca19cd0f6edac00598a6945df267b629b17d3fc20be9424a76d6ad5e",
       "revision": 1,
       "importance": 40,
       "importanceReasons": [
@@ -3442,28 +1845,6 @@
       "tags": []
     },
     {
-      "id": "3784d7aba9718af9aa1923cc",
-      "title": "Research acceleration: The view inside OpenAI",
-      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "category": "ai-dev",
-      "publishedAt": "2026-09-06T08:00:00+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "67651b63baf98fdf24611947400683408082836353d8caa47921448fb6ce5a18",
-      "revision": 1,
-      "importance": 40,
-      "importanceReasons": [
-        "公式一次情報"
-      ],
-      "tags": []
-    },
-    {
       "id": "363f86ae1e9f82a4b28fdaa1",
       "title": "都道府県を中心とした地方自治体システムの共同調達に関するダッシュボードを更新しました",
       "url": "https://www.digital.go.jp/resources/govdashboard/prefecture_local_government_system_joint_prefecture",
@@ -3487,73 +1868,6 @@
       "tags": []
     },
     {
-      "id": "34e62ff4c7cf4defda5bd774",
-      "title": "The Hugging Face incident and the road ahead",
-      "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "category": "ai-dev",
-      "publishedAt": "2026-08-26T00:00:00+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "93b5a14f4bd09a2d444bae4e84514dc73c2babfdab6fb4ec776444ee8b1bb36d",
-      "revision": 1,
-      "importance": 40,
-      "importanceReasons": [
-        "公式一次情報"
-      ],
-      "tags": []
-    },
-    {
-      "id": "33eae878317d27dcc0386f35",
-      "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
-      "url": "https://openai.com/index/introducing-admin-plugin",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "category": "ai-dev",
-      "publishedAt": "2026-08-25T00:00:00+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "96ee47722418f549fdc88af2fe38cb4cd8629dc89621f1b0238497f1f460c5be",
-      "revision": 1,
-      "importance": 50,
-      "importanceReasons": [
-        "公式一次情報",
-        "codex"
-      ],
-      "tags": []
-    },
-    {
-      "id": "330fba64551db8b49d6a895e",
-      "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
-      "url": "https://openai.com/index/gilbert-tobin",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "category": "ai-dev",
-      "publishedAt": "2026-09-01T01:00:00+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "9439247e093b57c7748f290b6c458cea8e3b8256b6df5780725d0ad5c632bc9d",
-      "revision": 1,
-      "importance": 40,
-      "importanceReasons": [
-        "公式一次情報"
-      ],
-      "tags": []
-    },
-    {
       "id": "32a507f273b0a3d208a364df",
       "title": "Apple、パフォーマンスとAI演算の大幅な向上をもたらすM6とM5 Ultraを発表",
       "url": "https://www.apple.com/jp/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
@@ -3572,140 +1886,6 @@
       "importance": 40,
       "importanceReasons": [
         "公式一次情報"
-      ],
-      "tags": []
-    },
-    {
-      "id": "325e9dcd840a97e90ffb7c6d",
-      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "category": "ai-dev",
-      "publishedAt": "2026-09-03T12:00:00+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "3e0af9a96954b8d5dda017d26efffde9a4b5e6b4b7edbf4dcaf5d653e4a997c3",
-      "revision": 1,
-      "importance": 40,
-      "importanceReasons": [
-        "公式一次情報"
-      ],
-      "tags": []
-    },
-    {
-      "id": "2f00013902a29bc1e23dd248",
-      "title": "Replit expands access to software creation with GPT-5.6 Luna",
-      "url": "https://openai.com/index/replit",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "category": "ai-dev",
-      "publishedAt": "2026-08-19T07:00:00+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "a7c63abb3fcb61066304d3f5e43ff0c4626d3a3c40770e607b78f80a0023f59f",
-      "revision": 1,
-      "importance": 40,
-      "importanceReasons": [
-        "公式一次情報"
-      ],
-      "tags": []
-    },
-    {
-      "id": "2c827cba158d2f26e6e99088",
-      "title": "On the Navier–Stokes Millennium Prize Problem",
-      "url": "https://openai.com/index/navier-stokes-solution",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "category": "ai-dev",
-      "publishedAt": "2026-09-08T10:00:00+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "80c5a4ad8b4a3215f32cba616bac983467785632ddc708f40180d7eb53790729",
-      "revision": 1,
-      "importance": 50,
-      "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
-      ],
-      "tags": []
-    },
-    {
-      "id": "2b97c813005d9e2b5d16dda1",
-      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月01日）",
-      "url": "https://jvn.jp/vu/JVNVU90253159/",
-      "sourceId": "jvn",
-      "sourceName": "JVN",
-      "category": "work",
-      "publishedAt": "2026-09-02T00:00:00+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": "2026-09-02T00:00:00+00:00",
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "c170200b4dd95afe99d1158603ee801bc677c0b99be5a0f2fa03a754c852149d",
-      "revision": 1,
-      "importance": 40,
-      "importanceReasons": [
-        "公式一次情報"
-      ],
-      "tags": []
-    },
-    {
-      "id": "29b0e61ec6cd1ed38342bd3f",
-      "title": "Putting frontier cyber models in more trusted hands",
-      "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "category": "ai-dev",
-      "publishedAt": "2026-08-10T10:00:00+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "44b17711492da01f788785a713e5fd4a0e41f8dd404157c771adf699fc5f7543",
-      "revision": 1,
-      "importance": 40,
-      "importanceReasons": [
-        "公式一次情報"
-      ],
-      "tags": []
-    },
-    {
-      "id": "28312eaddeec1b2ae3c87b53",
-      "title": "The Blood Of Dawnwalker Developers Are Already Hiring For A Sequel",
-      "url": "https://store.steampowered.com/news/group/38458038/view/711160422578782212",
-      "sourceId": "steam",
-      "sourceName": "Steam News",
-      "category": "game",
-      "publishedAt": "2026-09-08T23:48:36+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "c347c1bf7e01a8028ef51bc370df979e2fe54731b4483bc02933a2b5e0e77738",
-      "revision": 1,
-      "importance": 50,
-      "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
       ],
       "tags": []
     },
@@ -3829,28 +2009,6 @@
       ]
     },
     {
-      "id": "22405ea1e27b33a112e59937",
-      "title": "OpenAI joins PORTS-Pike project",
-      "url": "https://openai.com/index/openai-joins-ports-pike-project",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "category": "ai-dev",
-      "publishedAt": "2026-08-17T05:00:00+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "362f9d8ab1fdf9823b4df70f7b2c48dad53ac9556c778cc2b5239e93156eab8f",
-      "revision": 1,
-      "importance": 40,
-      "importanceReasons": [
-        "公式一次情報"
-      ],
-      "tags": []
-    },
-    {
       "id": "222734d4ecec02194be32b77",
       "title": "2026年度 一般職（高卒者）官庁訪問の情報を掲載しました",
       "url": "https://www.digital.go.jp/recruitment/newgraduates/2026-governmentofficevisit-clericalposition-highschoolgraduate",
@@ -3873,52 +2031,6 @@
       "tags": []
     },
     {
-      "id": "1dcea8b0f8acab144d9449d9",
-      "title": "Introducing ChatGPT Images 2.5",
-      "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "category": "ai-dev",
-      "publishedAt": "2026-09-08T11:30:00+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "994dfade1d6301acfbb51bf4d02bfe6eefa3523c5382b00c505e131df25c0e3c",
-      "revision": 1,
-      "importance": 50,
-      "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
-      ],
-      "tags": []
-    },
-    {
-      "id": "16f28ff578d12f37da60ccdd",
-      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月08日）",
-      "url": "https://jvn.jp/vu/JVNVU93257103/",
-      "sourceId": "jvn",
-      "sourceName": "JVN",
-      "category": "work",
-      "publishedAt": "2026-09-09T01:00:30+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": "2026-09-09T01:00:30+00:00",
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "f8988496326bcf917cbdee341f50b4e9e32a9749eee3db37bfed5896df0f1153",
-      "revision": 1,
-      "importance": 50,
-      "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
-      ],
-      "tags": []
-    },
-    {
       "id": "16cdcdad4db684544575b22b",
       "title": "松本デジタル大臣はロバートソン次期駐日英国大使による表敬訪問を受けました",
       "url": "https://www.digital.go.jp/news/d02fb0ce-1321-4a58-b225-b3454896ab9e",
@@ -3934,10 +2046,9 @@
       "summary": null,
       "contentHash": "6749b98ee27371f7f224fc2894032747a3f9dd04e4b31ac73c195d4d3d49bb25",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -3986,51 +2097,6 @@
       "tags": []
     },
     {
-      "id": "1380f7766171a5a616fa9c57",
-      "title": "The Defender’s Window",
-      "url": "https://openai.com/index/the-defenders-window",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "category": "ai-dev",
-      "publishedAt": "2026-08-17T05:30:00+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "44d066aab3f0e7836386aab47d985f511ef94e46ddbd03af5d44501fe610728a",
-      "revision": 1,
-      "importance": 40,
-      "importanceReasons": [
-        "公式一次情報"
-      ],
-      "tags": []
-    },
-    {
-      "id": "10ae750a3599fc1877e4eff2",
-      "title": "0.9.6 Hotfix",
-      "url": "https://store.steampowered.com/news/app/3624140/view/716789922107752471",
-      "sourceId": "steam",
-      "sourceName": "Steam News",
-      "category": "game",
-      "publishedAt": "2026-09-08T23:14:05+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "44ad80e910e795c6eae4494f90b7b6704e471230c8d06b694ef5903ab0662cc3",
-      "revision": 1,
-      "importance": 50,
-      "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
-      ],
-      "tags": []
-    },
-    {
       "id": "0f520cf3c5954e1493bc8e46",
       "title": "一般競争入札：ガバメントクラウドへの移行加速に向けた調査研究業務（令和8年度）を掲載しました",
       "url": "https://www.digital.go.jp/procurement",
@@ -4069,55 +2135,9 @@
       "summary": null,
       "contentHash": "fb460885217ea88c9f83278b228f1a1910b76d7c77e07c5efe347d35dd0c8ef9",
       "revision": 1,
-      "importance": 50,
-      "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
-      ],
-      "tags": []
-    },
-    {
-      "id": "0b5a688ac44522d6851141a8",
-      "title": "Polimill builds Japan's next-generation public AI infrastructure",
-      "url": "https://openai.com/index/polimill",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "category": "ai-dev",
-      "publishedAt": "2026-08-31T07:00:00+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "d4660ed83a6a82245b9c91993465e46572b2777f46f87af466d8042953e3dec0",
-      "revision": 1,
       "importance": 40,
       "importanceReasons": [
         "公式一次情報"
-      ],
-      "tags": []
-    },
-    {
-      "id": "08cd9dd0e9bf5bc1d7299fae",
-      "title": "The Weekly Grind - Sept 8, 2026",
-      "url": "https://store.steampowered.com/news/app/3354750/view/686390624621953033",
-      "sourceId": "steam",
-      "sourceName": "Steam News",
-      "category": "game",
-      "publishedAt": "2026-09-09T02:04:45+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "81d162007af8c1677fbc03fff30a5c5df9ada971cea5ca3efbd91686f3466368",
-      "revision": 1,
-      "importance": 50,
-      "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
       ],
       "tags": []
     },
@@ -4146,28 +2166,6 @@
       ]
     },
     {
-      "id": "081601c279be28d3ef5aa58c",
-      "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
-      "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "category": "ai-dev",
-      "publishedAt": "2026-08-10T10:00:00+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "884544bbb0b6d21335a8bee6f978825dd164fe23faa8335eff4307d6bf9e318f",
-      "revision": 1,
-      "importance": 40,
-      "importanceReasons": [
-        "公式一次情報"
-      ],
-      "tags": []
-    },
-    {
       "id": "080d346ef9c36b95f82c6e30",
       "title": "「Sneaky Sasquatch」のエキサイティングなアップデートがApple Arcadeに登場",
       "url": "https://www.apple.com/jp/newsroom/2026/08/exciting-updates-for-sneaky-sasquatch-come-to-apple-arcade/",
@@ -4193,94 +2191,6 @@
       ]
     },
     {
-      "id": "079178fd61943b5bf5881517",
-      "title": "ELDEN RING - Tarnished Pack DLC is available now",
-      "url": "https://steamcommunity.com/games/1245620/announcements/detail/680759856779493857",
-      "sourceId": "elden-ring",
-      "sourceName": "ELDEN RING",
-      "category": "game",
-      "publishedAt": "2026-08-28T15:39:42+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "16c15fe0b4254b25015eb421a5cc7f527b96feef3494b608387517ca61d330b0",
-      "revision": 1,
-      "importance": 40,
-      "importanceReasons": [
-        "公式一次情報"
-      ],
-      "tags": []
-    },
-    {
-      "id": "073b13b14ae0138b1424f5cc",
-      "title": "Supporting independent journalism in Ukraine",
-      "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "category": "ai-dev",
-      "publishedAt": "2026-09-07T00:00:00+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "3cc43b0bcd028c514190fff0de756650f9f38a4415619b810a058e1e804af6bf",
-      "revision": 1,
-      "importance": 40,
-      "importanceReasons": [
-        "公式一次情報"
-      ],
-      "tags": []
-    },
-    {
-      "id": "041974a0ae2f17d2985701d3",
-      "title": "「黄金秘話」第6話公開！",
-      "url": "https://jp.finalfantasyxiv.com/lodestone/topics/detail/a4ae60b835f3334555703c6b0fd3eae3b2fb4e1d",
-      "sourceId": "ff14",
-      "sourceName": "FFXIV Lodestone",
-      "category": "game",
-      "publishedAt": null,
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "244ce34342cfdb08c9ef10261ddfb060f0f22c2d9257accb103544c9aa0776e0",
-      "revision": 1,
-      "importance": 40,
-      "importanceReasons": [
-        "公式一次情報"
-      ],
-      "tags": []
-    },
-    {
-      "id": "039a4975e102cb538c368495",
-      "title": "GPT-6 Astra: A new generation of intelligence",
-      "url": "https://openai.com/index/gpt-6-astra",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "category": "ai-dev",
-      "publishedAt": "2026-09-03T11:00:00+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "808e812d001d4a39ea573989c34af4ee8f229649de8775eaaa1cac3aef85bfd0",
-      "revision": 1,
-      "importance": 40,
-      "importanceReasons": [
-        "公式一次情報"
-      ],
-      "tags": []
-    },
-    {
       "id": "02282655cd9d612ab7d0b64e",
       "title": "「ファンフェスティバル 2026 in 東京」2日通し券 チケットリセール開始！",
       "url": "https://jp.finalfantasyxiv.com/lodestone/topics/detail/deb1fc04c004c959dfa49597636b59253f8e5f97",
@@ -4302,967 +2212,6 @@
         "開始"
       ],
       "tags": []
-    },
-    {
-      "id": "f490c97781fc0cfaa11cffd7",
-      "title": "Codex 0.152.1",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.152.1",
-      "sourceId": "codex",
-      "sourceName": "Codex",
-      "category": "ai-dev",
-      "publishedAt": "2026-09-01T22:33:02+00:00",
-      "detectedAt": "2026-09-09T03:16:47+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": "2026-09-01T22:34:23+00:00",
-      "changeType": "new",
-      "kind": "release",
-      "summary": null,
-      "contentHash": "887129f80dc64b822d09f77b06bfc80a5e1ba09f0989cc68451858f7abf4cde2",
-      "revision": 1,
-      "importance": 65,
-      "importanceReasons": [
-        "公式一次情報",
-        "バージョン公開",
-        "codex"
-      ],
-      "tags": [
-        "更新"
-      ]
-    },
-    {
-      "id": "e2ea6ef4c9fbfcebbf6527b5",
-      "title": "Claude Code v2.1.236",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.236",
-      "sourceId": "claude-code",
-      "sourceName": "Claude Code",
-      "category": "ai-dev",
-      "publishedAt": "2026-08-19T20:02:05+00:00",
-      "detectedAt": "2026-09-09T03:16:47+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": "2026-08-19T20:02:05+00:00",
-      "changeType": "new",
-      "kind": "release",
-      "summary": null,
-      "contentHash": "7ec2cf7d5c47916a6372777a46ba6dd5d713d43da2f64e1c9bdea062c2ff5450",
-      "revision": 1,
-      "importance": 55,
-      "importanceReasons": [
-        "公式一次情報",
-        "バージョン公開"
-      ],
-      "tags": [
-        "更新"
-      ]
-    },
-    {
-      "id": "d01d94a1b000c188353b2e74",
-      "title": "Claude Code v2.1.245",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.245",
-      "sourceId": "claude-code",
-      "sourceName": "Claude Code",
-      "category": "ai-dev",
-      "publishedAt": "2026-08-25T05:13:24+00:00",
-      "detectedAt": "2026-09-09T03:16:47+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": "2026-08-25T05:13:24+00:00",
-      "changeType": "new",
-      "kind": "release",
-      "summary": null,
-      "contentHash": "b576c6df0a4c952cf135e3708036cd7844bff275325cd5639f103722e33232dc",
-      "revision": 1,
-      "importance": 55,
-      "importanceReasons": [
-        "公式一次情報",
-        "バージョン公開"
-      ],
-      "tags": [
-        "更新"
-      ]
-    },
-    {
-      "id": "cf565721454d59f87ec84063",
-      "title": "Codex 0.153.4",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.153.4",
-      "sourceId": "codex",
-      "sourceName": "Codex",
-      "category": "ai-dev",
-      "publishedAt": "2026-09-04T23:25:48+00:00",
-      "detectedAt": "2026-09-09T03:16:47+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": "2026-09-04T23:27:38+00:00",
-      "changeType": "new",
-      "kind": "release",
-      "summary": null,
-      "contentHash": "58fc00e79f6080f833101ed200aa18881618bb70fd38b306eaa814ba09c57f30",
-      "revision": 1,
-      "importance": 65,
-      "importanceReasons": [
-        "公式一次情報",
-        "バージョン公開",
-        "codex"
-      ],
-      "tags": [
-        "更新"
-      ]
-    },
-    {
-      "id": "ca3eff0a8509d6f23e5e4b7c",
-      "title": "Claude Code v2.1.248",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.248",
-      "sourceId": "claude-code",
-      "sourceName": "Claude Code",
-      "category": "ai-dev",
-      "publishedAt": "2026-08-27T22:12:20+00:00",
-      "detectedAt": "2026-09-09T03:16:47+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": "2026-08-27T22:12:20+00:00",
-      "changeType": "new",
-      "kind": "release",
-      "summary": null,
-      "contentHash": "eb23f5ef4b7dba873f824947ded207155f9cb8ce1f930b676aea3a3eafbf541b",
-      "revision": 1,
-      "importance": 55,
-      "importanceReasons": [
-        "公式一次情報",
-        "バージョン公開"
-      ],
-      "tags": [
-        "更新"
-      ]
-    },
-    {
-      "id": "c2db1cf2bc94be3c93d111d6",
-      "title": "Claude Code v2.1.252",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.252",
-      "sourceId": "claude-code",
-      "sourceName": "Claude Code",
-      "category": "ai-dev",
-      "publishedAt": "2026-08-31T19:46:55+00:00",
-      "detectedAt": "2026-09-09T03:16:47+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": "2026-08-31T19:46:55+00:00",
-      "changeType": "new",
-      "kind": "release",
-      "summary": null,
-      "contentHash": "d4579d244fc3f8f3034a81890e8cb19b4fbfa655d4443a9ea7f71389e4d3b77d",
-      "revision": 1,
-      "importance": 55,
-      "importanceReasons": [
-        "公式一次情報",
-        "バージョン公開"
-      ],
-      "tags": [
-        "更新"
-      ]
-    },
-    {
-      "id": "bfbd56339d1454eaf4f86118",
-      "title": "Claude Code v2.1.250",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.250",
-      "sourceId": "claude-code",
-      "sourceName": "Claude Code",
-      "category": "ai-dev",
-      "publishedAt": "2026-08-28T00:49:16+00:00",
-      "detectedAt": "2026-09-09T03:16:47+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": "2026-08-28T00:49:16+00:00",
-      "changeType": "new",
-      "kind": "release",
-      "summary": null,
-      "contentHash": "c8bb4f3d73bf4fbfe2f377876941d5dfcadac19626369ed9597716132efbc1c3",
-      "revision": 1,
-      "importance": 55,
-      "importanceReasons": [
-        "公式一次情報",
-        "バージョン公開"
-      ],
-      "tags": [
-        "更新"
-      ]
-    },
-    {
-      "id": "bca8f082890e28004d0b95ca",
-      "title": "Codex 0.153.3",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.153.3",
-      "sourceId": "codex",
-      "sourceName": "Codex",
-      "category": "ai-dev",
-      "publishedAt": "2026-09-04T19:01:32+00:00",
-      "detectedAt": "2026-09-09T03:16:47+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": "2026-09-04T19:02:49+00:00",
-      "changeType": "new",
-      "kind": "release",
-      "summary": null,
-      "contentHash": "c2a735b6ecca7e792248cc0a71b4731474d208f5026d1a243af37f99b6a7ce84",
-      "revision": 1,
-      "importance": 65,
-      "importanceReasons": [
-        "公式一次情報",
-        "バージョン公開",
-        "codex"
-      ],
-      "tags": [
-        "更新"
-      ]
-    },
-    {
-      "id": "b7b96dd0ccd56642a4555484",
-      "title": "Claude Code v2.1.247",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.247",
-      "sourceId": "claude-code",
-      "sourceName": "Claude Code",
-      "category": "ai-dev",
-      "publishedAt": "2026-08-26T23:06:39+00:00",
-      "detectedAt": "2026-09-09T03:16:47+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": "2026-08-26T23:06:39+00:00",
-      "changeType": "new",
-      "kind": "release",
-      "summary": null,
-      "contentHash": "b3ab267ebeed5a5b9b303d9a3e4a98882c48766ca27d6ff36461954a6ca414a6",
-      "revision": 1,
-      "importance": 55,
-      "importanceReasons": [
-        "公式一次情報",
-        "バージョン公開"
-      ],
-      "tags": [
-        "更新"
-      ]
-    },
-    {
-      "id": "b56da077d21ad4f4e702dd04",
-      "title": "Claude Code v2.1.233",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.233",
-      "sourceId": "claude-code",
-      "sourceName": "Claude Code",
-      "category": "ai-dev",
-      "publishedAt": "2026-08-14T22:20:57+00:00",
-      "detectedAt": "2026-09-09T03:16:47+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": "2026-08-14T22:20:57+00:00",
-      "changeType": "new",
-      "kind": "release",
-      "summary": null,
-      "contentHash": "ec387d29948e5e97fe292bbfc2933140dc89369603fc82d28be98f2f0ffa33fe",
-      "revision": 1,
-      "importance": 55,
-      "importanceReasons": [
-        "公式一次情報",
-        "バージョン公開"
-      ],
-      "tags": [
-        "更新"
-      ]
-    },
-    {
-      "id": "a8d513fb104884f5c706dccb",
-      "title": "Codex 0.153.0",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.153.0",
-      "sourceId": "codex",
-      "sourceName": "Codex",
-      "category": "ai-dev",
-      "publishedAt": "2026-09-03T01:37:38+00:00",
-      "detectedAt": "2026-09-09T03:16:47+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": "2026-09-03T01:39:03+00:00",
-      "changeType": "new",
-      "kind": "release",
-      "summary": null,
-      "contentHash": "0c825367867fb039d05df77c5e0052ec837b82404919c8bf3726963d9f016433",
-      "revision": 1,
-      "importance": 65,
-      "importanceReasons": [
-        "公式一次情報",
-        "バージョン公開",
-        "codex"
-      ],
-      "tags": [
-        "更新"
-      ]
-    },
-    {
-      "id": "a8b453e50c4ca1e9aca5616b",
-      "title": "Dify v1.17.0",
-      "url": "https://github.com/langgenius/dify/releases/tag/1.17.0",
-      "sourceId": "dify",
-      "sourceName": "Dify",
-      "category": "ai-dev",
-      "publishedAt": "2026-08-25T11:28:25+00:00",
-      "detectedAt": "2026-09-09T03:16:47+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": "2026-09-01T15:49:46+00:00",
-      "changeType": "new",
-      "kind": "release",
-      "summary": null,
-      "contentHash": "7f6b88936358af0a9c4d458c42b39838d1a4695d72c912ff5c9605cc56b02cef",
-      "revision": 1,
-      "importance": 65,
-      "importanceReasons": [
-        "公式一次情報",
-        "バージョン公開",
-        "dify"
-      ],
-      "tags": [
-        "更新"
-      ]
-    },
-    {
-      "id": "9f6c5c8aa766c6f70a5ca91d",
-      "title": "Claude Code v2.1.266",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.266",
-      "sourceId": "claude-code",
-      "sourceName": "Claude Code",
-      "category": "ai-dev",
-      "publishedAt": "2026-09-08T23:55:14+00:00",
-      "detectedAt": "2026-09-09T03:16:47+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": "2026-09-08T23:55:14+00:00",
-      "changeType": "new",
-      "kind": "release",
-      "summary": null,
-      "contentHash": "b2521572b9984ff8af9e5cdbf3040670082da55ea82218247fd30b10736339d4",
-      "revision": 1,
-      "importance": 65,
-      "importanceReasons": [
-        "公式一次情報",
-        "24時間以内",
-        "バージョン公開"
-      ],
-      "tags": [
-        "更新"
-      ]
-    },
-    {
-      "id": "9f28e3e9d3a9b17b2366065c",
-      "title": "Codex 0.153.2",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.153.2",
-      "sourceId": "codex",
-      "sourceName": "Codex",
-      "category": "ai-dev",
-      "publishedAt": "2026-09-03T23:53:12+00:00",
-      "detectedAt": "2026-09-09T03:16:47+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": "2026-09-03T23:54:50+00:00",
-      "changeType": "new",
-      "kind": "release",
-      "summary": null,
-      "contentHash": "4ed81f25347a38704bfe2bafb2466d3b9517a1358f01b8fece0599aa2c8f4c20",
-      "revision": 1,
-      "importance": 65,
-      "importanceReasons": [
-        "公式一次情報",
-        "バージョン公開",
-        "codex"
-      ],
-      "tags": [
-        "更新"
-      ]
-    },
-    {
-      "id": "9b452026d55c467553cf9713",
-      "title": "Claude Code v2.1.238",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.238",
-      "sourceId": "claude-code",
-      "sourceName": "Claude Code",
-      "category": "ai-dev",
-      "publishedAt": "2026-08-20T20:33:51+00:00",
-      "detectedAt": "2026-09-09T03:16:47+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": "2026-08-20T20:33:51+00:00",
-      "changeType": "new",
-      "kind": "release",
-      "summary": null,
-      "contentHash": "754147d8b64a4afa1cc20dd4aff71551838e06018098df544896c40d68b904df",
-      "revision": 1,
-      "importance": 55,
-      "importanceReasons": [
-        "公式一次情報",
-        "バージョン公開"
-      ],
-      "tags": [
-        "更新"
-      ]
-    },
-    {
-      "id": "93601d11e4db33a82f529c44",
-      "title": "Claude Code v2.1.260",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.260",
-      "sourceId": "claude-code",
-      "sourceName": "Claude Code",
-      "category": "ai-dev",
-      "publishedAt": "2026-09-03T23:48:12+00:00",
-      "detectedAt": "2026-09-09T03:16:47+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": "2026-09-03T23:48:12+00:00",
-      "changeType": "new",
-      "kind": "release",
-      "summary": null,
-      "contentHash": "e53e74fc2812385c4feeff3e3fa3c5dda84e46074221cd61fbcf16e1fa1bd408",
-      "revision": 1,
-      "importance": 55,
-      "importanceReasons": [
-        "公式一次情報",
-        "バージョン公開"
-      ],
-      "tags": [
-        "更新"
-      ]
-    },
-    {
-      "id": "922161a7fd90f8e5f9c17534",
-      "title": "Claude Code v2.1.240",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.240",
-      "sourceId": "claude-code",
-      "sourceName": "Claude Code",
-      "category": "ai-dev",
-      "publishedAt": "2026-08-22T14:45:30+00:00",
-      "detectedAt": "2026-09-09T03:16:47+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": "2026-08-22T14:45:30+00:00",
-      "changeType": "new",
-      "kind": "release",
-      "summary": null,
-      "contentHash": "3a5f43566d47fbb8865286bc4767d28f840c909ab8078af1fe0154c349eb360c",
-      "revision": 1,
-      "importance": 55,
-      "importanceReasons": [
-        "公式一次情報",
-        "バージョン公開"
-      ],
-      "tags": [
-        "更新"
-      ]
-    },
-    {
-      "id": "8803993ba68a72b7a513fb49",
-      "title": "Claude Code v2.1.235",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.235",
-      "sourceId": "claude-code",
-      "sourceName": "Claude Code",
-      "category": "ai-dev",
-      "publishedAt": "2026-08-18T20:38:54+00:00",
-      "detectedAt": "2026-09-09T03:16:47+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": "2026-08-18T20:38:54+00:00",
-      "changeType": "new",
-      "kind": "release",
-      "summary": null,
-      "contentHash": "6565afc2d99ecbadf8c84ec82a998b466bd9492f26d306fcb79dfe75d7d29b9e",
-      "revision": 1,
-      "importance": 55,
-      "importanceReasons": [
-        "公式一次情報",
-        "バージョン公開"
-      ],
-      "tags": [
-        "更新"
-      ]
-    },
-    {
-      "id": "7c76a455bae5923b1dddb820",
-      "title": "Claude Code v2.1.261",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.261",
-      "sourceId": "claude-code",
-      "sourceName": "Claude Code",
-      "category": "ai-dev",
-      "publishedAt": "2026-09-04T19:58:10+00:00",
-      "detectedAt": "2026-09-09T03:16:47+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": "2026-09-04T19:58:10+00:00",
-      "changeType": "new",
-      "kind": "release",
-      "summary": null,
-      "contentHash": "d10630073d5812fbbae1dd07aa31f527739c73f9f4bf10e8c7578afc12570586",
-      "revision": 1,
-      "importance": 55,
-      "importanceReasons": [
-        "公式一次情報",
-        "バージョン公開"
-      ],
-      "tags": [
-        "更新"
-      ]
-    },
-    {
-      "id": "7b1fa515c92a7efc85473c4d",
-      "title": "Claude Code v2.1.246",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.246",
-      "sourceId": "claude-code",
-      "sourceName": "Claude Code",
-      "category": "ai-dev",
-      "publishedAt": "2026-08-25T22:31:52+00:00",
-      "detectedAt": "2026-09-09T03:16:47+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": "2026-08-25T22:31:52+00:00",
-      "changeType": "new",
-      "kind": "release",
-      "summary": null,
-      "contentHash": "d623f73d136f5a124fac4ea62d9aad2bac190f3e527aa30016d022cbab03ed90",
-      "revision": 1,
-      "importance": 55,
-      "importanceReasons": [
-        "公式一次情報",
-        "バージョン公開"
-      ],
-      "tags": [
-        "更新"
-      ]
-    },
-    {
-      "id": "7728fa2f91b704b59a069d64",
-      "title": "Claude Code v2.1.257",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.257",
-      "sourceId": "claude-code",
-      "sourceName": "Claude Code",
-      "category": "ai-dev",
-      "publishedAt": "2026-09-01T17:53:52+00:00",
-      "detectedAt": "2026-09-09T03:16:47+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": "2026-09-01T17:53:52+00:00",
-      "changeType": "new",
-      "kind": "release",
-      "summary": null,
-      "contentHash": "511b656370b9570738b9b0b88ed8eb83ffe69157f2e78e6ca3d9dde2f3886252",
-      "revision": 1,
-      "importance": 55,
-      "importanceReasons": [
-        "公式一次情報",
-        "バージョン公開"
-      ],
-      "tags": [
-        "更新"
-      ]
-    },
-    {
-      "id": "6d9f931d3f4a007e7501309a",
-      "title": "Claude Code v2.1.232",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.232",
-      "sourceId": "claude-code",
-      "sourceName": "Claude Code",
-      "category": "ai-dev",
-      "publishedAt": "2026-08-13T23:29:59+00:00",
-      "detectedAt": "2026-09-09T03:16:47+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": "2026-08-13T23:29:59+00:00",
-      "changeType": "new",
-      "kind": "release",
-      "summary": null,
-      "contentHash": "9950cc9c12654a90f174dd7987adfe37ad61034c81139c0fd776bf6939b2fdb1",
-      "revision": 1,
-      "importance": 55,
-      "importanceReasons": [
-        "公式一次情報",
-        "バージョン公開"
-      ],
-      "tags": [
-        "更新"
-      ]
-    },
-    {
-      "id": "5971a4b7feb6a1abec79f9e9",
-      "title": "Claude Code v2.1.231",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.231",
-      "sourceId": "claude-code",
-      "sourceName": "Claude Code",
-      "category": "ai-dev",
-      "publishedAt": "2026-08-13T08:38:50+00:00",
-      "detectedAt": "2026-09-09T03:16:47+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": "2026-08-13T08:38:50+00:00",
-      "changeType": "new",
-      "kind": "release",
-      "summary": null,
-      "contentHash": "674d17258222933dd960a2af3c6359b7e65cd0f1398df93e8dcaa035b84cb115",
-      "revision": 1,
-      "importance": 55,
-      "importanceReasons": [
-        "公式一次情報",
-        "バージョン公開"
-      ],
-      "tags": [
-        "更新"
-      ]
-    },
-    {
-      "id": "3d4e408ad45e655255175e67",
-      "title": "Codex 0.152.0",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.152.0",
-      "sourceId": "codex",
-      "sourceName": "Codex",
-      "category": "ai-dev",
-      "publishedAt": "2026-09-01T01:58:32+00:00",
-      "detectedAt": "2026-09-09T03:16:47+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": "2026-09-01T02:13:24+00:00",
-      "changeType": "new",
-      "kind": "release",
-      "summary": null,
-      "contentHash": "f0a1dfc9033afca50d85e29c6edab2e0c4f98468dc84100cebeb1a90b57db71a",
-      "revision": 1,
-      "importance": 65,
-      "importanceReasons": [
-        "公式一次情報",
-        "バージョン公開",
-        "codex"
-      ],
-      "tags": [
-        "更新"
-      ]
-    },
-    {
-      "id": "3b44ef5086f0454cb73768b4",
-      "title": "Claude Code v2.1.241",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.241",
-      "sourceId": "claude-code",
-      "sourceName": "Claude Code",
-      "category": "ai-dev",
-      "publishedAt": "2026-08-23T00:52:16+00:00",
-      "detectedAt": "2026-09-09T03:16:47+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": "2026-08-23T00:52:16+00:00",
-      "changeType": "new",
-      "kind": "release",
-      "summary": null,
-      "contentHash": "67757d032349ff6915cf53de90f7fb2417c8a744e9c165d9f95ef87904426dda",
-      "revision": 1,
-      "importance": 55,
-      "importanceReasons": [
-        "公式一次情報",
-        "バージョン公開"
-      ],
-      "tags": [
-        "更新"
-      ]
-    },
-    {
-      "id": "31d0f6b1d6dddfa70fa6c72b",
-      "title": "Claude Code v2.1.239",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.239",
-      "sourceId": "claude-code",
-      "sourceName": "Claude Code",
-      "category": "ai-dev",
-      "publishedAt": "2026-08-21T19:54:23+00:00",
-      "detectedAt": "2026-09-09T03:16:47+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": "2026-08-21T19:54:23+00:00",
-      "changeType": "new",
-      "kind": "release",
-      "summary": null,
-      "contentHash": "935abf23f309274f36b10ae35f0eae8aae1c452cbd98334db8457897a1997060",
-      "revision": 1,
-      "importance": 55,
-      "importanceReasons": [
-        "公式一次情報",
-        "バージョン公開"
-      ],
-      "tags": [
-        "更新"
-      ]
-    },
-    {
-      "id": "254d61d6d41ff4c5b7738e29",
-      "title": "Claude Code v2.1.263",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.263",
-      "sourceId": "claude-code",
-      "sourceName": "Claude Code",
-      "category": "ai-dev",
-      "publishedAt": "2026-09-06T02:54:20+00:00",
-      "detectedAt": "2026-09-09T03:16:47+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": "2026-09-06T02:54:20+00:00",
-      "changeType": "new",
-      "kind": "release",
-      "summary": null,
-      "contentHash": "8fa406dd930da01ba608b2e1f5f1fd4e527d00848a167a52caa87378c18fbed9",
-      "revision": 1,
-      "importance": 55,
-      "importanceReasons": [
-        "公式一次情報",
-        "バージョン公開"
-      ],
-      "tags": [
-        "更新"
-      ]
-    },
-    {
-      "id": "23cf4e186c350d8352f25398",
-      "title": "Claude Code v2.1.258",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.258",
-      "sourceId": "claude-code",
-      "sourceName": "Claude Code",
-      "category": "ai-dev",
-      "publishedAt": "2026-09-01T22:33:20+00:00",
-      "detectedAt": "2026-09-09T03:16:47+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": "2026-09-01T22:33:20+00:00",
-      "changeType": "new",
-      "kind": "release",
-      "summary": null,
-      "contentHash": "e5a6c9d80500cb5368a1522ece4f9130f7e016d22d77b71c80ad6e64bdd9bbf2",
-      "revision": 1,
-      "importance": 55,
-      "importanceReasons": [
-        "公式一次情報",
-        "バージョン公開"
-      ],
-      "tags": [
-        "更新"
-      ]
-    },
-    {
-      "id": "2180229dc69461fd7a9db679",
-      "title": "Claude Code v2.1.251",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.251",
-      "sourceId": "claude-code",
-      "sourceName": "Claude Code",
-      "category": "ai-dev",
-      "publishedAt": "2026-08-28T18:19:32+00:00",
-      "detectedAt": "2026-09-09T03:16:47+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": "2026-08-28T18:19:32+00:00",
-      "changeType": "new",
-      "kind": "release",
-      "summary": null,
-      "contentHash": "e8a56d77170079e5384d1bd79666fb90c15a244bea3cfd906278ba8b3eb8aaac",
-      "revision": 1,
-      "importance": 55,
-      "importanceReasons": [
-        "公式一次情報",
-        "バージョン公開"
-      ],
-      "tags": [
-        "更新"
-      ]
-    },
-    {
-      "id": "20cf339db543fe6b132864d8",
-      "title": "Claude Code v2.1.229",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.229",
-      "sourceId": "claude-code",
-      "sourceName": "Claude Code",
-      "category": "ai-dev",
-      "publishedAt": "2026-08-12T20:56:22+00:00",
-      "detectedAt": "2026-09-09T03:16:47+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": "2026-08-12T20:56:22+00:00",
-      "changeType": "new",
-      "kind": "release",
-      "summary": null,
-      "contentHash": "54f9bbf7265e8b804db66bf49297d10e0adb1de10000d7d5261c3bb8987646a0",
-      "revision": 1,
-      "importance": 55,
-      "importanceReasons": [
-        "公式一次情報",
-        "バージョン公開"
-      ],
-      "tags": [
-        "更新"
-      ]
-    },
-    {
-      "id": "1f2ada50b57108708987bb5c",
-      "title": "Codex 0.151.0",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.151.0",
-      "sourceId": "codex",
-      "sourceName": "Codex",
-      "category": "ai-dev",
-      "publishedAt": "2026-08-29T09:55:39+00:00",
-      "detectedAt": "2026-09-09T03:16:47+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": "2026-08-29T09:57:02+00:00",
-      "changeType": "new",
-      "kind": "release",
-      "summary": null,
-      "contentHash": "16f793be2b3b70aaf6f6549a7ecc6c03234b6cc112464c18b6c1208c1a056226",
-      "revision": 1,
-      "importance": 65,
-      "importanceReasons": [
-        "公式一次情報",
-        "バージョン公開",
-        "codex"
-      ],
-      "tags": [
-        "更新"
-      ]
-    },
-    {
-      "id": "172e2c60926f55b8e40195a2",
-      "title": "Claude Code v2.1.227",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.227",
-      "sourceId": "claude-code",
-      "sourceName": "Claude Code",
-      "category": "ai-dev",
-      "publishedAt": "2026-08-10T22:56:53+00:00",
-      "detectedAt": "2026-09-09T03:16:47+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": "2026-08-10T22:56:53+00:00",
-      "changeType": "new",
-      "kind": "release",
-      "summary": null,
-      "contentHash": "8b9779c0e21ee0389f9d3920b0a8ca0cf3faa166d8c3e38399c9faeec21038de",
-      "revision": 1,
-      "importance": 55,
-      "importanceReasons": [
-        "公式一次情報",
-        "バージョン公開"
-      ],
-      "tags": [
-        "更新"
-      ]
-    },
-    {
-      "id": "0e371a11c328c3722bc83342",
-      "title": "Claude Code v2.1.259",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.259",
-      "sourceId": "claude-code",
-      "sourceName": "Claude Code",
-      "category": "ai-dev",
-      "publishedAt": "2026-09-02T22:33:51+00:00",
-      "detectedAt": "2026-09-09T03:16:47+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": "2026-09-02T22:33:51+00:00",
-      "changeType": "new",
-      "kind": "release",
-      "summary": null,
-      "contentHash": "6b1db21ab11123bb447f2a9bac9dcc4c7f484836b4b62460507516c0b488eabe",
-      "revision": 1,
-      "importance": 55,
-      "importanceReasons": [
-        "公式一次情報",
-        "バージョン公開"
-      ],
-      "tags": [
-        "更新"
-      ]
-    },
-    {
-      "id": "09d0c8e5c7031ff7de10566f",
-      "title": "Claude Code v2.1.237",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.237",
-      "sourceId": "claude-code",
-      "sourceName": "Claude Code",
-      "category": "ai-dev",
-      "publishedAt": "2026-08-20T00:54:41+00:00",
-      "detectedAt": "2026-09-09T03:16:47+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": "2026-08-20T00:54:41+00:00",
-      "changeType": "new",
-      "kind": "release",
-      "summary": null,
-      "contentHash": "8c8385f13414496e1a3189577bd381d3bf06cbbc448062b331361fd3738e401f",
-      "revision": 1,
-      "importance": 55,
-      "importanceReasons": [
-        "公式一次情報",
-        "バージョン公開"
-      ],
-      "tags": [
-        "更新"
-      ]
-    },
-    {
-      "id": "0754e13e69e8f4d353570608",
-      "title": "Claude Code v2.1.234",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.234",
-      "sourceId": "claude-code",
-      "sourceName": "Claude Code",
-      "category": "ai-dev",
-      "publishedAt": "2026-08-17T20:20:58+00:00",
-      "detectedAt": "2026-09-09T03:16:47+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": "2026-08-17T20:20:58+00:00",
-      "changeType": "new",
-      "kind": "release",
-      "summary": null,
-      "contentHash": "36e69ded7198252a79cd5fe96eda9153742cb4c9a83185a5f1d8433694ee9ee4",
-      "revision": 1,
-      "importance": 55,
-      "importanceReasons": [
-        "公式一次情報",
-        "バージョン公開"
-      ],
-      "tags": [
-        "更新"
-      ]
-    },
-    {
-      "id": "0388a4f55f4206c8f7537e41",
-      "title": "Codex 0.153.1",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.153.1",
-      "sourceId": "codex",
-      "sourceName": "Codex",
-      "category": "ai-dev",
-      "publishedAt": "2026-09-03T21:02:56+00:00",
-      "detectedAt": "2026-09-09T03:16:47+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": "2026-09-03T21:05:14+00:00",
-      "changeType": "new",
-      "kind": "release",
-      "summary": null,
-      "contentHash": "89bfb7a76956cfd29592f8b1fccb451bea267ba42d100019bc1c35ef4cb5181e",
-      "revision": 1,
-      "importance": 65,
-      "importanceReasons": [
-        "公式一次情報",
-        "バージョン公開",
-        "codex"
-      ],
-      "tags": [
-        "更新"
-      ]
-    },
-    {
-      "id": "03604cccd7e9402db1cd2b0c",
-      "title": "Claude Code v2.1.228",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.228",
-      "sourceId": "claude-code",
-      "sourceName": "Claude Code",
-      "category": "ai-dev",
-      "publishedAt": "2026-08-11T19:50:59+00:00",
-      "detectedAt": "2026-09-09T03:16:47+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": "2026-08-11T19:50:59+00:00",
-      "changeType": "new",
-      "kind": "release",
-      "summary": null,
-      "contentHash": "cf9bbd5346bc859689ccb646ae62c0935eb2a4b496d97b858ca510c43025bcd3",
-      "revision": 1,
-      "importance": 55,
-      "importanceReasons": [
-        "公式一次情報",
-        "バージョン公開"
-      ],
-      "tags": [
-        "更新"
-      ]
-    },
-    {
-      "id": "03061493556813e52972a941",
-      "title": "Claude Code v2.1.265",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.265",
-      "sourceId": "claude-code",
-      "sourceName": "Claude Code",
-      "category": "ai-dev",
-      "publishedAt": "2026-09-08T20:37:31+00:00",
-      "detectedAt": "2026-09-09T03:16:47+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": "2026-09-08T20:37:31+00:00",
-      "changeType": "new",
-      "kind": "release",
-      "summary": null,
-      "contentHash": "f63b0d0742fc3c12b87166f2ed1b407b5b1c23f01b499984ce7ac4a2d406a8b9",
-      "revision": 1,
-      "importance": 65,
-      "importanceReasons": [
-        "公式一次情報",
-        "24時間以内",
-        "バージョン公開"
-      ],
-      "tags": [
-        "更新"
-      ]
     }
   ]
 }

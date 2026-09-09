@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-09T03:22:00+00:00",
+  "generatedAt": "2026-09-09T03:26:17+00:00",
   "collector": {
-    "lastRun": "2026-09-09T03:22:00+00:00",
+    "lastRun": "2026-09-09T03:26:17+00:00",
     "success": 11,
     "failed": 2
   },
@@ -14,7 +14,7 @@
       "url": "https://www.digital.go.jp/rss/news.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-09T03:22:00+00:00",
+      "lastSuccess": "2026-09-09T03:26:17+00:00",
       "count": 34
     },
     {
@@ -24,7 +24,7 @@
       "url": "https://www.jpcert.or.jp/rss/jpcert.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-09T03:22:00+00:00",
+      "lastSuccess": "2026-09-09T03:26:17+00:00",
       "count": 20
     },
     {
@@ -34,7 +34,7 @@
       "url": "https://jvn.jp/rss/jvn.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-09T03:22:00+00:00",
+      "lastSuccess": "2026-09-09T03:26:17+00:00",
       "count": 20
     },
     {
@@ -44,7 +44,7 @@
       "url": "https://blogs.jpcert.or.jp/ja/atom.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-09T03:22:00+00:00",
+      "lastSuccess": "2026-09-09T03:26:17+00:00",
       "count": 15
     },
     {
@@ -54,7 +54,7 @@
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-09T03:22:00+00:00",
+      "lastSuccess": "2026-09-09T03:26:17+00:00",
       "count": 200
     },
     {
@@ -63,7 +63,7 @@
       "category": "ai-dev",
       "url": "https://github.blog/changelog/feed/",
       "status": "error",
-      "error": "ValueError",
+      "error": "ValueError: XML entities are unsupported",
       "lastSuccess": null,
       "count": 0
     },
@@ -74,7 +74,7 @@
       "url": "https://api.github.com/repos/langgenius/dify/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-09T03:22:00+00:00",
+      "lastSuccess": "2026-09-09T03:26:17+00:00",
       "count": 27
     },
     {
@@ -83,7 +83,7 @@
       "category": "ai-dev",
       "url": "https://api.github.com/repos/openai/codex/releases?per_page=30",
       "status": "error",
-      "error": "ValueError",
+      "error": "ValueError: Source exceeds size limit",
       "lastSuccess": "2026-09-09T03:16:47+00:00",
       "count": 0
     },
@@ -94,7 +94,7 @@
       "url": "https://api.github.com/repos/anthropics/claude-code/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-09T03:22:00+00:00",
+      "lastSuccess": "2026-09-09T03:26:17+00:00",
       "count": 30
     },
     {
@@ -104,7 +104,7 @@
       "url": "https://jp.finalfantasyxiv.com/lodestone/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-09T03:22:00+00:00",
+      "lastSuccess": "2026-09-09T03:26:17+00:00",
       "count": 30
     },
     {
@@ -114,7 +114,7 @@
       "url": "https://steamcommunity.com/games/1245620/rss/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-09T03:22:00+00:00",
+      "lastSuccess": "2026-09-09T03:26:17+00:00",
       "count": 10
     },
     {
@@ -124,7 +124,7 @@
       "url": "https://store.steampowered.com/feeds/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-09T03:22:00+00:00",
+      "lastSuccess": "2026-09-09T03:26:17+00:00",
       "count": 10
     },
     {
@@ -134,11 +134,265 @@
       "url": "https://www.apple.com/jp/newsroom/rss-feed.rss",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-09T03:22:00+00:00",
+      "lastSuccess": "2026-09-09T03:26:17+00:00",
       "count": 20
     }
   ],
   "items": [
+    {
+      "id": "cb21266417edd1d963a6a120",
+      "title": "[メンテナンス] オンラインストア／モグステーション メンテナンス作業のお知らせ(9/10)",
+      "url": "https://jp.finalfantasyxiv.com/lodestone/news/detail/9b71933d5270aeb12e3a3262fbc479e936806b33",
+      "sourceId": "ff14",
+      "sourceName": "FFXIV Lodestone",
+      "category": "game",
+      "publishedAt": "2026-09-08T04:00:00+00:00",
+      "detectedAt": "2026-09-09T03:22:00+00:00",
+      "updatedAt": "2026-09-09T03:26:17+00:00",
+      "sourceUpdatedAt": null,
+      "changeType": "updated",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "9ab0b66e7f1717d8864e5dcf3dabd4946d9ba49d9621a3018bc18d904900095c",
+      "revision": 2,
+      "importance": 75,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "メンテナンス"
+      ],
+      "tags": [
+        "メンテナンス"
+      ]
+    },
+    {
+      "id": "b09c47ffcf02b93654eb20aa",
+      "title": "[続報] Lodestone メンテナンス作業 終了時間変更のお知らせ(9/8)",
+      "url": "https://jp.finalfantasyxiv.com/lodestone/news/detail/c7898b1ee6e0528709314d36557fd0c9a250928e",
+      "sourceId": "ff14",
+      "sourceName": "FFXIV Lodestone",
+      "category": "game",
+      "publishedAt": "2026-09-08T09:25:00+00:00",
+      "detectedAt": "2026-09-09T03:22:00+00:00",
+      "updatedAt": "2026-09-09T03:26:17+00:00",
+      "sourceUpdatedAt": null,
+      "changeType": "updated",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "9e12a78e71ff423179201c998f9a83082dadf0b60a6e1c713a05dd28dc205f92",
+      "revision": 2,
+      "importance": 100,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "終了",
+        "メンテナンス"
+      ],
+      "tags": [
+        "終了・廃止",
+        "メンテナンス"
+      ]
+    },
+    {
+      "id": "ae962f3ff488396eb43a3cf6",
+      "title": "エターナルセレモニーの予約／実施ができない時間について",
+      "url": "https://jp.finalfantasyxiv.com/lodestone/news/detail/f5b6b0d6f2bd9efdeb4dbd6b2ba90383b136673f",
+      "sourceId": "ff14",
+      "sourceName": "FFXIV Lodestone",
+      "category": "game",
+      "publishedAt": "2026-09-08T09:50:00+00:00",
+      "detectedAt": "2026-09-09T03:22:00+00:00",
+      "updatedAt": "2026-09-09T03:26:17+00:00",
+      "sourceUpdatedAt": null,
+      "changeType": "updated",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "99f64d2ea3aacfb1d92f18a7198649c48dd68c1ad8e619a5c13e86720f95e4ac",
+      "revision": 2,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "9a51a5f28e6ecedd5527d92c",
+      "title": "[続報] コンパニオンアプリ メンテナンス作業 終了時間変更のお知らせ(9/8)",
+      "url": "https://jp.finalfantasyxiv.com/lodestone/news/detail/d8742148f2e6560cf049cbbc56c24767a3f64669",
+      "sourceId": "ff14",
+      "sourceName": "FFXIV Lodestone",
+      "category": "game",
+      "publishedAt": "2026-09-08T09:20:00+00:00",
+      "detectedAt": "2026-09-09T03:22:00+00:00",
+      "updatedAt": "2026-09-09T03:26:17+00:00",
+      "sourceUpdatedAt": null,
+      "changeType": "updated",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "93a584a95120fc60411f72ef524d441e0a54a7f173397935a1e7d200a280a172",
+      "revision": 2,
+      "importance": 100,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "終了",
+        "メンテナンス"
+      ],
+      "tags": [
+        "終了・廃止",
+        "メンテナンス"
+      ]
+    },
+    {
+      "id": "84b59285fad92b2dbcead6c2",
+      "title": "Lodestone 更新のお知らせ(9/8)",
+      "url": "https://jp.finalfantasyxiv.com/lodestone/news/detail/60e481f8323d59ff69718f35d7558033a6d817c9",
+      "sourceId": "ff14",
+      "sourceName": "FFXIV Lodestone",
+      "category": "game",
+      "publishedAt": "2026-09-08T10:10:00+00:00",
+      "detectedAt": "2026-09-09T03:22:00+00:00",
+      "updatedAt": "2026-09-09T03:26:17+00:00",
+      "sourceUpdatedAt": null,
+      "changeType": "updated",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "1282a6903ae86a7a2d5d5fdcad7fcf64b63c214f5371b67bcb8a6e05e84ba4b4",
+      "revision": 2,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "2f885ae6d5a20b5f3ab33268",
+      "title": "[メンテナンス] 全ワールド 緊急メンテナンス作業のお知らせ(9/9)",
+      "url": "https://jp.finalfantasyxiv.com/lodestone/news/detail/72aac553109b297701627aa3d40a56c560b68482",
+      "sourceId": "ff14",
+      "sourceName": "FFXIV Lodestone",
+      "category": "game",
+      "publishedAt": "2026-09-09T03:00:00+00:00",
+      "detectedAt": "2026-09-09T03:22:00+00:00",
+      "updatedAt": "2026-09-09T03:26:17+00:00",
+      "sourceUpdatedAt": null,
+      "changeType": "updated",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "72e04f05d048294e2b8e0b7246773c540a29e164731ed89d47ed0a5f02f5aae9",
+      "revision": 2,
+      "importance": 100,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "緊急",
+        "メンテナンス"
+      ],
+      "tags": [
+        "メンテナンス"
+      ]
+    },
+    {
+      "id": "20d8db0ed2e25f63dbc811f6",
+      "title": "[続報] 全ワールド メンテナンス作業 終了時間変更のお知らせ(9/8)",
+      "url": "https://jp.finalfantasyxiv.com/lodestone/news/detail/e7bd8349da50338f40ba8fa330c3bebf30b751cb",
+      "sourceId": "ff14",
+      "sourceName": "FFXIV Lodestone",
+      "category": "game",
+      "publishedAt": "2026-09-08T09:10:00+00:00",
+      "detectedAt": "2026-09-09T03:22:00+00:00",
+      "updatedAt": "2026-09-09T03:26:17+00:00",
+      "sourceUpdatedAt": null,
+      "changeType": "updated",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "e520a81bdb54d7349406806879b8deafb139bfe4bc9f64e80a9f634059366104",
+      "revision": 2,
+      "importance": 100,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "終了",
+        "メンテナンス"
+      ],
+      "tags": [
+        "終了・廃止",
+        "メンテナンス"
+      ]
+    },
+    {
+      "id": "18e63a246e56460ab63aa70c",
+      "title": "[重要] 不正アクセスとアカウント管理に関するご注意",
+      "url": "https://jp.finalfantasyxiv.com/lodestone/news/detail/dbe2d8006c7907ab18e7b4335e9110c1e29309be",
+      "sourceId": "ff14",
+      "sourceName": "FFXIV Lodestone",
+      "category": "game",
+      "publishedAt": "2022-10-06T14:15:00+00:00",
+      "detectedAt": "2026-09-09T03:22:00+00:00",
+      "updatedAt": "2026-09-09T03:26:17+00:00",
+      "sourceUpdatedAt": null,
+      "changeType": "updated",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "fefe37e3b646b84758f621765b0df6e1e0848a1dc6eb53b0be1ed312c14058c0",
+      "revision": 2,
+      "importance": 60,
+      "importanceReasons": [
+        "公式一次情報",
+        "重要"
+      ],
+      "tags": []
+    },
+    {
+      "id": "0e30b22902505298c58e2b17",
+      "title": "[メンテナンス] アカウント管理システム メンテナンス作業のお知らせ(9/10)",
+      "url": "https://jp.finalfantasyxiv.com/lodestone/news/detail/1801e3d29b5d20f8bd08d0186a0009da4e5514d9",
+      "sourceId": "ff14",
+      "sourceName": "FFXIV Lodestone",
+      "category": "game",
+      "publishedAt": "2026-09-07T16:15:00+00:00",
+      "detectedAt": "2026-09-09T03:22:00+00:00",
+      "updatedAt": "2026-09-09T03:26:17+00:00",
+      "sourceUpdatedAt": null,
+      "changeType": "updated",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "747f2388c040f0e89767bfc218f415d66911ee3136f8d8bbe55e77bee9f6e612",
+      "revision": 2,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "メンテナンス"
+      ],
+      "tags": [
+        "メンテナンス"
+      ]
+    },
+    {
+      "id": "0c66d4e4e2317615456cf097",
+      "title": "[重要] フィッシング詐欺サイトへ誘導するメッセージにご注意ください",
+      "url": "https://jp.finalfantasyxiv.com/lodestone/news/detail/320f3cc351972c741353e1b6178e81e136465f6a",
+      "sourceId": "ff14",
+      "sourceName": "FFXIV Lodestone",
+      "category": "game",
+      "publishedAt": "2024-06-05T10:25:00+00:00",
+      "detectedAt": "2026-09-09T03:22:00+00:00",
+      "updatedAt": "2026-09-09T03:26:17+00:00",
+      "sourceUpdatedAt": null,
+      "changeType": "updated",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "e0ec888d64722219716f5232d4207d75481df5fca6c0c237cb5d0ffa2f08773e",
+      "revision": 2,
+      "importance": 60,
+      "importanceReasons": [
+        "公式一次情報",
+        "重要"
+      ],
+      "tags": []
+    },
     {
       "id": "fe23f369e01db08d4a047717",
       "title": "Expanding OpenAI’s presence in Brazil",
@@ -567,31 +821,6 @@
         "公式一次情報"
       ],
       "tags": []
-    },
-    {
-      "id": "cb21266417edd1d963a6a120",
-      "title": "[メンテナンス] オンラインストア／モグステーション メンテナンス作業のお知らせ(9/10) - document.getElementById('datetime-ffebde3b1ef').innerHTML = ldst_strftime(1788840000, 'YMD');",
-      "url": "https://jp.finalfantasyxiv.com/lodestone/news/detail/9b71933d5270aeb12e3a3262fbc479e936806b33",
-      "sourceId": "ff14",
-      "sourceName": "FFXIV Lodestone",
-      "category": "game",
-      "publishedAt": null,
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "2afe853a46e9e292bd04974079bb1cea39d0ab6a55a017345516575e274c4b10",
-      "revision": 1,
-      "importance": 65,
-      "importanceReasons": [
-        "公式一次情報",
-        "メンテナンス"
-      ],
-      "tags": [
-        "メンテナンス"
-      ]
     },
     {
       "id": "cb1db0d5c74b6e9eeb890e2e",
@@ -1121,33 +1350,6 @@
       "tags": []
     },
     {
-      "id": "b09c47ffcf02b93654eb20aa",
-      "title": "[続報] Lodestone メンテナンス作業 終了時間変更のお知らせ(9/8) - document.getElementById('datetime-ad4eb8e5a63').innerHTML = ldst_strftime(1788859500, 'YMD');",
-      "url": "https://jp.finalfantasyxiv.com/lodestone/news/detail/c7898b1ee6e0528709314d36557fd0c9a250928e",
-      "sourceId": "ff14",
-      "sourceName": "FFXIV Lodestone",
-      "category": "game",
-      "publishedAt": null,
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "8c0469ebd016cd77f1d4b2b0534bb3302b4cd4fe92e9651afb81f8d4e2653d0c",
-      "revision": 1,
-      "importance": 100,
-      "importanceReasons": [
-        "公式一次情報",
-        "終了",
-        "メンテナンス"
-      ],
-      "tags": [
-        "終了・廃止",
-        "メンテナンス"
-      ]
-    },
-    {
       "id": "b0501a8bb1f957e556f8b1ed",
       "title": "定額制聴き放題サービスで「黄金のレガシー」サントラ第1弾 配信中！",
       "url": "https://jp.finalfantasyxiv.com/lodestone/topics/detail/4bdf607ce27e18cf51f06c3421062a028e2da30c",
@@ -1206,28 +1408,6 @@
       "kind": "article",
       "summary": null,
       "contentHash": "3893871f727e08860b4936ee23af75b839a12500d96989e61972ce5b397b6095",
-      "revision": 1,
-      "importance": 40,
-      "importanceReasons": [
-        "公式一次情報"
-      ],
-      "tags": []
-    },
-    {
-      "id": "ae962f3ff488396eb43a3cf6",
-      "title": "エターナルセレモニーの予約／実施ができない時間について - document.getElementById('datetime-0c04287ecbc').innerHTML = ldst_strftime(1788861000, 'YMD');",
-      "url": "https://jp.finalfantasyxiv.com/lodestone/news/detail/f5b6b0d6f2bd9efdeb4dbd6b2ba90383b136673f",
-      "sourceId": "ff14",
-      "sourceName": "FFXIV Lodestone",
-      "category": "game",
-      "publishedAt": null,
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "470059f9731ca2180aa5e2830ff852220516671efeefd0fd955013cd1a5ae3d1",
       "revision": 1,
       "importance": 40,
       "importanceReasons": [
@@ -1645,33 +1825,6 @@
       "tags": []
     },
     {
-      "id": "9a51a5f28e6ecedd5527d92c",
-      "title": "[続報] コンパニオンアプリ メンテナンス作業 終了時間変更のお知らせ(9/8) - document.getElementById('datetime-cf41ade4b46').innerHTML = ldst_strftime(1788859200, 'YMD');",
-      "url": "https://jp.finalfantasyxiv.com/lodestone/news/detail/d8742148f2e6560cf049cbbc56c24767a3f64669",
-      "sourceId": "ff14",
-      "sourceName": "FFXIV Lodestone",
-      "category": "game",
-      "publishedAt": null,
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "1773a0fc6c503f6c2bf93f14d298d1184c9cff8781e1af40f72058a1786ec3fc",
-      "revision": 1,
-      "importance": 100,
-      "importanceReasons": [
-        "公式一次情報",
-        "終了",
-        "メンテナンス"
-      ],
-      "tags": [
-        "終了・廃止",
-        "メンテナンス"
-      ]
-    },
-    {
       "id": "97dd22e71d9f14be348bb99e",
       "title": "Siemens製品に対するアップデート（2026年9月）",
       "url": "https://jvn.jp/vu/JVNVU97027767/",
@@ -2046,28 +2199,6 @@
       "tags": [
         "更新"
       ]
-    },
-    {
-      "id": "84b59285fad92b2dbcead6c2",
-      "title": "Lodestone 更新のお知らせ(9/8) - document.getElementById('datetime-8511b3be34c').innerHTML = ldst_strftime(1788862200, 'YMD');",
-      "url": "https://jp.finalfantasyxiv.com/lodestone/news/detail/60e481f8323d59ff69718f35d7558033a6d817c9",
-      "sourceId": "ff14",
-      "sourceName": "FFXIV Lodestone",
-      "category": "game",
-      "publishedAt": null,
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "89496fe3ea0be107d844d553c23c37f18ed366890ce77c1b93822620440ceb2e",
-      "revision": 1,
-      "importance": 40,
-      "importanceReasons": [
-        "公式一次情報"
-      ],
-      "tags": []
     },
     {
       "id": "8393c843a171d72369b2dfab",
@@ -3423,32 +3554,6 @@
       "tags": []
     },
     {
-      "id": "2f885ae6d5a20b5f3ab33268",
-      "title": "[メンテナンス] 全ワールド 緊急メンテナンス作業のお知らせ(9/9) - document.getElementById('datetime-022aef8660d').innerHTML = ldst_strftime(1788922800, 'YMD');",
-      "url": "https://jp.finalfantasyxiv.com/lodestone/news/detail/72aac553109b297701627aa3d40a56c560b68482",
-      "sourceId": "ff14",
-      "sourceName": "FFXIV Lodestone",
-      "category": "game",
-      "publishedAt": null,
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "a677894eb16d2d77fee4c6712f3f9a713ac3f69dd7916f89e913f3adb743b5c3",
-      "revision": 1,
-      "importance": 100,
-      "importanceReasons": [
-        "公式一次情報",
-        "緊急",
-        "メンテナンス"
-      ],
-      "tags": [
-        "メンテナンス"
-      ]
-    },
-    {
       "id": "2f00013902a29bc1e23dd248",
       "title": "Replit expands access to software creation with GPT-5.6 Luna",
       "url": "https://openai.com/index/replit",
@@ -3724,33 +3829,6 @@
       "tags": []
     },
     {
-      "id": "20d8db0ed2e25f63dbc811f6",
-      "title": "[続報] 全ワールド メンテナンス作業 終了時間変更のお知らせ(9/8) - document.getElementById('datetime-5f3af23f015').innerHTML = ldst_strftime(1788858600, 'YMD');",
-      "url": "https://jp.finalfantasyxiv.com/lodestone/news/detail/e7bd8349da50338f40ba8fa330c3bebf30b751cb",
-      "sourceId": "ff14",
-      "sourceName": "FFXIV Lodestone",
-      "category": "game",
-      "publishedAt": null,
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "d413770d0ef68572671d19abf05935fa505a4560fded477e2536df65f3596b80",
-      "revision": 1,
-      "importance": 100,
-      "importanceReasons": [
-        "公式一次情報",
-        "終了",
-        "メンテナンス"
-      ],
-      "tags": [
-        "終了・廃止",
-        "メンテナンス"
-      ]
-    },
-    {
       "id": "1dcea8b0f8acab144d9449d9",
       "title": "Introducing ChatGPT Images 2.5",
       "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
@@ -3792,29 +3870,6 @@
       "importance": 40,
       "importanceReasons": [
         "公式一次情報"
-      ],
-      "tags": []
-    },
-    {
-      "id": "18e63a246e56460ab63aa70c",
-      "title": "[重要] 不正アクセスとアカウント管理に関するご注意 - document.getElementById('datetime-7760c2adf3e').innerHTML = ldst_strftime(1665065700, 'YMD');",
-      "url": "https://jp.finalfantasyxiv.com/lodestone/news/detail/dbe2d8006c7907ab18e7b4335e9110c1e29309be",
-      "sourceId": "ff14",
-      "sourceName": "FFXIV Lodestone",
-      "category": "game",
-      "publishedAt": null,
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "3631bece1e44859056a865700881f0c25c5e73c157ea302ddebf3e4ec34dd3b8",
-      "revision": 1,
-      "importance": 60,
-      "importanceReasons": [
-        "公式一次情報",
-        "重要"
       ],
       "tags": []
     },
@@ -3977,31 +4032,6 @@
       "tags": []
     },
     {
-      "id": "0e30b22902505298c58e2b17",
-      "title": "[メンテナンス] アカウント管理システム メンテナンス作業のお知らせ(9/10) - document.getElementById('datetime-818ff6cf303').innerHTML = ldst_strftime(1788797700, 'YMD');",
-      "url": "https://jp.finalfantasyxiv.com/lodestone/news/detail/1801e3d29b5d20f8bd08d0186a0009da4e5514d9",
-      "sourceId": "ff14",
-      "sourceName": "FFXIV Lodestone",
-      "category": "game",
-      "publishedAt": null,
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "1eeefa1ac5f0e3a0174f1ce2506089d159e52bf00bbd03f779c23caa6fbde1ea",
-      "revision": 1,
-      "importance": 65,
-      "importanceReasons": [
-        "公式一次情報",
-        "メンテナンス"
-      ],
-      "tags": [
-        "メンテナンス"
-      ]
-    },
-    {
       "id": "0ca16046641d35482ad59cae",
       "title": "令和7年度（2025年度）公益法人に対する支出状況を掲載しました",
       "url": "https://www.digital.go.jp/procurement/disclosure/public-service-corporation-expenditure-inspection",
@@ -4021,29 +4051,6 @@
       "importanceReasons": [
         "公式一次情報",
         "24時間以内"
-      ],
-      "tags": []
-    },
-    {
-      "id": "0c66d4e4e2317615456cf097",
-      "title": "[重要] フィッシング詐欺サイトへ誘導するメッセージにご注意ください - document.getElementById('datetime-0a8a5310f97').innerHTML = ldst_strftime(1717583100, 'YMD');",
-      "url": "https://jp.finalfantasyxiv.com/lodestone/news/detail/320f3cc351972c741353e1b6178e81e136465f6a",
-      "sourceId": "ff14",
-      "sourceName": "FFXIV Lodestone",
-      "category": "game",
-      "publishedAt": null,
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "23fa7aafb0d43a9c9fe6b7ba29dca2e30496b5a8020c89e6752bf5629f03c0fb",
-      "revision": 1,
-      "importance": 60,
-      "importanceReasons": [
-        "公式一次情報",
-        "重要"
       ],
       "tags": []
     },

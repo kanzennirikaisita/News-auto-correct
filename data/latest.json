@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-09T06:55:38+00:00",
+  "generatedAt": "2026-09-09T06:58:02+00:00",
   "collector": {
-    "lastRun": "2026-09-09T06:55:38+00:00",
-    "success": 13,
-    "failed": 0
+    "lastRun": "2026-09-09T06:58:02+00:00",
+    "success": 8,
+    "failed": 1
   },
   "language": "ja",
   "sources": [
@@ -15,7 +15,7 @@
       "url": "https://www.digital.go.jp/rss/news.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-09T06:55:38+00:00",
+      "lastSuccess": "2026-09-09T06:58:02+00:00",
       "count": 31,
       "fetchedCount": 31
     },
@@ -26,7 +26,7 @@
       "url": "https://www.jpcert.or.jp/rss/jpcert.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-09T06:55:38+00:00",
+      "lastSuccess": "2026-09-09T06:58:02+00:00",
       "count": 20,
       "fetchedCount": 20
     },
@@ -37,7 +37,7 @@
       "url": "https://jvn.jp/rss/jvn.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-09T06:55:38+00:00",
+      "lastSuccess": "2026-09-09T06:58:02+00:00",
       "count": 17,
       "fetchedCount": 20
     },
@@ -48,64 +48,20 @@
       "url": "https://blogs.jpcert.or.jp/ja/atom.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-09T06:55:38+00:00",
+      "lastSuccess": "2026-09-09T06:58:02+00:00",
       "count": 15,
       "fetchedCount": 15
     },
     {
       "id": "openai",
-      "name": "OpenAI",
+      "name": "OpenAI 日本語ニュース",
       "category": "ai-dev",
-      "url": "https://openai.com/news/rss.xml",
-      "status": "ok",
-      "error": null,
+      "url": "https://openai.com/ja-JP/news/",
+      "status": "error",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
       "lastSuccess": "2026-09-09T06:55:38+00:00",
       "count": 0,
-      "fetchedCount": 1180
-    },
-    {
-      "id": "github",
-      "name": "GitHub Changelog",
-      "category": "ai-dev",
-      "url": "https://github.blog/changelog/feed/",
-      "status": "ok",
-      "error": null,
-      "lastSuccess": "2026-09-09T06:55:38+00:00",
-      "count": 0,
-      "fetchedCount": 10
-    },
-    {
-      "id": "dify",
-      "name": "Dify",
-      "category": "ai-dev",
-      "url": "https://api.github.com/repos/langgenius/dify/releases?per_page=30",
-      "status": "ok",
-      "error": null,
-      "lastSuccess": "2026-09-09T06:55:38+00:00",
-      "count": 0,
-      "fetchedCount": 27
-    },
-    {
-      "id": "codex",
-      "name": "Codex",
-      "category": "ai-dev",
-      "url": "https://api.github.com/repos/openai/codex/releases?per_page=10",
-      "status": "ok",
-      "error": null,
-      "lastSuccess": "2026-09-09T06:55:38+00:00",
-      "count": 0,
-      "fetchedCount": 5
-    },
-    {
-      "id": "claude-code",
-      "name": "Claude Code",
-      "category": "ai-dev",
-      "url": "https://api.github.com/repos/anthropics/claude-code/releases?per_page=30",
-      "status": "ok",
-      "error": null,
-      "lastSuccess": "2026-09-09T06:55:38+00:00",
-      "count": 0,
-      "fetchedCount": 30
+      "fetchedCount": 0
     },
     {
       "id": "ff14",
@@ -114,7 +70,7 @@
       "url": "https://jp.finalfantasyxiv.com/lodestone/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-09T06:55:38+00:00",
+      "lastSuccess": "2026-09-09T06:58:02+00:00",
       "count": 27,
       "fetchedCount": 30
     },
@@ -122,22 +78,22 @@
       "id": "elden-ring",
       "name": "ELDEN RING",
       "category": "game",
-      "url": "https://steamcommunity.com/games/1245620/rss/",
+      "url": "https://steamcommunity.com/games/1245620/rss/?l=japanese",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-09T06:55:38+00:00",
-      "count": 0,
+      "lastSuccess": "2026-09-09T06:58:02+00:00",
+      "count": 2,
       "fetchedCount": 10
     },
     {
       "id": "steam",
       "name": "Steam News",
       "category": "game",
-      "url": "https://store.steampowered.com/feeds/news/",
+      "url": "https://store.steampowered.com/feeds/news/?l=japanese",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-09T06:55:38+00:00",
-      "count": 0,
+      "lastSuccess": "2026-09-09T06:58:02+00:00",
+      "count": 3,
       "fetchedCount": 10
     },
     {
@@ -147,12 +103,134 @@
       "url": "https://www.apple.com/jp/newsroom/rss-feed.rss",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-09T06:55:38+00:00",
+      "lastSuccess": "2026-09-09T06:58:02+00:00",
       "count": 20,
       "fetchedCount": 20
     }
   ],
   "items": [
+    {
+      "id": "d9828b6b92fd769837ce8bd9",
+      "title": "荒廃した未来都市が舞台の過激ホバーバイクレース「Airframe Ultra」，11月5日に発売決定。Steamで体験版を配信開始",
+      "url": "https://store.steampowered.com/news/group/26736495/view/719041721925632024",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-09T06:25:17+00:00",
+      "detectedAt": "2026-09-09T06:58:02+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "fcb5a2a1a56fc54352770dd0e69726795280d830481c651a03719c801b573e31",
+      "revision": 1,
+      "importance": 60,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "開始"
+      ],
+      "tags": []
+    },
+    {
+      "id": "b7c9f8eee20a579a13b020b9",
+      "title": "アップデートファイル配信のお知らせ",
+      "url": "https://steamcommunity.com/games/1245620/announcements/detail/667248424192575312",
+      "sourceId": "elden-ring",
+      "sourceName": "ELDEN RING",
+      "category": "game",
+      "publishedAt": "2026-08-27T14:00:22+00:00",
+      "detectedAt": "2026-09-09T06:58:02+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "a1d1867a0eeb0a61c4cda5fa10edf50d9e5e59ae1c2629ff642b7635eca085b2",
+      "revision": 1,
+      "importance": 55,
+      "importanceReasons": [
+        "公式一次情報",
+        "アップデート"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "749d938885a1015958b9d74e",
+      "title": "Ver.3.2「秘密と、過去と、彼女たちと」アップデート詳細",
+      "url": "https://store.steampowered.com/news/app/4162040/view/714537487845820569",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-08T23:00:54+00:00",
+      "detectedAt": "2026-09-09T06:58:02+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "dedf395c7effa2f6c9e781dc2a2c80e9434d6efb271a24418adee7815686a13b",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "アップデート"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "492bb80ea87dbe99a06ca775",
+      "title": "「SILENT HILL f」×「都市伝説解体センター」コラボを開始。深水雛子と福来あざみが共演するスペシャルミニゲームも公開",
+      "url": "https://store.steampowered.com/news/group/26736495/view/719041721925632022",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-09T05:27:49+00:00",
+      "detectedAt": "2026-09-09T06:58:02+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "bedca8133d1b3c62461e6443ce59e4716b842d6d73e1bcb0465639bd940cde1c",
+      "revision": 1,
+      "importance": 60,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "開始"
+      ],
+      "tags": []
+    },
+    {
+      "id": "467f0e55ccdac27f43aa79e1",
+      "title": "更新のお知らせ(9/9)",
+      "url": "https://jp.finalfantasyxiv.com/lodestone/news/detail/f346f4ae54f64521be5b43cef043b43bcdb44d23",
+      "sourceId": "ff14",
+      "sourceName": "FFXIV Lodestone",
+      "category": "game",
+      "publishedAt": "2026-09-09T06:55:00+00:00",
+      "detectedAt": "2026-09-09T06:58:02+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "9b5e8480c24e34f08244c5155b582a18d5e50537dddc982c9f38ecd135d6fd62",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
     {
       "id": "f8c27174312917ddad75108c",
       "title": "baserCMS用プラグイン「BurgerEditor」における複数の脆弱性",

@@ -18,7 +18,7 @@ function article(item, compact=false) {
   const title=el('h3'); const link=el('a',item.title);link.href=item.url;link.target='_blank';link.rel='noopener noreferrer';link.dataset.action='open';link.dataset.id=item.id;link.setAttribute('aria-label',`${item.title}（元サイトを新しいタブで開く）`);title.append(link);
   const tail=el('div',undefined,'article-tail');const level=item.importance>=80?'🔥 優先':item.importance>=60?'重要':'通常';
   const score=el('span',`${level} ${item.importance}`,`score ${item.importance>=80?'urgent':item.importance>=60?'important':''}`);score.title=(item.importanceReasons||[]).join('・');
-  tail.append(score,el('span',`公開 ${fmt(item.publishedAt)}`));
+  tail.append(score,el('span',item.publishedAt ? `公開 ${fmt(item.publishedAt)}` : item.sourceUpdatedAt ? `配信更新 ${fmt(item.sourceUpdatedAt)}` : '公開日時不明'));
   const detected=el('div',`検知 ${fmt(item.detectedAt)}${item.updatedAt?` · 更新検知 ${fmt(item.updatedAt)}`:''}`,'detected');
   const actions=el('div',undefined,'article-actions'); const favorite=button(state.saved[item.id]?'★ 保存済み':'☆ 保存','save',item.id);favorite.setAttribute('aria-pressed',String(Boolean(state.saved[item.id])));favorite.setAttribute('aria-label',`${item.title}を${state.saved[item.id]?'保存から解除':'保存'}`);
   actions.append(favorite,button(isUnread(item,state)?'既読にする':'未読に戻す','read',item.id),button(showHidden?'再表示':'非表示',showHidden?'restore':'hide',item.id));

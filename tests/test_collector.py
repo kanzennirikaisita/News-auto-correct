@@ -66,10 +66,19 @@ class CollectorTests(unittest.TestCase):
         self.assertEqual(row['sourceUpdatedAt'],'2026-09-09T00:00:00Z')
         with self.assertRaises(ValueError):parse_feed(b'<html>blocked</html>',SOURCE)
 
+    def test_cdata_example_is_not_an_xml_entity(self):
+        raw=feed(content="<![CDATA[Example: <!DOCTYPE html>]]>")
+        self.assertEqual(len(parse_feed(raw,SOURCE)),1)
+        with self.assertRaises(ValueError):
+            parse_feed(b'<!DOCTYPE rss [<!ENTITY a "boom">]><rss/>',SOURCE)
+
     def test_html_and_github(self):
         source={**SOURCE,'type':'html-links','linkPattern':'/news/detail/'}
         rows=parse(b'<a href="/news/detail/123"><span>A useful news title</span></a><a href="/login">Login</a>',source)
         self.assertEqual(len(rows),1)
+        scripted=parse(b'<a href="/news/detail/123">News title here<script>document.getElementById("x"); ldst_strftime(1788922800, \'YMD\');</script></a>',source)
+        self.assertEqual(scripted[0]['title'],'News title here')
+        self.assertIsNotNone(scripted[0]['publishedAt'])
         gh={**SOURCE,'type':'github-releases'}
         raw=json.dumps([{'name':'v1.0','tag_name':'v1.0','html_url':'https://example.org/v1','published_at':None,'draft':False,'prerelease':False},{'draft':True}]).encode()
         self.assertEqual(len(parse(raw,gh)),1)

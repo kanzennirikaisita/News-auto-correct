@@ -6,7 +6,7 @@
   {"id":"openai","name":"OpenAI","category":"ai-dev","type":"rss","url":"https://openai.com/news/rss.xml","enabled":true,"official":true},
   {"id":"github","name":"GitHub Changelog","category":"ai-dev","type":"rss","url":"https://github.blog/changelog/feed/","enabled":true,"official":true},
   {"id":"dify","name":"Dify","category":"ai-dev","type":"github-releases","url":"https://api.github.com/repos/langgenius/dify/releases?per_page=30","enabled":true,"official":true},
-  {"id":"codex","name":"Codex","category":"ai-dev","type":"github-releases","url":"https://api.github.com/repos/openai/codex/releases?per_page=30","enabled":true,"official":true},
+  {"id":"codex","name":"Codex","category":"ai-dev","type":"github-releases","url":"https://api.github.com/repos/openai/codex/releases?per_page=10","enabled":true,"official":true},
   {"id":"claude-code","name":"Claude Code","category":"ai-dev","type":"github-releases","url":"https://api.github.com/repos/anthropics/claude-code/releases?per_page=30","enabled":true,"official":true},
   {"id":"ff14","name":"FFXIV Lodestone","category":"game","type":"html-links","url":"https://jp.finalfantasyxiv.com/lodestone/news/","linkPattern":"/lodestone/(news/detail|topics/detail)/[a-f0-9]+","enabled":true,"official":true},
   {"id":"elden-ring","name":"ELDEN RING","category":"game","type":"rss","url":"https://steamcommunity.com/games/1245620/rss/","enabled":true,"official":true},

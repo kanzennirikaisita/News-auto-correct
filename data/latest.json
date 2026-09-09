@@ -323,29 +323,6 @@
       ]
     },
     {
-      "id": "18e63a246e56460ab63aa70c",
-      "title": "[重要] 不正アクセスとアカウント管理に関するご注意",
-      "url": "https://jp.finalfantasyxiv.com/lodestone/news/detail/dbe2d8006c7907ab18e7b4335e9110c1e29309be",
-      "sourceId": "ff14",
-      "sourceName": "FFXIV Lodestone",
-      "category": "game",
-      "publishedAt": "2022-10-06T14:15:00+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": "2026-09-09T03:26:17+00:00",
-      "sourceUpdatedAt": null,
-      "changeType": "updated",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "fefe37e3b646b84758f621765b0df6e1e0848a1dc6eb53b0be1ed312c14058c0",
-      "revision": 2,
-      "importance": 60,
-      "importanceReasons": [
-        "公式一次情報",
-        "重要"
-      ],
-      "tags": []
-    },
-    {
       "id": "0e30b22902505298c58e2b17",
       "title": "[メンテナンス] アカウント管理システム メンテナンス作業のお知らせ(9/10)",
       "url": "https://jp.finalfantasyxiv.com/lodestone/news/detail/1801e3d29b5d20f8bd08d0186a0009da4e5514d9",
@@ -371,29 +348,6 @@
       ]
     },
     {
-      "id": "0c66d4e4e2317615456cf097",
-      "title": "[重要] フィッシング詐欺サイトへ誘導するメッセージにご注意ください",
-      "url": "https://jp.finalfantasyxiv.com/lodestone/news/detail/320f3cc351972c741353e1b6178e81e136465f6a",
-      "sourceId": "ff14",
-      "sourceName": "FFXIV Lodestone",
-      "category": "game",
-      "publishedAt": "2024-06-05T10:25:00+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": "2026-09-09T03:26:17+00:00",
-      "sourceUpdatedAt": null,
-      "changeType": "updated",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "e0ec888d64722219716f5232d4207d75481df5fca6c0c237cb5d0ffa2f08773e",
-      "revision": 2,
-      "importance": 60,
-      "importanceReasons": [
-        "公式一次情報",
-        "重要"
-      ],
-      "tags": []
-    },
-    {
       "id": "fe23f369e01db08d4a047717",
       "title": "Expanding OpenAI’s presence in Brazil",
       "url": "https://openai.com/index/expanding-our-presence-in-brazil",
@@ -408,28 +362,6 @@
       "kind": "article",
       "summary": null,
       "contentHash": "8eda214a1ee8c571ef964bfbf86c8af40ff0d8912bd69cd6d2e38d640e0a4f59",
-      "revision": 1,
-      "importance": 40,
-      "importanceReasons": [
-        "公式一次情報"
-      ],
-      "tags": []
-    },
-    {
-      "id": "fccc2338e08956613812b1a6",
-      "title": "Apple、新しいインテリジェンスフレームワークと先進的なツールでアプリ開発を支援",
-      "url": "https://www.apple.com/jp/newsroom/2026/06/apple-aids-app-development-with-new-intelligence-frameworks-and-advanced-tools/",
-      "sourceId": "apple",
-      "sourceName": "Apple Newsroom",
-      "category": "gadget",
-      "publishedAt": null,
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": "2026-06-08T21:04:53+00:00",
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "18e5fd3b1527db2d5c26c728ce56950299a93d0b8b6ac4c727b7d66aa8e1f014",
       "revision": 1,
       "importance": 40,
       "importanceReasons": [
@@ -845,28 +777,6 @@
       "tags": []
     },
     {
-      "id": "c84446bac6d3451e5203794f",
-      "title": "チェロキー語学習者がiPadとMacで世代をつなぐ",
-      "url": "https://www.apple.com/jp/newsroom/2026/05/cherokee-language-learners-bridge-generations-with-ipad-and-mac/",
-      "sourceId": "apple",
-      "sourceName": "Apple Newsroom",
-      "category": "gadget",
-      "publishedAt": null,
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": "2026-06-18T01:41:40+00:00",
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "3eb4fdb6695abda84277d30412a833e832df2bb2e8e488f48d3c5a00075f1892",
-      "revision": 1,
-      "importance": 40,
-      "importanceReasons": [
-        "公式一次情報"
-      ],
-      "tags": []
-    },
-    {
       "id": "c3b0ed374d41680783fa20fc",
       "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
       "url": "https://openai.com/index/chatgpt-for-teens",
@@ -1259,28 +1169,6 @@
       "tags": []
     },
     {
-      "id": "b2bc7dd622ab78f4951bf6b8",
-      "title": "Apple、エミー賞で記録的な89のノミネートを獲得",
-      "url": "https://www.apple.com/jp/newsroom/2026/07/apple-scores-record-89-emmy-award-nominations/",
-      "sourceId": "apple",
-      "sourceName": "Apple Newsroom",
-      "category": "gadget",
-      "publishedAt": null,
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": "2026-07-10T11:05:30+00:00",
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "acc8e1e749aaaf9a95d1b3d25290e347427d2219379eebdaf4797c6acd511e8a",
-      "revision": 1,
-      "importance": 40,
-      "importanceReasons": [
-        "公式一次情報"
-      ],
-      "tags": []
-    },
-    {
       "id": "b1d37f2dbb807d34da9edb94",
       "title": "Apache TomcatのWebSocket chatサンプルにおけるサービス運用妨害（DoS）の脆弱性（2026年7月28日）",
       "url": "https://jvn.jp/vu/JVNVU99139115/",
@@ -1504,28 +1392,6 @@
       "tags": []
     },
     {
-      "id": "a9cca26232f4c71a783811cf",
-      "title": "リーグカップが、8月4日（日本時間8月5日）にApple TVでキックオフ",
-      "url": "https://www.apple.com/jp/newsroom/2026/08/leagues-cup-kicks-off-tomorrow-august-4-on-apple-tv/",
-      "sourceId": "apple",
-      "sourceName": "Apple Newsroom",
-      "category": "gadget",
-      "publishedAt": null,
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": "2026-08-03T15:01:21+00:00",
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "da2fb35e478ddc92ee1150fc717935e2e338fd0ffaa68b7779f9023ef833eac7",
-      "revision": 1,
-      "importance": 40,
-      "importanceReasons": [
-        "公式一次情報"
-      ],
-      "tags": []
-    },
-    {
       "id": "a89443cb5e344baa9f128a92",
       "title": "AppleとMLB、「フライデーナイト ベースボール」の9月のスケジュールを発表",
       "url": "https://www.apple.com/jp/newsroom/2026/08/apple-mlb-announce-september-friday-night-baseball-schedule/",
@@ -1638,50 +1504,6 @@
       "importanceReasons": [
         "公式一次情報",
         "24時間以内"
-      ],
-      "tags": []
-    },
-    {
-      "id": "9fbf0983639c64f08d53542b",
-      "title": "AppleCare+が日本で拡大、新しい盗難・紛失に対する保証とプランのオプションが追加に",
-      "url": "https://www.apple.com/jp/newsroom/2026/07/applecareplus-expands-in-japan-with-new-theft-and-loss-coverage-and-plan-options/",
-      "sourceId": "apple",
-      "sourceName": "Apple Newsroom",
-      "category": "gadget",
-      "publishedAt": null,
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": "2026-07-21T20:58:28+00:00",
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "bf25f55c53ee83b0d955a62a3811c3b4542b226fd540cfa161591b279a3cc439",
-      "revision": 1,
-      "importance": 40,
-      "importanceReasons": [
-        "公式一次情報"
-      ],
-      "tags": []
-    },
-    {
-      "id": "9f23f2ef6596a39f28e6611e",
-      "title": "8月6日、アメリカンフットボールのプレイを楽しめる「Madden NFL 27 Arcade Edition」がApple Arcadeに登場",
-      "url": "https://www.apple.com/jp/newsroom/2026/07/madden-nfl-27-arcade-edition-brings-gridiron-action-to-apple-arcade-on-august-6/",
-      "sourceId": "apple",
-      "sourceName": "Apple Newsroom",
-      "category": "gadget",
-      "publishedAt": null,
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": "2026-07-14T14:01:34+00:00",
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "4eab6cf7dbc9450dcb72113af838ccc42759220131028061bae7fbcf8c620592",
-      "revision": 1,
-      "importance": 40,
-      "importanceReasons": [
-        "公式一次情報"
       ],
       "tags": []
     },
@@ -2087,28 +1909,6 @@
       "tags": []
     },
     {
-      "id": "8af6f384c50d4972fd13687c",
-      "title": "Apple、ブラジルでのiOSにおける変更を発表",
-      "url": "https://www.apple.com/jp/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
-      "sourceId": "apple",
-      "sourceName": "Apple Newsroom",
-      "category": "gadget",
-      "publishedAt": null,
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": "2026-06-18T15:01:38+00:00",
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "63c2ff677c050f9f259d061cc155576415de679c739e60605207e86a65e5b265",
-      "revision": 1,
-      "importance": 40,
-      "importanceReasons": [
-        "公式一次情報"
-      ],
-      "tags": []
-    },
-    {
       "id": "8a7fefae5eaf24e1d55d47c0",
       "title": "オプションアイテム追加＆新生記念セール スタート！",
       "url": "https://jp.finalfantasyxiv.com/lodestone/topics/detail/20d2e650948e8a3b3ce95a06a162dde4aaa58cd2",
@@ -2145,28 +1945,6 @@
       "kind": "article",
       "summary": null,
       "contentHash": "68c4c4fd3645ab3490a5642d24273eb49ce3b7e32ec297a8d3225b3c03fd6268",
-      "revision": 1,
-      "importance": 40,
-      "importanceReasons": [
-        "公式一次情報"
-      ],
-      "tags": []
-    },
-    {
-      "id": "8882df7728d4110a920aa07d",
-      "title": "メジャーリーグサッカーが明日Apple TVに帰ってきます",
-      "url": "https://www.apple.com/jp/newsroom/2026/07/major-league-soccer-returns-to-apple-tv-tomorrow/",
-      "sourceId": "apple",
-      "sourceName": "Apple Newsroom",
-      "category": "gadget",
-      "publishedAt": null,
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": "2026-07-15T15:00:12+00:00",
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "b4a313bbc9479961de3b32badb789eea4b372ba53e7e1eed38fd789b5ef41a05",
       "revision": 1,
       "importance": 40,
       "importanceReasons": [
@@ -2547,50 +2325,6 @@
       "tags": [
         "セキュリティ"
       ]
-    },
-    {
-      "id": "71d011b8f6cbb719c6656990",
-      "title": "Apple Creator Studioがよりスマートに、より高速に、連係が向上",
-      "url": "https://www.apple.com/jp/newsroom/2026/06/apple-creator-studio-gets-smarter-faster-and-more-connected/",
-      "sourceId": "apple",
-      "sourceName": "Apple Newsroom",
-      "category": "gadget",
-      "publishedAt": null,
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": "2026-06-30T17:00:26+00:00",
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "75aa69efc3c5924347cb957433436e013eba65a6c76983adcbf8f5b2f82cb035",
-      "revision": 1,
-      "importance": 40,
-      "importanceReasons": [
-        "公式一次情報"
-      ],
-      "tags": []
-    },
-    {
-      "id": "6ff1b850147b82dce87d13eb",
-      "title": "AppleとMajor League Baseball、「フライデーナイト ベースボール」の8月のスケジュールを発表",
-      "url": "https://www.apple.com/jp/newsroom/2026/07/apple-and-major-league-baseball-announce-august-friday-night-baseball-schedule/",
-      "sourceId": "apple",
-      "sourceName": "Apple Newsroom",
-      "category": "gadget",
-      "publishedAt": null,
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": "2026-07-09T16:00:18+00:00",
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "1a891803463fdd87da7b3312d78030dae93974f47ac42d6f285ac98234a9e4e1",
-      "revision": 1,
-      "importance": 40,
-      "importanceReasons": [
-        "公式一次情報"
-      ],
-      "tags": []
     },
     {
       "id": "6f8368ac763b73731923fdf2",
@@ -3398,28 +3132,6 @@
       "tags": []
     },
     {
-      "id": "36efbdc240e5274174c03846",
-      "title": "React2Shellを悪用する複数の攻撃アクターによる侵害事例",
-      "url": "https://blogs.jpcert.or.jp/ja/2026/02/react2shell.html",
-      "sourceId": "jpcert-blog",
-      "sourceName": "JPCERT/CC Eyes",
-      "category": "work",
-      "publishedAt": "2026-02-13T02:00:00+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": "2026-09-01T04:30:56+00:00",
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "5f32c3595a1c01c22af3e220d51ab3646f9c83bba1ca38baf271e571a7098a6b",
-      "revision": 1,
-      "importance": 40,
-      "importanceReasons": [
-        "公式一次情報"
-      ],
-      "tags": []
-    },
-    {
       "id": "363f86ae1e9f82a4b28fdaa1",
       "title": "都道府県を中心とした地方自治体システムの共同調達に関するダッシュボードを更新しました",
       "url": "https://www.digital.go.jp/resources/govdashboard/prefecture_local_government_system_joint_prefecture",
@@ -3852,28 +3564,6 @@
       "tags": []
     },
     {
-      "id": "1acdc17b099b65ce794bd362",
-      "title": "Apple、第3四半期の業績を発表",
-      "url": "https://www.apple.com/jp/newsroom/2026/07/apple-reports-third-quarter-results/",
-      "sourceId": "apple",
-      "sourceName": "Apple Newsroom",
-      "category": "gadget",
-      "publishedAt": null,
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": "2026-07-31T03:22:56+00:00",
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "7850b289bcc4a4718d7be19c01b3b396ba5ae2899c58ecc14593a60569f2251c",
-      "revision": 1,
-      "importance": 40,
-      "importanceReasons": [
-        "公式一次情報"
-      ],
-      "tags": []
-    },
-    {
       "id": "16f28ff578d12f37da60ccdd",
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月08日）",
       "url": "https://jvn.jp/vu/JVNVU93257103/",
@@ -4215,28 +3905,6 @@
       "tags": []
     },
     {
-      "id": "05d7a958b79a16488e31dc62",
-      "title": "Apple、様々なサービスに導入される革新的な機能とインテリジェンス体験を発表",
-      "url": "https://www.apple.com/jp/newsroom/2026/06/apple-unveils-innovative-features-and-intelligence-experiences-across-services/",
-      "sourceId": "apple",
-      "sourceName": "Apple Newsroom",
-      "category": "gadget",
-      "publishedAt": null,
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": "2026-06-09T13:04:11+00:00",
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "fca3e00badf3b5f07ef4e3553fd61f1b4952936bfc7f9eb62a696d599788da07",
-      "revision": 1,
-      "importance": 40,
-      "importanceReasons": [
-        "公式一次情報"
-      ],
-      "tags": []
-    },
-    {
       "id": "041974a0ae2f17d2985701d3",
       "title": "「黄金秘話」第6話公開！",
       "url": "https://jp.finalfantasyxiv.com/lodestone/topics/detail/a4ae60b835f3334555703c6b0fd3eae3b2fb4e1d",
@@ -4557,32 +4225,6 @@
       ]
     },
     {
-      "id": "b4a5078b867d2be19dbfff81",
-      "title": "Dify 1.15.0",
-      "url": "https://github.com/langgenius/dify/releases/tag/1.15.0",
-      "sourceId": "dify",
-      "sourceName": "Dify",
-      "category": "ai-dev",
-      "publishedAt": "2026-06-25T13:16:14+00:00",
-      "detectedAt": "2026-09-09T03:16:47+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": "2026-09-01T16:00:04+00:00",
-      "changeType": "new",
-      "kind": "release",
-      "summary": null,
-      "contentHash": "1aa0dbc51f178287c39fcbf37a69ea6fd337139bbf1c8b99541ce662fdf7e7ee",
-      "revision": 1,
-      "importance": 65,
-      "importanceReasons": [
-        "公式一次情報",
-        "バージョン公開",
-        "dify"
-      ],
-      "tags": [
-        "更新"
-      ]
-    },
-    {
       "id": "a8d513fb104884f5c706dccb",
       "title": "Codex 0.153.0",
       "url": "https://github.com/openai/codex/releases/tag/rust-v0.153.0",
@@ -4762,34 +4404,6 @@
       ]
     },
     {
-      "id": "8f62bc1d25dba6ca5b994764",
-      "title": "Dify v1.16.1 - Bug Fixes and Security Enhancements",
-      "url": "https://github.com/langgenius/dify/releases/tag/1.16.1",
-      "sourceId": "dify",
-      "sourceName": "Dify",
-      "category": "ai-dev",
-      "publishedAt": "2026-07-28T03:43:51+00:00",
-      "detectedAt": "2026-09-09T03:16:47+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": "2026-09-01T15:59:51+00:00",
-      "changeType": "new",
-      "kind": "release",
-      "summary": null,
-      "contentHash": "7ff4b44fd1e895a8f6157a59b75a0f66e9a935803df7508b27eee4d69130bfd1",
-      "revision": 1,
-      "importance": 85,
-      "importanceReasons": [
-        "公式一次情報",
-        "バージョン公開",
-        "security",
-        "dify"
-      ],
-      "tags": [
-        "セキュリティ",
-        "更新"
-      ]
-    },
-    {
       "id": "8803993ba68a72b7a513fb49",
       "title": "Claude Code v2.1.235",
       "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.235",
@@ -4909,32 +4523,6 @@
       "importanceReasons": [
         "公式一次情報",
         "バージョン公開"
-      ],
-      "tags": [
-        "更新"
-      ]
-    },
-    {
-      "id": "6b1ae1400526ed94fce0318d",
-      "title": "Dify v1.16.0",
-      "url": "https://github.com/langgenius/dify/releases/tag/1.16.0",
-      "sourceId": "dify",
-      "sourceName": "Dify",
-      "category": "ai-dev",
-      "publishedAt": "2026-07-17T11:14:06+00:00",
-      "detectedAt": "2026-09-09T03:16:47+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": "2026-09-01T16:00:43+00:00",
-      "changeType": "new",
-      "kind": "release",
-      "summary": null,
-      "contentHash": "0ebbf80f677287e55cb5bf3c980478f59a2b8cd41e2d4c6e37491bac1a550c38",
-      "revision": 1,
-      "importance": 65,
-      "importanceReasons": [
-        "公式一次情報",
-        "バージョン公開",
-        "dify"
       ],
       "tags": [
         "更新"

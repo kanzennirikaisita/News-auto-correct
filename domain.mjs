@@ -3,7 +3,7 @@ export const changedAt = item => item.updatedAt || item.detectedAt;
 export const version = item => `${item.id}:${item.revision || item.contentHash || changedAt(item)}`;
 export const isUnread = (item, state) => state.read[item.id] !== version(item);
 export const sinceLastCheck = (item, state) => !state.cutoff || Date.parse(changedAt(item)) > Date.parse(state.cutoff);
-export const byChange = (a,b) => Date.parse(changedAt(b)) - Date.parse(changedAt(a)) || a.id.localeCompare(b.id);
+export const byChange = (a,b) => Date.parse(changedAt(b)) - Date.parse(changedAt(a)) || (Date.parse(b.publishedAt || b.sourceUpdatedAt) || 0) - (Date.parse(a.publishedAt || a.sourceUpdatedAt) || 0) || a.id.localeCompare(b.id);
 export const byImportance = (a,b) => b.importance - a.importance || byChange(a,b);
 export function initialState(raw = {}) {
   const object = x => x && typeof x === 'object' && !Array.isArray(x) ? x : {};

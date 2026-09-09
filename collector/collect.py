@@ -67,7 +67,8 @@ def child(node, *names):
 
 
 def parse_feed(raw, source):
-    if b"<!DOCTYPE" in raw.upper() or b"<!ENTITY" in raw.upper():
+    markup = re.sub(br'<!\[CDATA\[.*?\]\]>', b'', raw, flags=re.S)
+    if b"<!DOCTYPE" in markup.upper() or b"<!ENTITY" in markup.upper():
         raise ValueError("XML entities are unsupported")
     root = ET.fromstring(raw)
     if root.tag.rsplit("}", 1)[-1] not in ("rss", "RDF", "feed"):

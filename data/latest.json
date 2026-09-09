@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-09T03:26:17+00:00",
+  "generatedAt": "2026-09-09T03:28:56+00:00",
   "collector": {
-    "lastRun": "2026-09-09T03:26:17+00:00",
-    "success": 11,
-    "failed": 2
+    "lastRun": "2026-09-09T03:28:56+00:00",
+    "success": 13,
+    "failed": 0
   },
   "sources": [
     {
@@ -14,7 +14,7 @@
       "url": "https://www.digital.go.jp/rss/news.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-09T03:26:17+00:00",
+      "lastSuccess": "2026-09-09T03:28:56+00:00",
       "count": 34
     },
     {
@@ -24,7 +24,7 @@
       "url": "https://www.jpcert.or.jp/rss/jpcert.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-09T03:26:17+00:00",
+      "lastSuccess": "2026-09-09T03:28:56+00:00",
       "count": 20
     },
     {
@@ -34,7 +34,7 @@
       "url": "https://jvn.jp/rss/jvn.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-09T03:26:17+00:00",
+      "lastSuccess": "2026-09-09T03:28:56+00:00",
       "count": 20
     },
     {
@@ -44,7 +44,7 @@
       "url": "https://blogs.jpcert.or.jp/ja/atom.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-09T03:26:17+00:00",
+      "lastSuccess": "2026-09-09T03:28:56+00:00",
       "count": 15
     },
     {
@@ -54,7 +54,7 @@
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-09T03:26:17+00:00",
+      "lastSuccess": "2026-09-09T03:28:56+00:00",
       "count": 200
     },
     {
@@ -62,10 +62,10 @@
       "name": "GitHub Changelog",
       "category": "ai-dev",
       "url": "https://github.blog/changelog/feed/",
-      "status": "error",
-      "error": "ValueError: XML entities are unsupported",
-      "lastSuccess": null,
-      "count": 0
+      "status": "ok",
+      "error": null,
+      "lastSuccess": "2026-09-09T03:28:56+00:00",
+      "count": 10
     },
     {
       "id": "dify",
@@ -74,18 +74,18 @@
       "url": "https://api.github.com/repos/langgenius/dify/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-09T03:26:17+00:00",
+      "lastSuccess": "2026-09-09T03:28:56+00:00",
       "count": 27
     },
     {
       "id": "codex",
       "name": "Codex",
       "category": "ai-dev",
-      "url": "https://api.github.com/repos/openai/codex/releases?per_page=30",
-      "status": "error",
-      "error": "ValueError: Source exceeds size limit",
-      "lastSuccess": "2026-09-09T03:16:47+00:00",
-      "count": 0
+      "url": "https://api.github.com/repos/openai/codex/releases?per_page=10",
+      "status": "ok",
+      "error": null,
+      "lastSuccess": "2026-09-09T03:28:56+00:00",
+      "count": 5
     },
     {
       "id": "claude-code",
@@ -94,7 +94,7 @@
       "url": "https://api.github.com/repos/anthropics/claude-code/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-09T03:26:17+00:00",
+      "lastSuccess": "2026-09-09T03:28:56+00:00",
       "count": 30
     },
     {
@@ -104,7 +104,7 @@
       "url": "https://jp.finalfantasyxiv.com/lodestone/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-09T03:26:17+00:00",
+      "lastSuccess": "2026-09-09T03:28:56+00:00",
       "count": 30
     },
     {
@@ -114,7 +114,7 @@
       "url": "https://steamcommunity.com/games/1245620/rss/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-09T03:26:17+00:00",
+      "lastSuccess": "2026-09-09T03:28:56+00:00",
       "count": 10
     },
     {
@@ -124,7 +124,7 @@
       "url": "https://store.steampowered.com/feeds/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-09T03:26:17+00:00",
+      "lastSuccess": "2026-09-09T03:28:56+00:00",
       "count": 10
     },
     {
@@ -134,11 +134,343 @@
       "url": "https://www.apple.com/jp/newsroom/rss-feed.rss",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-09T03:26:17+00:00",
+      "lastSuccess": "2026-09-09T03:28:56+00:00",
       "count": 20
     }
   ],
   "items": [
+    {
+      "id": "cf45e2be25e062a0c2997346",
+      "title": "GPT-6 Astra is generally available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-09-04-gpt-6-astra-is-generally-available-in-github-copilot",
+      "sourceId": "github",
+      "sourceName": "GitHub Changelog",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-04T18:59:51+00:00",
+      "detectedAt": "2026-09-09T03:28:56+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "c3fb8871605de163589bf44aef8288ca888e70820e46e6da46ae5d9b86cdad5d",
+      "revision": 1,
+      "importance": 40,
+      "importanceReasons": [
+        "公式一次情報"
+      ],
+      "tags": []
+    },
+    {
+      "id": "c96e7378059165d6a60dd1c4",
+      "title": "New API endpoint provides privacy-safe star history data",
+      "url": "https://github.blog/changelog/2026-09-04-new-api-endpoint-provides-privacy-safe-star-history-data",
+      "sourceId": "github",
+      "sourceName": "GitHub Changelog",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-04T16:43:56+00:00",
+      "detectedAt": "2026-09-09T03:28:56+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "e26f493543c640efb22bd4d91526739206b375076ac3070b8f348609e9f925e5",
+      "revision": 1,
+      "importance": 40,
+      "importanceReasons": [
+        "公式一次情報"
+      ],
+      "tags": []
+    },
+    {
+      "id": "b4a5078b867d2be19dbfff81",
+      "title": "Dify 1.15.0",
+      "url": "https://github.com/langgenius/dify/releases/tag/1.15.0",
+      "sourceId": "dify",
+      "sourceName": "Dify",
+      "category": "ai-dev",
+      "publishedAt": "2026-06-25T13:16:14+00:00",
+      "detectedAt": "2026-09-09T03:28:56+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-09-01T16:00:04+00:00",
+      "changeType": "new",
+      "kind": "release",
+      "summary": null,
+      "contentHash": "1aa0dbc51f178287c39fcbf37a69ea6fd337139bbf1c8b99541ce662fdf7e7ee",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "バージョン公開",
+        "dify"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "8f62bc1d25dba6ca5b994764",
+      "title": "Dify v1.16.1 - Bug Fixes and Security Enhancements",
+      "url": "https://github.com/langgenius/dify/releases/tag/1.16.1",
+      "sourceId": "dify",
+      "sourceName": "Dify",
+      "category": "ai-dev",
+      "publishedAt": "2026-07-28T03:43:51+00:00",
+      "detectedAt": "2026-09-09T03:28:56+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-09-01T15:59:51+00:00",
+      "changeType": "new",
+      "kind": "release",
+      "summary": null,
+      "contentHash": "7ff4b44fd1e895a8f6157a59b75a0f66e9a935803df7508b27eee4d69130bfd1",
+      "revision": 1,
+      "importance": 85,
+      "importanceReasons": [
+        "公式一次情報",
+        "バージョン公開",
+        "security",
+        "dify"
+      ],
+      "tags": [
+        "セキュリティ",
+        "更新"
+      ]
+    },
+    {
+      "id": "7905e02a3e2fcd1df2b9d8a9",
+      "title": "Upcoming deprecation of selected GitHub Copilot models",
+      "url": "https://github.blog/changelog/2026-09-03-upcoming-deprecation-of-selected-github-copilot-models",
+      "sourceId": "github",
+      "sourceName": "GitHub Changelog",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-03T19:40:14+00:00",
+      "detectedAt": "2026-09-09T03:28:56+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "ea0a17ac92158be359616cccb00dddaaeb44c1faab5e9966e252557161629d00",
+      "revision": 1,
+      "importance": 40,
+      "importanceReasons": [
+        "公式一次情報"
+      ],
+      "tags": []
+    },
+    {
+      "id": "6b1ae1400526ed94fce0318d",
+      "title": "Dify v1.16.0",
+      "url": "https://github.com/langgenius/dify/releases/tag/1.16.0",
+      "sourceId": "dify",
+      "sourceName": "Dify",
+      "category": "ai-dev",
+      "publishedAt": "2026-07-17T11:14:06+00:00",
+      "detectedAt": "2026-09-09T03:28:56+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-09-01T16:00:43+00:00",
+      "changeType": "new",
+      "kind": "release",
+      "summary": null,
+      "contentHash": "0ebbf80f677287e55cb5bf3c980478f59a2b8cd41e2d4c6e37491bac1a550c38",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "バージョン公開",
+        "dify"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "56c4269b99a656fe7ff20a44",
+      "title": "Enterprise-managed sandbox in Copilot for JetBrains",
+      "url": "https://github.blog/changelog/2026-09-08-enterprise-managed-sandbox-in-copilot-for-jetbrains",
+      "sourceId": "github",
+      "sourceName": "GitHub Changelog",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-09T02:43:38+00:00",
+      "detectedAt": "2026-09-09T03:28:56+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "023da9e4b6553d1706aa8944ad7516ce4d41131709f1ae5329e610a3c1e4945c",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "5024ef0cc7b0b96301fd1468",
+      "title": "GitHub Enterprise Server 3.22 is now generally available",
+      "url": "https://github.blog/changelog/2026-09-08-github-enterprise-server-3-22-is-now-generally-available",
+      "sourceId": "github",
+      "sourceName": "GitHub Changelog",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-08T21:52:42+00:00",
+      "detectedAt": "2026-09-09T03:28:56+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "a10537a2c11a99de941afe0d36c331a0395a0e4a3c55747480c0acbd5a67e76f",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "473fea8bb1cbf9cbdac8b2a5",
+      "title": "GitHub Actions: Early September 2026 updates",
+      "url": "https://github.blog/changelog/2026-09-03-github-actions-early-september-2026-updates",
+      "sourceId": "github",
+      "sourceName": "GitHub Changelog",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-03T20:30:53+00:00",
+      "detectedAt": "2026-09-09T03:28:56+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "9dd36068efca6e78fb2865c48828c304d50f335d36100e13fe18b0e04ff7b9d0",
+      "revision": 1,
+      "importance": 55,
+      "importanceReasons": [
+        "公式一次情報",
+        "update"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "36efbdc240e5274174c03846",
+      "title": "React2Shellを悪用する複数の攻撃アクターによる侵害事例",
+      "url": "https://blogs.jpcert.or.jp/ja/2026/02/react2shell.html",
+      "sourceId": "jpcert-blog",
+      "sourceName": "JPCERT/CC Eyes",
+      "category": "work",
+      "publishedAt": "2026-02-13T02:00:00+00:00",
+      "detectedAt": "2026-09-09T03:28:56+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-09-01T04:30:56+00:00",
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "5f32c3595a1c01c22af3e220d51ab3646f9c83bba1ca38baf271e571a7098a6b",
+      "revision": 1,
+      "importance": 40,
+      "importanceReasons": [
+        "公式一次情報"
+      ],
+      "tags": []
+    },
+    {
+      "id": "33eecf1d106431d923355b6c",
+      "title": "Automatic Dependabot access to GitHub-hosted registries",
+      "url": "https://github.blog/changelog/2026-09-08-automatic-dependabot-access-to-github-hosted-registries",
+      "sourceId": "github",
+      "sourceName": "GitHub Changelog",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-08T16:46:05+00:00",
+      "detectedAt": "2026-09-09T03:28:56+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "ab109994617846e5d2ca3ddff2e17d43fae709b40d357d3416508604af578001",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "322b7c88af36f3ac7934c0ba",
+      "title": "Multiple trusted publishing configurations for npm",
+      "url": "https://github.blog/changelog/2026-09-03-multiple-trusted-publishing-configurations-for-npm",
+      "sourceId": "github",
+      "sourceName": "GitHub Changelog",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-03T20:34:34+00:00",
+      "detectedAt": "2026-09-09T03:28:56+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "78c9d365899ca205cfe10995a5b381ad9d5ce37c6326c60245ad52dd7c98aa2e",
+      "revision": 1,
+      "importance": 40,
+      "importanceReasons": [
+        "公式一次情報"
+      ],
+      "tags": []
+    },
+    {
+      "id": "306fd67e2ac59a7669c508a2",
+      "title": "New customer portal help.github.com",
+      "url": "https://github.blog/changelog/2026-09-08-new-customer-portal-help-github-com",
+      "sourceId": "github",
+      "sourceName": "GitHub Changelog",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-08T18:00:10+00:00",
+      "detectedAt": "2026-09-09T03:28:56+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "bc9a1fdfd22bc893e6c5c8e30762fda61fac8127796507b189c52b968b54abe3",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "0ae7999661e848f084ecbd1e",
+      "title": "GitHub Copilot weekly releases — August 31",
+      "url": "https://github.blog/changelog/2026-09-04-github-copilot-weekly-releases-august-31",
+      "sourceId": "github",
+      "sourceName": "GitHub Changelog",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-04T21:05:01+00:00",
+      "detectedAt": "2026-09-09T03:28:56+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "05ea867dc6184ee9aff9239f6372903fe208372e7621730865a5b11e48b011b0",
+      "revision": 1,
+      "importance": 55,
+      "importanceReasons": [
+        "公式一次情報",
+        "release"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
     {
       "id": "cb21266417edd1d963a6a120",
       "title": "[メンテナンス] オンラインストア／モグステーション メンテナンス作業のお知らせ(9/10)",

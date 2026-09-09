@@ -1,0 +1,14 @@
+{
+  "base": 20,
+  "official": 20,
+  "fresh": 10,
+  "release": 15,
+  "keywords": {"脆弱性":30,"緊急":40,"障害":40,"終了":30,"提供開始":20,"アップデート":15,"リリース":15,"メンテナンス":15,"重要":20,"security":20,"vulnerability":30,"critical":30,"maintenance":15,"patch":15,"update":15,"release":15},
+  "categories": {
+    "work":{"標準化":20,"ガバメントクラウド":20,"自治体":10,"生成AI":10,"注意喚起":20},
+    "ai-dev":{"breaking":20,"deprecated":20,"codex":10,"dify":10},
+    "game":{"イベント":10,"開始":10,"終了":10,"メンテナンス":10,"パッチ":15},
+    "gadget":{"iPhone":10,"Apple Watch":10,"vision":10,"Quest":10}
+  },
+  "tagKeywords": {"セキュリティ":["脆弱性","security","vulnerability","注意喚起"],"イベント":["イベント","開催","event"],"終了・廃止":["終了","廃止","deprecated"],"メンテナンス":["メンテナンス","maintenance"],"更新":["リリース","release","アップデート","patch","update"]}
+}

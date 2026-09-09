@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-09T06:58:02+00:00",
+  "generatedAt": "2026-09-09T06:59:25+00:00",
   "collector": {
-    "lastRun": "2026-09-09T06:58:02+00:00",
+    "lastRun": "2026-09-09T06:59:25+00:00",
     "success": 8,
-    "failed": 1
+    "failed": 0
   },
   "language": "ja",
   "sources": [
@@ -15,7 +15,7 @@
       "url": "https://www.digital.go.jp/rss/news.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-09T06:58:02+00:00",
+      "lastSuccess": "2026-09-09T06:59:25+00:00",
       "count": 31,
       "fetchedCount": 31
     },
@@ -26,7 +26,7 @@
       "url": "https://www.jpcert.or.jp/rss/jpcert.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-09T06:58:02+00:00",
+      "lastSuccess": "2026-09-09T06:59:25+00:00",
       "count": 20,
       "fetchedCount": 20
     },
@@ -37,7 +37,7 @@
       "url": "https://jvn.jp/rss/jvn.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-09T06:58:02+00:00",
+      "lastSuccess": "2026-09-09T06:59:25+00:00",
       "count": 17,
       "fetchedCount": 20
     },
@@ -48,20 +48,9 @@
       "url": "https://blogs.jpcert.or.jp/ja/atom.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-09T06:58:02+00:00",
+      "lastSuccess": "2026-09-09T06:59:25+00:00",
       "count": 15,
       "fetchedCount": 15
-    },
-    {
-      "id": "openai",
-      "name": "OpenAI 日本語ニュース",
-      "category": "ai-dev",
-      "url": "https://openai.com/ja-JP/news/",
-      "status": "error",
-      "error": "HTTPError: HTTP Error 403: Forbidden",
-      "lastSuccess": "2026-09-09T06:55:38+00:00",
-      "count": 0,
-      "fetchedCount": 0
     },
     {
       "id": "ff14",
@@ -70,7 +59,7 @@
       "url": "https://jp.finalfantasyxiv.com/lodestone/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-09T06:58:02+00:00",
+      "lastSuccess": "2026-09-09T06:59:25+00:00",
       "count": 27,
       "fetchedCount": 30
     },
@@ -81,7 +70,7 @@
       "url": "https://steamcommunity.com/games/1245620/rss/?l=japanese",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-09T06:58:02+00:00",
+      "lastSuccess": "2026-09-09T06:59:25+00:00",
       "count": 2,
       "fetchedCount": 10
     },
@@ -92,7 +81,7 @@
       "url": "https://store.steampowered.com/feeds/news/?l=japanese",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-09T06:58:02+00:00",
+      "lastSuccess": "2026-09-09T06:59:25+00:00",
       "count": 3,
       "fetchedCount": 10
     },
@@ -103,7 +92,7 @@
       "url": "https://www.apple.com/jp/newsroom/rss-feed.rss",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-09T06:58:02+00:00",
+      "lastSuccess": "2026-09-09T06:59:25+00:00",
       "count": 20,
       "fetchedCount": 20
     }

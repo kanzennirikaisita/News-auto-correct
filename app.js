@@ -96,7 +96,7 @@ $('#show-all').addEventListener('click',()=>{view='all';showHidden=false;limit=3
 $('#show-hidden').addEventListener('click',()=>{showHidden=!showHidden;limit=30;render();});
 $('#more').addEventListener('click',()=>{limit+=30;render();});
 window.addEventListener('online',refresh);window.addEventListener('offline',()=>{$('#connection').textContent='オフライン';});
-window.addEventListener('storage',event=>{if(event.key===KEY){try{state=initialState(JSON.parse(event.newValue||'{}'));render();}catch{/* Ignore malformed writes in another tab. */}});
+window.addEventListener('storage',event=>{if(event.key===KEY){try{state=initialState(JSON.parse(event.newValue||'{}'));render();}catch{/* Ignore malformed writes in another tab. */}}});
 document.addEventListener('visibilitychange',()=>{if(document.visibilityState==='visible')refresh();});
 applyTheme();
 if('serviceWorker' in navigator){navigator.serviceWorker.register('./sw.js',{scope:'./'}).then(()=>navigator.serviceWorker.ready).then(registration=>registration.active?.postMessage('CACHE_FEED')).catch(()=>notify('オフライン用の準備ができませんでした。オンラインでは利用できます。'));}

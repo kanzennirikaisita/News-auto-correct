@@ -98,22 +98,36 @@ class NewsLinks(HTMLParser):
     def __init__(self, source):
         super().__init__()
         self.source, self.rows, self.link, self.words = source, [], None, []
+        self.ignored = None
+        self.published = None
 
     def handle_starttag(self, tag, attrs):
+        if tag in ('script', 'style'):
+            self.ignored = tag
         if tag == "a":
             href = dict(attrs).get("href", "")
             self.link = urljoin(self.source["url"], href) if re.search(self.source["linkPattern"], href) else None
             self.words = []
+            self.published = None
 
     def handle_data(self, data):
+        if self.ignored:
+            # Lodestone renders dates from literal Unix timestamps. Never execute page code.
+            if self.link and self.ignored == 'script':
+                match = re.search(r'ldst_strftime\((\d{10}),', data)
+                if match:
+                    self.published = stamp(datetime.fromtimestamp(int(match[1]), UTC))
+            return
         if self.link:
             self.words.append(data)
 
     def handle_endtag(self, tag):
+        if tag == self.ignored:
+            self.ignored = None
         if tag == "a" and self.link:
-            title = clean(" ".join(self.words))
+            title = clean(" ".join(self.words)).rstrip(' -')
             if len(title) > 8:
-                self.rows.append({"title": title, "url": self.link, "publishedAt": None, "content": ""})
+                self.rows.append({"title": title, "url": self.link, "publishedAt": self.published, "content": ""})
             self.link = None
 
 
@@ -195,7 +209,7 @@ def collect(sources, rules, previous, now, loader=fetch):
                 raise ValueError("No valid articles")
             return source, valid, None
         except Exception as exc:  # A failed source must not destroy the last good feed.
-            return source, [], type(exc).__name__
+            return source, [], f'{type(exc).__name__}: {str(exc)[:160]}'
 
     # Ordered map gives deterministic source priority for exact cross-source URL duplicates.
     with ThreadPoolExecutor(max_workers=4) as pool:
@@ -218,7 +232,8 @@ def collect(sources, rules, previous, now, loader=fetch):
             fingerprint = digest(json.dumps([title_key(row["title"]), row.get("content", ""),
                                              stamp(modified) if modified else None], ensure_ascii=False))
             changed = prev is not None and prev.get("contentHash") != fingerprint
-            if prev is None and pub and pub < now - timedelta(days=30) and (not modified or modified < now - timedelta(days=30)):
+            effective = pub or modified
+            if prev is None and effective and effective < now - timedelta(days=30) and (not modified or modified < now - timedelta(days=30)):
                 continue
             item = {"id": identity, "title": row["title"], "url": row["url"],
                     "sourceId": source["id"], "sourceName": source["name"], "category": source["category"],

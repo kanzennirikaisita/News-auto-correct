@@ -1,0 +1,1185 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-09T03:16:47+00:00",
+  "collector": {
+    "lastRun": "2026-09-09T03:16:47+00:00",
+    "success": 3,
+    "failed": 10,
+    "mode": "snapshot-replay"
+  },
+  "sources": [
+    {
+      "id": "digital-agency",
+      "name": "デジタル庁",
+      "category": "work",
+      "url": "https://www.digital.go.jp/rss/news.xml",
+      "status": "error",
+      "error": "FileNotFoundError",
+      "lastSuccess": null,
+      "count": 0
+    },
+    {
+      "id": "jpcert",
+      "name": "JPCERT/CC",
+      "category": "work",
+      "url": "https://www.jpcert.or.jp/rss/jpcert.rdf",
+      "status": "error",
+      "error": "FileNotFoundError",
+      "lastSuccess": null,
+      "count": 0
+    },
+    {
+      "id": "jvn",
+      "name": "JVN",
+      "category": "work",
+      "url": "https://jvn.jp/rss/jvn.rdf",
+      "status": "error",
+      "error": "FileNotFoundError",
+      "lastSuccess": null,
+      "count": 0
+    },
+    {
+      "id": "jpcert-blog",
+      "name": "JPCERT/CC Eyes",
+      "category": "work",
+      "url": "https://blogs.jpcert.or.jp/ja/atom.xml",
+      "status": "error",
+      "error": "FileNotFoundError",
+      "lastSuccess": null,
+      "count": 0
+    },
+    {
+      "id": "openai",
+      "name": "OpenAI",
+      "category": "ai-dev",
+      "url": "https://openai.com/news/rss.xml",
+      "status": "error",
+      "error": "FileNotFoundError",
+      "lastSuccess": null,
+      "count": 0
+    },
+    {
+      "id": "github",
+      "name": "GitHub Changelog",
+      "category": "ai-dev",
+      "url": "https://github.blog/changelog/feed/",
+      "status": "error",
+      "error": "FileNotFoundError",
+      "lastSuccess": null,
+      "count": 0
+    },
+    {
+      "id": "dify",
+      "name": "Dify",
+      "category": "ai-dev",
+      "url": "https://api.github.com/repos/langgenius/dify/releases?per_page=30",
+      "status": "ok",
+      "error": null,
+      "lastSuccess": "2026-09-09T03:16:47+00:00",
+      "count": 27
+    },
+    {
+      "id": "codex",
+      "name": "Codex",
+      "category": "ai-dev",
+      "url": "https://api.github.com/repos/openai/codex/releases?per_page=30",
+      "status": "ok",
+      "error": null,
+      "lastSuccess": "2026-09-09T03:16:47+00:00",
+      "count": 8
+    },
+    {
+      "id": "claude-code",
+      "name": "Claude Code",
+      "category": "ai-dev",
+      "url": "https://api.github.com/repos/anthropics/claude-code/releases?per_page=30",
+      "status": "ok",
+      "error": null,
+      "lastSuccess": "2026-09-09T03:16:47+00:00",
+      "count": 30
+    },
+    {
+      "id": "ff14",
+      "name": "FFXIV Lodestone",
+      "category": "game",
+      "url": "https://jp.finalfantasyxiv.com/lodestone/news/",
+      "status": "error",
+      "error": "FileNotFoundError",
+      "lastSuccess": null,
+      "count": 0
+    },
+    {
+      "id": "elden-ring",
+      "name": "ELDEN RING",
+      "category": "game",
+      "url": "https://steamcommunity.com/games/1245620/rss/",
+      "status": "error",
+      "error": "FileNotFoundError",
+      "lastSuccess": null,
+      "count": 0
+    },
+    {
+      "id": "steam",
+      "name": "Steam News",
+      "category": "game",
+      "url": "https://store.steampowered.com/feeds/news/",
+      "status": "error",
+      "error": "FileNotFoundError",
+      "lastSuccess": null,
+      "count": 0
+    },
+    {
+      "id": "apple",
+      "name": "Apple Newsroom",
+      "category": "gadget",
+      "url": "https://www.apple.com/jp/newsroom/rss-feed.rss",
+      "status": "error",
+      "error": "FileNotFoundError",
+      "lastSuccess": null,
+      "count": 0
+    }
+  ],
+  "items": [
+    {
+      "id": "f490c97781fc0cfaa11cffd7",
+      "title": "Codex 0.152.1",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.152.1",
+      "sourceId": "codex",
+      "sourceName": "Codex",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-01T22:33:02+00:00",
+      "detectedAt": "2026-09-09T03:16:47+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-09-01T22:34:23+00:00",
+      "changeType": "new",
+      "kind": "release",
+      "summary": null,
+      "contentHash": "887129f80dc64b822d09f77b06bfc80a5e1ba09f0989cc68451858f7abf4cde2",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "バージョン公開",
+        "codex"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "e2ea6ef4c9fbfcebbf6527b5",
+      "title": "Claude Code v2.1.236",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.236",
+      "sourceId": "claude-code",
+      "sourceName": "Claude Code",
+      "category": "ai-dev",
+      "publishedAt": "2026-08-19T20:02:05+00:00",
+      "detectedAt": "2026-09-09T03:16:47+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-08-19T20:02:05+00:00",
+      "changeType": "new",
+      "kind": "release",
+      "summary": null,
+      "contentHash": "7ec2cf7d5c47916a6372777a46ba6dd5d713d43da2f64e1c9bdea062c2ff5450",
+      "revision": 1,
+      "importance": 55,
+      "importanceReasons": [
+        "公式一次情報",
+        "バージョン公開"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "d01d94a1b000c188353b2e74",
+      "title": "Claude Code v2.1.245",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.245",
+      "sourceId": "claude-code",
+      "sourceName": "Claude Code",
+      "category": "ai-dev",
+      "publishedAt": "2026-08-25T05:13:24+00:00",
+      "detectedAt": "2026-09-09T03:16:47+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-08-25T05:13:24+00:00",
+      "changeType": "new",
+      "kind": "release",
+      "summary": null,
+      "contentHash": "b576c6df0a4c952cf135e3708036cd7844bff275325cd5639f103722e33232dc",
+      "revision": 1,
+      "importance": 55,
+      "importanceReasons": [
+        "公式一次情報",
+        "バージョン公開"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "cf565721454d59f87ec84063",
+      "title": "Codex 0.153.4",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.153.4",
+      "sourceId": "codex",
+      "sourceName": "Codex",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-04T23:25:48+00:00",
+      "detectedAt": "2026-09-09T03:16:47+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-09-04T23:27:38+00:00",
+      "changeType": "new",
+      "kind": "release",
+      "summary": null,
+      "contentHash": "58fc00e79f6080f833101ed200aa18881618bb70fd38b306eaa814ba09c57f30",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "バージョン公開",
+        "codex"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "ca3eff0a8509d6f23e5e4b7c",
+      "title": "Claude Code v2.1.248",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.248",
+      "sourceId": "claude-code",
+      "sourceName": "Claude Code",
+      "category": "ai-dev",
+      "publishedAt": "2026-08-27T22:12:20+00:00",
+      "detectedAt": "2026-09-09T03:16:47+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-08-27T22:12:20+00:00",
+      "changeType": "new",
+      "kind": "release",
+      "summary": null,
+      "contentHash": "eb23f5ef4b7dba873f824947ded207155f9cb8ce1f930b676aea3a3eafbf541b",
+      "revision": 1,
+      "importance": 55,
+      "importanceReasons": [
+        "公式一次情報",
+        "バージョン公開"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "c2db1cf2bc94be3c93d111d6",
+      "title": "Claude Code v2.1.252",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.252",
+      "sourceId": "claude-code",
+      "sourceName": "Claude Code",
+      "category": "ai-dev",
+      "publishedAt": "2026-08-31T19:46:55+00:00",
+      "detectedAt": "2026-09-09T03:16:47+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-08-31T19:46:55+00:00",
+      "changeType": "new",
+      "kind": "release",
+      "summary": null,
+      "contentHash": "d4579d244fc3f8f3034a81890e8cb19b4fbfa655d4443a9ea7f71389e4d3b77d",
+      "revision": 1,
+      "importance": 55,
+      "importanceReasons": [
+        "公式一次情報",
+        "バージョン公開"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "bfbd56339d1454eaf4f86118",
+      "title": "Claude Code v2.1.250",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.250",
+      "sourceId": "claude-code",
+      "sourceName": "Claude Code",
+      "category": "ai-dev",
+      "publishedAt": "2026-08-28T00:49:16+00:00",
+      "detectedAt": "2026-09-09T03:16:47+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-08-28T00:49:16+00:00",
+      "changeType": "new",
+      "kind": "release",
+      "summary": null,
+      "contentHash": "c8bb4f3d73bf4fbfe2f377876941d5dfcadac19626369ed9597716132efbc1c3",
+      "revision": 1,
+      "importance": 55,
+      "importanceReasons": [
+        "公式一次情報",
+        "バージョン公開"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "bca8f082890e28004d0b95ca",
+      "title": "Codex 0.153.3",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.153.3",
+      "sourceId": "codex",
+      "sourceName": "Codex",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-04T19:01:32+00:00",
+      "detectedAt": "2026-09-09T03:16:47+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-09-04T19:02:49+00:00",
+      "changeType": "new",
+      "kind": "release",
+      "summary": null,
+      "contentHash": "c2a735b6ecca7e792248cc0a71b4731474d208f5026d1a243af37f99b6a7ce84",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "バージョン公開",
+        "codex"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "b7b96dd0ccd56642a4555484",
+      "title": "Claude Code v2.1.247",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.247",
+      "sourceId": "claude-code",
+      "sourceName": "Claude Code",
+      "category": "ai-dev",
+      "publishedAt": "2026-08-26T23:06:39+00:00",
+      "detectedAt": "2026-09-09T03:16:47+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-08-26T23:06:39+00:00",
+      "changeType": "new",
+      "kind": "release",
+      "summary": null,
+      "contentHash": "b3ab267ebeed5a5b9b303d9a3e4a98882c48766ca27d6ff36461954a6ca414a6",
+      "revision": 1,
+      "importance": 55,
+      "importanceReasons": [
+        "公式一次情報",
+        "バージョン公開"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "b56da077d21ad4f4e702dd04",
+      "title": "Claude Code v2.1.233",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.233",
+      "sourceId": "claude-code",
+      "sourceName": "Claude Code",
+      "category": "ai-dev",
+      "publishedAt": "2026-08-14T22:20:57+00:00",
+      "detectedAt": "2026-09-09T03:16:47+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-08-14T22:20:57+00:00",
+      "changeType": "new",
+      "kind": "release",
+      "summary": null,
+      "contentHash": "ec387d29948e5e97fe292bbfc2933140dc89369603fc82d28be98f2f0ffa33fe",
+      "revision": 1,
+      "importance": 55,
+      "importanceReasons": [
+        "公式一次情報",
+        "バージョン公開"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "b4a5078b867d2be19dbfff81",
+      "title": "Dify 1.15.0",
+      "url": "https://github.com/langgenius/dify/releases/tag/1.15.0",
+      "sourceId": "dify",
+      "sourceName": "Dify",
+      "category": "ai-dev",
+      "publishedAt": "2026-06-25T13:16:14+00:00",
+      "detectedAt": "2026-09-09T03:16:47+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-09-01T16:00:04+00:00",
+      "changeType": "new",
+      "kind": "release",
+      "summary": null,
+      "contentHash": "1aa0dbc51f178287c39fcbf37a69ea6fd337139bbf1c8b99541ce662fdf7e7ee",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "バージョン公開",
+        "dify"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "a8d513fb104884f5c706dccb",
+      "title": "Codex 0.153.0",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.153.0",
+      "sourceId": "codex",
+      "sourceName": "Codex",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-03T01:37:38+00:00",
+      "detectedAt": "2026-09-09T03:16:47+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-09-03T01:39:03+00:00",
+      "changeType": "new",
+      "kind": "release",
+      "summary": null,
+      "contentHash": "0c825367867fb039d05df77c5e0052ec837b82404919c8bf3726963d9f016433",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "バージョン公開",
+        "codex"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "a8b453e50c4ca1e9aca5616b",
+      "title": "Dify v1.17.0",
+      "url": "https://github.com/langgenius/dify/releases/tag/1.17.0",
+      "sourceId": "dify",
+      "sourceName": "Dify",
+      "category": "ai-dev",
+      "publishedAt": "2026-08-25T11:28:25+00:00",
+      "detectedAt": "2026-09-09T03:16:47+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-09-01T15:49:46+00:00",
+      "changeType": "new",
+      "kind": "release",
+      "summary": null,
+      "contentHash": "7f6b88936358af0a9c4d458c42b39838d1a4695d72c912ff5c9605cc56b02cef",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "バージョン公開",
+        "dify"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "9f6c5c8aa766c6f70a5ca91d",
+      "title": "Claude Code v2.1.266",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.266",
+      "sourceId": "claude-code",
+      "sourceName": "Claude Code",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-08T23:55:14+00:00",
+      "detectedAt": "2026-09-09T03:16:47+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-09-08T23:55:14+00:00",
+      "changeType": "new",
+      "kind": "release",
+      "summary": null,
+      "contentHash": "b2521572b9984ff8af9e5cdbf3040670082da55ea82218247fd30b10736339d4",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "バージョン公開"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "9f28e3e9d3a9b17b2366065c",
+      "title": "Codex 0.153.2",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.153.2",
+      "sourceId": "codex",
+      "sourceName": "Codex",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-03T23:53:12+00:00",
+      "detectedAt": "2026-09-09T03:16:47+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-09-03T23:54:50+00:00",
+      "changeType": "new",
+      "kind": "release",
+      "summary": null,
+      "contentHash": "4ed81f25347a38704bfe2bafb2466d3b9517a1358f01b8fece0599aa2c8f4c20",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "バージョン公開",
+        "codex"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "9b452026d55c467553cf9713",
+      "title": "Claude Code v2.1.238",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.238",
+      "sourceId": "claude-code",
+      "sourceName": "Claude Code",
+      "category": "ai-dev",
+      "publishedAt": "2026-08-20T20:33:51+00:00",
+      "detectedAt": "2026-09-09T03:16:47+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-08-20T20:33:51+00:00",
+      "changeType": "new",
+      "kind": "release",
+      "summary": null,
+      "contentHash": "754147d8b64a4afa1cc20dd4aff71551838e06018098df544896c40d68b904df",
+      "revision": 1,
+      "importance": 55,
+      "importanceReasons": [
+        "公式一次情報",
+        "バージョン公開"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "93601d11e4db33a82f529c44",
+      "title": "Claude Code v2.1.260",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.260",
+      "sourceId": "claude-code",
+      "sourceName": "Claude Code",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-03T23:48:12+00:00",
+      "detectedAt": "2026-09-09T03:16:47+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-09-03T23:48:12+00:00",
+      "changeType": "new",
+      "kind": "release",
+      "summary": null,
+      "contentHash": "e53e74fc2812385c4feeff3e3fa3c5dda84e46074221cd61fbcf16e1fa1bd408",
+      "revision": 1,
+      "importance": 55,
+      "importanceReasons": [
+        "公式一次情報",
+        "バージョン公開"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "922161a7fd90f8e5f9c17534",
+      "title": "Claude Code v2.1.240",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.240",
+      "sourceId": "claude-code",
+      "sourceName": "Claude Code",
+      "category": "ai-dev",
+      "publishedAt": "2026-08-22T14:45:30+00:00",
+      "detectedAt": "2026-09-09T03:16:47+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-08-22T14:45:30+00:00",
+      "changeType": "new",
+      "kind": "release",
+      "summary": null,
+      "contentHash": "3a5f43566d47fbb8865286bc4767d28f840c909ab8078af1fe0154c349eb360c",
+      "revision": 1,
+      "importance": 55,
+      "importanceReasons": [
+        "公式一次情報",
+        "バージョン公開"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "8f62bc1d25dba6ca5b994764",
+      "title": "Dify v1.16.1 - Bug Fixes and Security Enhancements",
+      "url": "https://github.com/langgenius/dify/releases/tag/1.16.1",
+      "sourceId": "dify",
+      "sourceName": "Dify",
+      "category": "ai-dev",
+      "publishedAt": "2026-07-28T03:43:51+00:00",
+      "detectedAt": "2026-09-09T03:16:47+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-09-01T15:59:51+00:00",
+      "changeType": "new",
+      "kind": "release",
+      "summary": null,
+      "contentHash": "7ff4b44fd1e895a8f6157a59b75a0f66e9a935803df7508b27eee4d69130bfd1",
+      "revision": 1,
+      "importance": 85,
+      "importanceReasons": [
+        "公式一次情報",
+        "バージョン公開",
+        "security",
+        "dify"
+      ],
+      "tags": [
+        "セキュリティ",
+        "更新"
+      ]
+    },
+    {
+      "id": "8803993ba68a72b7a513fb49",
+      "title": "Claude Code v2.1.235",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.235",
+      "sourceId": "claude-code",
+      "sourceName": "Claude Code",
+      "category": "ai-dev",
+      "publishedAt": "2026-08-18T20:38:54+00:00",
+      "detectedAt": "2026-09-09T03:16:47+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-08-18T20:38:54+00:00",
+      "changeType": "new",
+      "kind": "release",
+      "summary": null,
+      "contentHash": "6565afc2d99ecbadf8c84ec82a998b466bd9492f26d306fcb79dfe75d7d29b9e",
+      "revision": 1,
+      "importance": 55,
+      "importanceReasons": [
+        "公式一次情報",
+        "バージョン公開"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "7c76a455bae5923b1dddb820",
+      "title": "Claude Code v2.1.261",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.261",
+      "sourceId": "claude-code",
+      "sourceName": "Claude Code",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-04T19:58:10+00:00",
+      "detectedAt": "2026-09-09T03:16:47+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-09-04T19:58:10+00:00",
+      "changeType": "new",
+      "kind": "release",
+      "summary": null,
+      "contentHash": "d10630073d5812fbbae1dd07aa31f527739c73f9f4bf10e8c7578afc12570586",
+      "revision": 1,
+      "importance": 55,
+      "importanceReasons": [
+        "公式一次情報",
+        "バージョン公開"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "7b1fa515c92a7efc85473c4d",
+      "title": "Claude Code v2.1.246",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.246",
+      "sourceId": "claude-code",
+      "sourceName": "Claude Code",
+      "category": "ai-dev",
+      "publishedAt": "2026-08-25T22:31:52+00:00",
+      "detectedAt": "2026-09-09T03:16:47+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-08-25T22:31:52+00:00",
+      "changeType": "new",
+      "kind": "release",
+      "summary": null,
+      "contentHash": "d623f73d136f5a124fac4ea62d9aad2bac190f3e527aa30016d022cbab03ed90",
+      "revision": 1,
+      "importance": 55,
+      "importanceReasons": [
+        "公式一次情報",
+        "バージョン公開"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "7728fa2f91b704b59a069d64",
+      "title": "Claude Code v2.1.257",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.257",
+      "sourceId": "claude-code",
+      "sourceName": "Claude Code",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-01T17:53:52+00:00",
+      "detectedAt": "2026-09-09T03:16:47+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-09-01T17:53:52+00:00",
+      "changeType": "new",
+      "kind": "release",
+      "summary": null,
+      "contentHash": "511b656370b9570738b9b0b88ed8eb83ffe69157f2e78e6ca3d9dde2f3886252",
+      "revision": 1,
+      "importance": 55,
+      "importanceReasons": [
+        "公式一次情報",
+        "バージョン公開"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "6d9f931d3f4a007e7501309a",
+      "title": "Claude Code v2.1.232",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.232",
+      "sourceId": "claude-code",
+      "sourceName": "Claude Code",
+      "category": "ai-dev",
+      "publishedAt": "2026-08-13T23:29:59+00:00",
+      "detectedAt": "2026-09-09T03:16:47+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-08-13T23:29:59+00:00",
+      "changeType": "new",
+      "kind": "release",
+      "summary": null,
+      "contentHash": "9950cc9c12654a90f174dd7987adfe37ad61034c81139c0fd776bf6939b2fdb1",
+      "revision": 1,
+      "importance": 55,
+      "importanceReasons": [
+        "公式一次情報",
+        "バージョン公開"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "6b1ae1400526ed94fce0318d",
+      "title": "Dify v1.16.0",
+      "url": "https://github.com/langgenius/dify/releases/tag/1.16.0",
+      "sourceId": "dify",
+      "sourceName": "Dify",
+      "category": "ai-dev",
+      "publishedAt": "2026-07-17T11:14:06+00:00",
+      "detectedAt": "2026-09-09T03:16:47+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-09-01T16:00:43+00:00",
+      "changeType": "new",
+      "kind": "release",
+      "summary": null,
+      "contentHash": "0ebbf80f677287e55cb5bf3c980478f59a2b8cd41e2d4c6e37491bac1a550c38",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "バージョン公開",
+        "dify"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "5971a4b7feb6a1abec79f9e9",
+      "title": "Claude Code v2.1.231",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.231",
+      "sourceId": "claude-code",
+      "sourceName": "Claude Code",
+      "category": "ai-dev",
+      "publishedAt": "2026-08-13T08:38:50+00:00",
+      "detectedAt": "2026-09-09T03:16:47+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-08-13T08:38:50+00:00",
+      "changeType": "new",
+      "kind": "release",
+      "summary": null,
+      "contentHash": "674d17258222933dd960a2af3c6359b7e65cd0f1398df93e8dcaa035b84cb115",
+      "revision": 1,
+      "importance": 55,
+      "importanceReasons": [
+        "公式一次情報",
+        "バージョン公開"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "3d4e408ad45e655255175e67",
+      "title": "Codex 0.152.0",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.152.0",
+      "sourceId": "codex",
+      "sourceName": "Codex",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-01T01:58:32+00:00",
+      "detectedAt": "2026-09-09T03:16:47+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-09-01T02:13:24+00:00",
+      "changeType": "new",
+      "kind": "release",
+      "summary": null,
+      "contentHash": "f0a1dfc9033afca50d85e29c6edab2e0c4f98468dc84100cebeb1a90b57db71a",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "バージョン公開",
+        "codex"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "3b44ef5086f0454cb73768b4",
+      "title": "Claude Code v2.1.241",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.241",
+      "sourceId": "claude-code",
+      "sourceName": "Claude Code",
+      "category": "ai-dev",
+      "publishedAt": "2026-08-23T00:52:16+00:00",
+      "detectedAt": "2026-09-09T03:16:47+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-08-23T00:52:16+00:00",
+      "changeType": "new",
+      "kind": "release",
+      "summary": null,
+      "contentHash": "67757d032349ff6915cf53de90f7fb2417c8a744e9c165d9f95ef87904426dda",
+      "revision": 1,
+      "importance": 55,
+      "importanceReasons": [
+        "公式一次情報",
+        "バージョン公開"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "31d0f6b1d6dddfa70fa6c72b",
+      "title": "Claude Code v2.1.239",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.239",
+      "sourceId": "claude-code",
+      "sourceName": "Claude Code",
+      "category": "ai-dev",
+      "publishedAt": "2026-08-21T19:54:23+00:00",
+      "detectedAt": "2026-09-09T03:16:47+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-08-21T19:54:23+00:00",
+      "changeType": "new",
+      "kind": "release",
+      "summary": null,
+      "contentHash": "935abf23f309274f36b10ae35f0eae8aae1c452cbd98334db8457897a1997060",
+      "revision": 1,
+      "importance": 55,
+      "importanceReasons": [
+        "公式一次情報",
+        "バージョン公開"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "254d61d6d41ff4c5b7738e29",
+      "title": "Claude Code v2.1.263",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.263",
+      "sourceId": "claude-code",
+      "sourceName": "Claude Code",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-06T02:54:20+00:00",
+      "detectedAt": "2026-09-09T03:16:47+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-09-06T02:54:20+00:00",
+      "changeType": "new",
+      "kind": "release",
+      "summary": null,
+      "contentHash": "8fa406dd930da01ba608b2e1f5f1fd4e527d00848a167a52caa87378c18fbed9",
+      "revision": 1,
+      "importance": 55,
+      "importanceReasons": [
+        "公式一次情報",
+        "バージョン公開"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "23cf4e186c350d8352f25398",
+      "title": "Claude Code v2.1.258",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.258",
+      "sourceId": "claude-code",
+      "sourceName": "Claude Code",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-01T22:33:20+00:00",
+      "detectedAt": "2026-09-09T03:16:47+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-09-01T22:33:20+00:00",
+      "changeType": "new",
+      "kind": "release",
+      "summary": null,
+      "contentHash": "e5a6c9d80500cb5368a1522ece4f9130f7e016d22d77b71c80ad6e64bdd9bbf2",
+      "revision": 1,
+      "importance": 55,
+      "importanceReasons": [
+        "公式一次情報",
+        "バージョン公開"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "2180229dc69461fd7a9db679",
+      "title": "Claude Code v2.1.251",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.251",
+      "sourceId": "claude-code",
+      "sourceName": "Claude Code",
+      "category": "ai-dev",
+      "publishedAt": "2026-08-28T18:19:32+00:00",
+      "detectedAt": "2026-09-09T03:16:47+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-08-28T18:19:32+00:00",
+      "changeType": "new",
+      "kind": "release",
+      "summary": null,
+      "contentHash": "e8a56d77170079e5384d1bd79666fb90c15a244bea3cfd906278ba8b3eb8aaac",
+      "revision": 1,
+      "importance": 55,
+      "importanceReasons": [
+        "公式一次情報",
+        "バージョン公開"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "20cf339db543fe6b132864d8",
+      "title": "Claude Code v2.1.229",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.229",
+      "sourceId": "claude-code",
+      "sourceName": "Claude Code",
+      "category": "ai-dev",
+      "publishedAt": "2026-08-12T20:56:22+00:00",
+      "detectedAt": "2026-09-09T03:16:47+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-08-12T20:56:22+00:00",
+      "changeType": "new",
+      "kind": "release",
+      "summary": null,
+      "contentHash": "54f9bbf7265e8b804db66bf49297d10e0adb1de10000d7d5261c3bb8987646a0",
+      "revision": 1,
+      "importance": 55,
+      "importanceReasons": [
+        "公式一次情報",
+        "バージョン公開"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "1f2ada50b57108708987bb5c",
+      "title": "Codex 0.151.0",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.151.0",
+      "sourceId": "codex",
+      "sourceName": "Codex",
+      "category": "ai-dev",
+      "publishedAt": "2026-08-29T09:55:39+00:00",
+      "detectedAt": "2026-09-09T03:16:47+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-08-29T09:57:02+00:00",
+      "changeType": "new",
+      "kind": "release",
+      "summary": null,
+      "contentHash": "16f793be2b3b70aaf6f6549a7ecc6c03234b6cc112464c18b6c1208c1a056226",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "バージョン公開",
+        "codex"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "172e2c60926f55b8e40195a2",
+      "title": "Claude Code v2.1.227",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.227",
+      "sourceId": "claude-code",
+      "sourceName": "Claude Code",
+      "category": "ai-dev",
+      "publishedAt": "2026-08-10T22:56:53+00:00",
+      "detectedAt": "2026-09-09T03:16:47+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-08-10T22:56:53+00:00",
+      "changeType": "new",
+      "kind": "release",
+      "summary": null,
+      "contentHash": "8b9779c0e21ee0389f9d3920b0a8ca0cf3faa166d8c3e38399c9faeec21038de",
+      "revision": 1,
+      "importance": 55,
+      "importanceReasons": [
+        "公式一次情報",
+        "バージョン公開"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "0e371a11c328c3722bc83342",
+      "title": "Claude Code v2.1.259",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.259",
+      "sourceId": "claude-code",
+      "sourceName": "Claude Code",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-02T22:33:51+00:00",
+      "detectedAt": "2026-09-09T03:16:47+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-09-02T22:33:51+00:00",
+      "changeType": "new",
+      "kind": "release",
+      "summary": null,
+      "contentHash": "6b1db21ab11123bb447f2a9bac9dcc4c7f484836b4b62460507516c0b488eabe",
+      "revision": 1,
+      "importance": 55,
+      "importanceReasons": [
+        "公式一次情報",
+        "バージョン公開"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "09d0c8e5c7031ff7de10566f",
+      "title": "Claude Code v2.1.237",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.237",
+      "sourceId": "claude-code",
+      "sourceName": "Claude Code",
+      "category": "ai-dev",
+      "publishedAt": "2026-08-20T00:54:41+00:00",
+      "detectedAt": "2026-09-09T03:16:47+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-08-20T00:54:41+00:00",
+      "changeType": "new",
+      "kind": "release",
+      "summary": null,
+      "contentHash": "8c8385f13414496e1a3189577bd381d3bf06cbbc448062b331361fd3738e401f",
+      "revision": 1,
+      "importance": 55,
+      "importanceReasons": [
+        "公式一次情報",
+        "バージョン公開"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "0754e13e69e8f4d353570608",
+      "title": "Claude Code v2.1.234",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.234",
+      "sourceId": "claude-code",
+      "sourceName": "Claude Code",
+      "category": "ai-dev",
+      "publishedAt": "2026-08-17T20:20:58+00:00",
+      "detectedAt": "2026-09-09T03:16:47+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-08-17T20:20:58+00:00",
+      "changeType": "new",
+      "kind": "release",
+      "summary": null,
+      "contentHash": "36e69ded7198252a79cd5fe96eda9153742cb4c9a83185a5f1d8433694ee9ee4",
+      "revision": 1,
+      "importance": 55,
+      "importanceReasons": [
+        "公式一次情報",
+        "バージョン公開"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "0388a4f55f4206c8f7537e41",
+      "title": "Codex 0.153.1",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.153.1",
+      "sourceId": "codex",
+      "sourceName": "Codex",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-03T21:02:56+00:00",
+      "detectedAt": "2026-09-09T03:16:47+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-09-03T21:05:14+00:00",
+      "changeType": "new",
+      "kind": "release",
+      "summary": null,
+      "contentHash": "89bfb7a76956cfd29592f8b1fccb451bea267ba42d100019bc1c35ef4cb5181e",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "バージョン公開",
+        "codex"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "03604cccd7e9402db1cd2b0c",
+      "title": "Claude Code v2.1.228",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.228",
+      "sourceId": "claude-code",
+      "sourceName": "Claude Code",
+      "category": "ai-dev",
+      "publishedAt": "2026-08-11T19:50:59+00:00",
+      "detectedAt": "2026-09-09T03:16:47+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-08-11T19:50:59+00:00",
+      "changeType": "new",
+      "kind": "release",
+      "summary": null,
+      "contentHash": "cf9bbd5346bc859689ccb646ae62c0935eb2a4b496d97b858ca510c43025bcd3",
+      "revision": 1,
+      "importance": 55,
+      "importanceReasons": [
+        "公式一次情報",
+        "バージョン公開"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "03061493556813e52972a941",
+      "title": "Claude Code v2.1.265",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.265",
+      "sourceId": "claude-code",
+      "sourceName": "Claude Code",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-08T20:37:31+00:00",
+      "detectedAt": "2026-09-09T03:16:47+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-09-08T20:37:31+00:00",
+      "changeType": "new",
+      "kind": "release",
+      "summary": null,
+      "contentHash": "f63b0d0742fc3c12b87166f2ed1b407b5b1c23f01b499984ce7ac4a2d406a8b9",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "バージョン公開"
+      ],
+      "tags": [
+        "更新"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+name: Collect radar feed
+on:
+  schedule:
+    # JST 07:17 / 12:17 / 18:17 / 22:17. UTC is nine hours behind JST.
+    - cron: '17 22,3,9,13 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main, feature/initial-personal-radar]
+    paths: ['collector/**', 'config/**', '.github/workflows/collect.yml']
+permissions:
+  contents: write
+concurrency:
+  group: collect-${{ github.ref }}
+  cancel-in-progress: false
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Test collector
+        run: python -m unittest discover -s tests -p 'test_*.py' -v
+      - name: Collect public information
+        id: collect
+        continue-on-error: true
+        run: python collector/collect.py
+      - name: Commit changed data only
+        env:
+          BRANCH: ${{ github.ref_name }}
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/latest.json
+          if ! git diff --cached --quiet; then
+            git commit -m "data: update radar feed $(TZ=Asia/Tokyo date '+%Y-%m-%d %H:%M JST')"
+            git push origin "HEAD:$BRANCH"
+          fi
+      - name: Record all-source failure
+        if: steps.collect.outcome == 'failure'
+        run: |
+          echo 'All sources failed, or the collector could not complete. Check logs. Previous articles are retained.'
+          exit 1

@@ -1,0 +1,11 @@
+{
+  "id":"./", "name":"My Radar — 自分専用情報レーダー", "short_name":"My Radar",
+  "description":"前回確認からの重要な変化を、短時間でつかむ。",
+  "lang":"ja", "start_url":"./", "scope":"./", "display":"standalone",
+  "background_color":"#101b2d", "theme_color":"#101b2d",
+  "icons":[
+    {"src":"./icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any"},
+    {"src":"./icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any"},
+    {"src":"./icons/maskable-512.png","sizes":"512x512","type":"image/png","purpose":"maskable"}
+  ]
+}

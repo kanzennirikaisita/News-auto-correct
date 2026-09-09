@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-09T03:34:30+00:00",
+  "generatedAt": "2026-09-09T13:42:35+00:00",
   "collector": {
-    "lastRun": "2026-09-09T03:34:30+00:00",
+    "lastRun": "2026-09-09T13:42:35+00:00",
     "success": 13,
     "failed": 0
   },
@@ -14,8 +14,8 @@
       "url": "https://www.digital.go.jp/rss/news.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-09T03:34:30+00:00",
-      "count": 34
+      "lastSuccess": "2026-09-09T13:42:35+00:00",
+      "count": 31
     },
     {
       "id": "jpcert",
@@ -24,7 +24,7 @@
       "url": "https://www.jpcert.or.jp/rss/jpcert.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-09T03:34:30+00:00",
+      "lastSuccess": "2026-09-09T13:42:35+00:00",
       "count": 20
     },
     {
@@ -34,7 +34,7 @@
       "url": "https://jvn.jp/rss/jvn.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-09T03:34:30+00:00",
+      "lastSuccess": "2026-09-09T13:42:35+00:00",
       "count": 20
     },
     {
@@ -44,7 +44,7 @@
       "url": "https://blogs.jpcert.or.jp/ja/atom.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-09T03:34:30+00:00",
+      "lastSuccess": "2026-09-09T13:42:35+00:00",
       "count": 15
     },
     {
@@ -54,7 +54,7 @@
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-09T03:34:30+00:00",
+      "lastSuccess": "2026-09-09T13:42:35+00:00",
       "count": 200
     },
     {
@@ -64,7 +64,7 @@
       "url": "https://github.blog/changelog/feed/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-09T03:34:30+00:00",
+      "lastSuccess": "2026-09-09T13:42:35+00:00",
       "count": 10
     },
     {
@@ -74,7 +74,7 @@
       "url": "https://api.github.com/repos/langgenius/dify/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-09T03:34:30+00:00",
+      "lastSuccess": "2026-09-09T13:42:35+00:00",
       "count": 27
     },
     {
@@ -84,8 +84,8 @@
       "url": "https://api.github.com/repos/openai/codex/releases?per_page=10",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-09T03:34:30+00:00",
-      "count": 5
+      "lastSuccess": "2026-09-09T13:42:35+00:00",
+      "count": 4
     },
     {
       "id": "claude-code",
@@ -94,7 +94,7 @@
       "url": "https://api.github.com/repos/anthropics/claude-code/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-09T03:34:30+00:00",
+      "lastSuccess": "2026-09-09T13:42:35+00:00",
       "count": 30
     },
     {
@@ -104,7 +104,7 @@
       "url": "https://jp.finalfantasyxiv.com/lodestone/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-09T03:34:30+00:00",
+      "lastSuccess": "2026-09-09T13:42:35+00:00",
       "count": 30
     },
     {
@@ -114,7 +114,7 @@
       "url": "https://steamcommunity.com/games/1245620/rss/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-09T03:34:30+00:00",
+      "lastSuccess": "2026-09-09T13:42:35+00:00",
       "count": 10
     },
     {
@@ -124,7 +124,7 @@
       "url": "https://store.steampowered.com/feeds/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-09T03:34:30+00:00",
+      "lastSuccess": "2026-09-09T13:42:35+00:00",
       "count": 10
     },
     {
@@ -134,11 +134,380 @@
       "url": "https://www.apple.com/jp/newsroom/rss-feed.rss",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-09T03:34:30+00:00",
+      "lastSuccess": "2026-09-09T13:42:35+00:00",
       "count": 20
     }
   ],
   "items": [
+    {
+      "id": "f8c27174312917ddad75108c",
+      "title": "baserCMS用プラグイン「BurgerEditor」における複数の脆弱性",
+      "url": "https://jvn.jp/jp/JVN21088484/",
+      "sourceId": "jvn",
+      "sourceName": "JVN",
+      "category": "work",
+      "publishedAt": "2026-09-09T05:00:00+00:00",
+      "detectedAt": "2026-09-09T13:42:35+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-09-09T05:00:00+00:00",
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "5054b260f34d0e8428a517eb0eebae0f1de7045fbc063d2b0ce70d5f74ab8f63",
+      "revision": 1,
+      "importance": 80,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "脆弱性"
+      ],
+      "tags": [
+        "セキュリティ"
+      ]
+    },
+    {
+      "id": "e79d87e585ec12daa7698c81",
+      "title": "[続報] 全ワールド 緊急メンテナンス作業 終了時間変更のお知らせ(9/9)",
+      "url": "https://jp.finalfantasyxiv.com/lodestone/news/detail/6ffe6184776fa6c69f70edd353daf6cad6a91be8",
+      "sourceId": "ff14",
+      "sourceName": "FFXIV Lodestone",
+      "category": "game",
+      "publishedAt": "2026-09-09T08:20:00+00:00",
+      "detectedAt": "2026-09-09T13:42:35+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "ac10dd85854125ace141d40e0bab0d1724dfa4470988636a4d4e9755c2a9e181",
+      "revision": 1,
+      "importance": 100,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "緊急",
+        "終了",
+        "メンテナンス"
+      ],
+      "tags": [
+        "終了・廃止",
+        "メンテナンス"
+      ]
+    },
+    {
+      "id": "cd536bca460c5cd13e985dee",
+      "title": "ARC Raiders Update Lays The Foundation for Frozen Trail Content",
+      "url": "https://store.steampowered.com/news/group/1450625/view/715664022201958514",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-09T13:19:20+00:00",
+      "detectedAt": "2026-09-09T13:42:35+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "436903f4cc023f527d212eeb7d2f82f057370114a8999beeac4c1b4026f5e645",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "update"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "b553d829e6669b7159707a7b",
+      "title": "Marvel Rivals breaks its 17 month streak of adding 2 heroes per season, but its creative director reassures fans it's not 'the new normal'",
+      "url": "https://store.steampowered.com/news/group/1850/view/715664022201958512",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-09T13:10:29+00:00",
+      "detectedAt": "2026-09-09T13:42:35+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "2636b8d68ef5b3be8b173eff7160f6051da88c539d986183fbacc3c29e6449fd",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "a04ceb545c05617c4b2a705d",
+      "title": "任期付職員 人事・給与関係業務情報システム担当（システム運用）の募集を掲載しました",
+      "url": "https://www.digital.go.jp/recruitment/fixed-term",
+      "sourceId": "digital-agency",
+      "sourceName": "デジタル庁",
+      "category": "work",
+      "publishedAt": "2026-09-09T06:00:00+00:00",
+      "detectedAt": "2026-09-09T13:42:35+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "e75acdfcb5b29a70398625cfec5b6462710280482f007c485eeb201590945f98",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "9e61fed8ef3759fbd23c5ff2",
+      "title": "松本大臣記者会見（令和8年9月8日）要旨を掲載しました",
+      "url": "https://www.digital.go.jp/speech/minister-260908-01",
+      "sourceId": "digital-agency",
+      "sourceName": "デジタル庁",
+      "category": "work",
+      "publishedAt": "2026-09-09T06:00:00+00:00",
+      "detectedAt": "2026-09-09T03:22:00+00:00",
+      "updatedAt": "2026-09-09T13:42:35+00:00",
+      "sourceUpdatedAt": null,
+      "changeType": "updated",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "b818507e6584d87117f74d047d9d7e4fd9dfe03ba8846e413bfe69154eee63c2",
+      "revision": 2,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "9ce6a8c227d4dcc45aa13d35",
+      "title": "The Elder Scrolls V: Skyrim Official IKEA Mod Features Matt Berry as a Kallax Storage Companion",
+      "url": "https://store.steampowered.com/news/group/9869/view/687516524528795736",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-09T13:19:20+00:00",
+      "detectedAt": "2026-09-09T13:42:35+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "d26a2a8f8d0dc11b1676f60cd726aed4431849f654eb3692c9abe5a77c3d06f6",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "91d0c9562da02d9d21e13ccd",
+      "title": "Light No Fire shows signs of life: Hello Games says No Man's Sky Cosmos update uses shared tech, teases \"alliances of tens of thousands of players\"",
+      "url": "https://store.steampowered.com/news/group/38509069/view/688642424435638339",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-09T13:09:26+00:00",
+      "detectedAt": "2026-09-09T13:42:35+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "b8fae466cd23f340aa1f76cd0c2acd33ae3b9281651680103a9e1bcb4157f31a",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "update"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "8a2893b282ac6a3a9b3ca4f4",
+      "title": "Marvel Officially Kills Off Loki To Announce Return Of A Terrifying Villain",
+      "url": "https://store.steampowered.com/news/group/38666666/view/695397823941705814",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-09T13:19:12+00:00",
+      "detectedAt": "2026-09-09T13:42:35+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "d1041b7181f2f0f1640b4e01245445efaaee89a3ab73063e0b387a35c3feebe7",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "85b8533ee129f95a3a80b15c",
+      "title": "No Man's Sky Cosmos update says screw it, build your own space station and destroy \"space hulks\" with a gravity gun: \"Our most requested feature since launch\"",
+      "url": "https://store.steampowered.com/news/group/38509069/view/688642424435638337",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-09T13:09:26+00:00",
+      "detectedAt": "2026-09-09T13:42:35+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "fefa22f74df065f8cbbe99868621c9cc7169866018ed7a410a26edbe2f93e194",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "update"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "6fe8071f07d1f4110f528a01",
+      "title": "Explore a wacky 90s world to save your cloud friend in Summer Road",
+      "url": "https://store.steampowered.com/news/group/25563497/view/710034522707591242",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-09T13:00:36+00:00",
+      "detectedAt": "2026-09-09T13:42:35+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "329ca1efedd0325607ba6d76da7032317178344ac75bcf41b424569f1a62e6ea",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "62ea8bd0399a0ac386f0f004",
+      "title": "No Man's Sky 10th Anniversary Cosmos Update Actually Updates Space, Lets Players Finally Reach Stars",
+      "url": "https://store.steampowered.com/news/group/9869/view/687516524528795738",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-09T13:19:21+00:00",
+      "detectedAt": "2026-09-09T13:42:35+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "6116c141961de2ecc6390bd468e647b0f5ce73f31628acee1fd2614421431e33",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "update"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "5f9c4088ba6c0356b951be1c",
+      "title": "The Blood of Dawnwalker Sequel Officially in the Works",
+      "url": "https://store.steampowered.com/news/group/1450625/view/715664022201958509",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-09T13:09:19+00:00",
+      "detectedAt": "2026-09-09T13:42:35+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "5b33644ef7e0a419bb0321f76d6920f7c97cbd743602e3377d0bf9792c878231",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "467f0e55ccdac27f43aa79e1",
+      "title": "更新のお知らせ(9/9)",
+      "url": "https://jp.finalfantasyxiv.com/lodestone/news/detail/f346f4ae54f64521be5b43cef043b43bcdb44d23",
+      "sourceId": "ff14",
+      "sourceName": "FFXIV Lodestone",
+      "category": "game",
+      "publishedAt": "2026-09-09T06:55:00+00:00",
+      "detectedAt": "2026-09-09T13:42:35+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "9b5e8480c24e34f08244c5155b582a18d5e50537dddc982c9f38ecd135d6fd62",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "1a4c9b5489ec2ede9e00eb81",
+      "title": "Space isn’t so empty in No Man’s Sky COSMOS update launching today",
+      "url": "https://store.steampowered.com/news/group/25563497/view/710034522707591248",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-09T13:10:38+00:00",
+      "detectedAt": "2026-09-09T13:42:35+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "5cedcc7f1c412fe8bcb7adab32af673153f33679b08c07da15826a66e5d13e7a",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "update"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
     {
       "id": "aed083f66ff599da66800182",
       "title": "Kingdom Hearts 4 Leaks Star Wars World and More",
@@ -510,10 +879,9 @@
       "summary": null,
       "contentHash": "9ab0b66e7f1717d8864e5dcf3dabd4946d9ba49d9621a3018bc18d904900095c",
       "revision": 2,
-      "importance": 75,
+      "importance": 65,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "メンテナンス"
       ],
       "tags": [
@@ -539,7 +907,6 @@
       "importance": 100,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "終了",
         "メンテナンス"
       ],
@@ -555,7 +922,7 @@
       "sourceId": "ff14",
       "sourceName": "FFXIV Lodestone",
       "category": "game",
-      "publishedAt": "2026-09-08T09:50:00+00:00",
+      "publishedAt": "2026-09-09T09:20:00+00:00",
       "detectedAt": "2026-09-09T03:22:00+00:00",
       "updatedAt": "2026-09-09T03:26:17+00:00",
       "sourceUpdatedAt": null,
@@ -590,7 +957,6 @@
       "importance": 100,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "終了",
         "メンテナンス"
       ],
@@ -615,10 +981,9 @@
       "summary": null,
       "contentHash": "1282a6903ae86a7a2d5d5fdcad7fcf64b63c214f5371b67bcb8a6e05e84ba4b4",
       "revision": 2,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -668,7 +1033,6 @@
       "importance": 100,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "終了",
         "メンテナンス"
       ],
@@ -1855,10 +2219,9 @@
       "summary": null,
       "contentHash": "d067d9ef6fb95060c36137a8c7b1412b5cfa3c836b6ee448e166bdd873068d22",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1909,28 +2272,6 @@
       "tags": [
         "セキュリティ"
       ]
-    },
-    {
-      "id": "9e61fed8ef3759fbd23c5ff2",
-      "title": "松本大臣記者会見（令和8年9月8日）動画を掲載しました",
-      "url": "https://www.digital.go.jp/speech/minister-260908-01",
-      "sourceId": "digital-agency",
-      "sourceName": "デジタル庁",
-      "category": "work",
-      "publishedAt": "2026-09-08T02:56:25+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "7b5cd3801c42520345390fa952c807771d9c83f7434d084859fe5d1ebe6464d1",
-      "revision": 1,
-      "importance": 40,
-      "importanceReasons": [
-        "公式一次情報"
-      ],
-      "tags": []
     },
     {
       "id": "9c25f4ae7a186d68926fabf7",
@@ -2560,10 +2901,9 @@
       "summary": null,
       "contentHash": "63968b7a7167398c2a5a99f7776f5ae308d4317f3cfa317465b05324ea9ed326",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -3070,10 +3410,9 @@
       "summary": null,
       "contentHash": "21aeb3c7637a9a79f33aa5bac6777d413168be2a7ddeedfdb16e9266131c01b6",
       "revision": 1,
-      "importance": 90,
+      "importance": 80,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "障害"
       ],
       "tags": []
@@ -3231,10 +3570,9 @@
       "summary": null,
       "contentHash": "2d77c62df764ea9edfd827a98062cd09b39fdb393b2aa2f32ef8cca299d04667",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": [
         "イベント"
@@ -3658,10 +3996,9 @@
       "summary": null,
       "contentHash": "80c5a4ad8b4a3215f32cba616bac983467785632ddc708f40180d7eb53790729",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -3911,10 +4248,9 @@
       "summary": null,
       "contentHash": "994dfade1d6301acfbb51bf4d02bfe6eefa3523c5382b00c505e131df25c0e3c",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -3957,10 +4293,9 @@
       "summary": null,
       "contentHash": "6749b98ee27371f7f224fc2894032747a3f9dd04e4b31ac73c195d4d3d49bb25",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -4092,10 +4427,9 @@
       "summary": null,
       "contentHash": "fb460885217ea88c9f83278b228f1a1910b76d7c77e07c5efe347d35dd0c8ef9",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },

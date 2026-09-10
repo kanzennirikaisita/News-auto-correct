@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-09T13:42:35+00:00",
+  "generatedAt": "2026-09-10T00:14:19+00:00",
   "collector": {
-    "lastRun": "2026-09-09T13:42:35+00:00",
+    "lastRun": "2026-09-10T00:14:19+00:00",
     "success": 13,
     "failed": 0
   },
@@ -14,7 +14,7 @@
       "url": "https://www.digital.go.jp/rss/news.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-09T13:42:35+00:00",
+      "lastSuccess": "2026-09-10T00:14:19+00:00",
       "count": 31
     },
     {
@@ -24,7 +24,7 @@
       "url": "https://www.jpcert.or.jp/rss/jpcert.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-09T13:42:35+00:00",
+      "lastSuccess": "2026-09-10T00:14:19+00:00",
       "count": 20
     },
     {
@@ -34,7 +34,7 @@
       "url": "https://jvn.jp/rss/jvn.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-09T13:42:35+00:00",
+      "lastSuccess": "2026-09-10T00:14:19+00:00",
       "count": 20
     },
     {
@@ -44,7 +44,7 @@
       "url": "https://blogs.jpcert.or.jp/ja/atom.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-09T13:42:35+00:00",
+      "lastSuccess": "2026-09-10T00:14:19+00:00",
       "count": 15
     },
     {
@@ -54,7 +54,7 @@
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-09T13:42:35+00:00",
+      "lastSuccess": "2026-09-10T00:14:19+00:00",
       "count": 200
     },
     {
@@ -64,7 +64,7 @@
       "url": "https://github.blog/changelog/feed/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-09T13:42:35+00:00",
+      "lastSuccess": "2026-09-10T00:14:19+00:00",
       "count": 10
     },
     {
@@ -74,7 +74,7 @@
       "url": "https://api.github.com/repos/langgenius/dify/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-09T13:42:35+00:00",
+      "lastSuccess": "2026-09-10T00:14:19+00:00",
       "count": 27
     },
     {
@@ -84,7 +84,7 @@
       "url": "https://api.github.com/repos/openai/codex/releases?per_page=10",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-09T13:42:35+00:00",
+      "lastSuccess": "2026-09-10T00:14:19+00:00",
       "count": 4
     },
     {
@@ -94,7 +94,7 @@
       "url": "https://api.github.com/repos/anthropics/claude-code/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-09T13:42:35+00:00",
+      "lastSuccess": "2026-09-10T00:14:19+00:00",
       "count": 30
     },
     {
@@ -104,7 +104,7 @@
       "url": "https://jp.finalfantasyxiv.com/lodestone/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-09T13:42:35+00:00",
+      "lastSuccess": "2026-09-10T00:14:19+00:00",
       "count": 30
     },
     {
@@ -114,7 +114,7 @@
       "url": "https://steamcommunity.com/games/1245620/rss/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-09T13:42:35+00:00",
+      "lastSuccess": "2026-09-10T00:14:19+00:00",
       "count": 10
     },
     {
@@ -124,7 +124,7 @@
       "url": "https://store.steampowered.com/feeds/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-09T13:42:35+00:00",
+      "lastSuccess": "2026-09-10T00:14:19+00:00",
       "count": 10
     },
     {
@@ -134,11 +134,645 @@
       "url": "https://www.apple.com/jp/newsroom/rss-feed.rss",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-09T13:42:35+00:00",
+      "lastSuccess": "2026-09-10T00:14:19+00:00",
       "count": 20
     }
   ],
   "items": [
+    {
+      "id": "faa37362568657fbf7a1ce15",
+      "title": "Enterprise managed permissions for GitHub Copilot agent operations",
+      "url": "https://github.blog/changelog/2026-09-09-enterprise-managed-permissions-for-github-copilot-agent-operations",
+      "sourceId": "github",
+      "sourceName": "GitHub Changelog",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-09T20:08:14+00:00",
+      "detectedAt": "2026-09-10T00:14:19+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "233fe5215b29ca01428c0c07582d6c5000e2889967016a339e90c663cc487096",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "f4612605b9b4783a81b41cc1",
+      "title": "CodeQL 2.27.0 adds support for Linux ARM64",
+      "url": "https://github.blog/changelog/2026-09-09-codeql-2-27-0-adds-support-for-linux-arm64",
+      "sourceId": "github",
+      "sourceName": "GitHub Changelog",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-09T21:45:06+00:00",
+      "detectedAt": "2026-09-10T00:14:19+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "1e40332de1b1febcbc9c24d8a35828e7f30a50db7d1649b480c2bfc744f94432",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "e983515bdffbefb7e456d728",
+      "title": "Apple、iPhone 18 ProとiPhone 18 Pro Maxを発表",
+      "url": "https://www.apple.com/jp/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
+      "sourceId": "apple",
+      "sourceName": "Apple Newsroom",
+      "category": "gadget",
+      "publishedAt": null,
+      "detectedAt": "2026-09-10T00:14:19+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-09-10T00:07:30+00:00",
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "36576ce6bf53f4cbad81963b2bb05d792029ba15a94c38811561e16afb19ba4c",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "iPhone"
+      ],
+      "tags": []
+    },
+    {
+      "id": "e740745b7edc2f09e8d8cc3f",
+      "title": "Remediate Code Quality findings with agentic autofix",
+      "url": "https://github.blog/changelog/2026-09-09-remediate-code-quality-findings-with-agentic-autofix",
+      "sourceId": "github",
+      "sourceName": "GitHub Changelog",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-09T12:21:01+00:00",
+      "detectedAt": "2026-09-10T00:14:19+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "f580bafb5216654d580e2873072eeede3f66eff8c18586926c879eba35ce3196",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "baa8d6ac4336e5c34ece322e",
+      "title": "GitHub Advanced Security expands trial availability",
+      "url": "https://github.blog/changelog/2026-09-09-github-advanced-security-expands-trial-availability",
+      "sourceId": "github",
+      "sourceName": "GitHub Changelog",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-09T17:33:34+00:00",
+      "detectedAt": "2026-09-10T00:14:19+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "89a3da91da59037d8f76d8f1591932c348cd04faad6d01d5f618336e9510281e",
+      "revision": 1,
+      "importance": 70,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "security"
+      ],
+      "tags": [
+        "セキュリティ"
+      ]
+    },
+    {
+      "id": "ba44da3b4124b4beaa178a5e",
+      "title": "Apple、iPhone Duoを発表",
+      "url": "https://www.apple.com/jp/newsroom/2026/09/apple-unveils-iphone-duo/",
+      "sourceId": "apple",
+      "sourceName": "Apple Newsroom",
+      "category": "gadget",
+      "publishedAt": null,
+      "detectedAt": "2026-09-10T00:14:19+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-09-09T19:32:00+00:00",
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "08c8e7da7ba371c7e83244b664eed913e9ebdce800adaf26733df081bc2af333",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "iPhone"
+      ],
+      "tags": []
+    },
+    {
+      "id": "b36f20f7256fc4257efaee4f",
+      "title": "[復旧] [Light] Zodiarkワールド 障害復旧作業完了のお知らせ(9/10)",
+      "url": "https://jp.finalfantasyxiv.com/lodestone/news/detail/b57b5f9ae1de8349dd8902c1cdad2c642f321b4e",
+      "sourceId": "ff14",
+      "sourceName": "FFXIV Lodestone",
+      "category": "game",
+      "publishedAt": "2026-09-09T18:52:07+00:00",
+      "detectedAt": "2026-09-10T00:14:19+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "082d0045adb96f6f452425206c4d0ce14c2c89fceca7d0f0245b3d4b404ead7a",
+      "revision": 1,
+      "importance": 90,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "障害"
+      ],
+      "tags": []
+    },
+    {
+      "id": "a7c183de5112de4747c23486",
+      "title": "The AI policy window is open. We need to act.",
+      "url": "https://openai.com/index/ai-policy-window",
+      "sourceId": "openai",
+      "sourceName": "OpenAI",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-09T13:00:00+00:00",
+      "detectedAt": "2026-09-10T00:14:19+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "c45b2437340518eca1d4f2eaf614e8294a4c506336cf57c6f47e2239d4985616",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "7f2361f906ac631f2163bd07",
+      "title": "Gamescom 2026: Nodusfall Is Still a Mystery, But One I Want to Watch",
+      "url": "https://store.steampowered.com/news/group/7433348/view/669502126020362427",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-09T23:17:15+00:00",
+      "detectedAt": "2026-09-10T00:14:19+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "9d617269ef1b08b51400f3f79b748d885b3ea5798de7666a4ee21a4c3ea3a6db",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "68ab94663da3c877adc13694",
+      "title": "Apple、Apple Watch Ultra 4を発表",
+      "url": "https://www.apple.com/jp/newsroom/2026/09/apple-unveils-apple-watch-ultra-4/",
+      "sourceId": "apple",
+      "sourceName": "Apple Newsroom",
+      "category": "gadget",
+      "publishedAt": null,
+      "detectedAt": "2026-09-10T00:14:19+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-09-09T19:04:39+00:00",
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "7de0048c51f5d2840b09981ead6d2ebc084db5ad2628c659b3cb6195f9cd79a8",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "Apple Watch"
+      ],
+      "tags": []
+    },
+    {
+      "id": "66cfc523cdb0c73a53c49d4d",
+      "title": "Apple、クラス最高のオープンイヤー型アクティブノイズキャンセリングを搭載したAirPods 5を発表",
+      "url": "https://www.apple.com/jp/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
+      "sourceId": "apple",
+      "sourceName": "Apple Newsroom",
+      "category": "gadget",
+      "publishedAt": null,
+      "detectedAt": "2026-09-10T00:14:19+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-09-09T17:40:14+00:00",
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "8e1abe3133e4f36d2057b8ccd3e5f611bee5c4704bfbf6c6d00738e4a24abe7b",
+      "revision": 1,
+      "importance": 40,
+      "importanceReasons": [
+        "公式一次情報"
+      ],
+      "tags": []
+    },
+    {
+      "id": "5ba86673e5548e8f3f86673d",
+      "title": "Claude Code v2.1.267",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.267",
+      "sourceId": "claude-code",
+      "sourceName": "Claude Code",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-09T19:58:14+00:00",
+      "detectedAt": "2026-09-10T00:14:19+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-09-09T19:58:14+00:00",
+      "changeType": "new",
+      "kind": "release",
+      "summary": null,
+      "contentHash": "0d708676a897b4201aa0247f2e5fe82430f43dd2f314ef8ab452ac953a12c895",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "バージョン公開"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "5a72ab17907ea6b1ce2b675f",
+      "title": "The Rare SNES game that became Banjo-Kazooie has been preserved thanks to a leaker who wants you to \"delete Microsoft and Sony from your lives\"",
+      "url": "https://store.steampowered.com/news/group/38509069/view/688642424435638442",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-10T00:10:13+00:00",
+      "detectedAt": "2026-09-10T00:14:19+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "0fba210e1af35b03d5c9af6e82e8747b93ce622b4893f09e46121b148cdd845f",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "5329c6e5925a0032d300a17f",
+      "title": "Eternal Anima launches on PC, Xbox Series, PS5, and Switch 2 on March 4, 2027",
+      "url": "https://store.steampowered.com/news/group/6070552/view/701027323413004459",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-09T22:59:31+00:00",
+      "detectedAt": "2026-09-10T00:14:19+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "fb907cb3e64113d7ed96f53fd9e6db2f7beb07e80aadad493083cfa97d09939e",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "3eb3e9557eb7038ef8ad3df0",
+      "title": "Paul Christiano joins OpenAI Foundation Board",
+      "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+      "sourceId": "openai",
+      "sourceName": "OpenAI",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-09T17:00:00+00:00",
+      "detectedAt": "2026-09-10T00:14:19+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "40d6ac7c460bd69e17d7fec56ec20a0fa91f689508fc8e55a80a4f08ea565c9c",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "3cd270180b0128b4a2176ed0",
+      "title": "新しいヘルスセンシングシステムを搭載したApple Watch Series 12が登場",
+      "url": "https://www.apple.com/jp/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/",
+      "sourceId": "apple",
+      "sourceName": "Apple Newsroom",
+      "category": "gadget",
+      "publishedAt": null,
+      "detectedAt": "2026-09-10T00:14:19+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-09-09T18:30:48+00:00",
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "37a1063a8d0f83c8cef78fcd116c5ae8197bd34704edf84acd8564eb1817563d",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "Apple Watch"
+      ],
+      "tags": []
+    },
+    {
+      "id": "333ccaae81484d3a4e17f3d0",
+      "title": "GPT-6 Astra: The next generation in intelligence for work",
+      "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
+      "sourceId": "openai",
+      "sourceName": "OpenAI",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-09T11:00:00+00:00",
+      "detectedAt": "2026-09-10T00:14:19+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "53f96d0d4ab263e3a9fc0a741d27faea5f7b9c001f49c6fd61948850ce848a68",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "2ec7a45fef458a79b70e0783",
+      "title": "Codex 0.154.0",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.154.0",
+      "sourceId": "codex",
+      "sourceName": "Codex",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-09T22:35:38+00:00",
+      "detectedAt": "2026-09-10T00:14:19+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-09-09T22:37:29+00:00",
+      "changeType": "new",
+      "kind": "release",
+      "summary": null,
+      "contentHash": "7e733bb784ec574b6741b117cbc2c78053f570f95b189ef392c97e59fd46728d",
+      "revision": 1,
+      "importance": 75,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "バージョン公開",
+        "codex"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "1eb702b4e06b8ddf4f0787d3",
+      "title": "Spyro the Dragon and Crash Bandicoot Birthday Bash",
+      "url": "https://store.steampowered.com/news/app/1378990/view/688642424435638440",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-09T23:17:11+00:00",
+      "detectedAt": "2026-09-10T00:14:19+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "ca330fe9b7e987ab1b21141241c6b666f667f23f7cf47c492162cfeccf9a89db",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "1e7bd60a7e1ad2e6d7972a84",
+      "title": "Gloom Gate is a reaction-based action RPG for the Playdate launching in Season Three",
+      "url": "https://store.steampowered.com/news/group/6070552/view/701027323413004464",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-10T00:09:33+00:00",
+      "detectedAt": "2026-09-10T00:14:19+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "c589d1449ad0c9f182f8b300c77d5ffac041149bfc83826d15f9e944c6c07052",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "1d2cca5d1ecd865001e5ad39",
+      "title": "[復旧] [Crystal] Diabolosワールド 障害復旧作業完了のお知らせ(9/10)",
+      "url": "https://jp.finalfantasyxiv.com/lodestone/news/detail/823d3adb67e1a3fbc8e8ece208af9b82802b1f1b",
+      "sourceId": "ff14",
+      "sourceName": "FFXIV Lodestone",
+      "category": "game",
+      "publishedAt": "2026-09-09T18:35:00+00:00",
+      "detectedAt": "2026-09-10T00:14:19+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "996449b17816fd0e32f848a4353275003e1c3859c57de54857dfb51d2b9e869c",
+      "revision": 1,
+      "importance": 90,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "障害"
+      ],
+      "tags": []
+    },
+    {
+      "id": "1b67cab70a9f5505d94101c4",
+      "title": "Ace Combat 8 Hands-On Preview: Made For Veterans, Approachable For Newcomers",
+      "url": "https://store.steampowered.com/news/group/38666666/view/695397823941705930",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-09T23:19:37+00:00",
+      "detectedAt": "2026-09-10T00:14:19+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "422c776759140a07843acaa4226d64cd38d9a6467b4aaa94db0a033a80bcd115",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "17753dd4c5dd178c27a61576",
+      "title": "Chile Game Showcase",
+      "url": "https://store.steampowered.com/news/group/46266968/view/693144755752665949",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-08T03:04:17+00:00",
+      "detectedAt": "2026-09-10T00:14:19+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "563274064f9b18276195b4cb81a99ccd5318e44bea4e33abc31f017826a3783c",
+      "revision": 1,
+      "importance": 40,
+      "importanceReasons": [
+        "公式一次情報"
+      ],
+      "tags": []
+    },
+    {
+      "id": "1638b74dbef6c4d36f5e6c13",
+      "title": "Star Trek Officially Unveils Ultimate 60th Anniversary Crossover Coming November 2026",
+      "url": "https://store.steampowered.com/news/group/38666666/view/695397823941705928",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-09T23:09:36+00:00",
+      "detectedAt": "2026-09-10T00:14:19+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "a06eeafe4f239bcf286db1b0ea5f8733b85b27b81e5a90acf07ce5a87fd3bf48",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "1632bb3d78e7ff9e8461917c",
+      "title": "Pre-Load Live & Season 1 Changelog",
+      "url": "https://store.steampowered.com/news/app/1867240/view/701027323413004455",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-09T22:46:09+00:00",
+      "detectedAt": "2026-09-10T00:14:19+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "c529a0612f5cf0979f4b3347eb334a056e7a6f96038b72d8b9d6a56deff87da4",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "0ef68bd8a0105dab59a6b161",
+      "title": "Block pull requests with exposed secrets from merging",
+      "url": "https://github.blog/changelog/2026-09-09-block-pull-requests-with-exposed-secrets-from-merging",
+      "sourceId": "github",
+      "sourceName": "GitHub Changelog",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-09T17:14:02+00:00",
+      "detectedAt": "2026-09-10T00:14:19+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "8e7f38246ef32db32001374af9a34fa327370e00d56a52f138a9a3332cedc4ec",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "06488e5be2fe01b821a4a53e",
+      "title": "When Does Wardogs Early Access Release",
+      "url": "https://store.steampowered.com/news/group/38458038/view/711160422578782359",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-10T00:09:32+00:00",
+      "detectedAt": "2026-09-10T00:14:19+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "e49045671f09a73bf56d5e41060f3886b1691d108ff47591afa5a921750bcc9f",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "release"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
     {
       "id": "f8c27174312917ddad75108c",
       "title": "baserCMS用プラグイン「BurgerEditor」における複数の脆弱性",
@@ -716,10 +1350,9 @@
       "summary": null,
       "contentHash": "a10537a2c11a99de941afe0d36c331a0395a0e4a3c55747480c0acbd5a67e76f",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -786,10 +1419,9 @@
       "summary": null,
       "contentHash": "ab109994617846e5d2ca3ddff2e17d43fae709b40d357d3416508604af578001",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -831,10 +1463,9 @@
       "summary": null,
       "contentHash": "bc9a1fdfd22bc893e6c5c8e30762fda61fac8127796507b189c52b968b54abe3",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -2358,10 +2989,9 @@
       "summary": null,
       "contentHash": "7427d814000f4984567b0a5da78ea00de96557ff48250698f4773fb6de1e9fe5",
       "revision": 1,
-      "importance": 65,
+      "importance": 55,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "アップデート"
       ],
       "tags": [
@@ -2574,10 +3204,9 @@
       "summary": null,
       "contentHash": "8550254b21b4d43011a9f4de8eaaabdc39f7aa222e51049ba279ca26a0fef7b6",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -2664,10 +3293,9 @@
       "summary": null,
       "contentHash": "35dbeab3beec3e27b8e5ed70effd239e42519be716df41cb5278374024468ff7",
       "revision": 1,
-      "importance": 65,
+      "importance": 55,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "patch"
       ],
       "tags": [
@@ -2781,10 +3409,9 @@
       "summary": null,
       "contentHash": "7f7efb8e590dab297b5c82f08978d26d6b6d6fe1ac1a7b80399bbc51c29e2508",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -3103,10 +3730,9 @@
       "summary": null,
       "contentHash": "97c895a19b3fd4d4b72e6e822fed75df50a96818483f5feb3f9bc39931738564",
       "revision": 1,
-      "importance": 80,
+      "importance": 70,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "脆弱性"
       ],
       "tags": [
@@ -3477,10 +4103,9 @@
       "summary": null,
       "contentHash": "f1fcba6478a5f9319e5b9ca70cf5f5a75f0aab543da87787645c0672d5c8ec16",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -4062,10 +4687,9 @@
       "summary": null,
       "contentHash": "c347c1bf7e01a8028ef51bc370df979e2fe54731b4483bc02933a2b5e0e77738",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -4381,10 +5005,9 @@
       "summary": null,
       "contentHash": "44ad80e910e795c6eae4494f90b7b6704e471230c8d06b694ef5903ab0662cc3",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -4981,10 +5604,9 @@
       "summary": null,
       "contentHash": "b2521572b9984ff8af9e5cdbf3040670082da55ea82218247fd30b10736339d4",
       "revision": 1,
-      "importance": 65,
+      "importance": 55,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "バージョン公開"
       ],
       "tags": [
@@ -5611,10 +6233,9 @@
       "summary": null,
       "contentHash": "f63b0d0742fc3c12b87166f2ed1b407b5b1c23f01b499984ce7ac4a2d406a8b9",
       "revision": 1,
-      "importance": 65,
+      "importance": 55,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "バージョン公開"
       ],
       "tags": [

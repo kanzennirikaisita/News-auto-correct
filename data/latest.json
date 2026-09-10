@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-10T00:14:19+00:00",
+  "generatedAt": "2026-09-10T08:07:24+00:00",
   "collector": {
-    "lastRun": "2026-09-10T00:14:19+00:00",
+    "lastRun": "2026-09-10T08:07:24+00:00",
     "success": 13,
     "failed": 0
   },
@@ -14,8 +14,8 @@
       "url": "https://www.digital.go.jp/rss/news.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-10T00:14:19+00:00",
-      "count": 31
+      "lastSuccess": "2026-09-10T08:07:24+00:00",
+      "count": 30
     },
     {
       "id": "jpcert",
@@ -24,7 +24,7 @@
       "url": "https://www.jpcert.or.jp/rss/jpcert.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-10T00:14:19+00:00",
+      "lastSuccess": "2026-09-10T08:07:24+00:00",
       "count": 20
     },
     {
@@ -34,7 +34,7 @@
       "url": "https://jvn.jp/rss/jvn.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-10T00:14:19+00:00",
+      "lastSuccess": "2026-09-10T08:07:24+00:00",
       "count": 20
     },
     {
@@ -44,7 +44,7 @@
       "url": "https://blogs.jpcert.or.jp/ja/atom.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-10T00:14:19+00:00",
+      "lastSuccess": "2026-09-10T08:07:24+00:00",
       "count": 15
     },
     {
@@ -54,7 +54,7 @@
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-10T00:14:19+00:00",
+      "lastSuccess": "2026-09-10T08:07:24+00:00",
       "count": 200
     },
     {
@@ -64,7 +64,7 @@
       "url": "https://github.blog/changelog/feed/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-10T00:14:19+00:00",
+      "lastSuccess": "2026-09-10T08:07:24+00:00",
       "count": 10
     },
     {
@@ -74,7 +74,7 @@
       "url": "https://api.github.com/repos/langgenius/dify/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-10T00:14:19+00:00",
+      "lastSuccess": "2026-09-10T08:07:24+00:00",
       "count": 27
     },
     {
@@ -84,7 +84,7 @@
       "url": "https://api.github.com/repos/openai/codex/releases?per_page=10",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-10T00:14:19+00:00",
+      "lastSuccess": "2026-09-10T08:07:24+00:00",
       "count": 4
     },
     {
@@ -94,7 +94,7 @@
       "url": "https://api.github.com/repos/anthropics/claude-code/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-10T00:14:19+00:00",
+      "lastSuccess": "2026-09-10T08:07:24+00:00",
       "count": 30
     },
     {
@@ -104,8 +104,8 @@
       "url": "https://jp.finalfantasyxiv.com/lodestone/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-10T00:14:19+00:00",
-      "count": 30
+      "lastSuccess": "2026-09-10T08:07:24+00:00",
+      "count": 29
     },
     {
       "id": "elden-ring",
@@ -114,7 +114,7 @@
       "url": "https://steamcommunity.com/games/1245620/rss/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-10T00:14:19+00:00",
+      "lastSuccess": "2026-09-10T08:07:24+00:00",
       "count": 10
     },
     {
@@ -124,7 +124,7 @@
       "url": "https://store.steampowered.com/feeds/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-10T00:14:19+00:00",
+      "lastSuccess": "2026-09-10T08:07:24+00:00",
       "count": 10
     },
     {
@@ -134,11 +134,494 @@
       "url": "https://www.apple.com/jp/newsroom/rss-feed.rss",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-10T00:14:19+00:00",
+      "lastSuccess": "2026-09-10T08:07:24+00:00",
       "count": 20
     }
   ],
   "items": [
+    {
+      "id": "faa523cd7196e308ba1d5d84",
+      "title": "Steam Beta for Sept 9th has huge changes - Big Art Mode, Screensaver, Proton option changes, Desktop Mode toggle for SteamOS",
+      "url": "https://store.steampowered.com/news/group/4218320/view/714538122294067445",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-10T07:01:01+00:00",
+      "detectedAt": "2026-09-10T08:07:24+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "52efccdd106a43a5978b9fc3ee1be6d61f8784d5c75968ebe20ba55b9f66f7e0",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "f21e61985a033d6c0d3e9b9e",
+      "title": "Capcom Spotlight | TGS 2026 will be streamed on Wednesday, September 16.",
+      "url": "https://store.steampowered.com/news/app/2246340/view/688642424435638459",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-10T04:59:47+00:00",
+      "detectedAt": "2026-09-10T08:07:24+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "8ac53a58e550a762fbecdcd413fd5c7b074ed62c644bf4e55ed42ee58400bca1",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "ed45179c8011b9efd3d3af61",
+      "title": "「instax™“チェキ”」コラボレーションX投稿キャンペーン開始！",
+      "url": "https://jp.finalfantasyxiv.com/lodestone/topics/detail/08eed83e8433f4cd25d88c18e2c0dc97ae5bc69f",
+      "sourceId": "ff14",
+      "sourceName": "FFXIV Lodestone",
+      "category": "game",
+      "publishedAt": null,
+      "detectedAt": "2026-09-10T08:07:24+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "e319784f8add123cf654f3d2e89d10c9751cc49b0c9959ec33bc4de1d97f380b",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "開始"
+      ],
+      "tags": []
+    },
+    {
+      "id": "e82ecf64789e7607e03b1572",
+      "title": "コンテック製CONPROSYSシリーズにおける複数の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU96551518/",
+      "sourceId": "jvn",
+      "sourceName": "JVN",
+      "category": "work",
+      "publishedAt": "2026-09-10T06:00:45+00:00",
+      "detectedAt": "2026-09-10T08:07:24+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-09-10T06:00:45+00:00",
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "7ec7bfbe84e9c044aaeec8561ef7aae165371df9607db7f60ea1d19e4cf72f27",
+      "revision": 1,
+      "importance": 80,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "脆弱性"
+      ],
+      "tags": [
+        "セキュリティ"
+      ]
+    },
+    {
+      "id": "dfb47aae48d8f815ae61c037",
+      "title": "学園祭での年齢確認にマイナンバーカードを活用しています",
+      "url": "https://www.digital.go.jp/news/6a52d1e9-30cc-455a-9154-f32479d1731a",
+      "sourceId": "digital-agency",
+      "sourceName": "デジタル庁",
+      "category": "work",
+      "publishedAt": "2026-09-10T06:00:00+00:00",
+      "detectedAt": "2026-09-10T08:07:24+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "7138133bc02b2cead1239a61b3f0d121af9997f083e1675062da0ae73ae0c185",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "df91caeb9ebd0c050430240d",
+      "title": "コンテック製PC-HELPERシリーズにおける複数の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU90314828/",
+      "sourceId": "jvn",
+      "sourceName": "JVN",
+      "category": "work",
+      "publishedAt": "2026-09-10T07:10:00+00:00",
+      "detectedAt": "2026-09-10T08:07:24+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-09-10T07:10:00+00:00",
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "67a97a9b6c19561177b594f3b97597a15a072fd039ff3c7280bad1eb0638108e",
+      "revision": 1,
+      "importance": 80,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "脆弱性"
+      ],
+      "tags": [
+        "セキュリティ"
+      ]
+    },
+    {
+      "id": "c43bc068fb01571620740745",
+      "title": "Star Wars: Legacy Reborn Officially Released And Available To Check Out Now",
+      "url": "https://store.steampowered.com/news/group/38666666/view/695397823941705942",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-10T05:09:51+00:00",
+      "detectedAt": "2026-09-10T08:07:24+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "4a0d2c478bdb7926f71855f00c0d15c35e7fee76f79977c80b81bffdb2c602dc",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "release"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "bdc4ff7909d52999cec6ef4f",
+      "title": "Spy Drops Gaiden looks like a fun retro stealth-action throwback",
+      "url": "https://store.steampowered.com/news/group/4218320/view/714538122294067449",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-10T07:51:05+00:00",
+      "detectedAt": "2026-09-10T08:07:24+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "fcfa654afb351dba979dc641b8de1f1130266a593cfad1cc21cb5efaff2e5b76",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "b574ccf38f19425723879960",
+      "title": "Marvel Rivals Version 20260911 Patch Notes - Season 10 Arrives",
+      "url": "https://store.steampowered.com/news/app/2767030/view/678508690826855914",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-10T07:33:37+00:00",
+      "detectedAt": "2026-09-10T08:07:24+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "3e487b6fc50b3afacaf05e1daee5697c9a58f9248dad0b33068496c61a8e6fc0",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "patch"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "97c6def58d43c15785b75139",
+      "title": "SHIRASAGIにおける複数の脆弱性",
+      "url": "https://jvn.jp/jp/JVN37476837/",
+      "sourceId": "jvn",
+      "sourceName": "JVN",
+      "category": "work",
+      "publishedAt": "2026-09-10T05:00:00+00:00",
+      "detectedAt": "2026-09-10T08:07:24+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-09-10T05:00:00+00:00",
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "d535e4bbb99d94b1bf995dfd647e38dbcf5cd05cda1838d7263ce10bc71520fc",
+      "revision": 1,
+      "importance": 80,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "脆弱性"
+      ],
+      "tags": [
+        "セキュリティ"
+      ]
+    },
+    {
+      "id": "941714a9eeb65d66eeab3d3f",
+      "title": "Season 10: Butcher's Blasphemy // Dev Vision Vol. 21 | Marvel Rivals",
+      "url": "https://store.steampowered.com/news/app/2767030/view/685264724715110533",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-10T07:33:23+00:00",
+      "detectedAt": "2026-09-10T08:07:24+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "79d610ff4cc61b36b40a808e163839b3e0723a3b91fe09ba7cb431256cb7d7b2",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "8d33a1a29abb5d363c885dd1",
+      "title": "コレクションカードシリーズ 「スクウェア・エニックス ギャラリーカード」 第1弾 登場！",
+      "url": "https://jp.finalfantasyxiv.com/lodestone/topics/detail/b61ad85b08e19b0f66eb5d916c8556fb40d35562",
+      "sourceId": "ff14",
+      "sourceName": "FFXIV Lodestone",
+      "category": "game",
+      "publishedAt": null,
+      "detectedAt": "2026-09-10T08:07:24+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "4cdd190520d6596b20ebfce1131171b6625d47b07ed762398240e1b8f222a0ae",
+      "revision": 1,
+      "importance": 40,
+      "importanceReasons": [
+        "公式一次情報"
+      ],
+      "tags": []
+    },
+    {
+      "id": "72f309e94aee4e9beb9463dd",
+      "title": "PHYSINT from Hideo Kojima moves from PlayStation to XBOX",
+      "url": "https://store.steampowered.com/news/group/4218320/view/714538122294067447",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-10T07:31:03+00:00",
+      "detectedAt": "2026-09-10T08:07:24+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "fb517eb5f752f76a98a2eaef8d2090368231eb0df05132ec0c50df5b6784340f",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "4855dc55de3183339f46a423",
+      "title": "コンテック製SolarView Compactにおける複数の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU97753461/",
+      "sourceId": "jvn",
+      "sourceName": "JVN",
+      "category": "work",
+      "publishedAt": "2026-09-10T06:00:00+00:00",
+      "detectedAt": "2026-09-10T08:07:24+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-09-10T06:00:00+00:00",
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "867af0813d9802eb1364a1ae97eeae1601dc547cf9001312101439cec2e7c2d7",
+      "revision": 1,
+      "importance": 80,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "脆弱性"
+      ],
+      "tags": [
+        "セキュリティ"
+      ]
+    },
+    {
+      "id": "307178482169bf0a4ed185e9",
+      "title": "Marvel Rivals Version 20260911 Balance Post",
+      "url": "https://store.steampowered.com/news/app/2767030/view/685264724715110531",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-10T07:33:06+00:00",
+      "detectedAt": "2026-09-10T08:07:24+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "7e0f08381b6bdc5690aa1712885ccb1a9beae627566caf620cfc509cc0eace3e",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "27722f8a95a7decf5d2eafec",
+      "title": "0.9.8 Hotfix is live!",
+      "url": "https://store.steampowered.com/news/app/3624140/view/716789922107752654",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-10T07:19:16+00:00",
+      "detectedAt": "2026-09-10T08:07:24+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "86613fe285ea3274b6cf0c6456d712aa772e6770083c9f77d57e3094d1d51f40",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "2019d334f9a1c7c1a924519b",
+      "title": "Transformers Officially Returns With New $7,000 Release",
+      "url": "https://store.steampowered.com/news/group/38666666/view/695397823941705949",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-10T05:39:52+00:00",
+      "detectedAt": "2026-09-10T08:07:24+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "03ffa226c5cd249ac6084ab22434bccb887ea46ce3fe198bbc9551f38c61916f",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "release"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "1e45b71d5a5193dba450fdfa",
+      "title": "ゲーム内でのRMTおよび不正行為への対応について(9/10)",
+      "url": "https://jp.finalfantasyxiv.com/lodestone/news/detail/565ba7e688db4d27e7d1d7bbbbbb043ef1ddf470",
+      "sourceId": "ff14",
+      "sourceName": "FFXIV Lodestone",
+      "category": "game",
+      "publishedAt": "2026-09-10T07:00:00+00:00",
+      "detectedAt": "2026-09-10T08:07:24+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "5cd5af7fcbcafba7515cb9dc4a9bcbe5fd500a9c04c005c8640f8ab4e0887fc3",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "1855804cb591f2be7eeeb16d",
+      "title": "コンテック製無線LAN FLEXLANシリーズにおける複数の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU99009004/",
+      "sourceId": "jvn",
+      "sourceName": "JVN",
+      "category": "work",
+      "publishedAt": "2026-09-10T06:00:30+00:00",
+      "detectedAt": "2026-09-10T08:07:24+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-09-10T06:00:30+00:00",
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "beb59a79becf35494593c30799bf5ddd12d23efba3c28072388d64758031ccfb",
+      "revision": 1,
+      "importance": 80,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "脆弱性"
+      ],
+      "tags": [
+        "セキュリティ"
+      ]
+    },
+    {
+      "id": "0f520cf3c5954e1493bc8e46",
+      "title": "一般競争入札：令和8年度刑事手続のIT化に係る通信サービス（専用線サービス）の提供及び保守等（再度公告）を掲載しました",
+      "url": "https://www.digital.go.jp/procurement",
+      "sourceId": "digital-agency",
+      "sourceName": "デジタル庁",
+      "category": "work",
+      "publishedAt": "2026-09-10T06:00:00+00:00",
+      "detectedAt": "2026-09-09T03:22:00+00:00",
+      "updatedAt": "2026-09-10T08:07:24+00:00",
+      "sourceUpdatedAt": null,
+      "changeType": "updated",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "be1c6e746445c45a3e062ca8ac48bff13d45d0485781a5bc0f91969ecc414d53",
+      "revision": 2,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
     {
       "id": "faa37362568657fbf7a1ce15",
       "title": "Enterprise managed permissions for GitHub Copilot agent operations",
@@ -789,10 +1272,9 @@
       "summary": null,
       "contentHash": "5054b260f34d0e8428a517eb0eebae0f1de7045fbc063d2b0ce70d5f74ab8f63",
       "revision": 1,
-      "importance": 80,
+      "importance": 70,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "脆弱性"
       ],
       "tags": [
@@ -893,10 +1375,9 @@
       "summary": null,
       "contentHash": "e75acdfcb5b29a70398625cfec5b6462710280482f007c485eeb201590945f98",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -916,10 +1397,9 @@
       "summary": null,
       "contentHash": "b818507e6584d87117f74d047d9d7e4fd9dfe03ba8846e413bfe69154eee63c2",
       "revision": 2,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1109,10 +1589,9 @@
       "summary": null,
       "contentHash": "9b5e8480c24e34f08244c5155b582a18d5e50537dddc982c9f38ecd135d6fd62",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1158,10 +1637,9 @@
       "summary": null,
       "contentHash": "3b72b9ee3b5a86c0df2226942524fbf613c0548d749e8286b10a1db6c8d11bfd",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1327,10 +1805,9 @@
       "summary": null,
       "contentHash": "023da9e4b6553d1706aa8944ad7516ce4d41131709f1ae5329e610a3c1e4945c",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1637,7 +2114,6 @@
       "importance": 100,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "緊急",
         "メンテナンス"
       ],
@@ -2031,10 +2507,9 @@
       "summary": null,
       "contentHash": "9be272f451b7b3f2b5fd45eaffbeef064ed3403d4633d80ca16430f30b186826",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -2301,10 +2776,9 @@
       "summary": null,
       "contentHash": "a85d97b6114ebfdd0bb4ca2aa6230bbbafe0345e724cbe0a4a5121132f934573",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -2368,10 +2842,9 @@
       "summary": null,
       "contentHash": "8e7d9e036fe4164eeeffeb962e4c849a66348836e83b898d4d8f08946cf03876",
       "revision": 1,
-      "importance": 80,
+      "importance": 70,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "脆弱性"
       ],
       "tags": [
@@ -2466,10 +2939,9 @@
       "summary": null,
       "contentHash": "6c52b20fe3b1e29747284d9b85346b7686aafa23c2390b8965020a36ac2cec86",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -2824,10 +3296,9 @@
       "summary": null,
       "contentHash": "730380bbb4d827836f8d3a14de0966e30553b0e34acc4316d58bcfb5a4c0a3e9",
       "revision": 1,
-      "importance": 65,
+      "importance": 55,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "release"
       ],
       "tags": [
@@ -3476,10 +3947,9 @@
       "summary": null,
       "contentHash": "93028a3e56754dd53665c0c8d0c3534cd79c23e5d649d7123784646eb517c279",
       "revision": 1,
-      "importance": 80,
+      "importance": 70,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "脆弱性"
       ],
       "tags": [
@@ -3502,10 +3972,9 @@
       "summary": null,
       "contentHash": "f9d3a83b3968a3b4005ef9cb1eb4e25c8029f2af6b57f9953596b6fd78047c64",
       "revision": 1,
-      "importance": 70,
+      "importance": 60,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "注意喚起"
       ],
       "tags": [
@@ -3755,10 +4224,9 @@
       "summary": null,
       "contentHash": "8cec9445777e5f911ff6f1b9b24e4cc85a055f33f87fa04cc368fcd7f4a43161",
       "revision": 1,
-      "importance": 80,
+      "importance": 70,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "脆弱性"
       ],
       "tags": [
@@ -3850,10 +4318,9 @@
       "summary": null,
       "contentHash": "44c62efc0ee7e9ddbb2fbb1cbf6db7808cb65874009872296f2c967f90d9726e",
       "revision": 1,
-      "importance": 100,
+      "importance": 90,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "脆弱性",
         "注意喚起"
       ],
@@ -4244,10 +4711,9 @@
       "summary": null,
       "contentHash": "6e4aaa05fff14db056f599439a6d09d71c135575ffb54f18aff0be508eab891b",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -4894,10 +5360,9 @@
       "summary": null,
       "contentHash": "f8988496326bcf917cbdee341f50b4e9e32a9749eee3db37bfed5896df0f1153",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -5012,29 +5477,6 @@
       "tags": []
     },
     {
-      "id": "0f520cf3c5954e1493bc8e46",
-      "title": "一般競争入札：ガバメントクラウドへの移行加速に向けた調査研究業務（令和8年度）を掲載しました",
-      "url": "https://www.digital.go.jp/procurement",
-      "sourceId": "digital-agency",
-      "sourceName": "デジタル庁",
-      "category": "work",
-      "publishedAt": "2026-09-07T06:00:00+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "1f30eeae2993bbe873a26c283af8f77bec382f8b2277c953cd8f99c75d43f811",
-      "revision": 1,
-      "importance": 60,
-      "importanceReasons": [
-        "公式一次情報",
-        "ガバメントクラウド"
-      ],
-      "tags": []
-    },
-    {
       "id": "0ca16046641d35482ad59cae",
       "title": "令和7年度（2025年度）公益法人に対する支出状況を掲載しました",
       "url": "https://www.digital.go.jp/procurement/disclosure/public-service-corporation-expenditure-inspection",
@@ -5094,10 +5536,9 @@
       "summary": null,
       "contentHash": "81d162007af8c1677fbc03fff30a5c5df9ada971cea5ca3efbd91686f3466368",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },

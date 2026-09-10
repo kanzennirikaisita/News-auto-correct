@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-10T08:07:24+00:00",
+  "generatedAt": "2026-09-10T13:36:34+00:00",
   "collector": {
-    "lastRun": "2026-09-10T08:07:24+00:00",
+    "lastRun": "2026-09-10T13:36:34+00:00",
     "success": 13,
     "failed": 0
   },
@@ -14,7 +14,7 @@
       "url": "https://www.digital.go.jp/rss/news.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-10T08:07:24+00:00",
+      "lastSuccess": "2026-09-10T13:36:34+00:00",
       "count": 30
     },
     {
@@ -24,7 +24,7 @@
       "url": "https://www.jpcert.or.jp/rss/jpcert.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-10T08:07:24+00:00",
+      "lastSuccess": "2026-09-10T13:36:34+00:00",
       "count": 20
     },
     {
@@ -34,7 +34,7 @@
       "url": "https://jvn.jp/rss/jvn.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-10T08:07:24+00:00",
+      "lastSuccess": "2026-09-10T13:36:34+00:00",
       "count": 20
     },
     {
@@ -44,7 +44,7 @@
       "url": "https://blogs.jpcert.or.jp/ja/atom.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-10T08:07:24+00:00",
+      "lastSuccess": "2026-09-10T13:36:34+00:00",
       "count": 15
     },
     {
@@ -54,7 +54,7 @@
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-10T08:07:24+00:00",
+      "lastSuccess": "2026-09-10T13:36:34+00:00",
       "count": 200
     },
     {
@@ -64,7 +64,7 @@
       "url": "https://github.blog/changelog/feed/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-10T08:07:24+00:00",
+      "lastSuccess": "2026-09-10T13:36:34+00:00",
       "count": 10
     },
     {
@@ -74,7 +74,7 @@
       "url": "https://api.github.com/repos/langgenius/dify/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-10T08:07:24+00:00",
+      "lastSuccess": "2026-09-10T13:36:34+00:00",
       "count": 27
     },
     {
@@ -84,8 +84,8 @@
       "url": "https://api.github.com/repos/openai/codex/releases?per_page=10",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-10T08:07:24+00:00",
-      "count": 4
+      "lastSuccess": "2026-09-10T13:36:34+00:00",
+      "count": 3
     },
     {
       "id": "claude-code",
@@ -94,7 +94,7 @@
       "url": "https://api.github.com/repos/anthropics/claude-code/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-10T08:07:24+00:00",
+      "lastSuccess": "2026-09-10T13:36:34+00:00",
       "count": 30
     },
     {
@@ -104,7 +104,7 @@
       "url": "https://jp.finalfantasyxiv.com/lodestone/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-10T08:07:24+00:00",
+      "lastSuccess": "2026-09-10T13:36:34+00:00",
       "count": 29
     },
     {
@@ -114,7 +114,7 @@
       "url": "https://steamcommunity.com/games/1245620/rss/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-10T08:07:24+00:00",
+      "lastSuccess": "2026-09-10T13:36:34+00:00",
       "count": 10
     },
     {
@@ -124,7 +124,7 @@
       "url": "https://store.steampowered.com/feeds/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-10T08:07:24+00:00",
+      "lastSuccess": "2026-09-10T13:36:34+00:00",
       "count": 10
     },
     {
@@ -134,11 +134,271 @@
       "url": "https://www.apple.com/jp/newsroom/rss-feed.rss",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-10T08:07:24+00:00",
+      "lastSuccess": "2026-09-10T13:36:34+00:00",
       "count": 20
     }
   ],
   "items": [
+    {
+      "id": "eb6860aa9713e09850a8f2a9",
+      "title": "Doki Monsters: Quest – Natural Selection at Work",
+      "url": "https://store.steampowered.com/news/group/25563497/view/710034522707591379",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-10T13:04:47+00:00",
+      "detectedAt": "2026-09-10T13:36:34+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "2a932e425c8924b00769f39d1269f29f1d7590b647065ea9cdd0b92a1b0feaf7",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "e05399514bd0cb6f2f80c8c7",
+      "title": "Bandai Namco Announces New Ace Combat 8 Prequel Series, Streaming First on IGN",
+      "url": "https://store.steampowered.com/news/group/9869/view/687516524528795882",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-10T13:20:41+00:00",
+      "detectedAt": "2026-09-10T13:36:34+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "539548d90dbe764b55c1e7c8e21077c66fce3077cd67b20b426fa7197e67fbd8",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "deea29bf290bec59d9a5d266",
+      "title": "Buffy The Vampire Slayer Fans Heartbroken Over Latest Cancellation",
+      "url": "https://store.steampowered.com/news/group/38666666/view/695397823941705979",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-10T12:30:07+00:00",
+      "detectedAt": "2026-09-10T13:36:34+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "db271ce4b37ff36d082e43b65af39542de303abd0d02bba5cb6be6b3b826caf2",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "dcd0cc98dc204c87e1285243",
+      "title": "PS5 Emulator Can Now Officially Run GTA 5 At 60fps On PC",
+      "url": "https://store.steampowered.com/news/group/38458038/view/711160422578782405",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-10T13:30:03+00:00",
+      "detectedAt": "2026-09-10T13:36:34+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "b562ffa7198cabbd8268d5007c0daf88357a2d63bf4221d6f13d5068e2256b6e",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "be41d8da039884b72ac4a7ff",
+      "title": "Achievement Rebalancing",
+      "url": "https://store.steampowered.com/news/app/3624140/view/716789922107752689",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-10T13:35:15+00:00",
+      "detectedAt": "2026-09-10T13:36:34+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "41a0f7c8e74d507126104a0968d2b088c737729e131e42eefe8866a4769ad1ff",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "a6823cfce098dfdffbe4cf78",
+      "title": "Final Fantasy 7 Revelation left me with high hopes, even if it’s doubling down on Rebirth’s biggest weakness",
+      "url": "https://store.steampowered.com/news/group/42342144/view/701027323413004523",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-10T12:02:04+00:00",
+      "detectedAt": "2026-09-10T13:36:34+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "38a1ae4122677b622b4f0dba4e4cec8e4b8afa708dd4582a083f645aa3c1d740",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "970db32b832ca26be83e4f01",
+      "title": "No Man's Sky Cosmos Update Is a Game-Changer",
+      "url": "https://store.steampowered.com/news/group/1450625/view/715664022201958662",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-10T13:10:31+00:00",
+      "detectedAt": "2026-09-10T13:36:34+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "8f89772792ed16458799256d27e29e6ca03dce5077a09bfa3382713745e43d17",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "update"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "94ef466513e20eba1bea1112",
+      "title": "Final Fantasy 7 Revelation masterfully blends nostalgia and new in an exciting and overwhelming package",
+      "url": "https://store.steampowered.com/news/group/38509069/view/688642424435638497",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-10T12:00:50+00:00",
+      "detectedAt": "2026-09-10T13:36:34+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "083286ee1e1af5d5a8537fb6a0afc96058a5cbb9278bc9f08b038c44ce45a35a",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "92cfc12afacc9c47b9d72343",
+      "title": "Valve locks Australian Steam users out of age-restricted store pages if they don't have a credit card, even if their account is over 18 years old",
+      "url": "https://store.steampowered.com/news/group/38509069/view/688642424435638507",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-10T12:10:51+00:00",
+      "detectedAt": "2026-09-10T13:36:34+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "e9f7eea01b222b81dfa9a02e63c4c707fff360251dda7951f170e661aca19808",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "3d391a718d42191008b41a87",
+      "title": "Final Fantasy 7 Revelation boss is \"so sorry\" for what happens to Aerith in Rebirth, but if you're still upset, \"you may change your opinion\" by the end of the remake trilogy",
+      "url": "https://store.steampowered.com/news/group/38509069/view/688642424435638501",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-10T12:00:50+00:00",
+      "detectedAt": "2026-09-10T13:36:34+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "b0c29d2e2fd84dc1a45878c184a579bb419b128edd1ad52937cae34be84fa648",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "1c0c266f6f8709e1c776e017",
+      "title": "Dify v1.17.1 - Bug Fixes and Improvements",
+      "url": "https://github.com/langgenius/dify/releases/tag/1.17.1",
+      "sourceId": "dify",
+      "sourceName": "Dify",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-10T10:04:06+00:00",
+      "detectedAt": "2026-09-10T13:36:34+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-09-10T10:17:09+00:00",
+      "changeType": "new",
+      "kind": "release",
+      "summary": null,
+      "contentHash": "54dd6d78d035f4c08eeb3c0bc099a420615f62e179aa38f78a622dbc60141426",
+      "revision": 1,
+      "importance": 75,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "バージョン公開",
+        "dify"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
     {
       "id": "faa523cd7196e308ba1d5d84",
       "title": "Steam Beta for Sept 9th has huge changes - Big Art Mode, Screensaver, Proton option changes, Desktop Mode toggle for SteamOS",
@@ -707,10 +967,9 @@
       "summary": null,
       "contentHash": "f580bafb5216654d580e2873072eeede3f66eff8c18586926c879eba35ce3196",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -803,10 +1062,9 @@
       "summary": null,
       "contentHash": "c45b2437340518eca1d4f2eaf614e8294a4c506336cf57c6f47e2239d4985616",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1012,10 +1270,9 @@
       "summary": null,
       "contentHash": "53f96d0d4ab263e3a9fc0a741d27faea5f7b9c001f49c6fd61948850ce848a68",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1300,7 +1557,6 @@
       "importance": 100,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "緊急",
         "終了",
         "メンテナンス"
@@ -1326,10 +1582,9 @@
       "summary": null,
       "contentHash": "436903f4cc023f527d212eeb7d2f82f057370114a8999beeac4c1b4026f5e645",
       "revision": 1,
-      "importance": 65,
+      "importance": 55,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "update"
       ],
       "tags": [
@@ -1352,10 +1607,9 @@
       "summary": null,
       "contentHash": "2636b8d68ef5b3be8b173eff7160f6051da88c539d986183fbacc3c29e6449fd",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1419,10 +1673,9 @@
       "summary": null,
       "contentHash": "d26a2a8f8d0dc11b1676f60cd726aed4431849f654eb3692c9abe5a77c3d06f6",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1442,10 +1695,9 @@
       "summary": null,
       "contentHash": "b8fae466cd23f340aa1f76cd0c2acd33ae3b9281651680103a9e1bcb4157f31a",
       "revision": 1,
-      "importance": 65,
+      "importance": 55,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "update"
       ],
       "tags": [
@@ -1468,10 +1720,9 @@
       "summary": null,
       "contentHash": "d1041b7181f2f0f1640b4e01245445efaaee89a3ab73063e0b387a35c3feebe7",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1491,10 +1742,9 @@
       "summary": null,
       "contentHash": "fefa22f74df065f8cbbe99868621c9cc7169866018ed7a410a26edbe2f93e194",
       "revision": 1,
-      "importance": 65,
+      "importance": 55,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "update"
       ],
       "tags": [
@@ -1517,10 +1767,9 @@
       "summary": null,
       "contentHash": "329ca1efedd0325607ba6d76da7032317178344ac75bcf41b424569f1a62e6ea",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1540,10 +1789,9 @@
       "summary": null,
       "contentHash": "6116c141961de2ecc6390bd468e647b0f5ce73f31628acee1fd2614421431e33",
       "revision": 1,
-      "importance": 65,
+      "importance": 55,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "update"
       ],
       "tags": [
@@ -1566,10 +1814,9 @@
       "summary": null,
       "contentHash": "5b33644ef7e0a419bb0321f76d6920f7c97cbd743602e3377d0bf9792c878231",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1611,10 +1858,9 @@
       "summary": null,
       "contentHash": "5cedcc7f1c412fe8bcb7adab32af673153f33679b08c07da15826a66e5d13e7a",
       "revision": 1,
-      "importance": 65,
+      "importance": 55,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "update"
       ],
       "tags": [
@@ -2039,10 +2285,9 @@
       "summary": null,
       "contentHash": "99f64d2ea3aacfb1d92f18a7198649c48dd68c1ad8e619a5c13e86720f95e4ac",
       "revision": 2,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },

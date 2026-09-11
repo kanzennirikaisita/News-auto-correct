@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-11T00:09:29+00:00",
+  "generatedAt": "2026-09-11T03:53:29+00:00",
   "collector": {
-    "lastRun": "2026-09-11T00:09:29+00:00",
+    "lastRun": "2026-09-11T03:53:29+00:00",
     "success": 13,
     "failed": 0
   },
@@ -14,8 +14,8 @@
       "url": "https://www.digital.go.jp/rss/news.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-11T00:09:29+00:00",
-      "count": 30
+      "lastSuccess": "2026-09-11T03:53:29+00:00",
+      "count": 32
     },
     {
       "id": "jpcert",
@@ -24,7 +24,7 @@
       "url": "https://www.jpcert.or.jp/rss/jpcert.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-11T00:09:29+00:00",
+      "lastSuccess": "2026-09-11T03:53:29+00:00",
       "count": 20
     },
     {
@@ -34,7 +34,7 @@
       "url": "https://jvn.jp/rss/jvn.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-11T00:09:29+00:00",
+      "lastSuccess": "2026-09-11T03:53:29+00:00",
       "count": 20
     },
     {
@@ -44,7 +44,7 @@
       "url": "https://blogs.jpcert.or.jp/ja/atom.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-11T00:09:29+00:00",
+      "lastSuccess": "2026-09-11T03:53:29+00:00",
       "count": 15
     },
     {
@@ -54,7 +54,7 @@
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-11T00:09:29+00:00",
+      "lastSuccess": "2026-09-11T03:53:29+00:00",
       "count": 200
     },
     {
@@ -64,7 +64,7 @@
       "url": "https://github.blog/changelog/feed/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-11T00:09:29+00:00",
+      "lastSuccess": "2026-09-11T03:53:29+00:00",
       "count": 10
     },
     {
@@ -74,7 +74,7 @@
       "url": "https://api.github.com/repos/langgenius/dify/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-11T00:09:29+00:00",
+      "lastSuccess": "2026-09-11T03:53:29+00:00",
       "count": 27
     },
     {
@@ -84,7 +84,7 @@
       "url": "https://api.github.com/repos/openai/codex/releases?per_page=10",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-11T00:09:29+00:00",
+      "lastSuccess": "2026-09-11T03:53:29+00:00",
       "count": 2
     },
     {
@@ -94,7 +94,7 @@
       "url": "https://api.github.com/repos/anthropics/claude-code/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-11T00:09:29+00:00",
+      "lastSuccess": "2026-09-11T03:53:29+00:00",
       "count": 30
     },
     {
@@ -104,7 +104,7 @@
       "url": "https://jp.finalfantasyxiv.com/lodestone/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-11T00:09:29+00:00",
+      "lastSuccess": "2026-09-11T03:53:29+00:00",
       "count": 29
     },
     {
@@ -114,7 +114,7 @@
       "url": "https://steamcommunity.com/games/1245620/rss/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-11T00:09:29+00:00",
+      "lastSuccess": "2026-09-11T03:53:29+00:00",
       "count": 10
     },
     {
@@ -124,7 +124,7 @@
       "url": "https://store.steampowered.com/feeds/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-11T00:09:29+00:00",
+      "lastSuccess": "2026-09-11T03:53:29+00:00",
       "count": 10
     },
     {
@@ -134,11 +134,368 @@
       "url": "https://www.apple.com/jp/newsroom/rss-feed.rss",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-11T00:09:29+00:00",
+      "lastSuccess": "2026-09-11T03:53:29+00:00",
       "count": 20
     }
   ],
   "items": [
+    {
+      "id": "f87bd1b17f823552106e7f31",
+      "title": "AOMEI Backupperのamwrtdrv.sysカーネルドライバにおける権限昇格の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU95258183/",
+      "sourceId": "jvn",
+      "sourceName": "JVN",
+      "category": "work",
+      "publishedAt": "2026-09-11T01:30:00+00:00",
+      "detectedAt": "2026-09-11T03:53:29+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-09-11T01:30:00+00:00",
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "587858ced97cb6ea1beb59c7fb582c4da21faa8a9f3a2b533247710dbe3d3eb8",
+      "revision": 1,
+      "importance": 80,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "脆弱性"
+      ],
+      "tags": [
+        "セキュリティ"
+      ]
+    },
+    {
+      "id": "df01e2bb6e3d953859fbcac2",
+      "title": "TOKYO HORROR TOKK!! 2026",
+      "url": "https://store.steampowered.com/news/group/46280935/view/716789287659504227",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-11T00:12:42+00:00",
+      "detectedAt": "2026-09-11T03:53:29+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "cfd2e5dcb19c79da573e7917dd4b5062a8e38190fed4b958d29ce07240fcdd6c",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "dc004256a02ee0a83ead0a47",
+      "title": "Introducing the Spirit Warden & Seer of the Maji Microtransactions",
+      "url": "https://store.steampowered.com/news/app/2694490/view/675131625553527208",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-11T03:15:50+00:00",
+      "detectedAt": "2026-09-11T03:53:29+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "58595e26052237c7951763b4b8db46242464da066401eec4dff12d570000c996",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "c64caf96ce63691dc65c5684",
+      "title": "WARDOGS peaks at 340k players",
+      "url": "https://store.steampowered.com/news/group/4777282/view/667250326206677304",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-10T16:10:15+00:00",
+      "detectedAt": "2026-09-11T03:53:29+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "4abe1cb4493002007c70ea2bea40c8f24b80644d359e67598a1df11d6fa73792",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "b5306989c2fc1916c88b02ac",
+      "title": "Seven ONI RPG entries from Game Boy and Super Famicom eras are coming to Nintendo Switch on January 28, 2027",
+      "url": "https://store.steampowered.com/news/group/6070552/view/701027323413004760",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-11T02:00:37+00:00",
+      "detectedAt": "2026-09-11T03:53:29+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "d582c774e0d65caf6c3b45839ad0eace337c976297e9d1cbca08aeaac43f9087",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "a81153479a2178f93ecd1a39",
+      "title": "Trails from Zero and Trails to Azure are now available on PS5 and Switch 2, Switch 1 and PC versions patched",
+      "url": "https://store.steampowered.com/news/group/6070552/view/701027323413004749",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-11T01:00:35+00:00",
+      "detectedAt": "2026-09-11T03:53:29+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "96a9d72cbe50c6423a43f7022fa840fb0d794cd3249429643c3cd1a2b4e1c7ea",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "patch"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "9575e135d0948a849dcd543b",
+      "title": "a-blog cmsにおけるパストラバーサルの脆弱性",
+      "url": "https://jvn.jp/jp/JVN20829034/",
+      "sourceId": "jvn",
+      "sourceName": "JVN",
+      "category": "work",
+      "publishedAt": "2026-09-11T03:00:00+00:00",
+      "detectedAt": "2026-09-11T03:53:29+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-09-11T03:00:00+00:00",
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "6ab7a8fea8497cc6ec191e86f90c74a05042d9c05cf4c74e6d7ab66708826a68",
+      "revision": 1,
+      "importance": 80,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "脆弱性"
+      ],
+      "tags": [
+        "セキュリティ"
+      ]
+    },
+    {
+      "id": "7e0776a84e80d24e38a9c470",
+      "title": "松本大臣記者会見（令和8年9月11日）動画を掲載しました",
+      "url": "https://www.digital.go.jp/speech/minister-260911-01",
+      "sourceId": "digital-agency",
+      "sourceName": "デジタル庁",
+      "category": "work",
+      "publishedAt": "2026-09-11T02:45:20+00:00",
+      "detectedAt": "2026-09-11T03:53:29+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "943b8314062de1759ef0f8c447056e1efb4ae2dbc3026e6bb36656dbd2b34667",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "74f137595566beed3a3b9332",
+      "title": "Assassin's Creed Legend Kassandra Officially Returns December 2026",
+      "url": "https://store.steampowered.com/news/group/38666666/view/695397823941706190",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-11T02:10:40+00:00",
+      "detectedAt": "2026-09-11T03:53:29+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "1dcef76d3f67c1c40852432b34d141e374d7f5db7a2287b165d272ce68d2e9ba",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "678dea3db83cd0187187691e",
+      "title": "Game Of Thrones: Beyond The Wall Officially Announced",
+      "url": "https://store.steampowered.com/news/group/38666666/view/695397823941706192",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-11T03:10:43+00:00",
+      "detectedAt": "2026-09-11T03:53:29+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "80c4abc17d448b6f51239f1cee541e27ae6a92dfde87e92d11d33b9ecd68a44c",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "3393bbf81b8f3ab476aaa98f",
+      "title": "Navinosuke: The Yo-kai Buster launches in 2027 for PC and Switch",
+      "url": "https://store.steampowered.com/news/group/6070552/view/701027323413004751",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-11T01:10:35+00:00",
+      "detectedAt": "2026-09-11T03:53:29+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "dcc0db039cd29918755a82a32c8c4f98db87422275e6dbd78d62e3c810b5217e",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "3004e3074e3774d38735bbe4",
+      "title": "1.25 MILLION COPIES SOLD!",
+      "url": "https://store.steampowered.com/news/app/1867240/view/701027323413004681",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-11T01:05:25+00:00",
+      "detectedAt": "2026-09-11T03:53:29+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "8c12a86e441dc5915b2a338b1467414919cf3f6256907cf95f09666544ca99f3",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "1e482a257cf23d987c6dfc1e",
+      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月10日）",
+      "url": "https://jvn.jp/vu/JVNVU94404414/",
+      "sourceId": "jvn",
+      "sourceName": "JVN",
+      "category": "work",
+      "publishedAt": "2026-09-11T01:30:15+00:00",
+      "detectedAt": "2026-09-11T03:53:29+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-09-11T01:30:15+00:00",
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "4508ce45db6cc8d7533b1f50d07ac8f20f2fec96c4bf02066274245d6eead434",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "0b59f8a991a801bfcb8fd955",
+      "title": "[Completed] Unscheduled Channel Maintenance - September 10, 2026",
+      "url": "https://store.steampowered.com/news/app/216150/view/713412222387224981",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-11T01:06:02+00:00",
+      "detectedAt": "2026-09-11T03:53:29+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "f662303aee29209311d255e8e50b443b7ac9408e965fd7c42e5e31ed3881abe3",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "maintenance"
+      ],
+      "tags": [
+        "メンテナンス"
+      ]
+    },
+    {
+      "id": "09cb750450f3f4b276f13939",
+      "title": "ガバメントソリューションサービスへの不正アクセスによる職員等の個人情報の漏えいの可能性について",
+      "url": "https://www.digital.go.jp/news/2026-0911-01",
+      "sourceId": "digital-agency",
+      "sourceName": "デジタル庁",
+      "category": "work",
+      "publishedAt": "2026-09-11T02:45:36+00:00",
+      "detectedAt": "2026-09-11T03:53:29+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "889eef4972765d8cd6478f787f45534f3cee09c6d412e763d768c40b7b84e528",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
     {
       "id": "fa15634299cee3caeadd4c99",
       "title": "Aliens: Fireteam Elite 2 Review",
@@ -1815,10 +2172,9 @@
       "summary": null,
       "contentHash": "0fba210e1af35b03d5c9af6e82e8747b93ce622b4893f09e46121b148cdd845f",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1975,10 +2331,9 @@
       "summary": null,
       "contentHash": "c589d1449ad0c9f182f8b300c77d5ffac041149bfc83826d15f9e944c6c07052",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -2131,10 +2486,9 @@
       "summary": null,
       "contentHash": "e49045671f09a73bf56d5e41060f3886b1691d108ff47591afa5a921750bcc9f",
       "revision": 1,
-      "importance": 65,
+      "importance": 55,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "release"
       ],
       "tags": [

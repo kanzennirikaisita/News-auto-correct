@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-11T08:02:31+00:00",
+  "generatedAt": "2026-09-11T13:34:03+00:00",
   "collector": {
-    "lastRun": "2026-09-11T08:02:31+00:00",
+    "lastRun": "2026-09-11T13:34:03+00:00",
     "success": 13,
     "failed": 0
   },
@@ -14,7 +14,7 @@
       "url": "https://www.digital.go.jp/rss/news.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-11T08:02:31+00:00",
+      "lastSuccess": "2026-09-11T13:34:03+00:00",
       "count": 30
     },
     {
@@ -24,7 +24,7 @@
       "url": "https://www.jpcert.or.jp/rss/jpcert.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-11T08:02:31+00:00",
+      "lastSuccess": "2026-09-11T13:34:03+00:00",
       "count": 20
     },
     {
@@ -34,7 +34,7 @@
       "url": "https://jvn.jp/rss/jvn.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-11T08:02:31+00:00",
+      "lastSuccess": "2026-09-11T13:34:03+00:00",
       "count": 20
     },
     {
@@ -44,7 +44,7 @@
       "url": "https://blogs.jpcert.or.jp/ja/atom.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-11T08:02:31+00:00",
+      "lastSuccess": "2026-09-11T13:34:03+00:00",
       "count": 15
     },
     {
@@ -54,7 +54,7 @@
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-11T08:02:31+00:00",
+      "lastSuccess": "2026-09-11T13:34:03+00:00",
       "count": 200
     },
     {
@@ -64,7 +64,7 @@
       "url": "https://github.blog/changelog/feed/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-11T08:02:31+00:00",
+      "lastSuccess": "2026-09-11T13:34:03+00:00",
       "count": 10
     },
     {
@@ -74,7 +74,7 @@
       "url": "https://api.github.com/repos/langgenius/dify/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-11T08:02:31+00:00",
+      "lastSuccess": "2026-09-11T13:34:03+00:00",
       "count": 27
     },
     {
@@ -84,8 +84,8 @@
       "url": "https://api.github.com/repos/openai/codex/releases?per_page=10",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-11T08:02:31+00:00",
-      "count": 2
+      "lastSuccess": "2026-09-11T13:34:03+00:00",
+      "count": 1
     },
     {
       "id": "claude-code",
@@ -94,7 +94,7 @@
       "url": "https://api.github.com/repos/anthropics/claude-code/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-11T08:02:31+00:00",
+      "lastSuccess": "2026-09-11T13:34:03+00:00",
       "count": 30
     },
     {
@@ -104,7 +104,7 @@
       "url": "https://jp.finalfantasyxiv.com/lodestone/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-11T08:02:31+00:00",
+      "lastSuccess": "2026-09-11T13:34:03+00:00",
       "count": 29
     },
     {
@@ -114,7 +114,7 @@
       "url": "https://steamcommunity.com/games/1245620/rss/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-11T08:02:31+00:00",
+      "lastSuccess": "2026-09-11T13:34:03+00:00",
       "count": 10
     },
     {
@@ -124,7 +124,7 @@
       "url": "https://store.steampowered.com/feeds/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-11T08:02:31+00:00",
+      "lastSuccess": "2026-09-11T13:34:03+00:00",
       "count": 10
     },
     {
@@ -134,11 +134,263 @@
       "url": "https://www.apple.com/jp/newsroom/rss-feed.rss",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-11T08:02:31+00:00",
+      "lastSuccess": "2026-09-11T13:34:03+00:00",
       "count": 20
     }
   ],
   "items": [
+    {
+      "id": "ffac6a186671abea369e3b4c",
+      "title": "PUBG EMEA Championship: Meet The Teams of Playoffs 1!",
+      "url": "https://store.steampowered.com/news/app/578080/view/695397823941706307",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-11T13:01:39+00:00",
+      "detectedAt": "2026-09-11T13:34:03+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "b34ded82c84f67e7e3e10b8bd028bcdbe057572f584820f2bd8232051e5f1aa0",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "b371ed3c0e56e78aa3f6120f",
+      "title": "Dragon Ball Xenoverse 3 Finally Reveals How Transformations Work",
+      "url": "https://store.steampowered.com/news/group/38458038/view/711160422578782644",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-11T12:00:56+00:00",
+      "detectedAt": "2026-09-11T13:34:03+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "45186de0f7f89bb274590c70cc89f19499e2a02af6aee93329a784f13b4ac898",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "9ebc6eaf13d3bced1aededb1",
+      "title": "0.9.9 hotfix is live!",
+      "url": "https://store.steampowered.com/news/app/3624140/view/716789922107752989",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-11T13:05:08+00:00",
+      "detectedAt": "2026-09-11T13:34:03+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "79afe3116df4b0bf4737260aaf8ff89281e0f70c32a8c8e0d8ebf3294c614082",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "818def36d3e530b6ddce8492",
+      "title": "How Warhammer 40,000: Space Marine 3 Will Benefit From Tech Improvements Made for John Carpenter's Toxic Commando",
+      "url": "https://store.steampowered.com/news/group/9869/view/687516524528796198",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-11T12:22:09+00:00",
+      "detectedAt": "2026-09-11T13:34:03+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "c8711d869ca6149a01ec5509671226c152b7205bbd232a3a9652ab34c1a10faa",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "71e536c5a20c1ac29124a472",
+      "title": "PUBG Americas Series 2: Playoffs 1 Bracket Revealed!",
+      "url": "https://store.steampowered.com/news/app/578080/view/695397823941706319",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-11T13:21:06+00:00",
+      "detectedAt": "2026-09-11T13:34:03+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "2c45e937b74583fc4580426fe8fa5b84e7c950302a34a0092ca28a62dc8894e0",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "6495848b85065692ecbd5e0b",
+      "title": "H145M: Angry Dragonfly",
+      "url": "https://store.steampowered.com/news/app/236390/view/710034522707591349",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-11T12:48:37+00:00",
+      "detectedAt": "2026-09-11T13:34:03+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "63587f7ef6c067daeae27de56bdc9915bbb71586f47e45703ce2262a20bd0bfc",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "4e608ffcf6d1bceed2650653",
+      "title": "With Persona 6 still a total unknown, Atlus announces Persona 30th anniversary stream for this month",
+      "url": "https://store.steampowered.com/news/group/38509069/view/688642424435638867",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-11T13:22:17+00:00",
+      "detectedAt": "2026-09-11T13:34:03+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "844d17a58db96ace4f67bc0f1cf7b84bc2d2cb9b910412d4aa86785f7c9722e2",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "453b8428a427b4a850fc2c17",
+      "title": "「黄金秘話」第7話公開！",
+      "url": "https://jp.finalfantasyxiv.com/lodestone/topics/detail/57a0d7ec5a7e75c3557b580c08c731e1b55fc556",
+      "sourceId": "ff14",
+      "sourceName": "FFXIV Lodestone",
+      "category": "game",
+      "publishedAt": null,
+      "detectedAt": "2026-09-11T13:34:03+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "ee62d0d3d3019d100ff479ab93e4add7cd9fdb93c8ed235e43b281bd3c1af673",
+      "revision": 1,
+      "importance": 40,
+      "importanceReasons": [
+        "公式一次情報"
+      ],
+      "tags": []
+    },
+    {
+      "id": "2ebe6e574d24cd1d81f22f30",
+      "title": "Steam Users Have a Chance to Get The Blood of Dawnwalker for Just $1",
+      "url": "https://store.steampowered.com/news/group/1450625/view/715664022201958991",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-11T13:01:50+00:00",
+      "detectedAt": "2026-09-11T13:34:03+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "73b1707f3a4c304c869aa085e3939ecc55bc6fb00f7b9cfaa6038597035881c5",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "2892ca8d2cf8d7e57f4d0d00",
+      "title": "The XApp Project from Linux Mint gets a fancy new website - plus a new Calendar and EPUB reader",
+      "url": "https://store.steampowered.com/news/group/4218320/view/714538122294067784",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-11T12:03:16+00:00",
+      "detectedAt": "2026-09-11T13:34:03+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "bfca968eece8cd6bc686c26988638f48705b7f5be688bd2e73217e7160f4034e",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "01a6679e92bb20640f7d7408",
+      "title": "Footage of PlayStation’s Fairgames allegedly leaks via playtest",
+      "url": "https://store.steampowered.com/news/group/42342144/view/701027323413004865",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-11T12:14:19+00:00",
+      "detectedAt": "2026-09-11T13:34:03+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "3bf18440982253aa018e62a2674b39416e9e1cafba9722d950e3e6898e6f3d53",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
     {
       "id": "f949bb2314e7dea1ccc42fa2",
       "title": "Active Matter developers put up an incredibly distasteful AI notice on Steam",
@@ -1539,10 +1791,9 @@
       "summary": null,
       "contentHash": "2a932e425c8924b00769f39d1269f29f1d7590b647065ea9cdd0b92a1b0feaf7",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1562,10 +1813,9 @@
       "summary": null,
       "contentHash": "539548d90dbe764b55c1e7c8e21077c66fce3077cd67b20b426fa7197e67fbd8",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1585,10 +1835,9 @@
       "summary": null,
       "contentHash": "db271ce4b37ff36d082e43b65af39542de303abd0d02bba5cb6be6b3b826caf2",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1608,10 +1857,9 @@
       "summary": null,
       "contentHash": "b562ffa7198cabbd8268d5007c0daf88357a2d63bf4221d6f13d5068e2256b6e",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1654,10 +1902,9 @@
       "summary": null,
       "contentHash": "38a1ae4122677b622b4f0dba4e4cec8e4b8afa708dd4582a083f645aa3c1d740",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1677,10 +1924,9 @@
       "summary": null,
       "contentHash": "8f89772792ed16458799256d27e29e6ca03dce5077a09bfa3382713745e43d17",
       "revision": 1,
-      "importance": 65,
+      "importance": 55,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "update"
       ],
       "tags": [
@@ -1703,10 +1949,9 @@
       "summary": null,
       "contentHash": "083286ee1e1af5d5a8537fb6a0afc96058a5cbb9278bc9f08b038c44ce45a35a",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1726,10 +1971,9 @@
       "summary": null,
       "contentHash": "e9f7eea01b222b81dfa9a02e63c4c707fff360251dda7951f170e661aca19808",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1749,10 +1993,9 @@
       "summary": null,
       "contentHash": "b0c29d2e2fd84dc1a45878c184a579bb419b128edd1ad52937cae34be84fa648",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1772,10 +2015,9 @@
       "summary": null,
       "contentHash": "54dd6d78d035f4c08eeb3c0bc099a420615f62e179aa38f78a622dbc60141426",
       "revision": 1,
-      "importance": 75,
+      "importance": 65,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "バージョン公開",
         "dify"
       ],
@@ -3602,7 +3844,7 @@
       "sourceId": "ff14",
       "sourceName": "FFXIV Lodestone",
       "category": "game",
-      "publishedAt": "2026-09-11T06:00:00+00:00",
+      "publishedAt": "2026-09-11T08:00:00+00:00",
       "detectedAt": "2026-09-09T03:22:00+00:00",
       "updatedAt": "2026-09-09T03:26:17+00:00",
       "sourceUpdatedAt": null,

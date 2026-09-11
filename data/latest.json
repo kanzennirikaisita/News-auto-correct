@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-10T13:36:34+00:00",
+  "generatedAt": "2026-09-11T00:09:29+00:00",
   "collector": {
-    "lastRun": "2026-09-10T13:36:34+00:00",
+    "lastRun": "2026-09-11T00:09:29+00:00",
     "success": 13,
     "failed": 0
   },
@@ -14,7 +14,7 @@
       "url": "https://www.digital.go.jp/rss/news.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-10T13:36:34+00:00",
+      "lastSuccess": "2026-09-11T00:09:29+00:00",
       "count": 30
     },
     {
@@ -24,7 +24,7 @@
       "url": "https://www.jpcert.or.jp/rss/jpcert.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-10T13:36:34+00:00",
+      "lastSuccess": "2026-09-11T00:09:29+00:00",
       "count": 20
     },
     {
@@ -34,7 +34,7 @@
       "url": "https://jvn.jp/rss/jvn.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-10T13:36:34+00:00",
+      "lastSuccess": "2026-09-11T00:09:29+00:00",
       "count": 20
     },
     {
@@ -44,7 +44,7 @@
       "url": "https://blogs.jpcert.or.jp/ja/atom.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-10T13:36:34+00:00",
+      "lastSuccess": "2026-09-11T00:09:29+00:00",
       "count": 15
     },
     {
@@ -54,7 +54,7 @@
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-10T13:36:34+00:00",
+      "lastSuccess": "2026-09-11T00:09:29+00:00",
       "count": 200
     },
     {
@@ -64,7 +64,7 @@
       "url": "https://github.blog/changelog/feed/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-10T13:36:34+00:00",
+      "lastSuccess": "2026-09-11T00:09:29+00:00",
       "count": 10
     },
     {
@@ -74,7 +74,7 @@
       "url": "https://api.github.com/repos/langgenius/dify/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-10T13:36:34+00:00",
+      "lastSuccess": "2026-09-11T00:09:29+00:00",
       "count": 27
     },
     {
@@ -84,8 +84,8 @@
       "url": "https://api.github.com/repos/openai/codex/releases?per_page=10",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-10T13:36:34+00:00",
-      "count": 3
+      "lastSuccess": "2026-09-11T00:09:29+00:00",
+      "count": 2
     },
     {
       "id": "claude-code",
@@ -94,7 +94,7 @@
       "url": "https://api.github.com/repos/anthropics/claude-code/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-10T13:36:34+00:00",
+      "lastSuccess": "2026-09-11T00:09:29+00:00",
       "count": 30
     },
     {
@@ -104,7 +104,7 @@
       "url": "https://jp.finalfantasyxiv.com/lodestone/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-10T13:36:34+00:00",
+      "lastSuccess": "2026-09-11T00:09:29+00:00",
       "count": 29
     },
     {
@@ -114,7 +114,7 @@
       "url": "https://steamcommunity.com/games/1245620/rss/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-10T13:36:34+00:00",
+      "lastSuccess": "2026-09-11T00:09:29+00:00",
       "count": 10
     },
     {
@@ -124,7 +124,7 @@
       "url": "https://store.steampowered.com/feeds/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-10T13:36:34+00:00",
+      "lastSuccess": "2026-09-11T00:09:29+00:00",
       "count": 10
     },
     {
@@ -134,11 +134,654 @@
       "url": "https://www.apple.com/jp/newsroom/rss-feed.rss",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-10T13:36:34+00:00",
+      "lastSuccess": "2026-09-11T00:09:29+00:00",
       "count": 20
     }
   ],
   "items": [
+    {
+      "id": "fa15634299cee3caeadd4c99",
+      "title": "Aliens: Fireteam Elite 2 Review",
+      "url": "https://store.steampowered.com/news/group/9869/view/688641789988438324",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-02T17:55:25+00:00",
+      "detectedAt": "2026-09-11T00:09:29+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "2a091c7e73895045daa10992bb8170a6f3750b2dfc37659ee444ba38a4178914",
+      "revision": 1,
+      "importance": 40,
+      "importanceReasons": [
+        "公式一次情報"
+      ],
+      "tags": []
+    },
+    {
+      "id": "f6b837dce9b25eae43df07ca",
+      "title": "Snack World Reloaded has a new trailer and confirmed TGS 2026 demo at Level-5 Vision 2026 II",
+      "url": "https://store.steampowered.com/news/group/6070552/view/701027323413004733",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-10T22:10:28+00:00",
+      "detectedAt": "2026-09-11T00:09:29+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "3dc5c5bddb55d5e2793ad7885374430c64f2e4e52e7dd67ee85effbd0c176140",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "e97942ccee921e8c6e1b3830",
+      "title": "Xcode 27 runner image now runs on macOS 27",
+      "url": "https://github.blog/changelog/2026-09-10-xcode-27-runner-image-now-runs-on-macos-27",
+      "sourceId": "github",
+      "sourceName": "GitHub Changelog",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-10T15:15:36+00:00",
+      "detectedAt": "2026-09-11T00:09:29+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "1b78ef980e8cf8472ae5df08cff8b5da3ca341b9122a4067c7d0ad96624c5f19",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "e726b2a58519db79de5aad49",
+      "title": "Atelier Karia Original Soundtrack releases in Japan on February 24, 2027",
+      "url": "https://store.steampowered.com/news/group/6070552/view/701027323413004743",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-11T00:00:32+00:00",
+      "detectedAt": "2026-09-11T00:09:29+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "f2d1f2154d38bb0dd07f790efb71cdc95de5a91645a643036073fbcf81e6f8a3",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "release"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "e51cda40dc5087bae31fb246",
+      "title": "AI Scan for pull request APIs in public preview",
+      "url": "https://github.blog/changelog/2026-09-10-ai-scan-for-pull-request-apis-in-public-preview",
+      "sourceId": "github",
+      "sourceName": "GitHub Changelog",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-10T20:20:58+00:00",
+      "detectedAt": "2026-09-11T00:09:29+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "315c83e615aeae240cb98f7168387a7dda087a2b7945e1d030d45e7d81b862e7",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "c0998d9e86fa78a751cf95a2",
+      "title": "Square Enix shares new Final Fantasy Resonance Vision trailer for Clive",
+      "url": "https://store.steampowered.com/news/group/6070552/view/701027323413004735",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-10T22:30:28+00:00",
+      "detectedAt": "2026-09-11T00:09:29+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "1976a6cb1f7e680d43d8f874d11362e755147ab42bc3b75be2701f00805d8820",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "b95bfef753e6f368d0a1fefc",
+      "title": "npm extends recovery-code security holds to all accounts",
+      "url": "https://github.blog/changelog/2026-09-09-npm-extends-recovery-code-security-holds-to-all-accounts",
+      "sourceId": "github",
+      "sourceName": "GitHub Changelog",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-09T21:55:55+00:00",
+      "detectedAt": "2026-09-11T00:09:29+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "a582a227a74c98ac88711eac12ecd655b0c0114bddcc56005036b38d35778b79",
+      "revision": 1,
+      "importance": 60,
+      "importanceReasons": [
+        "公式一次情報",
+        "security"
+      ],
+      "tags": [
+        "セキュリティ"
+      ]
+    },
+    {
+      "id": "b8a75fb67d8179220690902f",
+      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+      "sourceId": "openai",
+      "sourceName": "OpenAI",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-10T00:00:00+00:00",
+      "detectedAt": "2026-09-11T00:09:29+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "1659c9fe4083fd19486f5585836ec93c158057564f0ef5924ebb67c4198b0414",
+      "revision": 1,
+      "importance": 40,
+      "importanceReasons": [
+        "公式一次情報"
+      ],
+      "tags": []
+    },
+    {
+      "id": "b32e9b847135398762b9f07d",
+      "title": "Introducing the Agents API",
+      "url": "https://openai.com/index/introducing-the-agents-api",
+      "sourceId": "openai",
+      "sourceName": "OpenAI",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-10T00:00:00+00:00",
+      "detectedAt": "2026-09-11T00:09:29+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "f613d43cf3a5c1cc9c09ada8c8b353be80f7157f41c4710d3a6f1b927601cb7e",
+      "revision": 1,
+      "importance": 40,
+      "importanceReasons": [
+        "公式一次情報"
+      ],
+      "tags": []
+    },
+    {
+      "id": "ae53040f919e90d630208ead",
+      "title": "Icarus Week 249 Update | Inaris Powerbank",
+      "url": "https://store.steampowered.com/news/app/1149460/view/692019489711064713",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-10T22:11:27+00:00",
+      "detectedAt": "2026-09-11T00:09:29+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "4354b1c1df5238cae2f4e22c6637ecca7785100f89c804e67937776f38f6d8bf",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "update"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "a30d68e4759fcdd65ab558e1",
+      "title": "[復旧] [Aether] Faerieワールド 障害復旧作業完了のお知らせ(9/11)",
+      "url": "https://jp.finalfantasyxiv.com/lodestone/news/detail/01ba052ac49eac43f7cae3447173411ee9c5d13b",
+      "sourceId": "ff14",
+      "sourceName": "FFXIV Lodestone",
+      "category": "game",
+      "publishedAt": "2026-09-10T22:19:00+00:00",
+      "detectedAt": "2026-09-11T00:09:29+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "ee2189cfb07bdb1349764d2cdf5560124b7e219a0ac9a1f928282e8beab0da19",
+      "revision": 1,
+      "importance": 90,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "障害"
+      ],
+      "tags": []
+    },
+    {
+      "id": "9ce4ddffd0dbb201dfdd4efe",
+      "title": "Wardogs Is Being Review Bombed For Having Hour Long Queue Times",
+      "url": "https://store.steampowered.com/news/group/38458038/view/711160422578782551",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-10T22:30:23+00:00",
+      "detectedAt": "2026-09-11T00:09:29+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "1d93d27de8b100b61d5d0445b2a3c7c9ef969269b253e9f73f6e5e78d5e5fffd",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "9ae1a7ac0a73c7b501e8617e",
+      "title": "Villion:Code releases in the West for PlayStation 4&5, Switch 1&2, and PC Steam in 2027",
+      "url": "https://store.steampowered.com/news/group/6070552/view/701027323413004739",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-10T23:10:30+00:00",
+      "detectedAt": "2026-09-11T00:09:29+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "cdc6d1cf7906c5c28d5ed2b77c9aedeb007b82bf3b5d5165c3fffd993d58a0ab",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "release"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "9928bc835cd242aa0add5320",
+      "title": "Final Fantasy 7 Revelation Director Issues New Statement On Physical Copies",
+      "url": "https://store.steampowered.com/news/group/1450625/view/715664022201958877",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-10T23:11:04+00:00",
+      "detectedAt": "2026-09-11T00:09:29+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "a2c8f57775ba26a6e5a1874573bb9b4e2365dc3dd4b2f1e03f859d2960fc9ff0",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "98ebc4a5c5a6d75402823d76",
+      "title": "Claude Code v2.1.268",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.268",
+      "sourceId": "claude-code",
+      "sourceName": "Claude Code",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-10T20:30:54+00:00",
+      "detectedAt": "2026-09-11T00:09:29+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-09-10T20:30:54+00:00",
+      "changeType": "new",
+      "kind": "release",
+      "summary": null,
+      "contentHash": "c90514a9216dd96c2419f3009178063337d8b0ab00bd06957ec339dd83c75dd3",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "バージョン公開"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "94bf6e711cee1f8943dca742",
+      "title": "Codex Python SDK 0.154.0",
+      "url": "https://github.com/openai/codex/releases/tag/python-v0.154.0",
+      "sourceId": "codex",
+      "sourceName": "Codex",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-10T19:51:43+00:00",
+      "detectedAt": "2026-09-11T00:09:29+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-09-10T19:51:43+00:00",
+      "changeType": "new",
+      "kind": "release",
+      "summary": null,
+      "contentHash": "d33ac3a3e09f84cc04da7fea630c5c4fac344625604675409155eff1853a7f24",
+      "revision": 1,
+      "importance": 75,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "バージョン公開",
+        "codex"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "93a7e5f07da1e902422f02a0",
+      "title": "Refreshed repository pull requests page in public preview",
+      "url": "https://github.blog/changelog/2026-09-10-refreshed-repository-pull-requests-page-in-public-preview",
+      "sourceId": "github",
+      "sourceName": "GitHub Changelog",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-10T21:27:17+00:00",
+      "detectedAt": "2026-09-11T00:09:29+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "7e791144d8419e8ebda95fb7e40189a39fd4075baf35aff9186320b8732dadc6",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "932ddc260d5a96cdaa88643a",
+      "title": "[復旧] [Crystal] Diabolosワールド 障害復旧作業完了のお知らせ(9/11)",
+      "url": "https://jp.finalfantasyxiv.com/lodestone/news/detail/f634763957a76519695a55553dda642daabf9ee4",
+      "sourceId": "ff14",
+      "sourceName": "FFXIV Lodestone",
+      "category": "game",
+      "publishedAt": "2026-09-10T22:43:48+00:00",
+      "detectedAt": "2026-09-11T00:09:29+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "5376941edd60c9c508ba71f793d2802fff09f4364f6a806fe97d36f79aecc2b8",
+      "revision": 1,
+      "importance": 90,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "障害"
+      ],
+      "tags": []
+    },
+    {
+      "id": "71ab167788f6ed97bc73fa4a",
+      "title": "MAI-Code-1-Flash deprecated",
+      "url": "https://github.blog/changelog/2026-09-10-mai-code-1-flash-deprecated",
+      "sourceId": "github",
+      "sourceName": "GitHub Changelog",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-10T16:54:01+00:00",
+      "detectedAt": "2026-09-11T00:09:29+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "103be6888ab5eab0a4bcb9dc1a9fa12d1aaa4ef94b3de21d83d855658e420039",
+      "revision": 1,
+      "importance": 70,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "deprecated"
+      ],
+      "tags": [
+        "終了・廃止"
+      ]
+    },
+    {
+      "id": "6a886414536a09e3da65022e",
+      "title": "Now everyone can put data to work",
+      "url": "https://openai.com/index/put-data-to-work",
+      "sourceId": "openai",
+      "sourceName": "OpenAI",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-10T15:00:00+00:00",
+      "detectedAt": "2026-09-11T00:09:29+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "1f3fdf8dce35182aff041b6c8481724ea5af9edc4544201338bbb71c9e6dc25f",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "688d14b85e07a8dbea44e972",
+      "title": "Control GitHub Actions cache access with cache-mode",
+      "url": "https://github.blog/changelog/2026-09-10-control-github-actions-cache-access-with-cache-mode",
+      "sourceId": "github",
+      "sourceName": "GitHub Changelog",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-10T17:26:59+00:00",
+      "detectedAt": "2026-09-11T00:09:29+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "ec1e9a1222c7d3c322eac8353b3e646fd40c108c7877e569f78ab245492a8bc6",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "39842fa0b34b37cbe3f74a63",
+      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+      "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+      "sourceId": "openai",
+      "sourceName": "OpenAI",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-10T16:00:00+00:00",
+      "detectedAt": "2026-09-11T00:09:29+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "f8c22ff4cc05ea8f8118e6191dfb3315ead48caec9a2eeeb42599f7e80ff6f0b",
+      "revision": 1,
+      "importance": 60,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "codex"
+      ],
+      "tags": []
+    },
+    {
+      "id": "3802aa15c4b6ae22021ae0ee",
+      "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+      "url": "https://openai.com/index/expanding-ai-access-us-government",
+      "sourceId": "openai",
+      "sourceName": "OpenAI",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-10T07:00:00+00:00",
+      "detectedAt": "2026-09-11T00:09:29+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "91b9f18a50760b6e224db6c0bb4b844290f686f1c4850af4b68a8888e2889a46",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "3450a48c8b338e3b6a9e21b1",
+      "title": "Use MapGenie's Mortal Shell 2 Map to Track Essential Locations and Items",
+      "url": "https://store.steampowered.com/news/group/9869/view/687516524528796072",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-10T22:31:17+00:00",
+      "detectedAt": "2026-09-11T00:09:29+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "1323b7423e1378d31fa220925a71c93b0646b9d25d8ef340279ed050ce1aa42e",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "2e201d308293ac9546d21a44",
+      "title": "[復旧] [Primal] Leviathanワールド 障害復旧作業完了のお知らせ(9/11)",
+      "url": "https://jp.finalfantasyxiv.com/lodestone/news/detail/10bf8e52e49042927f162e238619ec6cf50a80a0",
+      "sourceId": "ff14",
+      "sourceName": "FFXIV Lodestone",
+      "category": "game",
+      "publishedAt": "2026-09-11T00:02:38+00:00",
+      "detectedAt": "2026-09-11T00:09:29+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "8b91c0dd25f23bf8b8331345353f22f899d73f744565df26372f0b8a9e420e82",
+      "revision": 1,
+      "importance": 90,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "障害"
+      ],
+      "tags": []
+    },
+    {
+      "id": "22bf2afd7ea444af6579cffa",
+      "title": "Ubisoft Is Finally Making Its Steam Games Less Annoying to Launch",
+      "url": "https://store.steampowered.com/news/group/44914171/view/699901423506162101",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-10T23:03:55+00:00",
+      "detectedAt": "2026-09-11T00:09:29+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "bf47753421390450ea53653d9dcf1e4bb46351d0a2763e8c943b7821c30e059e",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "0bb946f0c421538942e42564",
+      "title": "Introducing ChatGPT for Financial Services",
+      "url": "https://openai.com/index/introducing-chatgpt-financial-services",
+      "sourceId": "openai",
+      "sourceName": "OpenAI",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-10T07:00:00+00:00",
+      "detectedAt": "2026-09-11T00:09:29+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "85d764c47be1a1b82c3d6b6eb1b2c4d7a32e15ffe751c7a0ec159b4b938d365e",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
     {
       "id": "eb6860aa9713e09850a8f2a9",
       "title": "Doki Monsters: Quest – Natural Selection at Work",
@@ -898,10 +1541,9 @@
       "summary": null,
       "contentHash": "233fe5215b29ca01428c0c07582d6c5000e2889967016a339e90c663cc487096",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -921,10 +1563,9 @@
       "summary": null,
       "contentHash": "1e40332de1b1febcbc9c24d8a35828e7f30a50db7d1649b480c2bfc744f94432",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -989,10 +1630,9 @@
       "summary": null,
       "contentHash": "89a3da91da59037d8f76d8f1591932c348cd04faad6d01d5f618336e9510281e",
       "revision": 1,
-      "importance": 70,
+      "importance": 60,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "security"
       ],
       "tags": [
@@ -1038,10 +1678,9 @@
       "summary": null,
       "contentHash": "082d0045adb96f6f452425206c4d0ce14c2c89fceca7d0f0245b3d4b404ead7a",
       "revision": 1,
-      "importance": 90,
+      "importance": 80,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "障害"
       ],
       "tags": []
@@ -1084,10 +1723,9 @@
       "summary": null,
       "contentHash": "9d617269ef1b08b51400f3f79b748d885b3ea5798de7666a4ee21a4c3ea3a6db",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1152,10 +1790,9 @@
       "summary": null,
       "contentHash": "0d708676a897b4201aa0247f2e5fe82430f43dd2f314ef8ab452ac953a12c895",
       "revision": 1,
-      "importance": 65,
+      "importance": 55,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "バージョン公開"
       ],
       "tags": [
@@ -1201,10 +1838,9 @@
       "summary": null,
       "contentHash": "fb907cb3e64113d7ed96f53fd9e6db2f7beb07e80aadad493083cfa97d09939e",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1224,10 +1860,9 @@
       "summary": null,
       "contentHash": "40d6ac7c460bd69e17d7fec56ec20a0fa91f689508fc8e55a80a4f08ea565c9c",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1292,10 +1927,9 @@
       "summary": null,
       "contentHash": "7e733bb784ec574b6741b117cbc2c78053f570f95b189ef392c97e59fd46728d",
       "revision": 1,
-      "importance": 75,
+      "importance": 65,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "バージョン公開",
         "codex"
       ],
@@ -1319,10 +1953,9 @@
       "summary": null,
       "contentHash": "ca330fe9b7e987ab1b21141241c6b666f667f23f7cf47c492162cfeccf9a89db",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1365,10 +1998,9 @@
       "summary": null,
       "contentHash": "996449b17816fd0e32f848a4353275003e1c3859c57de54857dfb51d2b9e869c",
       "revision": 1,
-      "importance": 90,
+      "importance": 80,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "障害"
       ],
       "tags": []
@@ -1389,10 +2021,9 @@
       "summary": null,
       "contentHash": "422c776759140a07843acaa4226d64cd38d9a6467b4aaa94db0a033a80bcd115",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1434,10 +2065,9 @@
       "summary": null,
       "contentHash": "a06eeafe4f239bcf286db1b0ea5f8733b85b27b81e5a90acf07ce5a87fd3bf48",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1457,10 +2087,9 @@
       "summary": null,
       "contentHash": "c529a0612f5cf0979f4b3347eb334a056e7a6f96038b72d8b9d6a56deff87da4",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1480,10 +2109,9 @@
       "summary": null,
       "contentHash": "8e7f38246ef32db32001374af9a34fa327370e00d56a52f138a9a3332cedc4ec",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },

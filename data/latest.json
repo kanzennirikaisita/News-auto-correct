@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-12T12:50:49+00:00",
+  "generatedAt": "2026-09-12T16:18:52+00:00",
   "collector": {
-    "lastRun": "2026-09-12T12:50:49+00:00",
+    "lastRun": "2026-09-12T16:18:52+00:00",
     "success": 13,
     "failed": 0
   },
@@ -14,7 +14,7 @@
       "url": "https://www.digital.go.jp/rss/news.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-12T12:50:49+00:00",
+      "lastSuccess": "2026-09-12T16:18:52+00:00",
       "count": 31
     },
     {
@@ -24,7 +24,7 @@
       "url": "https://www.jpcert.or.jp/rss/jpcert.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-12T12:50:49+00:00",
+      "lastSuccess": "2026-09-12T16:18:52+00:00",
       "count": 20
     },
     {
@@ -34,7 +34,7 @@
       "url": "https://jvn.jp/rss/jvn.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-12T12:50:49+00:00",
+      "lastSuccess": "2026-09-12T16:18:52+00:00",
       "count": 20
     },
     {
@@ -44,7 +44,7 @@
       "url": "https://blogs.jpcert.or.jp/ja/atom.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-12T12:50:49+00:00",
+      "lastSuccess": "2026-09-12T16:18:52+00:00",
       "count": 15
     },
     {
@@ -54,7 +54,7 @@
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-12T12:50:49+00:00",
+      "lastSuccess": "2026-09-12T16:18:52+00:00",
       "count": 200
     },
     {
@@ -64,7 +64,7 @@
       "url": "https://github.blog/changelog/feed/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-12T12:50:49+00:00",
+      "lastSuccess": "2026-09-12T16:18:52+00:00",
       "count": 10
     },
     {
@@ -74,7 +74,7 @@
       "url": "https://api.github.com/repos/langgenius/dify/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-12T12:50:49+00:00",
+      "lastSuccess": "2026-09-12T16:18:52+00:00",
       "count": 27
     },
     {
@@ -84,7 +84,7 @@
       "url": "https://api.github.com/repos/openai/codex/releases?per_page=10",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-12T12:50:49+00:00",
+      "lastSuccess": "2026-09-12T16:18:52+00:00",
       "count": 1
     },
     {
@@ -94,7 +94,7 @@
       "url": "https://api.github.com/repos/anthropics/claude-code/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-12T12:50:49+00:00",
+      "lastSuccess": "2026-09-12T16:18:52+00:00",
       "count": 30
     },
     {
@@ -104,7 +104,7 @@
       "url": "https://jp.finalfantasyxiv.com/lodestone/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-12T12:50:49+00:00",
+      "lastSuccess": "2026-09-12T16:18:52+00:00",
       "count": 30
     },
     {
@@ -114,7 +114,7 @@
       "url": "https://steamcommunity.com/games/1245620/rss/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-12T12:50:49+00:00",
+      "lastSuccess": "2026-09-12T16:18:52+00:00",
       "count": 10
     },
     {
@@ -124,7 +124,7 @@
       "url": "https://store.steampowered.com/feeds/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-12T12:50:49+00:00",
+      "lastSuccess": "2026-09-12T16:18:52+00:00",
       "count": 10
     },
     {
@@ -134,11 +134,244 @@
       "url": "https://www.apple.com/jp/newsroom/rss-feed.rss",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-12T12:50:49+00:00",
+      "lastSuccess": "2026-09-12T16:18:52+00:00",
       "count": 20
     }
   ],
   "items": [
+    {
+      "id": "df413a04563e79686c4a0957",
+      "title": "GTA: London 1961 is full of cockney innuendo and harder than a bobby’s helmet",
+      "url": "https://store.steampowered.com/news/group/1850/view/715664022201959296",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-12T15:30:32+00:00",
+      "detectedAt": "2026-09-12T16:18:52+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "8b22237b78aebb781576bd8f1f17752039d3fcb4166522e4742eb551aac01416",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "c817576ad1b8c9c5c057d910",
+      "title": "Final Fantasy 7 Revelation Isn't The End - More Story Content Planned For 2028",
+      "url": "https://store.steampowered.com/news/group/38666666/view/695397823941706645",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-12T16:12:17+00:00",
+      "detectedAt": "2026-09-12T16:18:52+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "06de41a98ba89f6db69a165e21c004ccebee6e207bb678e7c77cd4ad6c450b4d",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "96ecea752058be73a1fa6adc",
+      "title": "BlizzCon 2026 Opening Ceremony live report – all the Blizzard news and announcements as they happen",
+      "url": "https://store.steampowered.com/news/group/38509069/view/688642424435639213",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-12T15:43:46+00:00",
+      "detectedAt": "2026-09-12T16:18:52+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "290a1373416fefb6ba31da07cbf4e8f91ce83c255cd172720d8be8344a4b4fd1",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "9089120e06da0d4126b8df51",
+      "title": "God Save Birmingham New Preview: This Medieval Zombie Apocalypse Is Steadily Finding Its Vision",
+      "url": "https://store.steampowered.com/news/group/9869/view/687516524528796559",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-12T13:23:42+00:00",
+      "detectedAt": "2026-09-12T16:18:52+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "7a1577f3decaf4ded4a95d49aa08360958756c9e7559372626ff55072628e07c",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "64fbcdd192479d21fea233fa",
+      "title": "Marathon and Bungie Get Encouraging Update",
+      "url": "https://store.steampowered.com/news/group/1450625/view/715664022201959294",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-12T15:13:11+00:00",
+      "detectedAt": "2026-09-12T16:18:52+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "76dadebf62ba7400ee557b908b9cd4bf8ad02826b7d084d24079c04dcf60fdf9",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "update"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "5f53515af2ea91199fd45f26",
+      "title": "Dragon Quest Monsters: The Withered World Has 500 Beasts to Collect, and They're All Super Weird | IGN Preview",
+      "url": "https://store.steampowered.com/news/group/9869/view/687516524528796569",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-12T14:23:46+00:00",
+      "detectedAt": "2026-09-12T16:18:52+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "a6a626849715abc262bb5091116611986f1692519e0d7bcb7be01d94a2ffc2fa",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "431b3593d619877ee9af95b8",
+      "title": "Killing The Blood of Dawnwalker's hardest boss extremely early gave me a devastating ability that carried me through the whole RPG",
+      "url": "https://store.steampowered.com/news/group/38509069/view/688642424435639203",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-12T14:03:40+00:00",
+      "detectedAt": "2026-09-12T16:18:52+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "5a81ccfb65a8f21e0e1bb5a1b3d43d5734338eaf5e2ac564d70a32dd2e8abe97",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "42d128ba653abe5f93fd469d",
+      "title": "CD Projekt wanted to put a chain weapon in The Witcher 3 years ago, but it's taken until Songs of the Past because it was 'impossible to do at the time'",
+      "url": "https://store.steampowered.com/news/group/1850/view/715664022201959284",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-12T13:30:17+00:00",
+      "detectedAt": "2026-09-12T16:18:52+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "4bca5b833566a3cd2671581a20205a895911037e8283aa5300611a287884e5e5",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "29ade203e2a620e119ada6c7",
+      "title": "Wardogs dev reflects on the FPS game's messy Steam takeover: \"We either fix the queue now or we're f***ed\"",
+      "url": "https://store.steampowered.com/news/group/3693985/view/674005725646684889",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-12T14:32:44+00:00",
+      "detectedAt": "2026-09-12T16:18:52+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "137ba96290b46035f8573b8e1c6afa0e9c5de1734adc3484cc853d13071a3aa5",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "20e2f9b0fd77e4900051291f",
+      "title": "Baldur's Gate 3 Meets Stardew Valley In This New Fantasy Sim",
+      "url": "https://store.steampowered.com/news/group/38666666/view/695397823941706632",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-12T13:12:09+00:00",
+      "detectedAt": "2026-09-12T16:18:52+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "01e5c7b8459d62008aaa02b4d53a511a5774151e705a230ddedd433245b5d00e",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
     {
       "id": "f706f0da3af54d74147ff822",
       "title": "Genshin Impact 7.1: Release Date, Livestream Codes, New Characters, Banners, Story Updates, & More",
@@ -756,10 +989,9 @@
       "summary": null,
       "contentHash": "4e32bb7d25f148b5c5383e1edf08b9622e5cb945cb24f1450e2405396f1d698a",
       "revision": 1,
-      "importance": 90,
+      "importance": 80,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "障害"
       ],
       "tags": []
@@ -943,10 +1175,9 @@
       "summary": null,
       "contentHash": "735c6ea9c34245d2bdd18df64723c6827a48c47b73a5fb5d89d5bbd2e3d27024",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1156,10 +1387,9 @@
       "summary": null,
       "contentHash": "b34ded82c84f67e7e3e10b8bd028bcdbe057572f584820f2bd8232051e5f1aa0",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1201,10 +1431,9 @@
       "summary": null,
       "contentHash": "79afe3116df4b0bf4737260aaf8ff89281e0f70c32a8c8e0d8ebf3294c614082",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1246,10 +1475,9 @@
       "summary": null,
       "contentHash": "2c45e937b74583fc4580426fe8fa5b84e7c950302a34a0092ca28a62dc8894e0",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1291,10 +1519,9 @@
       "summary": null,
       "contentHash": "844d17a58db96ace4f67bc0f1cf7b84bc2d2cb9b910412d4aa86785f7c9722e2",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1336,10 +1563,9 @@
       "summary": null,
       "contentHash": "73b1707f3a4c304c869aa085e3939ecc55bc6fb00f7b9cfaa6038597035881c5",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },

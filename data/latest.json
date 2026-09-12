@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-12T07:54:42+00:00",
+  "generatedAt": "2026-09-12T12:50:49+00:00",
   "collector": {
-    "lastRun": "2026-09-12T07:54:42+00:00",
+    "lastRun": "2026-09-12T12:50:49+00:00",
     "success": 13,
     "failed": 0
   },
@@ -14,7 +14,7 @@
       "url": "https://www.digital.go.jp/rss/news.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-12T07:54:42+00:00",
+      "lastSuccess": "2026-09-12T12:50:49+00:00",
       "count": 31
     },
     {
@@ -24,7 +24,7 @@
       "url": "https://www.jpcert.or.jp/rss/jpcert.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-12T07:54:42+00:00",
+      "lastSuccess": "2026-09-12T12:50:49+00:00",
       "count": 20
     },
     {
@@ -34,7 +34,7 @@
       "url": "https://jvn.jp/rss/jvn.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-12T07:54:42+00:00",
+      "lastSuccess": "2026-09-12T12:50:49+00:00",
       "count": 20
     },
     {
@@ -44,7 +44,7 @@
       "url": "https://blogs.jpcert.or.jp/ja/atom.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-12T07:54:42+00:00",
+      "lastSuccess": "2026-09-12T12:50:49+00:00",
       "count": 15
     },
     {
@@ -54,7 +54,7 @@
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-12T07:54:42+00:00",
+      "lastSuccess": "2026-09-12T12:50:49+00:00",
       "count": 200
     },
     {
@@ -64,7 +64,7 @@
       "url": "https://github.blog/changelog/feed/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-12T07:54:42+00:00",
+      "lastSuccess": "2026-09-12T12:50:49+00:00",
       "count": 10
     },
     {
@@ -74,7 +74,7 @@
       "url": "https://api.github.com/repos/langgenius/dify/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-12T07:54:42+00:00",
+      "lastSuccess": "2026-09-12T12:50:49+00:00",
       "count": 27
     },
     {
@@ -84,7 +84,7 @@
       "url": "https://api.github.com/repos/openai/codex/releases?per_page=10",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-12T07:54:42+00:00",
+      "lastSuccess": "2026-09-12T12:50:49+00:00",
       "count": 1
     },
     {
@@ -94,7 +94,7 @@
       "url": "https://api.github.com/repos/anthropics/claude-code/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-12T07:54:42+00:00",
+      "lastSuccess": "2026-09-12T12:50:49+00:00",
       "count": 30
     },
     {
@@ -104,7 +104,7 @@
       "url": "https://jp.finalfantasyxiv.com/lodestone/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-12T07:54:42+00:00",
+      "lastSuccess": "2026-09-12T12:50:49+00:00",
       "count": 30
     },
     {
@@ -114,7 +114,7 @@
       "url": "https://steamcommunity.com/games/1245620/rss/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-12T07:54:42+00:00",
+      "lastSuccess": "2026-09-12T12:50:49+00:00",
       "count": 10
     },
     {
@@ -124,7 +124,7 @@
       "url": "https://store.steampowered.com/feeds/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-12T07:54:42+00:00",
+      "lastSuccess": "2026-09-12T12:50:49+00:00",
       "count": 10
     },
     {
@@ -134,11 +134,247 @@
       "url": "https://www.apple.com/jp/newsroom/rss-feed.rss",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-12T07:54:42+00:00",
+      "lastSuccess": "2026-09-12T12:50:49+00:00",
       "count": 20
     }
   ],
   "items": [
+    {
+      "id": "f706f0da3af54d74147ff822",
+      "title": "Genshin Impact 7.1: Release Date, Livestream Codes, New Characters, Banners, Story Updates, & More",
+      "url": "https://store.steampowered.com/news/group/38666666/view/695397823941706624",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-12T12:12:07+00:00",
+      "detectedAt": "2026-09-12T12:50:49+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "7ebaa869ec42a4a011d09e4f64493c58c53abfeb119004776c47d84ed59b2073",
+      "revision": 1,
+      "importance": 80,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "update",
+        "release"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "ede417111ad6daaaa0c0fc28",
+      "title": "Weekend Highlights | 15.8 #1",
+      "url": "https://store.steampowered.com/news/app/552990/view/675131625553527326",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-12T10:00:49+00:00",
+      "detectedAt": "2026-09-12T12:50:49+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "94755526d91b12938555546897673b17726a355d2b95f5710d31d6c029b22c6f",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "dfb754f3339d68c20ef5d3a1",
+      "title": "Planet Zoo 2 Puts You Right Down into the Wild With Your Animals | IGN Preview",
+      "url": "https://store.steampowered.com/news/group/9869/view/687516524528796520",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-12T09:23:27+00:00",
+      "detectedAt": "2026-09-12T12:50:49+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "0c4e8b6cd3de8b599f6ff918af5bf198e9a82df6570f2f38315b6541950b629d",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "bd0aa0962f0a6b611ebc8438",
+      "title": "Planet Zoo 2 Zoological Summit - Live from Chester Zoo",
+      "url": "https://store.steampowered.com/news/app/3219030/view/679635225181946030",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-10T19:00:52+00:00",
+      "detectedAt": "2026-09-12T12:50:49+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "87afc697b78bd57865a65934ced181c8d57faa95b188e64591b4bb4342dcc35c",
+      "revision": 1,
+      "importance": 40,
+      "importanceReasons": [
+        "公式一次情報"
+      ],
+      "tags": []
+    },
+    {
+      "id": "ae49ce28849d0d992f542d7f",
+      "title": "Hotfix 0.9.10 is live!",
+      "url": "https://store.steampowered.com/news/app/3624140/view/716789922107753185",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-12T08:59:36+00:00",
+      "detectedAt": "2026-09-12T12:50:49+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "70869731768fde5730ca941c0831d1555002e078625f683906cb09e479d75870",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "94b396941ed760908a634248",
+      "title": "BlizzCon 2026 Opening Ceremony: How to watch, start time, and what to expect",
+      "url": "https://store.steampowered.com/news/group/38509069/view/688642424435639142",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-12T09:33:25+00:00",
+      "detectedAt": "2026-09-12T12:50:49+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "0761028f83c4485703fa0a464ed21b78cb04a1ed7af7b8b08a4881c69422f35b",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "8cf997a8425ddb5ebf1e67ed",
+      "title": "New Official Kingdom Come: Deliverance Release Confirmed for 2027",
+      "url": "https://store.steampowered.com/news/group/1450625/view/715664022201959278",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-12T12:03:01+00:00",
+      "detectedAt": "2026-09-12T12:50:49+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "6b2b659de773715ed56f451e9bfe1a5636a9a29bc5b4add6f6cc7cf09da7e19c",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "release"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "5ea1edad9afe40f44b08b956",
+      "title": "Polyarc, developer of the excellent VR platforming series Moss, is shutting down after 12 years: 'We are saying our farewells to each other'",
+      "url": "https://store.steampowered.com/news/group/1850/view/715664022201959237",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-12T09:59:52+00:00",
+      "detectedAt": "2026-09-12T12:50:49+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "31aed1a15f95f1baec687ad92c6c35016c1b13d03a49c251f2f81e639e160a53",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "4df1800bc00644dbc45b196d",
+      "title": "Planet Zoo 2 Hands-On Preview: For Animal Lovers And Micro-Managers",
+      "url": "https://store.steampowered.com/news/group/7433348/view/669502126020363103",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-12T09:01:14+00:00",
+      "detectedAt": "2026-09-12T12:50:49+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "ddb6d39b18ecf2ea42e4120fac7cd8f3b399be8afce4b4b97aed87a306802d69",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "266ff6ef1eb39f75e7a23fdd",
+      "title": "New Cozy Steam Game is a Perfect Mix of Stardew Valley and an Underrated Sims Game",
+      "url": "https://store.steampowered.com/news/group/1450625/view/715664022201959276",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-12T12:03:01+00:00",
+      "detectedAt": "2026-09-12T12:50:49+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "09c7ac88e0057606f7b4b9ce0276324b6afb326d5bdee9131ec5c6bdcfcb6535",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
     {
       "id": "f666f81d1b42978de0d8af48",
       "title": "PUBG Americas Series 2: Playoffs 1 Day 2 is LIVE!!",
@@ -730,10 +966,9 @@
       "summary": null,
       "contentHash": "84660c19a022176d6919bc5d6440a6eca637012703679cf4d0391fe3c7380d58",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -944,10 +1179,9 @@
       "summary": null,
       "contentHash": "45186de0f7f89bb274590c70cc89f19499e2a02af6aee93329a784f13b4ac898",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -990,10 +1224,9 @@
       "summary": null,
       "contentHash": "c8711d869ca6149a01ec5509671226c152b7205bbd232a3a9652ab34c1a10faa",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1036,10 +1269,9 @@
       "summary": null,
       "contentHash": "63587f7ef6c067daeae27de56bdc9915bbb71586f47e45703ce2262a20bd0bfc",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1127,10 +1359,9 @@
       "summary": null,
       "contentHash": "bfca968eece8cd6bc686c26988638f48705b7f5be688bd2e73217e7160f4034e",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1150,10 +1381,9 @@
       "summary": null,
       "contentHash": "3bf18440982253aa018e62a2674b39416e9e1cafba9722d950e3e6898e6f3d53",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1854,7 +2084,7 @@
       "sourceId": "digital-agency",
       "sourceName": "デジタル庁",
       "category": "work",
-      "publishedAt": "2026-09-11T13:42:33+00:00",
+      "publishedAt": "2026-09-12T08:43:40+00:00",
       "detectedAt": "2026-09-11T03:53:29+00:00",
       "updatedAt": null,
       "sourceUpdatedAt": null,
@@ -4567,10 +4797,9 @@
       "summary": null,
       "contentHash": "99f64d2ea3aacfb1d92f18a7198649c48dd68c1ad8e619a5c13e86720f95e4ac",
       "revision": 2,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },

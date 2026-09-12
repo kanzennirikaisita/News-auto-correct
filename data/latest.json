@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-11T13:34:03+00:00",
+  "generatedAt": "2026-09-12T00:17:44+00:00",
   "collector": {
-    "lastRun": "2026-09-11T13:34:03+00:00",
+    "lastRun": "2026-09-12T00:17:44+00:00",
     "success": 13,
     "failed": 0
   },
@@ -14,8 +14,8 @@
       "url": "https://www.digital.go.jp/rss/news.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-11T13:34:03+00:00",
-      "count": 30
+      "lastSuccess": "2026-09-12T00:17:44+00:00",
+      "count": 31
     },
     {
       "id": "jpcert",
@@ -24,7 +24,7 @@
       "url": "https://www.jpcert.or.jp/rss/jpcert.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-11T13:34:03+00:00",
+      "lastSuccess": "2026-09-12T00:17:44+00:00",
       "count": 20
     },
     {
@@ -34,7 +34,7 @@
       "url": "https://jvn.jp/rss/jvn.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-11T13:34:03+00:00",
+      "lastSuccess": "2026-09-12T00:17:44+00:00",
       "count": 20
     },
     {
@@ -44,7 +44,7 @@
       "url": "https://blogs.jpcert.or.jp/ja/atom.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-11T13:34:03+00:00",
+      "lastSuccess": "2026-09-12T00:17:44+00:00",
       "count": 15
     },
     {
@@ -54,7 +54,7 @@
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-11T13:34:03+00:00",
+      "lastSuccess": "2026-09-12T00:17:44+00:00",
       "count": 200
     },
     {
@@ -64,7 +64,7 @@
       "url": "https://github.blog/changelog/feed/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-11T13:34:03+00:00",
+      "lastSuccess": "2026-09-12T00:17:44+00:00",
       "count": 10
     },
     {
@@ -74,7 +74,7 @@
       "url": "https://api.github.com/repos/langgenius/dify/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-11T13:34:03+00:00",
+      "lastSuccess": "2026-09-12T00:17:44+00:00",
       "count": 27
     },
     {
@@ -84,7 +84,7 @@
       "url": "https://api.github.com/repos/openai/codex/releases?per_page=10",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-11T13:34:03+00:00",
+      "lastSuccess": "2026-09-12T00:17:44+00:00",
       "count": 1
     },
     {
@@ -94,7 +94,7 @@
       "url": "https://api.github.com/repos/anthropics/claude-code/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-11T13:34:03+00:00",
+      "lastSuccess": "2026-09-12T00:17:44+00:00",
       "count": 30
     },
     {
@@ -104,7 +104,7 @@
       "url": "https://jp.finalfantasyxiv.com/lodestone/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-11T13:34:03+00:00",
+      "lastSuccess": "2026-09-12T00:17:44+00:00",
       "count": 29
     },
     {
@@ -114,7 +114,7 @@
       "url": "https://steamcommunity.com/games/1245620/rss/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-11T13:34:03+00:00",
+      "lastSuccess": "2026-09-12T00:17:44+00:00",
       "count": 10
     },
     {
@@ -124,7 +124,7 @@
       "url": "https://store.steampowered.com/feeds/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-11T13:34:03+00:00",
+      "lastSuccess": "2026-09-12T00:17:44+00:00",
       "count": 10
     },
     {
@@ -134,11 +134,512 @@
       "url": "https://www.apple.com/jp/newsroom/rss-feed.rss",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-11T13:34:03+00:00",
+      "lastSuccess": "2026-09-12T00:17:44+00:00",
       "count": 20
     }
   ],
   "items": [
+    {
+      "id": "f5b7434d849eacf13f00d2da",
+      "title": "Auto-resolution and analysis updates in Copilot code review",
+      "url": "https://github.blog/changelog/2026-09-11-auto-resolution-and-analysis-updates-in-copilot-code-review",
+      "sourceId": "github",
+      "sourceName": "GitHub Changelog",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-11T20:00:07+00:00",
+      "detectedAt": "2026-09-12T00:17:44+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "faf582145a8ca6a46191876c6a9a4f5a4721b569e9e7944f3392e5e7d6dd7a53",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "update"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "d3e13ae3e74f296b6762c09e",
+      "title": "Maple Memo: Notice Regarding Unauthorized MapleStory Servers",
+      "url": "https://store.steampowered.com/news/app/216150/view/713412222387225284",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-11T23:32:19+00:00",
+      "detectedAt": "2026-09-12T00:17:44+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "2b419c767bec11419c35ed03fe38448bd76ecc726ffa6eeaa52fdc23d352fa4b",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "cd7cc20d84b670cd94072bdf",
+      "title": "New Official Witcher Release Confirmed for Summer 2027",
+      "url": "https://store.steampowered.com/news/group/1450625/view/715664022201959214",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-12T00:02:25+00:00",
+      "detectedAt": "2026-09-12T00:17:44+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "8555d74c97bb84d9905c2a55188f66dde92e40149aa0454d315d867156167063",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "release"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "ca8127be73ee177493222544",
+      "title": "GitHub Copilot weekly releases — September 7",
+      "url": "https://github.blog/changelog/2026-09-10-github-copilot-weekly-releases-september-7",
+      "sourceId": "github",
+      "sourceName": "GitHub Changelog",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-10T22:55:07+00:00",
+      "detectedAt": "2026-09-12T00:17:44+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "ce2437a984883a4ecfe90f1086402111a659696ab6eda67368ee1fa783c0a53a",
+      "revision": 1,
+      "importance": 55,
+      "importanceReasons": [
+        "公式一次情報",
+        "release"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "b6c8953dd3a3c49e635bee21",
+      "title": "[復旧] [Light] Raidenワールド 障害復旧作業完了のお知らせ(9/12)",
+      "url": "https://jp.finalfantasyxiv.com/lodestone/news/detail/893dd9efe58673e09f4ee2e39553c706a7c1633f",
+      "sourceId": "ff14",
+      "sourceName": "FFXIV Lodestone",
+      "category": "game",
+      "publishedAt": "2026-09-11T15:20:00+00:00",
+      "detectedAt": "2026-09-12T00:17:44+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "4e32bb7d25f148b5c5383e1edf08b9622e5cb945cb24f1450e2405396f1d698a",
+      "revision": 1,
+      "importance": 90,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "障害"
+      ],
+      "tags": []
+    },
+    {
+      "id": "97a07cb51b711392a1c6f8e8",
+      "title": "Skyrim gets new free official mod from IKEA via Creations",
+      "url": "https://store.steampowered.com/news/group/6070552/view/701027323413005081",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-11T23:41:22+00:00",
+      "detectedAt": "2026-09-12T00:17:44+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "a3f67a7231a38e1e390e545faec4f800264070862015aa439550a8235cb5ee91",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "968c32634dc2a1cb83f00706",
+      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "sourceId": "openai",
+      "sourceName": "OpenAI",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-14T00:00:00+00:00",
+      "detectedAt": "2026-09-12T00:17:44+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "1a8ce9697eda20d173bdd7fd3f000633cdc076f3d716c7616d56abf003e1091b",
+      "revision": 1,
+      "importance": 40,
+      "importanceReasons": [
+        "公式一次情報"
+      ],
+      "tags": []
+    },
+    {
+      "id": "914caa5a545dec12df32d3f3",
+      "title": "Footage of New PlayStation Live-Service Game Has Leaked Online",
+      "url": "https://store.steampowered.com/news/group/1450625/view/715664022201959205",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-11T22:42:21+00:00",
+      "detectedAt": "2026-09-12T00:17:44+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "d8354607152245530f4b840edd38abd8f9998d12a82c97f7c0e17eabc145df0c",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "861b32064a74b3b8fbd1d75c",
+      "title": "Claude Code v2.1.269",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.269",
+      "sourceId": "claude-code",
+      "sourceName": "Claude Code",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-11T19:17:55+00:00",
+      "detectedAt": "2026-09-12T00:17:44+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-09-11T19:17:55+00:00",
+      "changeType": "new",
+      "kind": "release",
+      "summary": null,
+      "contentHash": "cabebe3a63e6edc80ebb194f489fc7a0ad0631394b34c4b142837d7b9ba2bcf5",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "バージョン公開"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "80907e1e29b4b1e3354d8f61",
+      "title": "Space Marine 2 dev says its games are so profitable in part because they're made outside of the US, and the company has \"no real development in North America any more\"",
+      "url": "https://store.steampowered.com/news/group/38509069/view/688642424435639123",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-11T22:02:48+00:00",
+      "detectedAt": "2026-09-12T00:17:44+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "29bf3674898bc60e2b22773d25f6ca7e3a64a12010de72584612a1536707952a",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "6ede7689539eb8c16e499a0a",
+      "title": "GXG 2026 x INDIECRAFT",
+      "url": "https://store.steampowered.com/news/group/46273723/view/684137556498973573",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-12T00:04:33+00:00",
+      "detectedAt": "2026-09-12T00:17:44+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "ec020d3405eecb87805c6920c6f3d85f0e25986013a740f8d0e7c6e06cae2797",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "5ac232172c41ca972cf5626a",
+      "title": "John Wick Meets Max Payne In New Third-Person Shooter Blackwood",
+      "url": "https://store.steampowered.com/news/group/38458038/view/711160422578782884",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-12T00:11:24+00:00",
+      "detectedAt": "2026-09-12T00:17:44+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "9a14684ec2e03b08f051ede745bc7bc93647f2164b7c6f1b02e6c3c394529386",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "4aeb82da9975e2f5f564fba4",
+      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+      "url": "https://openai.com/index/cognition-devin-testing-with-astra",
+      "sourceId": "openai",
+      "sourceName": "OpenAI",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-11T16:00:00+00:00",
+      "detectedAt": "2026-09-12T00:17:44+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "735c6ea9c34245d2bdd18df64723c6827a48c47b73a5fb5d89d5bbd2e3d27024",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "46fcf5bb7b99520f1816e2b7",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+      "sourceId": "openai",
+      "sourceName": "OpenAI",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-11T10:00:00+00:00",
+      "detectedAt": "2026-09-12T00:17:44+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "84660c19a022176d6919bc5d6440a6eca637012703679cf4d0391fe3c7380d58",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "2ab2666595449ad0798ddc66",
+      "title": "（公募終了）【二次公募】令和6年度PMH（医療費助成）先行実施事業の自治体公募を開始しました",
+      "url": "https://www.digital.go.jp/news/667aa61d-a798-4098-9653-8d3cad62679a",
+      "sourceId": "digital-agency",
+      "sourceName": "デジタル庁",
+      "category": "work",
+      "publishedAt": "2026-09-11T23:44:27+00:00",
+      "detectedAt": "2026-09-12T00:17:44+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "06a47d89ee2c0d92b324f37c08ecdf000189a4b9a7fd46d9173c4db543a98448",
+      "revision": 1,
+      "importance": 90,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "終了",
+        "自治体"
+      ],
+      "tags": [
+        "終了・廃止"
+      ]
+    },
+    {
+      "id": "28ba300194033bae7a74b0e4",
+      "title": "Add VS Code Agents to Copilot usage metrics",
+      "url": "https://github.blog/changelog/2026-09-11-add-vs-code-agents-to-copilot-usage-metrics",
+      "sourceId": "github",
+      "sourceName": "GitHub Changelog",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-11T21:30:30+00:00",
+      "detectedAt": "2026-09-12T00:17:44+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "2944155ea04db74ccb02426854b72f64c2dba50d7fec24c1b23fc52861a52d20",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "24e3a404359d1936f9ebce06",
+      "title": "多様なステークホルダーで行政デジタル化をともに考える「Govtech Meetup」（第6回）を開催します",
+      "url": "https://www.digital.go.jp/news/nDu6utZi",
+      "sourceId": "digital-agency",
+      "sourceName": "デジタル庁",
+      "category": "work",
+      "publishedAt": "2026-09-11T23:38:21+00:00",
+      "detectedAt": "2026-09-12T00:17:44+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "ab61b81f1f5324022f92ca73e52cbcf3ec82c36359cda33e49b84e4c99d390ec",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": [
+        "イベント"
+      ]
+    },
+    {
+      "id": "1537a042155ddb88b9686fbb",
+      "title": "House Of The Dragon Officially Returning Fall 2026 With New Set",
+      "url": "https://store.steampowered.com/news/group/38666666/view/695397823941706555",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-11T23:11:35+00:00",
+      "detectedAt": "2026-09-12T00:17:44+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "a59c1d6291846573b0d4462e43736c1a915489153644ef3cd664f599c1fd3e62",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "118fd033821571c4b9d461ca",
+      "title": "Muramasa: Revenant Blades resolution and frame rate targets revealed for PS5, Switch 2, and Switch 1 docked",
+      "url": "https://store.steampowered.com/news/group/6070552/view/701027323413005072",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-11T22:01:19+00:00",
+      "detectedAt": "2026-09-12T00:17:44+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "e694ce990d48b8de8d9cfef2c90a80aba186e3759b603150f40cd8e88c6d47f9",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "10b9ae40403d874fa3242a84",
+      "title": "Dragon Quest Heroes: Torneko’s Mystery Dungeon Classic HD (PS5) Review",
+      "url": "https://store.steampowered.com/news/group/7433348/view/669502126020363082",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-11T22:58:35+00:00",
+      "detectedAt": "2026-09-12T00:17:44+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "af8b6731d466cddecf1fce57e55aa53aa4e33b177423fff454e58398fbbfe40c",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "073b46c77efe96649bcfed0c",
+      "title": "iPhone 18 Pro、Apple Watchの最新ラインナップ、AirPods 5の体験がまもなく始まります",
+      "url": "https://www.apple.com/jp/newsroom/2026/09/get-ready-to-experience-iphone-18-pro-the-new-apple-watch-lineup-and-airpods-5/",
+      "sourceId": "apple",
+      "sourceName": "Apple Newsroom",
+      "category": "gadget",
+      "publishedAt": null,
+      "detectedAt": "2026-09-12T00:17:44+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-09-11T16:02:58+00:00",
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "f72a1ecf4737f47584c6332f99300081fc2e64ca9a67b4cdab0c330b8a790453",
+      "revision": 1,
+      "importance": 60,
+      "importanceReasons": [
+        "公式一次情報",
+        "iPhone",
+        "Apple Watch"
+      ],
+      "tags": []
+    },
     {
       "id": "ffac6a186671abea369e3b4c",
       "title": "PUBG EMEA Championship: Meet The Teams of Playoffs 1!",
@@ -819,10 +1320,9 @@
       "summary": null,
       "contentHash": "cfd2e5dcb19c79da573e7917dd4b5062a8e38190fed4b958d29ce07240fcdd6c",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -865,10 +1365,9 @@
       "summary": null,
       "contentHash": "4abe1cb4493002007c70ea2bea40c8f24b80644d359e67598a1df11d6fa73792",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1118,7 +1617,7 @@
       "sourceId": "digital-agency",
       "sourceName": "デジタル庁",
       "category": "work",
-      "publishedAt": "2026-09-11T02:45:36+00:00",
+      "publishedAt": "2026-09-11T13:42:33+00:00",
       "detectedAt": "2026-09-11T03:53:29+00:00",
       "updatedAt": null,
       "sourceUpdatedAt": null,
@@ -1172,10 +1671,9 @@
       "summary": null,
       "contentHash": "3dc5c5bddb55d5e2793ad7885374430c64f2e4e52e7dd67ee85effbd0c176140",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1195,10 +1693,9 @@
       "summary": null,
       "contentHash": "1b78ef980e8cf8472ae5df08cff8b5da3ca341b9122a4067c7d0ad96624c5f19",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1218,10 +1715,9 @@
       "summary": null,
       "contentHash": "f2d1f2154d38bb0dd07f790efb71cdc95de5a91645a643036073fbcf81e6f8a3",
       "revision": 1,
-      "importance": 65,
+      "importance": 55,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "release"
       ],
       "tags": [
@@ -1244,10 +1740,9 @@
       "summary": null,
       "contentHash": "315c83e615aeae240cb98f7168387a7dda087a2b7945e1d030d45e7d81b862e7",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1267,10 +1762,9 @@
       "summary": null,
       "contentHash": "1976a6cb1f7e680d43d8f874d11362e755147ab42bc3b75be2701f00805d8820",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1359,10 +1853,9 @@
       "summary": null,
       "contentHash": "4354b1c1df5238cae2f4e22c6637ecca7785100f89c804e67937776f38f6d8bf",
       "revision": 1,
-      "importance": 65,
+      "importance": 55,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "update"
       ],
       "tags": [
@@ -1385,10 +1878,9 @@
       "summary": null,
       "contentHash": "ee2189cfb07bdb1349764d2cdf5560124b7e219a0ac9a1f928282e8beab0da19",
       "revision": 1,
-      "importance": 90,
+      "importance": 80,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "障害"
       ],
       "tags": []
@@ -1409,10 +1901,9 @@
       "summary": null,
       "contentHash": "1d93d27de8b100b61d5d0445b2a3c7c9ef969269b253e9f73f6e5e78d5e5fffd",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1432,10 +1923,9 @@
       "summary": null,
       "contentHash": "cdc6d1cf7906c5c28d5ed2b77c9aedeb007b82bf3b5d5165c3fffd993d58a0ab",
       "revision": 1,
-      "importance": 65,
+      "importance": 55,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "release"
       ],
       "tags": [
@@ -1458,10 +1948,9 @@
       "summary": null,
       "contentHash": "a2c8f57775ba26a6e5a1874573bb9b4e2365dc3dd4b2f1e03f859d2960fc9ff0",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1481,10 +1970,9 @@
       "summary": null,
       "contentHash": "c90514a9216dd96c2419f3009178063337d8b0ab00bd06957ec339dd83c75dd3",
       "revision": 1,
-      "importance": 65,
+      "importance": 55,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "バージョン公開"
       ],
       "tags": [
@@ -1507,10 +1995,9 @@
       "summary": null,
       "contentHash": "d33ac3a3e09f84cc04da7fea630c5c4fac344625604675409155eff1853a7f24",
       "revision": 1,
-      "importance": 75,
+      "importance": 65,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "バージョン公開",
         "codex"
       ],
@@ -1534,10 +2021,9 @@
       "summary": null,
       "contentHash": "7e791144d8419e8ebda95fb7e40189a39fd4075baf35aff9186320b8732dadc6",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1557,10 +2043,9 @@
       "summary": null,
       "contentHash": "5376941edd60c9c508ba71f793d2802fff09f4364f6a806fe97d36f79aecc2b8",
       "revision": 1,
-      "importance": 90,
+      "importance": 80,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "障害"
       ],
       "tags": []
@@ -1581,10 +2066,9 @@
       "summary": null,
       "contentHash": "103be6888ab5eab0a4bcb9dc1a9fa12d1aaa4ef94b3de21d83d855658e420039",
       "revision": 1,
-      "importance": 70,
+      "importance": 60,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "deprecated"
       ],
       "tags": [
@@ -1607,10 +2091,9 @@
       "summary": null,
       "contentHash": "1f3fdf8dce35182aff041b6c8481724ea5af9edc4544201338bbb71c9e6dc25f",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1630,10 +2113,9 @@
       "summary": null,
       "contentHash": "ec1e9a1222c7d3c322eac8353b3e646fd40c108c7877e569f78ab245492a8bc6",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1653,10 +2135,9 @@
       "summary": null,
       "contentHash": "f8c22ff4cc05ea8f8118e6191dfb3315ead48caec9a2eeeb42599f7e80ff6f0b",
       "revision": 1,
-      "importance": 60,
+      "importance": 50,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "codex"
       ],
       "tags": []
@@ -1699,10 +2180,9 @@
       "summary": null,
       "contentHash": "1323b7423e1378d31fa220925a71c93b0646b9d25d8ef340279ed050ce1aa42e",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1722,10 +2202,9 @@
       "summary": null,
       "contentHash": "8b91c0dd25f23bf8b8331345353f22f899d73f744565df26372f0b8a9e420e82",
       "revision": 1,
-      "importance": 90,
+      "importance": 80,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "障害"
       ],
       "tags": []
@@ -1746,10 +2225,9 @@
       "summary": null,
       "contentHash": "bf47753421390450ea53653d9dcf1e4bb46351d0a2763e8c943b7821c30e059e",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1879,10 +2357,9 @@
       "summary": null,
       "contentHash": "41a0f7c8e74d507126104a0968d2b088c737729e131e42eefe8866a4769ad1ff",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },

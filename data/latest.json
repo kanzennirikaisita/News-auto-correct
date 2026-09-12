@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-12T16:18:52+00:00",
+  "generatedAt": "2026-09-12T23:59:32+00:00",
   "collector": {
-    "lastRun": "2026-09-12T16:18:52+00:00",
+    "lastRun": "2026-09-12T23:59:32+00:00",
     "success": 13,
     "failed": 0
   },
@@ -14,7 +14,7 @@
       "url": "https://www.digital.go.jp/rss/news.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-12T16:18:52+00:00",
+      "lastSuccess": "2026-09-12T23:59:32+00:00",
       "count": 31
     },
     {
@@ -24,7 +24,7 @@
       "url": "https://www.jpcert.or.jp/rss/jpcert.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-12T16:18:52+00:00",
+      "lastSuccess": "2026-09-12T23:59:32+00:00",
       "count": 20
     },
     {
@@ -34,7 +34,7 @@
       "url": "https://jvn.jp/rss/jvn.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-12T16:18:52+00:00",
+      "lastSuccess": "2026-09-12T23:59:32+00:00",
       "count": 20
     },
     {
@@ -44,7 +44,7 @@
       "url": "https://blogs.jpcert.or.jp/ja/atom.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-12T16:18:52+00:00",
+      "lastSuccess": "2026-09-12T23:59:32+00:00",
       "count": 15
     },
     {
@@ -54,7 +54,7 @@
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-12T16:18:52+00:00",
+      "lastSuccess": "2026-09-12T23:59:32+00:00",
       "count": 200
     },
     {
@@ -64,7 +64,7 @@
       "url": "https://github.blog/changelog/feed/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-12T16:18:52+00:00",
+      "lastSuccess": "2026-09-12T23:59:32+00:00",
       "count": 10
     },
     {
@@ -74,7 +74,7 @@
       "url": "https://api.github.com/repos/langgenius/dify/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-12T16:18:52+00:00",
+      "lastSuccess": "2026-09-12T23:59:32+00:00",
       "count": 27
     },
     {
@@ -84,7 +84,7 @@
       "url": "https://api.github.com/repos/openai/codex/releases?per_page=10",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-12T16:18:52+00:00",
+      "lastSuccess": "2026-09-12T23:59:32+00:00",
       "count": 1
     },
     {
@@ -94,7 +94,7 @@
       "url": "https://api.github.com/repos/anthropics/claude-code/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-12T16:18:52+00:00",
+      "lastSuccess": "2026-09-12T23:59:32+00:00",
       "count": 30
     },
     {
@@ -104,7 +104,7 @@
       "url": "https://jp.finalfantasyxiv.com/lodestone/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-12T16:18:52+00:00",
+      "lastSuccess": "2026-09-12T23:59:32+00:00",
       "count": 30
     },
     {
@@ -114,7 +114,7 @@
       "url": "https://steamcommunity.com/games/1245620/rss/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-12T16:18:52+00:00",
+      "lastSuccess": "2026-09-12T23:59:32+00:00",
       "count": 10
     },
     {
@@ -124,7 +124,7 @@
       "url": "https://store.steampowered.com/feeds/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-12T16:18:52+00:00",
+      "lastSuccess": "2026-09-12T23:59:32+00:00",
       "count": 10
     },
     {
@@ -134,11 +134,297 @@
       "url": "https://www.apple.com/jp/newsroom/rss-feed.rss",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-12T16:18:52+00:00",
+      "lastSuccess": "2026-09-12T23:59:32+00:00",
       "count": 20
     }
   ],
   "items": [
+    {
+      "id": "eab5392678daae7463f7f9ef",
+      "title": "Star Trek Online Rediscovered update, featuring three versions of Spock, goes live on September 22",
+      "url": "https://store.steampowered.com/news/group/6070552/view/701027323413005194",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-12T22:02:07+00:00",
+      "detectedAt": "2026-09-12T23:59:32+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "b5f6bda074fdd30dcd6e20f811025b83ae746139449fd34aa4125895fa272019",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "update"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "e4a6e5f8f0f68eb4bf948f3e",
+      "title": "The newest Warhammer pre-orders tower over their rivals",
+      "url": "https://store.steampowered.com/news/group/718735/view/677383425371407237",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-12T22:51:42+00:00",
+      "detectedAt": "2026-09-12T23:59:32+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "62884a7df538aa9692ff716ad28d8257ec00f103c2457d9ba26efbcd9c032e4b",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "cdd37c66db9a818321deaa2f",
+      "title": "[復旧] [Chaos] Louisoixワールド 障害復旧作業完了のお知らせ(9/13)",
+      "url": "https://jp.finalfantasyxiv.com/lodestone/news/detail/66d77b267e8c54f8a086d26d66104089b4addfc3",
+      "sourceId": "ff14",
+      "sourceName": "FFXIV Lodestone",
+      "category": "game",
+      "publishedAt": "2026-09-12T17:08:00+00:00",
+      "detectedAt": "2026-09-12T23:59:32+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "255e162c1b8af0806717c2478c6a62abda42e04d13f163ab62dd8d666f6c3e34",
+      "revision": 1,
+      "importance": 90,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "障害"
+      ],
+      "tags": []
+    },
+    {
+      "id": "a68dc25fc3dba89998fa5a15",
+      "title": "Brand-New Diablo 4 Class Officially Confirmed for 2027",
+      "url": "https://store.steampowered.com/news/group/1450625/view/715664022201959376",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-12T23:33:38+00:00",
+      "detectedAt": "2026-09-12T23:59:32+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "579d63cdeae9a6916ebfd07ebf8b1b1cea32534064111e884e003a404c38b370",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "8df56368a1a8f9e596cb34e0",
+      "title": "First Diablo 5 Classes Officially Revealed",
+      "url": "https://store.steampowered.com/news/group/1450625/view/715664022201959342",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-12T21:53:32+00:00",
+      "detectedAt": "2026-09-12T23:59:32+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "76149c6828f39329a6ffe35b25dac07729947114161b3216477fd39667f20333",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "828f480610faad5a2db2ceb9",
+      "title": "Diablo 5's first confirmed classes are the Demon Hunter, Monk, and the all-new Plague Knight: Blizzard says the sequel has \"more classes than ever before\"",
+      "url": "https://store.steampowered.com/news/group/38509069/view/688642424435639244",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-12T22:24:15+00:00",
+      "detectedAt": "2026-09-12T23:59:32+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "65882157afc699d6fbc1d31a0886c8a47b5a9ce93a3d9dcd5f0bf1737072cdbe",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "5e904a165c92655ba20407b6",
+      "title": "Genshin Impact Version 7.1 'A Rekviem for the Underworld' launches on September 23",
+      "url": "https://store.steampowered.com/news/group/6070552/view/701027323413005190",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-12T21:32:06+00:00",
+      "detectedAt": "2026-09-12T23:59:32+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "0b76afa65947e4ff5c67629c0070e9d47f70229ff26205287d7b866e54d26cc3",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "51eb830adb1947ea50729403",
+      "title": "Zelda Meets Delicious In Dungeon In Mouthwatering New RPG",
+      "url": "https://store.steampowered.com/news/group/38666666/view/695397823941706677",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-12T22:42:33+00:00",
+      "detectedAt": "2026-09-12T23:59:32+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "9a97c16d6e170b97316273b0c9490194a04366697b47d361dede9c02feaf1d05",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "339f1d6f35b739af4a752a21",
+      "title": "StarCraft Devs Promise New Game Will Definitely Release in 2030",
+      "url": "https://store.steampowered.com/news/group/9869/view/687516524528796660",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-12T23:24:25+00:00",
+      "detectedAt": "2026-09-12T23:59:32+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "a7e1f67aae88b855e6f90b474f464a1668ac85131d9a41bcd208774eda95396b",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "release"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "2cad514beceebe6b32120c19",
+      "title": "Fate/Extra Record character trailer for Playable Servant Archer published",
+      "url": "https://store.steampowered.com/news/group/6070552/view/701027323413005196",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-12T22:22:08+00:00",
+      "detectedAt": "2026-09-12T23:59:32+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "f24ddaec1beeb4908abe19670b9ab0a4ce42867cabc4bfb44aa828b8a6993bc9",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "2a68cabb6c20de64eba595ba",
+      "title": "Claude Code v2.1.270",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.270",
+      "sourceId": "claude-code",
+      "sourceName": "Claude Code",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-12T19:45:44+00:00",
+      "detectedAt": "2026-09-12T23:59:32+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-09-12T19:45:44+00:00",
+      "changeType": "new",
+      "kind": "release",
+      "summary": null,
+      "contentHash": "4674a11f5e7ce7f128c48efbe7bf1e25c7c7450d76d00405be4f795a2c4ecb35",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "バージョン公開"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "0eb4b6798c774bdd9fe33121",
+      "title": "After 4 Years, Hearthstone Is Finally Adding a Brand-New Class",
+      "url": "https://store.steampowered.com/news/group/1450625/view/715664022201959344",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-12T21:53:32+00:00",
+      "detectedAt": "2026-09-12T23:59:32+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "27a0680286d45a338c20e68148f9498ea826e0e558c970992fe81c14a37947da",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
     {
       "id": "df413a04563e79686c4a0957",
       "title": "GTA: London 1961 is full of cockney innuendo and harder than a bobby’s helmet",
@@ -889,10 +1175,9 @@
       "summary": null,
       "contentHash": "faf582145a8ca6a46191876c6a9a4f5a4721b569e9e7944f3392e5e7d6dd7a53",
       "revision": 1,
-      "importance": 65,
+      "importance": 55,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "update"
       ],
       "tags": [
@@ -915,10 +1200,9 @@
       "summary": null,
       "contentHash": "2b419c767bec11419c35ed03fe38448bd76ecc726ffa6eeaa52fdc23d352fa4b",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1012,10 +1296,9 @@
       "summary": null,
       "contentHash": "a3f67a7231a38e1e390e545faec4f800264070862015aa439550a8235cb5ee91",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1057,10 +1340,9 @@
       "summary": null,
       "contentHash": "d8354607152245530f4b840edd38abd8f9998d12a82c97f7c0e17eabc145df0c",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1080,10 +1362,9 @@
       "summary": null,
       "contentHash": "cabebe3a63e6edc80ebb194f489fc7a0ad0631394b34c4b142837d7b9ba2bcf5",
       "revision": 1,
-      "importance": 65,
+      "importance": 55,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "バージョン公開"
       ],
       "tags": [
@@ -1106,10 +1387,9 @@
       "summary": null,
       "contentHash": "29bf3674898bc60e2b22773d25f6ca7e3a64a12010de72584612a1536707952a",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1219,10 +1499,9 @@
       "summary": null,
       "contentHash": "06a47d89ee2c0d92b324f37c08ecdf000189a4b9a7fd46d9173c4db543a98448",
       "revision": 1,
-      "importance": 90,
+      "importance": 80,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "終了",
         "自治体"
       ],
@@ -1246,10 +1525,9 @@
       "summary": null,
       "contentHash": "2944155ea04db74ccb02426854b72f64c2dba50d7fec24c1b23fc52861a52d20",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1269,10 +1547,9 @@
       "summary": null,
       "contentHash": "ab61b81f1f5324022f92ca73e52cbcf3ec82c36359cda33e49b84e4c99d390ec",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": [
         "イベント"
@@ -1294,10 +1571,9 @@
       "summary": null,
       "contentHash": "a59c1d6291846573b0d4462e43736c1a915489153644ef3cd664f599c1fd3e62",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1317,10 +1593,9 @@
       "summary": null,
       "contentHash": "e694ce990d48b8de8d9cfef2c90a80aba186e3759b603150f40cd8e88c6d47f9",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1340,10 +1615,9 @@
       "summary": null,
       "contentHash": "af8b6731d466cddecf1fce57e55aa53aa4e33b177423fff454e58398fbbfe40c",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },

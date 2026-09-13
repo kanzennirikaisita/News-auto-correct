@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-13T08:17:50+00:00",
+  "generatedAt": "2026-09-13T13:48:06+00:00",
   "collector": {
-    "lastRun": "2026-09-13T08:17:50+00:00",
+    "lastRun": "2026-09-13T13:48:06+00:00",
     "success": 13,
     "failed": 0
   },
@@ -14,7 +14,7 @@
       "url": "https://www.digital.go.jp/rss/news.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-13T08:17:50+00:00",
+      "lastSuccess": "2026-09-13T13:48:06+00:00",
       "count": 31
     },
     {
@@ -24,7 +24,7 @@
       "url": "https://www.jpcert.or.jp/rss/jpcert.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-13T08:17:50+00:00",
+      "lastSuccess": "2026-09-13T13:48:06+00:00",
       "count": 20
     },
     {
@@ -34,7 +34,7 @@
       "url": "https://jvn.jp/rss/jvn.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-13T08:17:50+00:00",
+      "lastSuccess": "2026-09-13T13:48:06+00:00",
       "count": 20
     },
     {
@@ -44,7 +44,7 @@
       "url": "https://blogs.jpcert.or.jp/ja/atom.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-13T08:17:50+00:00",
+      "lastSuccess": "2026-09-13T13:48:06+00:00",
       "count": 15
     },
     {
@@ -54,7 +54,7 @@
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-13T08:17:50+00:00",
+      "lastSuccess": "2026-09-13T13:48:06+00:00",
       "count": 200
     },
     {
@@ -64,7 +64,7 @@
       "url": "https://github.blog/changelog/feed/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-13T08:17:50+00:00",
+      "lastSuccess": "2026-09-13T13:48:06+00:00",
       "count": 10
     },
     {
@@ -74,7 +74,7 @@
       "url": "https://api.github.com/repos/langgenius/dify/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-13T08:17:50+00:00",
+      "lastSuccess": "2026-09-13T13:48:06+00:00",
       "count": 27
     },
     {
@@ -84,7 +84,7 @@
       "url": "https://api.github.com/repos/openai/codex/releases?per_page=10",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-13T08:17:50+00:00",
+      "lastSuccess": "2026-09-13T13:48:06+00:00",
       "count": 1
     },
     {
@@ -94,7 +94,7 @@
       "url": "https://api.github.com/repos/anthropics/claude-code/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-13T08:17:50+00:00",
+      "lastSuccess": "2026-09-13T13:48:06+00:00",
       "count": 30
     },
     {
@@ -104,7 +104,7 @@
       "url": "https://jp.finalfantasyxiv.com/lodestone/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-13T08:17:50+00:00",
+      "lastSuccess": "2026-09-13T13:48:06+00:00",
       "count": 30
     },
     {
@@ -114,7 +114,7 @@
       "url": "https://steamcommunity.com/games/1245620/rss/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-13T08:17:50+00:00",
+      "lastSuccess": "2026-09-13T13:48:06+00:00",
       "count": 10
     },
     {
@@ -124,7 +124,7 @@
       "url": "https://store.steampowered.com/feeds/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-13T08:17:50+00:00",
+      "lastSuccess": "2026-09-13T13:48:06+00:00",
       "count": 10
     },
     {
@@ -134,11 +134,247 @@
       "url": "https://www.apple.com/jp/newsroom/rss-feed.rss",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-13T08:17:50+00:00",
+      "lastSuccess": "2026-09-13T13:48:06+00:00",
       "count": 20
     }
   ],
   "items": [
+    {
+      "id": "f6bab7362c32c1fc909bafed",
+      "title": "Anime Breaker codes (September 2026)",
+      "url": "https://store.steampowered.com/news/group/3693985/view/674005725646684976",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-13T12:33:47+00:00",
+      "detectedAt": "2026-09-13T13:48:06+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "999dc8b43900f9f978d7e7b5c3f27cbeef6ec7f648ddc07b7a87c5804e345bb1",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "f41f57270bb226b8b0fa268d",
+      "title": "New Fallout: New Vegas Release Makes a Next-Gen Remaster Redundant",
+      "url": "https://store.steampowered.com/news/group/1450625/view/715664022201959446",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-13T13:34:40+00:00",
+      "detectedAt": "2026-09-13T13:48:06+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "f2942e8e082ccaff2ef95e122d93670d2229a42a71b3546c672898ab559dbbc1",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "release"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "db4932e83fd48412a6650f7e",
+      "title": "It's Officially the End of an Era for Diablo 4",
+      "url": "https://store.steampowered.com/news/group/1450625/view/715664022201959429",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-13T12:04:36+00:00",
+      "detectedAt": "2026-09-13T13:48:06+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "6da13118215a87602c25d47fac80d93ed7c2a1ccc013fe48033eafedf33b16bf",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "da57e7b368c132d8267a6a8c",
+      "title": "Level 5 boss admits using AI for Professor Layton, Yo-Kai Watch reveals",
+      "url": "https://store.steampowered.com/news/group/42342144/view/701027323413005287",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-13T12:18:37+00:00",
+      "detectedAt": "2026-09-13T13:48:06+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "6786473ad23cba77c2c15f4b7d45993a2992e85d4e011bd2d7549db36e027cb9",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "d906d3296669afcbec835563",
+      "title": "Cultivation Evermortal codes (September 2026)",
+      "url": "https://store.steampowered.com/news/group/3693985/view/674005725646684978",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-13T12:33:47+00:00",
+      "detectedAt": "2026-09-13T13:48:06+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "2fb0090fbcf439ed0c087cd15abfbbf3b9d08b8df46bf9fbeb56f0d397a9ff47",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "ca5e3ee10c610cbb9c1a23f9",
+      "title": "After countless memes, Final Fantasy 7 Revelation boss confirms that, yes, Fortnite partly inspired jumping out of the Highwind",
+      "url": "https://store.steampowered.com/news/group/38509069/view/688642424435639347",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-13T12:05:04+00:00",
+      "detectedAt": "2026-09-13T13:48:06+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "a2648ea908ca2c95edfed829a35240986fb01b35dcbbc10dda0854931269ed4d",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "6a99162b35e2c040786652b9",
+      "title": "Paradox's new apocalypse strategy game Afterworld aims to please players who \"bounced off\" the likes of Hearts of Iron 4",
+      "url": "https://store.steampowered.com/news/group/3693985/view/674005725646684980",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-13T12:33:47+00:00",
+      "detectedAt": "2026-09-13T13:48:06+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "69623125a2a723a3f582b659d998a718b65d6b0fce174d53a1dca8aba015a42d",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "2262f87a30eafc4aa5932326",
+      "title": "Steam Users Can Claim Co-Op PvE Game for Free Before It's Gone",
+      "url": "https://store.steampowered.com/news/group/1450625/view/715664022201959440",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-13T13:04:39+00:00",
+      "detectedAt": "2026-09-13T13:48:06+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "06476f4abda183a1556bf06130c164633918f0be62b20306f47460f38a63a884",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "0bcc7179a6155002881c0f14",
+      "title": "Former Far Cry boss says it's \"an honor\" to take over StarCraft: \"We won the cosmic lottery\"",
+      "url": "https://store.steampowered.com/news/group/38509069/view/688642424435639349",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-13T12:05:04+00:00",
+      "detectedAt": "2026-09-13T13:48:06+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "c48bf24d3a3d12a4f2678f7822d52b3acf3e1b444a8cde555080ac376b98867a",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "0b45823f0f385259e6c17e13",
+      "title": "New Official $2,105 Street Fighter Release Confirmed for 2027",
+      "url": "https://store.steampowered.com/news/group/1450625/view/715664022201959438",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-13T12:34:37+00:00",
+      "detectedAt": "2026-09-13T13:48:06+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "3c3ef8029b46ef71366b970d3a8a4f075910e8cb98985d836b67056ed480e5fd",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "release"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
     {
       "id": "fe0aafce7b7b31ae667b8075",
       "title": "Rockstar Officially Confirms GTA 6 Will Be Better On PS5",
@@ -743,10 +979,9 @@
       "summary": null,
       "contentHash": "7a1577f3decaf4ded4a95d49aa08360958756c9e7559372626ff55072628e07c",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -838,10 +1073,9 @@
       "summary": null,
       "contentHash": "4bca5b833566a3cd2671581a20205a895911037e8283aa5300611a287884e5e5",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -884,10 +1118,9 @@
       "summary": null,
       "contentHash": "01e5c7b8459d62008aaa02b4d53a511a5774151e705a230ddedd433245b5d00e",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -907,10 +1140,9 @@
       "summary": null,
       "contentHash": "7ebaa869ec42a4a011d09e4f64493c58c53abfeb119004776c47d84ed59b2073",
       "revision": 1,
-      "importance": 80,
+      "importance": 70,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "update",
         "release"
       ],
@@ -934,10 +1166,9 @@
       "summary": null,
       "contentHash": "94755526d91b12938555546897673b17726a355d2b95f5710d31d6c029b22c6f",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -957,10 +1188,9 @@
       "summary": null,
       "contentHash": "0c4e8b6cd3de8b599f6ff918af5bf198e9a82df6570f2f38315b6541950b629d",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1002,10 +1232,9 @@
       "summary": null,
       "contentHash": "70869731768fde5730ca941c0831d1555002e078625f683906cb09e479d75870",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1025,10 +1254,9 @@
       "summary": null,
       "contentHash": "0761028f83c4485703fa0a464ed21b78cb04a1ed7af7b8b08a4881c69422f35b",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1048,10 +1276,9 @@
       "summary": null,
       "contentHash": "6b2b659de773715ed56f451e9bfe1a5636a9a29bc5b4add6f6cc7cf09da7e19c",
       "revision": 1,
-      "importance": 65,
+      "importance": 55,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "release"
       ],
       "tags": [
@@ -1074,10 +1301,9 @@
       "summary": null,
       "contentHash": "31aed1a15f95f1baec687ad92c6c35016c1b13d03a49c251f2f81e639e160a53",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1097,10 +1323,9 @@
       "summary": null,
       "contentHash": "ddb6d39b18ecf2ea42e4120fac7cd8f3b399be8afce4b4b97aed87a306802d69",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1120,10 +1345,9 @@
       "summary": null,
       "contentHash": "09c7ac88e0057606f7b4b9ce0276324b6afb326d5bdee9131ec5c6bdcfcb6535",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -2812,10 +3036,9 @@
       "summary": null,
       "contentHash": "889eef4972765d8cd6478f787f45534f3cee09c6d412e763d768c40b7b84e528",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },

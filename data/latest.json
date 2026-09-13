@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-12T23:59:32+00:00",
+  "generatedAt": "2026-09-13T08:17:50+00:00",
   "collector": {
-    "lastRun": "2026-09-12T23:59:32+00:00",
+    "lastRun": "2026-09-13T08:17:50+00:00",
     "success": 13,
     "failed": 0
   },
@@ -14,7 +14,7 @@
       "url": "https://www.digital.go.jp/rss/news.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-12T23:59:32+00:00",
+      "lastSuccess": "2026-09-13T08:17:50+00:00",
       "count": 31
     },
     {
@@ -24,7 +24,7 @@
       "url": "https://www.jpcert.or.jp/rss/jpcert.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-12T23:59:32+00:00",
+      "lastSuccess": "2026-09-13T08:17:50+00:00",
       "count": 20
     },
     {
@@ -34,7 +34,7 @@
       "url": "https://jvn.jp/rss/jvn.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-12T23:59:32+00:00",
+      "lastSuccess": "2026-09-13T08:17:50+00:00",
       "count": 20
     },
     {
@@ -44,7 +44,7 @@
       "url": "https://blogs.jpcert.or.jp/ja/atom.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-12T23:59:32+00:00",
+      "lastSuccess": "2026-09-13T08:17:50+00:00",
       "count": 15
     },
     {
@@ -54,7 +54,7 @@
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-12T23:59:32+00:00",
+      "lastSuccess": "2026-09-13T08:17:50+00:00",
       "count": 200
     },
     {
@@ -64,7 +64,7 @@
       "url": "https://github.blog/changelog/feed/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-12T23:59:32+00:00",
+      "lastSuccess": "2026-09-13T08:17:50+00:00",
       "count": 10
     },
     {
@@ -74,7 +74,7 @@
       "url": "https://api.github.com/repos/langgenius/dify/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-12T23:59:32+00:00",
+      "lastSuccess": "2026-09-13T08:17:50+00:00",
       "count": 27
     },
     {
@@ -84,7 +84,7 @@
       "url": "https://api.github.com/repos/openai/codex/releases?per_page=10",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-12T23:59:32+00:00",
+      "lastSuccess": "2026-09-13T08:17:50+00:00",
       "count": 1
     },
     {
@@ -94,7 +94,7 @@
       "url": "https://api.github.com/repos/anthropics/claude-code/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-12T23:59:32+00:00",
+      "lastSuccess": "2026-09-13T08:17:50+00:00",
       "count": 30
     },
     {
@@ -104,7 +104,7 @@
       "url": "https://jp.finalfantasyxiv.com/lodestone/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-12T23:59:32+00:00",
+      "lastSuccess": "2026-09-13T08:17:50+00:00",
       "count": 30
     },
     {
@@ -114,7 +114,7 @@
       "url": "https://steamcommunity.com/games/1245620/rss/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-12T23:59:32+00:00",
+      "lastSuccess": "2026-09-13T08:17:50+00:00",
       "count": 10
     },
     {
@@ -124,7 +124,7 @@
       "url": "https://store.steampowered.com/feeds/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-12T23:59:32+00:00",
+      "lastSuccess": "2026-09-13T08:17:50+00:00",
       "count": 10
     },
     {
@@ -134,11 +134,244 @@
       "url": "https://www.apple.com/jp/newsroom/rss-feed.rss",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-12T23:59:32+00:00",
+      "lastSuccess": "2026-09-13T08:17:50+00:00",
       "count": 20
     }
   ],
   "items": [
+    {
+      "id": "fe0aafce7b7b31ae667b8075",
+      "title": "Rockstar Officially Confirms GTA 6 Will Be Better On PS5",
+      "url": "https://store.steampowered.com/news/group/38666666/view/695397823941706715",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-13T02:02:42+00:00",
+      "detectedAt": "2026-09-13T08:17:50+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "6dc405ec864325b1144b5080209a3a8b451bb95457c021ef5c1d722b69d24545",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "e6685a8a6689bb0775ae38f9",
+      "title": "A Knight Of The Seven Kingdoms Officially Returns In Winter 2026 With New Set",
+      "url": "https://store.steampowered.com/news/group/38666666/view/695397823941706727",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-13T06:02:52+00:00",
+      "detectedAt": "2026-09-13T08:17:50+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "f13424a1f760a124dfb1a08f3dde7062c534b347e0cbcd3b33a3f1816269e7e3",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "dfbd50e9d81da9f319300440",
+      "title": "Tetracast 459: It's like HD-2D, but in 3D",
+      "url": "https://store.steampowered.com/news/group/6070552/view/701027323413005257",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-13T04:52:21+00:00",
+      "detectedAt": "2026-09-13T08:17:50+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "4f92fbdc997ea3e6f65da630e9c46c5e6be1bec656630d3e381d1590d23f6ccf",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "d7aa1c354b53fa3d620a0e11",
+      "title": "Diablo 5 Taking Page Out of the Diablo 2 Playbook",
+      "url": "https://store.steampowered.com/news/group/1450625/view/715664022201959392",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-13T02:13:46+00:00",
+      "detectedAt": "2026-09-13T08:17:50+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "7874da1643069d5870e70d8fbf5dfde84ac5b5bcb55c039f121c56f914cb2830",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "ad122b4ca4af45ffd6db826a",
+      "title": "Elden Ring: All 12 Classes, Ranked",
+      "url": "https://store.steampowered.com/news/group/38666666/view/695397823941706717",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-13T02:32:43+00:00",
+      "detectedAt": "2026-09-13T08:17:50+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "2e3c7fecaab8a5d448a7dbd887798f9f224a3e564dee477a52fbb75ded2db9f9",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "a461e2fffdf5ccbb5f86e6d4",
+      "title": "Japanese folklore-themed roguelike RPG Kaguraden coming to Switch 1&2 and PC Steam in 2027",
+      "url": "https://store.steampowered.com/news/group/6070552/view/701027323413005254",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-13T03:02:17+00:00",
+      "detectedAt": "2026-09-13T08:17:50+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "3eeda9c373b9a135a3f4221f067bad06fb1a998068fea0a8923fb33de5d2f556",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "88a3ee2fc3ae2eb276509939",
+      "title": "Diablo V announced for Spring 2029 release",
+      "url": "https://store.steampowered.com/news/group/6070552/view/701027323413005248",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-13T01:22:14+00:00",
+      "detectedAt": "2026-09-13T08:17:50+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "4545b3c9d2f3ab26d532d39cfad572e9a080b63c5daa3980f11c588c0ae8cd39",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "release"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "65236d7882052f1b9c05674c",
+      "title": "World of Warcraft Reveals Big Changes For One of Midnight's Most Popular Classes",
+      "url": "https://store.steampowered.com/news/group/1450625/view/715664022201959386",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-13T01:03:42+00:00",
+      "detectedAt": "2026-09-13T08:17:50+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "27a7d56ff0ee2ea060983ad03dc034a4ef2b775bea406abb85c5ea164d7decdb",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "58ae6dfbd2092f19f44184e0",
+      "title": "Diablo IV Age of Hatred Collection launches on September 15 for Switch 2",
+      "url": "https://store.steampowered.com/news/group/6070552/view/701027323413005242",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-13T01:02:13+00:00",
+      "detectedAt": "2026-09-13T08:17:50+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "0d2c32b5d366eda3e17bf0668574eb29dc37493c51cd5569dbc658d0e9672d4d",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "38f96d7b11f1fd324d415d6b",
+      "title": "Star Trek: Know Thy Enemy Officially Announced",
+      "url": "https://store.steampowered.com/news/group/38666666/view/695397823941706725",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-13T05:02:49+00:00",
+      "detectedAt": "2026-09-13T08:17:50+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "72fc9fc3ee58233a8d43d55a7d53edcde26eace5de5ccefc02bcd34713d41efe",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
     {
       "id": "eab5392678daae7463f7f9ef",
       "title": "Star Trek Online Rediscovered update, featuring three versions of Spock, goes live on September 22",
@@ -910,10 +1143,9 @@
       "summary": null,
       "contentHash": "5ffa75888799ddf9a0d029e40df2e952c8efb87967ff108839799997035576b9",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -933,10 +1165,9 @@
       "summary": null,
       "contentHash": "ec1f959cbdbc0eb2092a733200b9f1c7cc98251b29754b5daad1e1306cc1256c",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -956,10 +1187,9 @@
       "summary": null,
       "contentHash": "fef442345c92c6a225a176756d68472270735f25c73c71b8edb7ada79ef860ec",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -979,10 +1209,9 @@
       "summary": null,
       "contentHash": "486f06ef4fd20db22b1436da4c291100ec17755a2dfcc92405c11f42933920ad",
       "revision": 1,
-      "importance": 90,
+      "importance": 80,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "障害"
       ],
       "tags": []
@@ -1003,10 +1232,9 @@
       "summary": null,
       "contentHash": "ce63c322cecc31c06bd92fddfd6030b2c225c8e2e315436d6cb67d1ceb7fab97",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1026,10 +1254,9 @@
       "summary": null,
       "contentHash": "51c1f0a34fbc30242a3896d8204e4d0345f958a299fd9d0f687f911d25d5730a",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1049,10 +1276,9 @@
       "summary": null,
       "contentHash": "b1c5c650ac53f003a8029f9fe316c955910431d9cd0c7f266971cddb12385756",
       "revision": 1,
-      "importance": 95,
+      "importance": 85,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "patch",
         "update",
         "release"
@@ -1077,10 +1303,9 @@
       "summary": null,
       "contentHash": "76522406d6ed5f3c2082ec420586eeac448af1be0828f858eea0fbc702ec27c5",
       "revision": 1,
-      "importance": 65,
+      "importance": 55,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "update"
       ],
       "tags": [
@@ -1103,10 +1328,9 @@
       "summary": null,
       "contentHash": "4ce2285b893e64bceca09ffd12459ba0e5341bca116287e65658ec0a064750cd",
       "revision": 1,
-      "importance": 75,
+      "importance": 65,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "メンテナンス"
       ],
       "tags": [
@@ -1129,10 +1353,9 @@
       "summary": null,
       "contentHash": "455196faebc7ab0719fc87fe9cda512ad7ae3ae685e93a124ac7eedc9cd977a0",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1152,10 +1375,9 @@
       "summary": null,
       "contentHash": "e11c71ee5924f38b369c65f710f6da2118452ce599c30d121b5984d84722c5af",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1222,10 +1444,9 @@
       "summary": null,
       "contentHash": "8555d74c97bb84d9905c2a55188f66dde92e40149aa0454d315d867156167063",
       "revision": 1,
-      "importance": 65,
+      "importance": 55,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "release"
       ],
       "tags": [
@@ -1409,10 +1630,9 @@
       "summary": null,
       "contentHash": "ec020d3405eecb87805c6920c6f3d85f0e25986013a740f8d0e7c6e06cae2797",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1432,10 +1652,9 @@
       "summary": null,
       "contentHash": "9a14684ec2e03b08f051ede745bc7bc93647f2164b7c6f1b02e6c3c394529386",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },

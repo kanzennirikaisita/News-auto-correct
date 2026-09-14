@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-14T08:54:02+00:00",
+  "generatedAt": "2026-09-14T15:53:26+00:00",
   "collector": {
-    "lastRun": "2026-09-14T08:54:02+00:00",
+    "lastRun": "2026-09-14T15:53:26+00:00",
     "success": 13,
     "failed": 0
   },
@@ -14,7 +14,7 @@
       "url": "https://www.digital.go.jp/rss/news.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-14T08:54:02+00:00",
+      "lastSuccess": "2026-09-14T15:53:26+00:00",
       "count": 27
     },
     {
@@ -24,7 +24,7 @@
       "url": "https://www.jpcert.or.jp/rss/jpcert.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-14T08:54:02+00:00",
+      "lastSuccess": "2026-09-14T15:53:26+00:00",
       "count": 20
     },
     {
@@ -34,7 +34,7 @@
       "url": "https://jvn.jp/rss/jvn.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-14T08:54:02+00:00",
+      "lastSuccess": "2026-09-14T15:53:26+00:00",
       "count": 20
     },
     {
@@ -44,7 +44,7 @@
       "url": "https://blogs.jpcert.or.jp/ja/atom.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-14T08:54:02+00:00",
+      "lastSuccess": "2026-09-14T15:53:26+00:00",
       "count": 15
     },
     {
@@ -54,7 +54,7 @@
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-14T08:54:02+00:00",
+      "lastSuccess": "2026-09-14T15:53:26+00:00",
       "count": 200
     },
     {
@@ -64,7 +64,7 @@
       "url": "https://github.blog/changelog/feed/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-14T08:54:02+00:00",
+      "lastSuccess": "2026-09-14T15:53:26+00:00",
       "count": 10
     },
     {
@@ -74,7 +74,7 @@
       "url": "https://api.github.com/repos/langgenius/dify/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-14T08:54:02+00:00",
+      "lastSuccess": "2026-09-14T15:53:26+00:00",
       "count": 27
     },
     {
@@ -84,7 +84,7 @@
       "url": "https://api.github.com/repos/openai/codex/releases?per_page=10",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-14T08:54:02+00:00",
+      "lastSuccess": "2026-09-14T15:53:26+00:00",
       "count": 1
     },
     {
@@ -94,7 +94,7 @@
       "url": "https://api.github.com/repos/anthropics/claude-code/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-14T08:54:02+00:00",
+      "lastSuccess": "2026-09-14T15:53:26+00:00",
       "count": 30
     },
     {
@@ -104,7 +104,7 @@
       "url": "https://jp.finalfantasyxiv.com/lodestone/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-14T08:54:02+00:00",
+      "lastSuccess": "2026-09-14T15:53:26+00:00",
       "count": 29
     },
     {
@@ -114,7 +114,7 @@
       "url": "https://steamcommunity.com/games/1245620/rss/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-14T08:54:02+00:00",
+      "lastSuccess": "2026-09-14T15:53:26+00:00",
       "count": 10
     },
     {
@@ -124,7 +124,7 @@
       "url": "https://store.steampowered.com/feeds/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-14T08:54:02+00:00",
+      "lastSuccess": "2026-09-14T15:53:26+00:00",
       "count": 10
     },
     {
@@ -134,11 +134,273 @@
       "url": "https://www.apple.com/jp/newsroom/rss-feed.rss",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-14T08:54:02+00:00",
+      "lastSuccess": "2026-09-14T15:53:26+00:00",
       "count": 20
     }
   ],
   "items": [
+    {
+      "id": "fc44e88f788971c6834762dd",
+      "title": "BATTLEFIELD 6 GAME UPDATE 1.4.3.0",
+      "url": "https://store.steampowered.com/news/app/2807960/view/714538122294067352",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-14T15:00:24+00:00",
+      "detectedAt": "2026-09-14T15:53:26+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "f40a27741a34689e0a3ac97185d4838881e683c344c8011ce4f9bac06cfde407",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "update"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "b95dc8030c6a1a037f712c74",
+      "title": "\"I deeply apologize\": After global backlash, Level-5 CEO admits new Yo-Kai Watch and Professor Layton showcase uses generative AI",
+      "url": "https://store.steampowered.com/news/group/38509069/view/688642424435639626",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-14T15:47:01+00:00",
+      "detectedAt": "2026-09-14T15:53:26+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "ff415f41a765e071c7bcd4616050826e4bbad2716d161f3f644141619de84be1",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "9c4223c768a92efbed52beae",
+      "title": "Devstream 197 Showcase Video",
+      "url": "https://store.steampowered.com/news/app/230410/view/677383425371407030",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-14T15:46:31+00:00",
+      "detectedAt": "2026-09-14T15:53:26+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "eba8ca4726a3ae8a87c3f1614c6ddf96b10977cdde94c4917425eabeead72296",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "9b093f60215750bc4fc82e1a",
+      "title": "Human Fall Flat x Barry’s Prison Run – New Level Update Launched on PC",
+      "url": "https://store.steampowered.com/news/group/25563497/view/710034946759065865",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-14T15:41:01+00:00",
+      "detectedAt": "2026-09-14T15:53:26+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "79c2186a385ad4bd91463ce2dc8734401dcfc2dac6803eebad31bcca8bcdb2b6",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "update"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "99e4d56739445813b193d979",
+      "title": "New Co-Op Steam Game is Like Overcooked Meets Call of Duty",
+      "url": "https://store.steampowered.com/news/group/1450625/view/715664022201959747",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-14T15:05:58+00:00",
+      "detectedAt": "2026-09-14T15:53:26+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "705b682cb4d704b2d9fa98cb49f30ecbe88e819fe589e5e7db994b978b60193f",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "96d4b86b47f1c89184d95f62",
+      "title": "BlizzCon 2026 Opening Night: Everything Announced and Fans Are Hyped For Warcraft!",
+      "url": "https://store.steampowered.com/news/group/7433348/view/669502126020363571",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-14T15:15:10+00:00",
+      "detectedAt": "2026-09-14T15:53:26+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "752fcbe013a6ba07dc1a8ee6c86710561320c47b5b3e62778bf5e773be62a737",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "94a353bef86aec47a6afa4d2",
+      "title": "Fire Emblem: Fortune's Weave gets a new 7-minute long overview trailer",
+      "url": "https://store.steampowered.com/news/group/6070552/view/701027323413005571",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-14T15:13:28+00:00",
+      "detectedAt": "2026-09-14T15:53:26+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "473a3d4f6a0678f093c5e4f818d691e4e42f5dac84f032115f99dd6eed4bef96",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "721ab8d122aac3848f7e9695",
+      "title": "HMS Lion: One Last Roar",
+      "url": "https://store.steampowered.com/news/app/236390/view/710034946759065713",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-14T15:47:47+00:00",
+      "detectedAt": "2026-09-14T15:53:26+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "d46b7889e43f675087a66ed2217b437888db6bd082a5cd42a45c1ceb623c13c1",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "4b60edfad9e00af22e09ecfa",
+      "title": "ACE COMBAT 8: WINGS OF THEVE | Story Trailer",
+      "url": "https://store.steampowered.com/news/app/2288340/view/712286322480383502",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-14T15:25:35+00:00",
+      "detectedAt": "2026-09-14T15:53:26+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "3d823658a296d7135ac0302ffd29eeb21a0f38eec1f5a07232bffbf9a1536f9e",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "38c63698c8228303c9dcf254",
+      "title": "💥tinyBuild Publisher Sale Starts NOW💥+ Don’t Miss tinyBuildConnect!",
+      "url": "https://store.steampowered.com/news/group/6858705/view/725788967176244122",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-14T15:00:29+00:00",
+      "detectedAt": "2026-09-14T15:53:26+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "ab17b7e84235ced5c961692ecf093488acbd4dd4a19836db27495b226c58cb26",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "1855804cb591f2be7eeeb16d",
+      "title": "コンテック製無線LAN FLEXLANシリーズにおける複数の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU99009004/",
+      "sourceId": "jvn",
+      "sourceName": "JVN",
+      "category": "work",
+      "publishedAt": "2026-09-14T09:00:00+00:00",
+      "detectedAt": "2026-09-10T08:07:24+00:00",
+      "updatedAt": "2026-09-14T15:53:26+00:00",
+      "sourceUpdatedAt": "2026-09-14T09:00:00+00:00",
+      "changeType": "updated",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "45e371c6134eaaef4a48e8ea96b46575c48f43f8ac6d207404be010f1055f0ba",
+      "revision": 2,
+      "importance": 80,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "脆弱性"
+      ],
+      "tags": [
+        "セキュリティ"
+      ]
+    },
     {
       "id": "f7729355e715b243efaa01e7",
       "title": "The rather good The King is Watching adds Steam Deck & gamepad support",
@@ -865,10 +1127,9 @@
       "summary": null,
       "contentHash": "999dc8b43900f9f978d7e7b5c3f27cbeef6ec7f648ddc07b7a87c5804e345bb1",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -888,10 +1149,9 @@
       "summary": null,
       "contentHash": "f2942e8e082ccaff2ef95e122d93670d2229a42a71b3546c672898ab559dbbc1",
       "revision": 1,
-      "importance": 65,
+      "importance": 55,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "release"
       ],
       "tags": [
@@ -914,10 +1174,9 @@
       "summary": null,
       "contentHash": "6da13118215a87602c25d47fac80d93ed7c2a1ccc013fe48033eafedf33b16bf",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -937,10 +1196,9 @@
       "summary": null,
       "contentHash": "6786473ad23cba77c2c15f4b7d45993a2992e85d4e011bd2d7549db36e027cb9",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -960,10 +1218,9 @@
       "summary": null,
       "contentHash": "2fb0090fbcf439ed0c087cd15abfbbf3b9d08b8df46bf9fbeb56f0d397a9ff47",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -983,10 +1240,9 @@
       "summary": null,
       "contentHash": "a2648ea908ca2c95edfed829a35240986fb01b35dcbbc10dda0854931269ed4d",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1006,10 +1262,9 @@
       "summary": null,
       "contentHash": "69623125a2a723a3f582b659d998a718b65d6b0fce174d53a1dca8aba015a42d",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1029,10 +1284,9 @@
       "summary": null,
       "contentHash": "06476f4abda183a1556bf06130c164633918f0be62b20306f47460f38a63a884",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1052,10 +1306,9 @@
       "summary": null,
       "contentHash": "c48bf24d3a3d12a4f2678f7822d52b3acf3e1b444a8cde555080ac376b98867a",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1075,10 +1328,9 @@
       "summary": null,
       "contentHash": "3c3ef8029b46ef71366b970d3a8a4f075910e8cb98985d836b67056ed480e5fd",
       "revision": 1,
-      "importance": 65,
+      "importance": 55,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "release"
       ],
       "tags": [
@@ -4966,31 +5218,6 @@
         "公式一次情報"
       ],
       "tags": []
-    },
-    {
-      "id": "1855804cb591f2be7eeeb16d",
-      "title": "コンテック製無線LAN FLEXLANシリーズにおける複数の脆弱性",
-      "url": "https://jvn.jp/vu/JVNVU99009004/",
-      "sourceId": "jvn",
-      "sourceName": "JVN",
-      "category": "work",
-      "publishedAt": "2026-09-10T06:00:30+00:00",
-      "detectedAt": "2026-09-10T08:07:24+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": "2026-09-10T06:00:30+00:00",
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "beb59a79becf35494593c30799bf5ddd12d23efba3c28072388d64758031ccfb",
-      "revision": 1,
-      "importance": 70,
-      "importanceReasons": [
-        "公式一次情報",
-        "脆弱性"
-      ],
-      "tags": [
-        "セキュリティ"
-      ]
     },
     {
       "id": "faa37362568657fbf7a1ce15",

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-14T00:12:07+00:00",
+  "generatedAt": "2026-09-14T08:54:02+00:00",
   "collector": {
-    "lastRun": "2026-09-14T00:12:07+00:00",
+    "lastRun": "2026-09-14T08:54:02+00:00",
     "success": 13,
     "failed": 0
   },
@@ -14,8 +14,8 @@
       "url": "https://www.digital.go.jp/rss/news.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-14T00:12:07+00:00",
-      "count": 31
+      "lastSuccess": "2026-09-14T08:54:02+00:00",
+      "count": 27
     },
     {
       "id": "jpcert",
@@ -24,7 +24,7 @@
       "url": "https://www.jpcert.or.jp/rss/jpcert.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-14T00:12:07+00:00",
+      "lastSuccess": "2026-09-14T08:54:02+00:00",
       "count": 20
     },
     {
@@ -34,7 +34,7 @@
       "url": "https://jvn.jp/rss/jvn.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-14T00:12:07+00:00",
+      "lastSuccess": "2026-09-14T08:54:02+00:00",
       "count": 20
     },
     {
@@ -44,7 +44,7 @@
       "url": "https://blogs.jpcert.or.jp/ja/atom.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-14T00:12:07+00:00",
+      "lastSuccess": "2026-09-14T08:54:02+00:00",
       "count": 15
     },
     {
@@ -54,7 +54,7 @@
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-14T00:12:07+00:00",
+      "lastSuccess": "2026-09-14T08:54:02+00:00",
       "count": 200
     },
     {
@@ -64,7 +64,7 @@
       "url": "https://github.blog/changelog/feed/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-14T00:12:07+00:00",
+      "lastSuccess": "2026-09-14T08:54:02+00:00",
       "count": 10
     },
     {
@@ -74,7 +74,7 @@
       "url": "https://api.github.com/repos/langgenius/dify/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-14T00:12:07+00:00",
+      "lastSuccess": "2026-09-14T08:54:02+00:00",
       "count": 27
     },
     {
@@ -84,7 +84,7 @@
       "url": "https://api.github.com/repos/openai/codex/releases?per_page=10",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-14T00:12:07+00:00",
+      "lastSuccess": "2026-09-14T08:54:02+00:00",
       "count": 1
     },
     {
@@ -94,7 +94,7 @@
       "url": "https://api.github.com/repos/anthropics/claude-code/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-14T00:12:07+00:00",
+      "lastSuccess": "2026-09-14T08:54:02+00:00",
       "count": 30
     },
     {
@@ -104,8 +104,8 @@
       "url": "https://jp.finalfantasyxiv.com/lodestone/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-14T00:12:07+00:00",
-      "count": 30
+      "lastSuccess": "2026-09-14T08:54:02+00:00",
+      "count": 29
     },
     {
       "id": "elden-ring",
@@ -114,7 +114,7 @@
       "url": "https://steamcommunity.com/games/1245620/rss/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-14T00:12:07+00:00",
+      "lastSuccess": "2026-09-14T08:54:02+00:00",
       "count": 10
     },
     {
@@ -124,7 +124,7 @@
       "url": "https://store.steampowered.com/feeds/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-14T00:12:07+00:00",
+      "lastSuccess": "2026-09-14T08:54:02+00:00",
       "count": 10
     },
     {
@@ -134,11 +134,468 @@
       "url": "https://www.apple.com/jp/newsroom/rss-feed.rss",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-14T00:12:07+00:00",
+      "lastSuccess": "2026-09-14T08:54:02+00:00",
       "count": 20
     }
   ],
   "items": [
+    {
+      "id": "f7729355e715b243efaa01e7",
+      "title": "The rather good The King is Watching adds Steam Deck & gamepad support",
+      "url": "https://store.steampowered.com/news/group/4218320/view/714538122294068277",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-14T08:18:10+00:00",
+      "detectedAt": "2026-09-14T08:54:02+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "ef370af71960b04617e6f96083908b3eead0fbb1b03cf0cb2d1fff627cb13fc9",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "bab617c309dd9b3638acb43a",
+      "title": "Androidアプリ「YAMAP / ヤマップ登山地図アプリ」におけるアクセス制限不備の脆弱性",
+      "url": "https://jvn.jp/jp/JVN69877538/",
+      "sourceId": "jvn",
+      "sourceName": "JVN",
+      "category": "work",
+      "publishedAt": "2026-09-14T03:00:00+00:00",
+      "detectedAt": "2026-09-14T08:54:02+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-09-14T03:00:00+00:00",
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "15274526a9c17ee07308af8cd3408ef8237ce09dfbcb862cf89aa3797ecf6f0c",
+      "revision": 1,
+      "importance": 80,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "脆弱性"
+      ],
+      "tags": [
+        "セキュリティ"
+      ]
+    },
+    {
+      "id": "b3fd87e853b8041da53e823a",
+      "title": "Godot game Worlds Upon the Wind source code released",
+      "url": "https://store.steampowered.com/news/group/4218320/view/714538122294068265",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-14T07:18:05+00:00",
+      "detectedAt": "2026-09-14T08:54:02+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "7013f35e997e5946d7f18f19a4c6e7628985795477ba14e51fcef5de0583a6c8",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "release"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "891a3ddc2fea5e561654a483",
+      "title": "StarCraft returns in 2030 - plus Diablo V, World of Warcraft: Forever and more from BlizzCon 2026",
+      "url": "https://store.steampowered.com/news/group/4218320/view/714538122294068263",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-14T07:08:04+00:00",
+      "detectedAt": "2026-09-14T08:54:02+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "4378efa10eab403252476c50ca7e15ad7576ab352e48511bffd14e52c11ecf0e",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "85381777dcccf5461e2265b4",
+      "title": "macOS 27 Golden Gateのサポート開始時期について(9/14)",
+      "url": "https://jp.finalfantasyxiv.com/lodestone/news/detail/108eded1c0f2c2408895bb950b03a564a1c97048",
+      "sourceId": "ff14",
+      "sourceName": "FFXIV Lodestone",
+      "category": "game",
+      "publishedAt": "2026-09-14T04:10:00+00:00",
+      "detectedAt": "2026-09-14T08:54:02+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "b54eb5cd61e0c8c487223449167cc208e0195c00cc58dfac4b8aad29a2e51734",
+      "revision": 1,
+      "importance": 60,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "開始"
+      ],
+      "tags": []
+    },
+    {
+      "id": "7e0776a84e80d24e38a9c470",
+      "title": "松本大臣記者会見（令和8年9月11日）要旨を掲載しました",
+      "url": "https://www.digital.go.jp/speech/minister-260911-01",
+      "sourceId": "digital-agency",
+      "sourceName": "デジタル庁",
+      "category": "work",
+      "publishedAt": "2026-09-14T05:33:48+00:00",
+      "detectedAt": "2026-09-11T03:53:29+00:00",
+      "updatedAt": "2026-09-14T08:54:02+00:00",
+      "sourceUpdatedAt": null,
+      "changeType": "updated",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "2de6a58cf6bf41d815fdf9ed75bb0f37fc8888386447a96bb74b7175b9f9d006",
+      "revision": 2,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "7a55eabe9a2e3a820e46fa08",
+      "title": "Goblin-crushing PvE brawler Fangstorm looks juicy with a playtest on Steam",
+      "url": "https://store.steampowered.com/news/group/4218320/view/714538122294068275",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-14T08:08:09+00:00",
+      "detectedAt": "2026-09-14T08:54:02+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "85a16f4a71be7512018cd542284dd07311602967890dd05b2dd1637518feda3f",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "694dd2976a377a4f14906b89",
+      "title": "High-tech future survival city-builder XIRI: Oasis Cities announced",
+      "url": "https://store.steampowered.com/news/group/4218320/view/714538122294068269",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-14T07:38:07+00:00",
+      "detectedAt": "2026-09-14T08:54:02+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "5ec00ab9675bd2917a8be74fb4a04d4cdfca9b0785e83bcc255e3acd6b38360b",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "676a85a4cb094a7540bfd9bc",
+      "title": "ExLlamaV3のexllamav3_extモジュールにおける不適切な入力検証の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU94022278/",
+      "sourceId": "jvn",
+      "sourceName": "JVN",
+      "category": "work",
+      "publishedAt": "2026-09-14T01:00:00+00:00",
+      "detectedAt": "2026-09-14T08:54:02+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-09-14T01:00:00+00:00",
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "a6c490d86a243127954745d980f699096275dad26a09b3c888977ec12151b210",
+      "revision": 1,
+      "importance": 80,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "脆弱性"
+      ],
+      "tags": [
+        "セキュリティ"
+      ]
+    },
+    {
+      "id": "60603eb5b4f4e5dd2410947c",
+      "title": "カード代替電磁的記録（属性証明機能）における大臣認定を取得した確認用プログラムを更新しました",
+      "url": "https://www.digital.go.jp/policies/mynumber/mynumbercard-mdoc",
+      "sourceId": "digital-agency",
+      "sourceName": "デジタル庁",
+      "category": "work",
+      "publishedAt": "2026-09-14T06:00:00+00:00",
+      "detectedAt": "2026-09-14T08:54:02+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "2e59be9e33911a810dc7e0766c9a5b35cf802f048e8516b3244cd02ddc857281",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "51f927fbc91a66e29b47cc0b",
+      "title": "Batman: Arkham Knight Just Got The Next-Gen Remaster Gotham Deserves",
+      "url": "https://store.steampowered.com/news/group/38666666/view/695397823941706879",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-14T05:33:51+00:00",
+      "detectedAt": "2026-09-14T08:54:02+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "ee18d1a346a7f287ec25a9b911a80d29227f57062c80e395d1512df225fb11a0",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "4cd2ae4193b9a15ff28fd53a",
+      "title": "[メンテナンス] [Aether] Gilgameshワールド 緊急メンテナンス作業のお知らせ(9/14)",
+      "url": "https://jp.finalfantasyxiv.com/lodestone/news/detail/ef28193622eb68298b7a230897cf608daf6ab4e3",
+      "sourceId": "ff14",
+      "sourceName": "FFXIV Lodestone",
+      "category": "game",
+      "publishedAt": "2026-09-14T04:50:00+00:00",
+      "detectedAt": "2026-09-14T08:54:02+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "a0dd81f4953a7f1afe899c3de74e0ccd1dac3e010faeaf6a1df3ef00d992ed48",
+      "revision": 1,
+      "importance": 100,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "緊急",
+        "メンテナンス"
+      ],
+      "tags": [
+        "メンテナンス"
+      ]
+    },
+    {
+      "id": "4719606570756cd2a528353b",
+      "title": "コレクターズエディション デジタルアップグレード 50%OFFセール実施中！",
+      "url": "https://jp.finalfantasyxiv.com/lodestone/topics/detail/274d7fd8aeb46865562388bc625c6d01dba9e76e",
+      "sourceId": "ff14",
+      "sourceName": "FFXIV Lodestone",
+      "category": "game",
+      "publishedAt": null,
+      "detectedAt": "2026-09-14T08:54:02+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "26dd7f60a88598bbdf5e39ce303d0b3f15aed756b199094cc38133630d9a41d9",
+      "revision": 1,
+      "importance": 40,
+      "importanceReasons": [
+        "公式一次情報"
+      ],
+      "tags": []
+    },
+    {
+      "id": "43ee9a0b999075d842ee4815",
+      "title": "Video: Check out the multiplayer modes in Crazy Taxi World Tour in our PC footage",
+      "url": "https://store.steampowered.com/news/group/42342144/view/701027323413005450",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-14T08:20:25+00:00",
+      "detectedAt": "2026-09-14T08:54:02+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "4134aa495ebf839baaf7e5da6f9063b8c9ec6336ecd3c0c2f0900cbcf4cf55bd",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "3dba64faf28903343a280180",
+      "title": "The classic Robot Roller-Derby Disco Dodgeball just got a major free upgrade",
+      "url": "https://store.steampowered.com/news/group/4218320/view/714538122294068286",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-14T08:28:10+00:00",
+      "detectedAt": "2026-09-14T08:54:02+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "7c39866a87ad3af2faf062f17e5b3764d00a6399adcd7d68c08a6cfe6763bf49",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "2370f7c6f5154a1369d44767",
+      "title": "Steam Users Have Until September 21 to Claim Multiplayer Arcade Game for Free",
+      "url": "https://store.steampowered.com/news/group/1450625/view/715664022201959623",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-14T08:25:38+00:00",
+      "detectedAt": "2026-09-14T08:54:02+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "869b88b9d0ec96dc4ee9335dc05df8336c2e50c0d0c0c064f1245b6caea79d49",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "0f520cf3c5954e1493bc8e46",
+      "title": "一般競争入札：自治体情報システムの運用最適化の実現に向けた複数自治体で連携した知見共有及び運用最適化実施の方法に係る調査検討業務を掲載しました",
+      "url": "https://www.digital.go.jp/procurement",
+      "sourceId": "digital-agency",
+      "sourceName": "デジタル庁",
+      "category": "work",
+      "publishedAt": "2026-09-14T06:00:00+00:00",
+      "detectedAt": "2026-09-09T03:22:00+00:00",
+      "updatedAt": "2026-09-14T08:54:02+00:00",
+      "sourceUpdatedAt": null,
+      "changeType": "updated",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "af19277bef32e10308626fe24491ffe97f9ecfa10ed699b5ea951ad835542d11",
+      "revision": 4,
+      "importance": 60,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "自治体"
+      ],
+      "tags": []
+    },
+    {
+      "id": "0cab1613a7b146869bd58253",
+      "title": "Culdcept The First Saturn Tribute is now available digitally on consoles",
+      "url": "https://store.steampowered.com/news/group/6070552/view/701027323413005434",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-14T03:03:04+00:00",
+      "detectedAt": "2026-09-14T08:54:02+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "31ef75dbc31974e621d84d791eb05bc3405f995546536c8c36f00048f4427064",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "08597523376aa359ce36844c",
+      "title": "[続報] [Aether] Gilgameshワールド 緊急メンテナンス作業 終了時間変更のお知らせ(9/14)",
+      "url": "https://jp.finalfantasyxiv.com/lodestone/news/detail/fe8778f02761b52f2c921f7ff9ea96b37976b7f5",
+      "sourceId": "ff14",
+      "sourceName": "FFXIV Lodestone",
+      "category": "game",
+      "publishedAt": "2026-09-14T07:25:00+00:00",
+      "detectedAt": "2026-09-14T08:54:02+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "cb4f5cbd4d6581130f7035cb80559d710243c786de7a1e370bc4d02ac9f7c567",
+      "revision": 1,
+      "importance": 100,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "緊急",
+        "終了",
+        "メンテナンス"
+      ],
+      "tags": [
+        "終了・廃止",
+        "メンテナンス"
+      ]
+    },
     {
       "id": "f18a70f4326bafbe21b2e3cb",
       "title": "[復旧] [Aether] Gilgameshワールド 障害復旧作業完了のお知らせ(9/14)",
@@ -317,10 +774,9 @@
       "summary": null,
       "contentHash": "9e48d2d7bf86d5f5997380ea09bc14b8ed2f2dea2e1179d72b0cb5c4aa7ffc53",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -645,10 +1101,9 @@
       "summary": null,
       "contentHash": "6dc405ec864325b1144b5080209a3a8b451bb95457c021ef5c1d722b69d24545",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -668,10 +1123,9 @@
       "summary": null,
       "contentHash": "f13424a1f760a124dfb1a08f3dde7062c534b347e0cbcd3b33a3f1816269e7e3",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -691,10 +1145,9 @@
       "summary": null,
       "contentHash": "4f92fbdc997ea3e6f65da630e9c46c5e6be1bec656630d3e381d1590d23f6ccf",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -714,10 +1167,9 @@
       "summary": null,
       "contentHash": "7874da1643069d5870e70d8fbf5dfde84ac5b5bcb55c039f121c56f914cb2830",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -737,10 +1189,9 @@
       "summary": null,
       "contentHash": "2e3c7fecaab8a5d448a7dbd887798f9f224a3e564dee477a52fbb75ded2db9f9",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -760,10 +1211,9 @@
       "summary": null,
       "contentHash": "3eeda9c373b9a135a3f4221f067bad06fb1a998068fea0a8923fb33de5d2f556",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -783,10 +1233,9 @@
       "summary": null,
       "contentHash": "4545b3c9d2f3ab26d532d39cfad572e9a080b63c5daa3980f11c588c0ae8cd39",
       "revision": 1,
-      "importance": 65,
+      "importance": 55,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "release"
       ],
       "tags": [
@@ -809,10 +1258,9 @@
       "summary": null,
       "contentHash": "27a7d56ff0ee2ea060983ad03dc034a4ef2b775bea406abb85c5ea164d7decdb",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -832,10 +1280,9 @@
       "summary": null,
       "contentHash": "0d2c32b5d366eda3e17bf0668574eb29dc37493c51cd5569dbc658d0e9672d4d",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -855,10 +1302,9 @@
       "summary": null,
       "contentHash": "72fc9fc3ee58233a8d43d55a7d53edcde26eace5de5ccefc02bcd34713d41efe",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -2871,28 +3317,6 @@
       ]
     },
     {
-      "id": "0f520cf3c5954e1493bc8e46",
-      "title": "企画競争：令和8年度マイナンバーカードを活用した地域住民等による地域活性化実証実験を掲載しました",
-      "url": "https://www.digital.go.jp/procurement",
-      "sourceId": "digital-agency",
-      "sourceName": "デジタル庁",
-      "category": "work",
-      "publishedAt": "2026-09-11T06:00:00+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": "2026-09-11T08:02:31+00:00",
-      "sourceUpdatedAt": null,
-      "changeType": "updated",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "8bb234a4730f4667529832854288ae0d842fe110dad75aecbdc33f4d13b15a41",
-      "revision": 3,
-      "importance": 40,
-      "importanceReasons": [
-        "公式一次情報"
-      ],
-      "tags": []
-    },
-    {
       "id": "0f27dea7b8097109ff0015c4",
       "title": "医療DXに関するダッシュボードを更新しました",
       "url": "https://www.digital.go.jp/resources/govdashboard/healthcare-dx",
@@ -3098,28 +3522,6 @@
       "tags": [
         "セキュリティ"
       ]
-    },
-    {
-      "id": "7e0776a84e80d24e38a9c470",
-      "title": "松本大臣記者会見（令和8年9月11日）動画を掲載しました",
-      "url": "https://www.digital.go.jp/speech/minister-260911-01",
-      "sourceId": "digital-agency",
-      "sourceName": "デジタル庁",
-      "category": "work",
-      "publishedAt": "2026-09-11T02:45:20+00:00",
-      "detectedAt": "2026-09-11T03:53:29+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "943b8314062de1759ef0f8c447056e1efb4ae2dbc3026e6bb36656dbd2b34667",
-      "revision": 1,
-      "importance": 40,
-      "importanceReasons": [
-        "公式一次情報"
-      ],
-      "tags": []
     },
     {
       "id": "74f137595566beed3a3b9332",
@@ -5966,7 +6368,7 @@
       "sourceId": "ff14",
       "sourceName": "FFXIV Lodestone",
       "category": "game",
-      "publishedAt": "2026-09-11T08:00:00+00:00",
+      "publishedAt": "2026-09-14T08:15:00+00:00",
       "detectedAt": "2026-09-09T03:22:00+00:00",
       "updatedAt": "2026-09-09T03:26:17+00:00",
       "sourceUpdatedAt": null,
@@ -5975,9 +6377,10 @@
       "summary": null,
       "contentHash": "99f64d2ea3aacfb1d92f18a7198649c48dd68c1ad8e619a5c13e86720f95e4ac",
       "revision": 2,
-      "importance": 40,
+      "importance": 50,
       "importanceReasons": [
-        "公式一次情報"
+        "公式一次情報",
+        "24時間以内"
       ],
       "tags": []
     },

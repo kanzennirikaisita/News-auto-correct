@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-15T08:39:42+00:00",
+  "generatedAt": "2026-09-15T14:19:36+00:00",
   "collector": {
-    "lastRun": "2026-09-15T08:39:42+00:00",
+    "lastRun": "2026-09-15T14:19:36+00:00",
     "success": 13,
     "failed": 0
   },
@@ -14,8 +14,8 @@
       "url": "https://www.digital.go.jp/rss/news.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-15T08:39:42+00:00",
-      "count": 21
+      "lastSuccess": "2026-09-15T14:19:36+00:00",
+      "count": 22
     },
     {
       "id": "jpcert",
@@ -24,7 +24,7 @@
       "url": "https://www.jpcert.or.jp/rss/jpcert.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-15T08:39:42+00:00",
+      "lastSuccess": "2026-09-15T14:19:36+00:00",
       "count": 20
     },
     {
@@ -34,7 +34,7 @@
       "url": "https://jvn.jp/rss/jvn.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-15T08:39:42+00:00",
+      "lastSuccess": "2026-09-15T14:19:36+00:00",
       "count": 20
     },
     {
@@ -44,7 +44,7 @@
       "url": "https://blogs.jpcert.or.jp/ja/atom.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-15T08:39:42+00:00",
+      "lastSuccess": "2026-09-15T14:19:36+00:00",
       "count": 15
     },
     {
@@ -54,7 +54,7 @@
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-15T08:39:42+00:00",
+      "lastSuccess": "2026-09-15T14:19:36+00:00",
       "count": 200
     },
     {
@@ -64,7 +64,7 @@
       "url": "https://github.blog/changelog/feed/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-15T08:39:42+00:00",
+      "lastSuccess": "2026-09-15T14:19:36+00:00",
       "count": 10
     },
     {
@@ -74,7 +74,7 @@
       "url": "https://api.github.com/repos/langgenius/dify/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-15T08:39:42+00:00",
+      "lastSuccess": "2026-09-15T14:19:36+00:00",
       "count": 27
     },
     {
@@ -84,7 +84,7 @@
       "url": "https://api.github.com/repos/openai/codex/releases?per_page=10",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-15T08:39:42+00:00",
+      "lastSuccess": "2026-09-15T14:19:36+00:00",
       "count": 0
     },
     {
@@ -94,7 +94,7 @@
       "url": "https://api.github.com/repos/anthropics/claude-code/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-15T08:39:42+00:00",
+      "lastSuccess": "2026-09-15T14:19:36+00:00",
       "count": 30
     },
     {
@@ -104,7 +104,7 @@
       "url": "https://jp.finalfantasyxiv.com/lodestone/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-15T08:39:42+00:00",
+      "lastSuccess": "2026-09-15T14:19:36+00:00",
       "count": 30
     },
     {
@@ -114,7 +114,7 @@
       "url": "https://steamcommunity.com/games/1245620/rss/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-15T08:39:42+00:00",
+      "lastSuccess": "2026-09-15T14:19:36+00:00",
       "count": 10
     },
     {
@@ -124,7 +124,7 @@
       "url": "https://store.steampowered.com/feeds/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-15T08:39:42+00:00",
+      "lastSuccess": "2026-09-15T14:19:36+00:00",
       "count": 10
     },
     {
@@ -134,11 +134,343 @@
       "url": "https://www.apple.com/jp/newsroom/rss-feed.rss",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-15T08:39:42+00:00",
+      "lastSuccess": "2026-09-15T14:19:36+00:00",
       "count": 20
     }
   ],
   "items": [
+    {
+      "id": "d704e0153ceb16cdca6bf545",
+      "title": "窓口BPRアドバイザー等へデジタル大臣から感謝状を贈呈しました",
+      "url": "https://www.digital.go.jp/news/fac78de2-8cee-457e-a1ba-97db8b0a738a",
+      "sourceId": "digital-agency",
+      "sourceName": "デジタル庁",
+      "category": "work",
+      "publishedAt": "2026-09-15T09:00:00+00:00",
+      "detectedAt": "2026-09-15T14:19:36+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "f106d8ff0b7f6593e2442f890f4fd33bcf0b283b45057b0e0460713b7abf5082",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "c07e0191e1be478a1b2be05e",
+      "title": "HOI IV Dev Corner | One if by Land, Two if by Sea, Three if by…Air?",
+      "url": "https://store.steampowered.com/news/app/394360/view/712286322480383082",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-15T13:04:38+00:00",
+      "detectedAt": "2026-09-15T14:19:36+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "cbd3493774f75574fd11046aa8f16e5acddc292826916ef0c13eb7961342a2f6",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "bf41b17175a87e5ded2c2b2d",
+      "title": "Planet Zoo 2 | Zoopedia Update",
+      "url": "https://store.steampowered.com/news/app/3219030/view/679635225181947117",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-15T14:02:37+00:00",
+      "detectedAt": "2026-09-15T14:19:36+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "b5f64a56d98065ee95ce483a1530f597e2394446078d6a355436dbf1a60d1e5e",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "update"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "abac871d4d980ef63d4bb572",
+      "title": "Profiles now show your highest achievement badge tier",
+      "url": "https://github.blog/changelog/2026-09-11-profiles-now-show-your-highest-achievement-badge-tier",
+      "sourceId": "github",
+      "sourceName": "GitHub Changelog",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-11T22:39:50+00:00",
+      "detectedAt": "2026-09-15T14:19:36+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "34ec7091bc31ccb6ae4de8ece80a9006476367164e841c5f166d77257afc2c44",
+      "revision": 1,
+      "importance": 40,
+      "importanceReasons": [
+        "公式一次情報"
+      ],
+      "tags": []
+    },
+    {
+      "id": "a0c5cd07394716c514dbdbea",
+      "title": "「リージョン内フリーマッチング」 日本データセンターに先行実装！",
+      "url": "https://jp.finalfantasyxiv.com/lodestone/topics/detail/c071dcc63941aa6ff7e81eeee36dcb203044255c",
+      "sourceId": "ff14",
+      "sourceName": "FFXIV Lodestone",
+      "category": "game",
+      "publishedAt": null,
+      "detectedAt": "2026-09-15T14:19:36+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "006c8ef18bf78164567cd50825d2133edbbab996f43cf7caa22b8cc16594402b",
+      "revision": 1,
+      "importance": 40,
+      "importanceReasons": [
+        "公式一次情報"
+      ],
+      "tags": []
+    },
+    {
+      "id": "991bc41b04b0eeeab5c333c3",
+      "title": "Let shockwaves of Freedom roll across the battlefield with Ironclad Democracy!",
+      "url": "https://store.steampowered.com/news/app/553850/view/672879825739842476",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-15T13:10:29+00:00",
+      "detectedAt": "2026-09-15T14:19:36+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "a791f06415b0b20bd2278564a6f70347158de2e443f83ff617b84f91b2b7bc24",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "693351c51b0766ada52786bd",
+      "title": "Get more Steam Deck / Steam Machine Verified games in the Fanatical Play on the Go Bundle",
+      "url": "https://store.steampowered.com/news/group/4218320/view/714538122294068761",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-15T13:40:15+00:00",
+      "detectedAt": "2026-09-15T14:19:36+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "c8d85eb6d1a9db1ea68b704706c81315aa30be97db14bab41deba00a0e5795fe",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "5930bfde718ede7b81b6e188",
+      "title": "Exterminauts Wants You to Live a 9-to-5 Life that Bites Back | IGN Preview",
+      "url": "https://store.steampowered.com/news/group/9869/view/687516524528797230",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-15T13:38:04+00:00",
+      "detectedAt": "2026-09-15T14:19:36+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "eafbe18bc3bdf57279a4ab282897c28f44115ba824e191fa0068e42249224929",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "38401b0a5e53e197e4b2f1df",
+      "title": "Train Sim World 7 Update Notes - September 15th 2026",
+      "url": "https://store.steampowered.com/news/app/4678800/view/667250326206678289",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-15T14:02:50+00:00",
+      "detectedAt": "2026-09-15T14:19:36+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "8638768934e34a103a1b3e230ac0da427f06ffc72369745cf60f7b792d4cd11e",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "update"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "20416ea0838d695887e1c28b",
+      "title": "Denuvo Anti Cheat Trial Update",
+      "url": "https://store.steampowered.com/news/app/381210/view/706656822950364301",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-15T14:00:06+00:00",
+      "detectedAt": "2026-09-15T14:19:36+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "d74037543197948cc594b4fccfbc5fb39470aa2a2c8146f3aa03b9e75d7ee1cb",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "update"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "1f63ca21153a8ed8ec0644e2",
+      "title": "Version 2.2 [Perilous Eminence] Update Overview",
+      "url": "https://store.steampowered.com/news/app/3564740/view/712286322480383703",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-15T14:05:47+00:00",
+      "detectedAt": "2026-09-15T14:19:36+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "f6adf03c95a58b17b5aad3fd6824d90e540044dccab176daf4f1948b78ffc18b",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "update"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "19ad99d3c3aefbdd77ea6400",
+      "title": "World of Warcraft: Forever May Have a Secret New Class Role",
+      "url": "https://store.steampowered.com/news/group/1450625/view/715664022201959953",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-15T13:37:02+00:00",
+      "detectedAt": "2026-09-15T14:19:36+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "fec2003d25d1c78d378e33eb24ed5b9541202fe267d325c5873016b38a1f1359",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "10b21616f7019964c2bedc2f",
+      "title": "Chatting With Yuru and Asa From Daemons of the Shadow Realm",
+      "url": "https://store.steampowered.com/news/group/7433348/view/669502126020363812",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-15T13:30:56+00:00",
+      "detectedAt": "2026-09-15T14:19:36+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "40ac57ab416f9e7d993ffb4f5e54ad61c5f070982735ea5492548c983fe94ca6",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "0d911b3ff0c0d83018463867",
+      "title": "次世代のApple Intelligenceを提供開始",
+      "url": "https://www.apple.com/jp/newsroom/2026/09/the-next-generation-of-apple-intelligence-is-available-today/",
+      "sourceId": "apple",
+      "sourceName": "Apple Newsroom",
+      "category": "gadget",
+      "publishedAt": null,
+      "detectedAt": "2026-09-15T14:19:36+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-09-15T10:04:19+00:00",
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "bd717733d84442d2ad27464f5ea08320080cfe913ccae4b09c4facf1d08c6737",
+      "revision": 1,
+      "importance": 60,
+      "importanceReasons": [
+        "公式一次情報",
+        "提供開始"
+      ],
+      "tags": []
+    },
     {
       "id": "fe177a31bfba4f702d032566",
       "title": "9/15(Tue) Ban Notice - Grand Assault",
@@ -760,10 +1092,9 @@
       "summary": null,
       "contentHash": "ad4cc8f2ca2cbfa73c008adbe492ede67a84d322d946c3aebaad2d13d9067c11",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1207,10 +1538,9 @@
       "summary": null,
       "contentHash": "45e371c6134eaaef4a48e8ea96b46575c48f43f8ac6d207404be010f1055f0ba",
       "revision": 2,
-      "importance": 80,
+      "importance": 70,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "脆弱性"
       ],
       "tags": [

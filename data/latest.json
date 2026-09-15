@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-14T15:53:26+00:00",
+  "generatedAt": "2026-09-15T00:37:36+00:00",
   "collector": {
-    "lastRun": "2026-09-14T15:53:26+00:00",
+    "lastRun": "2026-09-15T00:37:36+00:00",
     "success": 13,
     "failed": 0
   },
@@ -14,8 +14,8 @@
       "url": "https://www.digital.go.jp/rss/news.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-14T15:53:26+00:00",
-      "count": 27
+      "lastSuccess": "2026-09-15T00:37:36+00:00",
+      "count": 28
     },
     {
       "id": "jpcert",
@@ -24,7 +24,7 @@
       "url": "https://www.jpcert.or.jp/rss/jpcert.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-14T15:53:26+00:00",
+      "lastSuccess": "2026-09-15T00:37:36+00:00",
       "count": 20
     },
     {
@@ -34,7 +34,7 @@
       "url": "https://jvn.jp/rss/jvn.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-14T15:53:26+00:00",
+      "lastSuccess": "2026-09-15T00:37:36+00:00",
       "count": 20
     },
     {
@@ -44,7 +44,7 @@
       "url": "https://blogs.jpcert.or.jp/ja/atom.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-14T15:53:26+00:00",
+      "lastSuccess": "2026-09-15T00:37:36+00:00",
       "count": 15
     },
     {
@@ -54,7 +54,7 @@
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-14T15:53:26+00:00",
+      "lastSuccess": "2026-09-15T00:37:36+00:00",
       "count": 200
     },
     {
@@ -64,7 +64,7 @@
       "url": "https://github.blog/changelog/feed/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-14T15:53:26+00:00",
+      "lastSuccess": "2026-09-15T00:37:36+00:00",
       "count": 10
     },
     {
@@ -74,7 +74,7 @@
       "url": "https://api.github.com/repos/langgenius/dify/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-14T15:53:26+00:00",
+      "lastSuccess": "2026-09-15T00:37:36+00:00",
       "count": 27
     },
     {
@@ -84,7 +84,7 @@
       "url": "https://api.github.com/repos/openai/codex/releases?per_page=10",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-14T15:53:26+00:00",
+      "lastSuccess": "2026-09-15T00:37:36+00:00",
       "count": 1
     },
     {
@@ -94,7 +94,7 @@
       "url": "https://api.github.com/repos/anthropics/claude-code/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-14T15:53:26+00:00",
+      "lastSuccess": "2026-09-15T00:37:36+00:00",
       "count": 30
     },
     {
@@ -104,8 +104,8 @@
       "url": "https://jp.finalfantasyxiv.com/lodestone/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-14T15:53:26+00:00",
-      "count": 29
+      "lastSuccess": "2026-09-15T00:37:36+00:00",
+      "count": 30
     },
     {
       "id": "elden-ring",
@@ -114,7 +114,7 @@
       "url": "https://steamcommunity.com/games/1245620/rss/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-14T15:53:26+00:00",
+      "lastSuccess": "2026-09-15T00:37:36+00:00",
       "count": 10
     },
     {
@@ -124,7 +124,7 @@
       "url": "https://store.steampowered.com/feeds/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-14T15:53:26+00:00",
+      "lastSuccess": "2026-09-15T00:37:36+00:00",
       "count": 10
     },
     {
@@ -134,11 +134,385 @@
       "url": "https://www.apple.com/jp/newsroom/rss-feed.rss",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-14T15:53:26+00:00",
+      "lastSuccess": "2026-09-15T00:37:36+00:00",
       "count": 20
     }
   ],
   "items": [
+    {
+      "id": "ef18d943849cad0ec28717e1",
+      "title": "Configure cost and quality in Copilot auto model selection",
+      "url": "https://github.blog/changelog/2026-09-14-configure-cost-and-quality-in-copilot-auto-model-selection",
+      "sourceId": "github",
+      "sourceName": "GitHub Changelog",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-14T16:05:27+00:00",
+      "detectedAt": "2026-09-15T00:37:36+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "15c2d9accf6dc1b46cc16d83c1fbb4b6ab99474f51cab5cb41d6a5eab5b49f46",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "e87bcb2588023728b9661fc3",
+      "title": "New Hello Neighbor teased and much more confirmed at tinyBuild Connect 2026",
+      "url": "https://store.steampowered.com/news/group/25563497/view/710034946759065896",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-14T22:52:45+00:00",
+      "detectedAt": "2026-09-15T00:37:36+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "79e7e0afc374237302ff5737420e710a23b9e9b225bdf52e547061374972ccd0",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "c4f5de2670ae6944dab90630",
+      "title": "TCG Card Shop Simulator finally hits 1.0 on Steam after 4 million players, 96% positive reviews, and 2 years in early access",
+      "url": "https://store.steampowered.com/news/group/38509069/view/688642424435639684",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-14T21:57:26+00:00",
+      "detectedAt": "2026-09-15T00:37:36+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "2f8c96b02b8d3a807f4b1b0858de293770d53c1c3bcc4ff904fc0863746e9bfc",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "ba3341f9799b1e8e27294e99",
+      "title": "Claude Code v2.1.271",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.271",
+      "sourceId": "claude-code",
+      "sourceName": "Claude Code",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-14T22:12:54+00:00",
+      "detectedAt": "2026-09-15T00:37:36+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-09-14T22:12:54+00:00",
+      "changeType": "new",
+      "kind": "release",
+      "summary": null,
+      "contentHash": "cf6b15c09af49833222f761f21fd626d94ff47e214d79e184d157270cb3cceb2",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "バージョン公開"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "abe5e0e8c7103eed96e53e95",
+      "title": "Apple、子どもの安全の新しい機能が利用可能に",
+      "url": "https://www.apple.com/jp/newsroom/2026/09/apples-new-child-safety-features-now-available/",
+      "sourceId": "apple",
+      "sourceName": "Apple Newsroom",
+      "category": "gadget",
+      "publishedAt": null,
+      "detectedAt": "2026-09-15T00:37:36+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-09-14T17:14:10+00:00",
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "ee1509293459fbd4ca87550bc8918e17d07fc9ce9ff26a54debc847e6a1941f0",
+      "revision": 1,
+      "importance": 40,
+      "importanceReasons": [
+        "公式一次情報"
+      ],
+      "tags": []
+    },
+    {
+      "id": "93ce04eae8e576a73c240844",
+      "title": "Valve's Steam Frame launches at $1,059, and Half-Life: Alyx comes free",
+      "url": "https://store.steampowered.com/news/group/3081/view/716789922107753618",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-14T22:22:23+00:00",
+      "detectedAt": "2026-09-15T00:37:36+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "d12c7fa397f873cf59544b8e579483d7b9dfa9055dbc84cc8444c972c238b3fc",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "90393217640f39d4f9066ae3",
+      "title": "A Knight Of The Seven Kingdoms Meets Fallout In New Medieval Sandbox",
+      "url": "https://store.steampowered.com/news/group/38666666/view/695397823941707101",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-14T23:04:54+00:00",
+      "detectedAt": "2026-09-15T00:37:36+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "1d81ea985a171df9422248756dfd98ab50596dc637e4fcb173e44a0d233130d7",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "7f82d995c515e5ba429e7e06",
+      "title": "How Fyxer built an AI executive assistant people trust",
+      "url": "https://openai.com/index/fyxer",
+      "sourceId": "openai",
+      "sourceName": "OpenAI",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-14T12:00:00+00:00",
+      "detectedAt": "2026-09-15T00:37:36+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "ad4cc8f2ca2cbfa73c008adbe492ede67a84d322d946c3aebaad2d13d9067c11",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "7f207349a0c58ee4a401fbed",
+      "title": "Guild master simulation RPG Creator Chronicles launches for PC via Steam",
+      "url": "https://store.steampowered.com/news/group/6070552/view/701027323413005630",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-14T23:13:44+00:00",
+      "detectedAt": "2026-09-15T00:37:36+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "c110ff75cb0b615fcd045b74232e8afe18e948c4d9214bea6cbde9b201a6c271",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "797566fb938ae54e8c4ba183",
+      "title": "[復旧] [Aether] Jenovaワールド 障害復旧作業完了のお知らせ(9/15)",
+      "url": "https://jp.finalfantasyxiv.com/lodestone/news/detail/20605dd6846b21e6b5a0796bcd2a3e139b90316c",
+      "sourceId": "ff14",
+      "sourceName": "FFXIV Lodestone",
+      "category": "game",
+      "publishedAt": "2026-09-14T16:50:21+00:00",
+      "detectedAt": "2026-09-15T00:37:36+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "a903816df249b097ea3a2a1a4c534ca7733c780b827c26771e2096bb124cda11",
+      "revision": 1,
+      "importance": 90,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "障害"
+      ],
+      "tags": []
+    },
+    {
+      "id": "5ea39ac3f7d37fc0e402df3a",
+      "title": "Netflix and Sega are working on a movie based on Stranger Than Heaven",
+      "url": "https://store.steampowered.com/news/group/6070552/view/701027323413005632",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-14T23:13:45+00:00",
+      "detectedAt": "2026-09-15T00:37:36+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "7968c772acfaab00b7782cecca46d09794223a93fff43b6c271f7b38f60f60f3",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "576ec7f32c836ca27e754d2f",
+      "title": "Wardogs Players Are Avoiding One of the Game's Factions Because It Has a Stigma of Attracting the Stupidest Players",
+      "url": "https://store.steampowered.com/news/group/9869/view/687516524528797049",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-14T22:37:17+00:00",
+      "detectedAt": "2026-09-15T00:37:36+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "4e6d2810b1a0e3ae5e3409b7822453441c4e1c3491e054ebee496feb381d1d48",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "3f43e891a42fb6f2664f217c",
+      "title": "Trinity Trigger DX is now available on Nintendo Switch 2 worldwide with a 50% off launch discount",
+      "url": "https://store.steampowered.com/news/group/6070552/view/701027323413005636",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-14T23:43:46+00:00",
+      "detectedAt": "2026-09-15T00:37:36+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "1683ae1f8311399775cca2931e9e46ad0b155d90be599508a59ac11d3d37e29e",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "36ba50b8e4f565d885130f9d",
+      "title": "[メンテナンス] アカウント管理システム メンテナンス作業のお知らせ(9/17)",
+      "url": "https://jp.finalfantasyxiv.com/lodestone/news/detail/36730d5066bab418fc36092c747563a060a8d4fe",
+      "sourceId": "ff14",
+      "sourceName": "FFXIV Lodestone",
+      "category": "game",
+      "publishedAt": "2026-09-14T17:30:00+00:00",
+      "detectedAt": "2026-09-15T00:37:36+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "be09f4f47d75265e0b1e7bc0899c5c6db731a007535a14284b3a8f7f18e1680c",
+      "revision": 1,
+      "importance": 75,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "メンテナンス"
+      ],
+      "tags": [
+        "メンテナンス"
+      ]
+    },
+    {
+      "id": "1ad70045d32219e3795667c0",
+      "title": "The Expanse Meets Silent Hill In New Sci-Fi Horror",
+      "url": "https://store.steampowered.com/news/group/38666666/view/695397823941707097",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-14T22:04:51+00:00",
+      "detectedAt": "2026-09-15T00:37:36+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "a5ec72323466411033c28e47d96a79d451f3bbe7a353bb513c6a403219e29d09",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "0d4dbb2948446c15f9a32b58",
+      "title": "Crypto traders rigged the market of classic MMO Old School RuneScape, so its developers came out with a \"zero-tolerance\" policy on market manipulation",
+      "url": "https://store.steampowered.com/news/group/38509069/view/688642424435639680",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-14T21:27:25+00:00",
+      "detectedAt": "2026-09-15T00:37:36+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "7f98a47c3de295d0f180184f69656cde2cafac9123e11670f6612c6283bdef11",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
     {
       "id": "fc44e88f788971c6834762dd",
       "title": "BATTLEFIELD 6 GAME UPDATE 1.4.3.0",
@@ -874,10 +1248,9 @@
       "summary": null,
       "contentHash": "b47559b906fc0e01d8eaf52eb5f069401086576ff533e5d9412744f7d7bb7fd7",
       "revision": 1,
-      "importance": 90,
+      "importance": 80,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "障害"
       ],
       "tags": []
@@ -898,10 +1271,9 @@
       "summary": null,
       "contentHash": "0b91301fb64e026ac85699e5bab008f23992f96529340ecade1e702ed4acae0c",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -921,10 +1293,9 @@
       "summary": null,
       "contentHash": "aa2061f6576527bf4d62c18f83037cb31507ef348bd25bae8a5a59ced305557d",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -944,10 +1315,9 @@
       "summary": null,
       "contentHash": "cd33c54da8b859f2be3c305437930bdfdddc2526d7ccd8e1b120beed8608e40b",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -967,10 +1337,9 @@
       "summary": null,
       "contentHash": "ab502642f6861882020a3bea23c654d5a742f916def747a21c7ee0197ab36b7c",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -990,10 +1359,9 @@
       "summary": null,
       "contentHash": "8e72f7bf3523db50f677b7780531e2f8e92fac7fb38f666c1de7319500b70b66",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1013,10 +1381,9 @@
       "summary": null,
       "contentHash": "e305da32242e4d2826e0414c9bfe286613a8eddf890e99f6fd1874c9712af72c",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1058,10 +1425,9 @@
       "summary": null,
       "contentHash": "229e9755ddb368f5e189c73248e3460633b5de2b3a7df061c14d9205dc903f3a",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1081,10 +1447,9 @@
       "summary": null,
       "contentHash": "ffb246a460962be24486132ddc5d4ff052f7e02463d3e5a139ecc24b13b0b13a",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1104,10 +1469,9 @@
       "summary": null,
       "contentHash": "3275a4dc3636fa98020f907f3e7bac46e734d47c30d3cc6888e124113cdf2326",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -2696,10 +3060,9 @@
       "summary": null,
       "contentHash": "1a8ce9697eda20d173bdd7fd3f000633cdc076f3d716c7616d56abf003e1091b",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },

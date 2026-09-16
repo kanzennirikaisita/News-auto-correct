@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-16T08:34:26+00:00",
+  "generatedAt": "2026-09-16T14:11:53+00:00",
   "collector": {
-    "lastRun": "2026-09-16T08:34:26+00:00",
+    "lastRun": "2026-09-16T14:11:53+00:00",
     "success": 13,
     "failed": 0
   },
@@ -14,8 +14,8 @@
       "url": "https://www.digital.go.jp/rss/news.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-16T08:34:26+00:00",
-      "count": 24
+      "lastSuccess": "2026-09-16T14:11:53+00:00",
+      "count": 26
     },
     {
       "id": "jpcert",
@@ -24,7 +24,7 @@
       "url": "https://www.jpcert.or.jp/rss/jpcert.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-16T08:34:26+00:00",
+      "lastSuccess": "2026-09-16T14:11:53+00:00",
       "count": 28
     },
     {
@@ -34,7 +34,7 @@
       "url": "https://jvn.jp/rss/jvn.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-16T08:34:26+00:00",
+      "lastSuccess": "2026-09-16T14:11:53+00:00",
       "count": 20
     },
     {
@@ -44,7 +44,7 @@
       "url": "https://blogs.jpcert.or.jp/ja/atom.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-16T08:34:26+00:00",
+      "lastSuccess": "2026-09-16T14:11:53+00:00",
       "count": 15
     },
     {
@@ -54,7 +54,7 @@
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-16T08:34:26+00:00",
+      "lastSuccess": "2026-09-16T14:11:53+00:00",
       "count": 200
     },
     {
@@ -64,7 +64,7 @@
       "url": "https://github.blog/changelog/feed/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-16T08:34:26+00:00",
+      "lastSuccess": "2026-09-16T14:11:53+00:00",
       "count": 10
     },
     {
@@ -74,7 +74,7 @@
       "url": "https://api.github.com/repos/langgenius/dify/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-16T08:34:26+00:00",
+      "lastSuccess": "2026-09-16T14:11:53+00:00",
       "count": 27
     },
     {
@@ -84,7 +84,7 @@
       "url": "https://api.github.com/repos/openai/codex/releases?per_page=10",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-16T08:34:26+00:00",
+      "lastSuccess": "2026-09-16T14:11:53+00:00",
       "count": 0
     },
     {
@@ -94,7 +94,7 @@
       "url": "https://api.github.com/repos/anthropics/claude-code/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-16T08:34:26+00:00",
+      "lastSuccess": "2026-09-16T14:11:53+00:00",
       "count": 30
     },
     {
@@ -104,7 +104,7 @@
       "url": "https://jp.finalfantasyxiv.com/lodestone/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-16T08:34:26+00:00",
+      "lastSuccess": "2026-09-16T14:11:53+00:00",
       "count": 30
     },
     {
@@ -114,7 +114,7 @@
       "url": "https://steamcommunity.com/games/1245620/rss/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-16T08:34:26+00:00",
+      "lastSuccess": "2026-09-16T14:11:53+00:00",
       "count": 10
     },
     {
@@ -124,7 +124,7 @@
       "url": "https://store.steampowered.com/feeds/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-16T08:34:26+00:00",
+      "lastSuccess": "2026-09-16T14:11:53+00:00",
       "count": 10
     },
     {
@@ -134,11 +134,339 @@
       "url": "https://www.apple.com/jp/newsroom/rss-feed.rss",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-16T08:34:26+00:00",
+      "lastSuccess": "2026-09-16T14:11:53+00:00",
       "count": 20
     }
   ],
   "items": [
+    {
+      "id": "dfac656c565dd16a105c628c",
+      "title": "JP PINTの「民間事業者の取組（政府調達編）―財務省」を更新しました",
+      "url": "https://www.digital.go.jp/policies/electronic_invoice/84d11031-69a3-4c12-abd9-00ebdc23f290",
+      "sourceId": "digital-agency",
+      "sourceName": "デジタル庁",
+      "category": "work",
+      "publishedAt": "2026-09-16T09:51:00+00:00",
+      "detectedAt": "2026-09-16T14:11:53+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "087e97b62d42b993799876bb9f143bdb70299faa56c8a4878fdcf69617be3efd",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "9b9123b78b32ebe54a6d5fb8",
+      "title": "Code scanning AI Scan no longer requires CodeQL default setup",
+      "url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
+      "sourceId": "github",
+      "sourceName": "GitHub Changelog",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-16T13:26:06+00:00",
+      "detectedAt": "2026-09-16T14:11:53+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "a8cfaba2fe62aabaccee5a75346ccbfd186d7c916c94585ebc24f334ce8f9dfa",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "983431af93b619d957d96cae",
+      "title": "Balatro 1.1 Update Details Have Been Revealed, New Mechanics and New Jokers Await!",
+      "url": "https://store.steampowered.com/news/group/7433348/view/690894858003415190",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-16T13:45:43+00:00",
+      "detectedAt": "2026-09-16T14:11:53+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "e214216780817f967a01e579839b0141c4fd37fbedf9951af976bb5358b1d4ec",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "update"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "6ac27c68838b29eeea8939f0",
+      "title": "Reimagining advertising with AI",
+      "url": "https://openai.com/index/reimagining-advertising-with-ai",
+      "sourceId": "openai",
+      "sourceName": "OpenAI",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-16T13:00:00+00:00",
+      "detectedAt": "2026-09-16T14:11:53+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "1c113765fb8561c2875844bddae5c6120bef86aa9b61196118483ed7e9a14c60",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "605bd76cc6345a1ef8ca4260",
+      "title": "Aniimo peaks at 114k players",
+      "url": "https://store.steampowered.com/news/group/4777282/view/693146657813954565",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-16T02:21:53+00:00",
+      "detectedAt": "2026-09-16T14:11:53+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "d823bfd7795b58d92b3a92f2ce210083d6e068a57b72c93121abab6ea8c78067",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "47bb6f2e101c5b63c9c66505",
+      "title": "Card-based survival sequel Frost 2 comes to Kickstarter",
+      "url": "https://store.steampowered.com/news/group/25563497/view/694272557720797326",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-16T14:04:36+00:00",
+      "detectedAt": "2026-09-16T14:11:53+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "df73ad92afc745a2cee6333f4a1f36335adfffd3b22c899e43f351e22913a685",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "306098881eda9c46d2e2666f",
+      "title": "Trails in the Sky 2nd Chapter Review",
+      "url": "https://store.steampowered.com/news/group/6070552/view/677384059121303694",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-16T14:02:11+00:00",
+      "detectedAt": "2026-09-16T14:11:53+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "b65708f7658ce9a2c72a33333ed8a845e41b3c7e0ff1a2a1a8c6dfe4bc852e2d",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "23345a3f7b7d250b0ade5a0d",
+      "title": "Which is the best version of Trails in the Sky 2nd Chapter? PS5, Nintendo Switch 2, Switch 1, & PC Covered",
+      "url": "https://store.steampowered.com/news/group/6070552/view/677384059121303696",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-16T14:02:12+00:00",
+      "detectedAt": "2026-09-16T14:11:53+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "c9772eba7206529595f010d999a751e4618655e4e8f7b66ddb5b58844a1d3218",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "18bb01a8b19a9963b9a215ab",
+      "title": "The Witcher 3 producer says it's scary to work with another studio on the game's expansion: 'I also think twice about leaving my baby with someone'",
+      "url": "https://store.steampowered.com/news/group/1850/view/692020757910257797",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-16T13:44:07+00:00",
+      "detectedAt": "2026-09-16T14:11:53+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "ed83037efa531a6d1ae5bda056d00343b979bfbd00f1fc0e5257028877d43d96",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "189bab8292b816bc288dc798",
+      "title": "New Survival Game on Steam is Basically Metro Exodus With a Fun Co-Op Twist",
+      "url": "https://store.steampowered.com/news/group/1450625/view/692020757910257795",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-16T13:32:31+00:00",
+      "detectedAt": "2026-09-16T14:11:53+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "794472a2e6c00cbc45a3a7dab271c285079663b4d881d1bf9a04b6a9d2dca0b4",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "17077a6ef09055f17b215a81",
+      "title": "More than just a successful remake, Trails in the Sky 2nd Chapter feels like a testbed for the series' future",
+      "url": "https://store.steampowered.com/news/group/6070552/view/677384059121303692",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-16T14:02:11+00:00",
+      "detectedAt": "2026-09-16T14:11:53+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "b4051d065da83e19bb4ecb34b5abd1cb0f84155bdaaf0e345e3dd21ee0b80b84",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "165e59713da55cbaef6eb5e4",
+      "title": "Prolific Cracker Voices38 Officially Sued By Denuvo",
+      "url": "https://store.steampowered.com/news/group/38458038/view/716790555855552632",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-16T13:52:18+00:00",
+      "detectedAt": "2026-09-16T14:11:53+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "9b9fed36dd1a193cbf5be175963693036803a2ab899438be7b1d5a718529b34e",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "1600c9f682d92054ac158d5c",
+      "title": "Wo Long 2: Wings of Ember releases on March 4, new alpha demo available",
+      "url": "https://store.steampowered.com/news/group/6070552/view/677384059121303684",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-16T13:22:10+00:00",
+      "detectedAt": "2026-09-16T14:11:53+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "901fe4ad14e52d71c49ecd90d162401d1a621fe20558bc0137b4c085ff06f879",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "release"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "0c3f518217082d7b8fdb92dc",
+      "title": "JP PINT 民間事業者の取組（政府調達編）―デジタル庁を更新しました",
+      "url": "https://www.digital.go.jp/policies/electronic_invoice/968e4487-0cbb-48e7-a090-e097d925b5e7",
+      "sourceId": "digital-agency",
+      "sourceName": "デジタル庁",
+      "category": "work",
+      "publishedAt": "2026-09-16T09:44:54+00:00",
+      "detectedAt": "2026-09-16T14:11:53+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "0535a63c7cd33cbc6e92ffb28749aff64577eea8f89257f0785b024d05a2fe36",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
     {
       "id": "fd2f07f6e76e9cd33abff4d0",
       "title": "令和8年熊本地震に関する対応状況について（9月16日）",
@@ -1036,10 +1364,9 @@
       "summary": null,
       "contentHash": "f106d8ff0b7f6593e2442f890f4fd33bcf0b283b45057b0e0460713b7abf5082",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1059,10 +1386,9 @@
       "summary": null,
       "contentHash": "cbd3493774f75574fd11046aa8f16e5acddc292826916ef0c13eb7961342a2f6",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1082,10 +1408,9 @@
       "summary": null,
       "contentHash": "b5f64a56d98065ee95ce483a1530f597e2394446078d6a355436dbf1a60d1e5e",
       "revision": 1,
-      "importance": 65,
+      "importance": 55,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "update"
       ],
       "tags": [
@@ -1152,10 +1477,9 @@
       "summary": null,
       "contentHash": "a791f06415b0b20bd2278564a6f70347158de2e443f83ff617b84f91b2b7bc24",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1175,10 +1499,9 @@
       "summary": null,
       "contentHash": "c8d85eb6d1a9db1ea68b704706c81315aa30be97db14bab41deba00a0e5795fe",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1198,10 +1521,9 @@
       "summary": null,
       "contentHash": "eafbe18bc3bdf57279a4ab282897c28f44115ba824e191fa0068e42249224929",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1221,10 +1543,9 @@
       "summary": null,
       "contentHash": "8638768934e34a103a1b3e230ac0da427f06ffc72369745cf60f7b792d4cd11e",
       "revision": 1,
-      "importance": 65,
+      "importance": 55,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "update"
       ],
       "tags": [
@@ -1247,10 +1568,9 @@
       "summary": null,
       "contentHash": "d74037543197948cc594b4fccfbc5fb39470aa2a2c8146f3aa03b9e75d7ee1cb",
       "revision": 1,
-      "importance": 65,
+      "importance": 55,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "update"
       ],
       "tags": [
@@ -1273,10 +1593,9 @@
       "summary": null,
       "contentHash": "f6adf03c95a58b17b5aad3fd6824d90e540044dccab176daf4f1948b78ffc18b",
       "revision": 1,
-      "importance": 65,
+      "importance": 55,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "update"
       ],
       "tags": [
@@ -1299,10 +1618,9 @@
       "summary": null,
       "contentHash": "fec2003d25d1c78d378e33eb24ed5b9541202fe267d325c5873016b38a1f1359",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1322,10 +1640,9 @@
       "summary": null,
       "contentHash": "40ac57ab416f9e7d993ffb4f5e54ad61c5f070982735ea5492548c983fe94ca6",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },

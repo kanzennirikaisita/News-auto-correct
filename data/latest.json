@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-16T00:18:52+00:00",
+  "generatedAt": "2026-09-16T08:34:26+00:00",
   "collector": {
-    "lastRun": "2026-09-16T00:18:52+00:00",
+    "lastRun": "2026-09-16T08:34:26+00:00",
     "success": 13,
     "failed": 0
   },
@@ -14,8 +14,8 @@
       "url": "https://www.digital.go.jp/rss/news.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-16T00:18:52+00:00",
-      "count": 22
+      "lastSuccess": "2026-09-16T08:34:26+00:00",
+      "count": 24
     },
     {
       "id": "jpcert",
@@ -24,8 +24,8 @@
       "url": "https://www.jpcert.or.jp/rss/jpcert.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-16T00:18:52+00:00",
-      "count": 20
+      "lastSuccess": "2026-09-16T08:34:26+00:00",
+      "count": 28
     },
     {
       "id": "jvn",
@@ -34,7 +34,7 @@
       "url": "https://jvn.jp/rss/jvn.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-16T00:18:52+00:00",
+      "lastSuccess": "2026-09-16T08:34:26+00:00",
       "count": 20
     },
     {
@@ -44,7 +44,7 @@
       "url": "https://blogs.jpcert.or.jp/ja/atom.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-16T00:18:52+00:00",
+      "lastSuccess": "2026-09-16T08:34:26+00:00",
       "count": 15
     },
     {
@@ -54,7 +54,7 @@
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-16T00:18:52+00:00",
+      "lastSuccess": "2026-09-16T08:34:26+00:00",
       "count": 200
     },
     {
@@ -64,7 +64,7 @@
       "url": "https://github.blog/changelog/feed/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-16T00:18:52+00:00",
+      "lastSuccess": "2026-09-16T08:34:26+00:00",
       "count": 10
     },
     {
@@ -74,7 +74,7 @@
       "url": "https://api.github.com/repos/langgenius/dify/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-16T00:18:52+00:00",
+      "lastSuccess": "2026-09-16T08:34:26+00:00",
       "count": 27
     },
     {
@@ -84,7 +84,7 @@
       "url": "https://api.github.com/repos/openai/codex/releases?per_page=10",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-16T00:18:52+00:00",
+      "lastSuccess": "2026-09-16T08:34:26+00:00",
       "count": 0
     },
     {
@@ -94,7 +94,7 @@
       "url": "https://api.github.com/repos/anthropics/claude-code/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-16T00:18:52+00:00",
+      "lastSuccess": "2026-09-16T08:34:26+00:00",
       "count": 30
     },
     {
@@ -104,7 +104,7 @@
       "url": "https://jp.finalfantasyxiv.com/lodestone/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-16T00:18:52+00:00",
+      "lastSuccess": "2026-09-16T08:34:26+00:00",
       "count": 30
     },
     {
@@ -114,7 +114,7 @@
       "url": "https://steamcommunity.com/games/1245620/rss/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-16T00:18:52+00:00",
+      "lastSuccess": "2026-09-16T08:34:26+00:00",
       "count": 10
     },
     {
@@ -124,7 +124,7 @@
       "url": "https://store.steampowered.com/feeds/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-16T00:18:52+00:00",
+      "lastSuccess": "2026-09-16T08:34:26+00:00",
       "count": 10
     },
     {
@@ -134,11 +134,535 @@
       "url": "https://www.apple.com/jp/newsroom/rss-feed.rss",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-16T00:18:52+00:00",
+      "lastSuccess": "2026-09-16T08:34:26+00:00",
       "count": 20
     }
   ],
   "items": [
+    {
+      "id": "fd2f07f6e76e9cd33abff4d0",
+      "title": "令和8年熊本地震に関する対応状況について（9月16日）",
+      "url": "https://www.digital.go.jp/news/0346c21b-29d7-49a6-8f1a-68b0ea784bb4",
+      "sourceId": "digital-agency",
+      "sourceName": "デジタル庁",
+      "category": "work",
+      "publishedAt": "2026-09-16T01:00:00+00:00",
+      "detectedAt": "2026-09-16T08:34:26+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "c105bfd6f817494d86eafa164e18af60792cde001bff9baff7e055f33c2c4ba6",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "db1c6260401830530193b690",
+      "title": "QNDにおける複数の脆弱性",
+      "url": "https://jvn.jp/jp/JVN95825631/",
+      "sourceId": "jvn",
+      "sourceName": "JVN",
+      "category": "work",
+      "publishedAt": "2026-09-16T03:00:15+00:00",
+      "detectedAt": "2026-09-16T08:34:26+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-09-16T03:00:15+00:00",
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "fd1e752b4dccc0693eadfeee6dd6fdb4a5472c5a01a80ac47bf602b0ef1148d4",
+      "revision": 1,
+      "importance": 80,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "脆弱性"
+      ],
+      "tags": [
+        "セキュリティ"
+      ]
+    },
+    {
+      "id": "db0340ec9694b4df638c44dc",
+      "title": "XikeStor製Layer3スイッチのコンフィグレーションデータダウンロード機能における認証欠如の脆弱性",
+      "url": "https://jvn.jp/jp/JVN45281119/",
+      "sourceId": "jvn",
+      "sourceName": "JVN",
+      "category": "work",
+      "publishedAt": "2026-09-16T03:00:00+00:00",
+      "detectedAt": "2026-09-16T08:34:26+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-09-16T03:00:00+00:00",
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "897cb154bad09c80d640002b5f099670513d6883ced6e1028c3f1cd4ecdd2bcc",
+      "revision": 1,
+      "importance": 80,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "脆弱性"
+      ],
+      "tags": [
+        "セキュリティ"
+      ]
+    },
+    {
+      "id": "d8650b11e1590cf45b20ce28",
+      "title": "Total War: SHOGUN 2 - Complete Edition announced to release in October",
+      "url": "https://store.steampowered.com/news/group/4218320/view/698776157349216297",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-16T08:12:25+00:00",
+      "detectedAt": "2026-09-16T08:34:26+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "148288e7b7a82c7aac42631c0a31b6a097532b4711f15b3493a4ecc4a1c959a3",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "release"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "c59998059a0a96e2ceb088d1",
+      "title": "広報資料にマイナンバーカードの利活用に関する動画を更新しました",
+      "url": "https://www.digital.go.jp/policies/mynumber_resources",
+      "sourceId": "digital-agency",
+      "sourceName": "デジタル庁",
+      "category": "work",
+      "publishedAt": "2026-09-16T06:00:00+00:00",
+      "detectedAt": "2026-09-16T08:34:26+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "f1e7277c123f51f227dc4450ac4bfea484382534249ba7778ccbb323f73f5451",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "b717dcfc84004b07a4afc837",
+      "title": "DXVK 3.1.1 brings fixes for Adobe software, Call of Duty: Ghosts, Rayman 3, Skyrim SE",
+      "url": "https://store.steampowered.com/news/group/4218320/view/698776157349216284",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-16T07:12:20+00:00",
+      "detectedAt": "2026-09-16T08:34:26+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "1a890222890f7aab141e55c378a415cd9199e5a804bf9bd8bf6b1023304cafb8",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "b57559d415fe14379ff581ef",
+      "title": "GE-Proton 11-7 brings more Wine Wayland upgrades, launcher fixes, game fixes and more",
+      "url": "https://store.steampowered.com/news/group/4218320/view/698776157349216291",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-16T07:42:23+00:00",
+      "detectedAt": "2026-09-16T08:34:26+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "12cb80fa76c94533dab248fe0e4abd0cc1174e6bfc981ac88fc16112161a60ce",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "ae3f62d2af52a12083f4a1fd",
+      "title": "松本大臣記者会見（令和8年9月15日）要旨を掲載しました",
+      "url": "https://www.digital.go.jp/speech/minister-260915-01",
+      "sourceId": "digital-agency",
+      "sourceName": "デジタル庁",
+      "category": "work",
+      "publishedAt": "2026-09-16T06:00:00+00:00",
+      "detectedAt": "2026-09-15T08:39:42+00:00",
+      "updatedAt": "2026-09-16T08:34:26+00:00",
+      "sourceUpdatedAt": null,
+      "changeType": "updated",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "002609810f0c144a6a28024bf8910810dd9a456776096c02e9f041cca5bc4259",
+      "revision": 2,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "9ec535fe4b30d243711149fb",
+      "title": "Sega confirms that Sonic Racing CrossWorlds will still get free characters in Year Two, starting with Bayonetta",
+      "url": "https://store.steampowered.com/news/group/42342144/view/677384059121303577",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-16T08:22:34+00:00",
+      "detectedAt": "2026-09-16T08:34:26+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "decbd2be7d444918e382311ccf8966fb6220aeb655903909f57d60c3226ab0c2",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "8160ccfb1c0d064cb2303acb",
+      "title": "SUPERHOT VR gets various upgrades ready for the Steam Frame",
+      "url": "https://store.steampowered.com/news/group/4218320/view/698776157349216301",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-16T08:22:25+00:00",
+      "detectedAt": "2026-09-16T08:34:26+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "c76352533d1903f050746d52b6f03943053447ffceecd29a4cd5c9bd4a949d5c",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "737c582b5816c65462899f1f",
+      "title": "熊本地震の被災自治体等へ、ガバメントAI 源内を緊急提供します（更新）",
+      "url": "https://www.digital.go.jp/news/cb912b3b-49c9-4a02-aa46-4056b96c1d4f",
+      "sourceId": "digital-agency",
+      "sourceName": "デジタル庁",
+      "category": "work",
+      "publishedAt": "2026-09-16T01:03:04+00:00",
+      "detectedAt": "2026-09-16T08:34:26+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "7c6fccb82ac19f9eeee2d1838bd8cf4e60aab15402aaf960a7f2f990eefd1784",
+      "revision": 1,
+      "importance": 100,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "緊急",
+        "自治体"
+      ],
+      "tags": []
+    },
+    {
+      "id": "5ee1c0df5aaee87f33ec9aaf",
+      "title": "Weekly Report: a-blog cmsにパストラバーサルの脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260916.html",
+      "sourceId": "jpcert",
+      "sourceName": "JPCERT/CC",
+      "category": "work",
+      "publishedAt": "2026-09-16T00:06:00+00:00",
+      "detectedAt": "2026-09-16T08:34:26+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "b687e50b799260635d2ae62c0e91fcabb3b9e78aadf43a3e30e3d861aa8848b9",
+      "revision": 1,
+      "importance": 80,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "脆弱性"
+      ],
+      "tags": [
+        "セキュリティ"
+      ]
+    },
+    {
+      "id": "5e77f5deac8e2ebc34bc9949",
+      "title": "[重要] ソフトウェアトークン／各種認証アプリのアプリ削除や機種変更を行う際のご注意(9/16)",
+      "url": "https://jp.finalfantasyxiv.com/lodestone/news/detail/5716e2b01b91cf46bd081f42d036eae8fdbd152d",
+      "sourceId": "ff14",
+      "sourceName": "FFXIV Lodestone",
+      "category": "game",
+      "publishedAt": "2026-09-16T03:00:00+00:00",
+      "detectedAt": "2026-09-16T08:34:26+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "2c995c566cfe0773d7c02128d2fed0f0d1199d53abf778a15e79c2ae31413e21",
+      "revision": 1,
+      "importance": 70,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "重要"
+      ],
+      "tags": []
+    },
+    {
+      "id": "539c7898d7f2bef0f63ba630",
+      "title": "Hotfix v1.0.1",
+      "url": "https://store.steampowered.com/news/app/4557380/view/671754559586041861",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-16T08:18:22+00:00",
+      "detectedAt": "2026-09-16T08:34:26+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "5208c211892230fb3a45e667b2a5ba655e0a58c9f7bf1380e691747bd7be9275",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "50e0b124aac5bf89988609ed",
+      "title": "Steam Makes Diablo 4 100% Free Until September 21, Plus Confirms a Bonus Freebie",
+      "url": "https://store.steampowered.com/news/group/1450625/view/692020757910257703",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-16T08:32:16+00:00",
+      "detectedAt": "2026-09-16T08:34:26+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "ea223b288ce4f2c3e3233034eba92a347f0eaa2eb6beddd79465e3733a5e0a26",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "41b8d8f278eeee968711be2e",
+      "title": "s&box from Facepunch gets a price cut and more improvements",
+      "url": "https://store.steampowered.com/news/group/4218320/view/698776157349216286",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-16T07:12:21+00:00",
+      "detectedAt": "2026-09-16T08:34:26+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "669a294f7fa85f49b1212c603311798327cd1ced688fe7e62a66f4e11d1246a1",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "362198dbc559ab3d27c9ca9d",
+      "title": "[メンテナンス] 全ワールド 緊急メンテナンス作業のお知らせ(9/17)",
+      "url": "https://jp.finalfantasyxiv.com/lodestone/news/detail/0d09f1ea075c0402138372be7ce07ea30035ccf8",
+      "sourceId": "ff14",
+      "sourceName": "FFXIV Lodestone",
+      "category": "game",
+      "publishedAt": "2026-09-16T06:20:00+00:00",
+      "detectedAt": "2026-09-16T08:34:26+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "6e078530388b4afe7d522ad8de702f31521702014546ac41e319ebc5f31fcc3a",
+      "revision": 1,
+      "importance": 100,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "緊急",
+        "メンテナンス"
+      ],
+      "tags": [
+        "メンテナンス"
+      ]
+    },
+    {
+      "id": "31a7604abde1387d8cd94141",
+      "title": "デジタル庁調達手続マニュアルを更新しました",
+      "url": "https://www.digital.go.jp/procurement/manual",
+      "sourceId": "digital-agency",
+      "sourceName": "デジタル庁",
+      "category": "work",
+      "publishedAt": "2026-09-16T06:00:00+00:00",
+      "detectedAt": "2026-09-16T08:34:26+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "bebe6447078234b38ab8e00a2d05862ebf73deebd4165d25c9c1193957f49e91",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "1f9c2132398af1fa2e8a29ef",
+      "title": "黄金のレガシー オリジナル・サウンドトラック 第2弾 本日発売！",
+      "url": "https://jp.finalfantasyxiv.com/lodestone/topics/detail/985f67d7d6fd33491f0e155638215a55490b0bc2",
+      "sourceId": "ff14",
+      "sourceName": "FFXIV Lodestone",
+      "category": "game",
+      "publishedAt": null,
+      "detectedAt": "2026-09-16T08:34:26+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "3ba629bc9a7f54a682207ddb385e6b3c70dd908caf79018af6e495980c92e3a4",
+      "revision": 1,
+      "importance": 40,
+      "importanceReasons": [
+        "公式一次情報"
+      ],
+      "tags": []
+    },
+    {
+      "id": "156daffa8d69e3dd70f2a132",
+      "title": "ファイナルファンタジーXIV 著作物利用条件 改訂のお知らせ",
+      "url": "https://jp.finalfantasyxiv.com/lodestone/news/detail/55615b25550bad9c3f5078104c7d0f47fba1826d",
+      "sourceId": "ff14",
+      "sourceName": "FFXIV Lodestone",
+      "category": "game",
+      "publishedAt": "2026-09-16T08:10:00+00:00",
+      "detectedAt": "2026-09-16T08:34:26+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "b459dc580e2fbd16535e4d7055589fd3c68a146742b211c2e7a20409cf36700c",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "0fc51a9c0af88e85a70c92cb",
+      "title": "OptiScaler Client 1.0.7 brings major improvements for FSR 4 and improved recommended game configs",
+      "url": "https://store.steampowered.com/news/group/4218320/view/698776157349216288",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-16T07:32:22+00:00",
+      "detectedAt": "2026-09-16T08:34:26+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "688084cc00c64458208b4385ad11bd44da3de1fc375ee694e857f14e3d24e7c7",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "065e011aea439d6e10594815",
+      "title": "Get plenty of action in the Sniper Elite Classics Collection Humble Bundle",
+      "url": "https://store.steampowered.com/news/group/4218320/view/698776157349216295",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-16T08:02:24+00:00",
+      "detectedAt": "2026-09-16T08:34:26+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "8af2f7ec67a5158c9f61da43a1a9d3c7a6fec0ba66ae9a39abe29691b1a172fd",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
     {
       "id": "f7d1a4fb2fda11a23741b7d2",
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月15日）",
@@ -844,10 +1368,9 @@
       "summary": null,
       "contentHash": "79304d7fe823876806006d86d1c6e36189a7f7bf9fe8f4f609560bbef239881a",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -867,10 +1390,9 @@
       "summary": null,
       "contentHash": "fcb4c2796c4f9d21bd5483b252c1f64bef8d0d789c1ccd73d57f562c5dfc703b",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -890,10 +1412,9 @@
       "summary": null,
       "contentHash": "1276a2c10fe33310645e9eda7ddb393225e92f22539dc0266131936e7648a042",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -938,33 +1459,9 @@
       "summary": null,
       "contentHash": "2a53110ee9fb4f4f04dbb616019bc298425ccfe068c2765e7b3549581b436360",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
-      ],
-      "tags": []
-    },
-    {
-      "id": "ae3f62d2af52a12083f4a1fd",
-      "title": "松本大臣記者会見（令和8年9月15日）動画を掲載しました",
-      "url": "https://www.digital.go.jp/speech/minister-260915-01",
-      "sourceId": "digital-agency",
-      "sourceName": "デジタル庁",
-      "category": "work",
-      "publishedAt": "2026-09-15T04:04:12+00:00",
-      "detectedAt": "2026-09-15T08:39:42+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "2cd2dcf9708050fffb6a6f963ba8733e505c2545b94cf7363aa335f56913326b",
-      "revision": 1,
-      "importance": 50,
-      "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -984,10 +1481,9 @@
       "summary": null,
       "contentHash": "450ded29afa877a0c4a0a214ee0fd1ed72520e1ed0fbb585ccac3d677d4f59bc",
       "revision": 1,
-      "importance": 65,
+      "importance": 55,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "update"
       ],
       "tags": [
@@ -1010,10 +1506,9 @@
       "summary": null,
       "contentHash": "3d2e80de17b8db5babd415c909673d60d3bfae748c1e068832459056f8180619",
       "revision": 1,
-      "importance": 100,
+      "importance": 90,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "脆弱性",
         "注意喚起"
       ],
@@ -1037,10 +1532,9 @@
       "summary": null,
       "contentHash": "e808e6bd12d43ce9fd2c6d6e64085ae3ff062db50a8e6e50a987089c580c2a4e",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1060,10 +1554,9 @@
       "summary": null,
       "contentHash": "39b48fda03f5a83370e887b669a94a931de573cf3f97c9056d076567766b5c17",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1083,10 +1576,9 @@
       "summary": null,
       "contentHash": "5acc7be871c4c2107cab0326340806c3d0fa54d4c63c956e818c6ce565e33a40",
       "revision": 1,
-      "importance": 90,
+      "importance": 80,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "障害"
       ],
       "tags": []
@@ -1107,10 +1599,9 @@
       "summary": null,
       "contentHash": "2ea6dcc60d6687afbc5a6512208748f24d8b50869734a5872ee3a7154afc3417",
       "revision": 1,
-      "importance": 80,
+      "importance": 70,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "脆弱性"
       ],
       "tags": [
@@ -1133,10 +1624,9 @@
       "summary": null,
       "contentHash": "c160524be157d8987052948f4a4b415ac9b1f5749a669e5b832cd7d3e74f0842",
       "revision": 1,
-      "importance": 65,
+      "importance": 55,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "バージョン公開"
       ],
       "tags": [
@@ -1184,10 +1674,9 @@
       "summary": null,
       "contentHash": "907a5ee670c2a1a4816cea6c4a293e46306a88d438ef3893671a2387a559226b",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1207,10 +1696,9 @@
       "summary": null,
       "contentHash": "1fb537b49787349cf73659f3900ecbac4a4aa14269c4724eab6529de64b10caf",
       "revision": 1,
-      "importance": 65,
+      "importance": 55,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "release"
       ],
       "tags": [
@@ -1233,10 +1721,9 @@
       "summary": null,
       "contentHash": "ab5b4a565070110713d32adcc3b81c8666bf9a16d403d422375769563a65e6a0",
       "revision": 1,
-      "importance": 80,
+      "importance": 70,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "脆弱性"
       ],
       "tags": [
@@ -1259,10 +1746,9 @@
       "summary": null,
       "contentHash": "0a0b4a7de951b0bda67e2f9dbcd62f5360492438eb672647e54acfb20e8d2883",
       "revision": 1,
-      "importance": 80,
+      "importance": 70,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "脆弱性"
       ],
       "tags": [
@@ -8044,7 +8530,7 @@
       "sourceId": "ff14",
       "sourceName": "FFXIV Lodestone",
       "category": "game",
-      "publishedAt": "2026-09-15T04:00:00+00:00",
+      "publishedAt": "2026-09-16T07:10:00+00:00",
       "detectedAt": "2026-09-09T03:22:00+00:00",
       "updatedAt": "2026-09-09T03:26:17+00:00",
       "sourceUpdatedAt": null,

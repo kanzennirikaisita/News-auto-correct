@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-17T00:31:55+00:00",
+  "generatedAt": "2026-09-17T08:38:30+00:00",
   "collector": {
-    "lastRun": "2026-09-17T00:31:55+00:00",
+    "lastRun": "2026-09-17T08:38:30+00:00",
     "success": 13,
     "failed": 0
   },
@@ -14,8 +14,8 @@
       "url": "https://www.digital.go.jp/rss/news.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-17T00:31:55+00:00",
-      "count": 26
+      "lastSuccess": "2026-09-17T08:38:30+00:00",
+      "count": 24
     },
     {
       "id": "jpcert",
@@ -24,7 +24,7 @@
       "url": "https://www.jpcert.or.jp/rss/jpcert.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-17T00:31:55+00:00",
+      "lastSuccess": "2026-09-17T08:38:30+00:00",
       "count": 28
     },
     {
@@ -34,7 +34,7 @@
       "url": "https://jvn.jp/rss/jvn.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-17T00:31:55+00:00",
+      "lastSuccess": "2026-09-17T08:38:30+00:00",
       "count": 20
     },
     {
@@ -44,7 +44,7 @@
       "url": "https://blogs.jpcert.or.jp/ja/atom.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-17T00:31:55+00:00",
+      "lastSuccess": "2026-09-17T08:38:30+00:00",
       "count": 15
     },
     {
@@ -54,7 +54,7 @@
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-17T00:31:55+00:00",
+      "lastSuccess": "2026-09-17T08:38:30+00:00",
       "count": 200
     },
     {
@@ -64,7 +64,7 @@
       "url": "https://github.blog/changelog/feed/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-17T00:31:55+00:00",
+      "lastSuccess": "2026-09-17T08:38:30+00:00",
       "count": 10
     },
     {
@@ -74,7 +74,7 @@
       "url": "https://api.github.com/repos/langgenius/dify/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-17T00:31:55+00:00",
+      "lastSuccess": "2026-09-17T08:38:30+00:00",
       "count": 27
     },
     {
@@ -84,7 +84,7 @@
       "url": "https://api.github.com/repos/openai/codex/releases?per_page=10",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-17T00:31:55+00:00",
+      "lastSuccess": "2026-09-17T08:38:30+00:00",
       "count": 0
     },
     {
@@ -94,7 +94,7 @@
       "url": "https://api.github.com/repos/anthropics/claude-code/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-17T00:31:55+00:00",
+      "lastSuccess": "2026-09-17T08:38:30+00:00",
       "count": 30
     },
     {
@@ -104,7 +104,7 @@
       "url": "https://jp.finalfantasyxiv.com/lodestone/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-17T00:31:55+00:00",
+      "lastSuccess": "2026-09-17T08:38:30+00:00",
       "count": 30
     },
     {
@@ -114,7 +114,7 @@
       "url": "https://steamcommunity.com/games/1245620/rss/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-17T00:31:55+00:00",
+      "lastSuccess": "2026-09-17T08:38:30+00:00",
       "count": 10
     },
     {
@@ -124,7 +124,7 @@
       "url": "https://store.steampowered.com/feeds/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-17T00:31:55+00:00",
+      "lastSuccess": "2026-09-17T08:38:30+00:00",
       "count": 10
     },
     {
@@ -134,11 +134,440 @@
       "url": "https://www.apple.com/jp/newsroom/rss-feed.rss",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-17T00:31:55+00:00",
+      "lastSuccess": "2026-09-17T08:38:30+00:00",
       "count": 20
     }
   ],
   "items": [
+    {
+      "id": "fccf8a4a7a85f52b7215c3ad",
+      "title": "更新のお知らせ(9/17)",
+      "url": "https://jp.finalfantasyxiv.com/lodestone/news/detail/e842d13f064c1598acf1997c87bf6bbd6fc4ab66",
+      "sourceId": "ff14",
+      "sourceName": "FFXIV Lodestone",
+      "category": "game",
+      "publishedAt": "2026-09-17T07:40:00+00:00",
+      "detectedAt": "2026-09-17T08:38:30+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "60ebf847ca724fd79f5751f8ab9672acc2cb26b75356c0179887c541003537af",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "ba3a65306d95c78448181c52",
+      "title": "松本大臣退任記者会見（令和8年9月17日）動画を掲載しました",
+      "url": "https://www.digital.go.jp/speech/minister-260917-01",
+      "sourceId": "digital-agency",
+      "sourceName": "デジタル庁",
+      "category": "work",
+      "publishedAt": "2026-09-17T05:33:33+00:00",
+      "detectedAt": "2026-09-17T08:38:30+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "aed8f8a32123847602a7eaea139d5fff52fc23bf1dc3416196b3065ca0daad46",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "b99cb73282ec62c6e2723028",
+      "title": "GNOME 51 released with performance improvements, various app upgrades",
+      "url": "https://store.steampowered.com/news/group/4218320/view/698776157349216482",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-17T07:03:52+00:00",
+      "detectedAt": "2026-09-17T08:38:30+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "e09ebbb414d794036d659e50188a2378ebc028717c9b3501e6bb402581418d45",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "release"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "90c0caa8b7ccb29351dbc5ae",
+      "title": "Xbox classic Lost Odyssey has a experimental PC build - now with a Linux version",
+      "url": "https://store.steampowered.com/news/group/4218320/view/698776157349216486",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-17T07:23:53+00:00",
+      "detectedAt": "2026-09-17T08:38:30+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "c21db6e0445665caa6e2503aeb3c4790d6a42ed2ea8804631a213dc668051a77",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "79391edc7a47303531eea8ab",
+      "title": "[復旧] [Materia] コンテンツワールド 障害復旧作業完了のお知らせ(9/17)",
+      "url": "https://jp.finalfantasyxiv.com/lodestone/news/detail/6729783f85fa0a6e5609ed9e0ec2688a0f03eea0",
+      "sourceId": "ff14",
+      "sourceName": "FFXIV Lodestone",
+      "category": "game",
+      "publishedAt": "2026-09-17T06:15:00+00:00",
+      "detectedAt": "2026-09-17T08:38:30+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "7893c1bb551e3d9ed0a34e8ca6df0423f07fdaac4992a13781b0db0cf51470f2",
+      "revision": 1,
+      "importance": 90,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "障害"
+      ],
+      "tags": []
+    },
+    {
+      "id": "6c901a9c26395b4730680382",
+      "title": "Fire Emblem: Fortune's Weave Part I: Dietrich's Path Walkthrough",
+      "url": "https://store.steampowered.com/news/group/6070552/view/677384059121303826",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-17T07:12:46+00:00",
+      "detectedAt": "2026-09-17T08:38:30+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "4ef0ecaf7b4fbbd36acbd57480ebf639d0117ab7c0d3c57e9219669be394ae80",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "683557ccbd5ff02486f1b819",
+      "title": "PS5 Linux dev quits after \"the only hypervisor bug left\" was reported to Sony",
+      "url": "https://store.steampowered.com/news/group/4218320/view/698776157349216484",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-17T07:13:52+00:00",
+      "detectedAt": "2026-09-17T08:38:30+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "d92c797a66929502c5c46d6a463db9f5619ec55b2701355e3025dd494b46f795",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "5fc2f024becacaee0f04d791",
+      "title": "『ファイナルファンタジーXIV』×『ファイナルファンタジーXV』コラボイベント再演！",
+      "url": "https://jp.finalfantasyxiv.com/lodestone/topics/detail/91075fd9255ca685b2ee8a237d4799f0aac3b917",
+      "sourceId": "ff14",
+      "sourceName": "FFXIV Lodestone",
+      "category": "game",
+      "publishedAt": null,
+      "detectedAt": "2026-09-17T08:38:30+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "f37ee318fece27170973f571893b118fbece0549c630da11b970a3a4a4ac6855",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "イベント"
+      ],
+      "tags": [
+        "イベント"
+      ]
+    },
+    {
+      "id": "5625e5ebd69ddd9a3adb7ab3",
+      "title": "闘獣練ランキングの開始日について",
+      "url": "https://jp.finalfantasyxiv.com/lodestone/topics/detail/1aaeab96c1142dcc16256af92bb8a7149354b524",
+      "sourceId": "ff14",
+      "sourceName": "FFXIV Lodestone",
+      "category": "game",
+      "publishedAt": null,
+      "detectedAt": "2026-09-17T08:38:30+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "4b307ac5904871530ab724f7b8af8fa3365932fe70ba6b9080ac3b9e648b7152",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "開始"
+      ],
+      "tags": []
+    },
+    {
+      "id": "4af679392551254776cef36f",
+      "title": "Fire Emblem: Fortune's Weave Part I: Theodora's Path Walkthrough",
+      "url": "https://store.steampowered.com/news/group/6070552/view/677384059121303824",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-17T07:12:46+00:00",
+      "detectedAt": "2026-09-17T08:38:30+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "9f941374d5156d7ed564d46bd632b0de7698d00f7abc5e8663f9b1ce8323dae9",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "3c0419483284f8b0f7024189",
+      "title": "スマートフォンアプリ「東北電力 よりそうｅねっと」におけるハードコードされた暗号鍵使用の脆弱性",
+      "url": "https://jvn.jp/jp/JVN93985674/",
+      "sourceId": "jvn",
+      "sourceName": "JVN",
+      "category": "work",
+      "publishedAt": "2026-09-17T05:00:00+00:00",
+      "detectedAt": "2026-09-17T08:38:30+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-09-17T05:00:00+00:00",
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "512e059a3fd5929a10f64a90c67ce656c4076cad811f23d847af23b271213cce",
+      "revision": 1,
+      "importance": 80,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "脆弱性"
+      ],
+      "tags": [
+        "セキュリティ"
+      ]
+    },
+    {
+      "id": "32068ce44b3ee475ca740636",
+      "title": "「ウィドウズ・ベイ」が初年度のコメディシリーズとして、エミー賞史上最多の受賞という快挙を達成",
+      "url": "https://www.apple.com/jp/newsroom/2026/09/widows-bay-triumphs-as-most-decorated-freshman-comedy-in-emmy-history/",
+      "sourceId": "apple",
+      "sourceName": "Apple Newsroom",
+      "category": "gadget",
+      "publishedAt": null,
+      "detectedAt": "2026-09-17T08:38:30+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-09-17T03:25:17+00:00",
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "509db3cddc3013409110c7aacba8fd6909a7a55072650830b658da5c775896fe",
+      "revision": 1,
+      "importance": 40,
+      "importanceReasons": [
+        "公式一次情報"
+      ],
+      "tags": []
+    },
+    {
+      "id": "2537beaf0e189268b96af353",
+      "title": "ゲーム内でのRMTおよび不正行為への対応について(9/17)",
+      "url": "https://jp.finalfantasyxiv.com/lodestone/news/detail/a0b2bf68142b9748b05cae3a5b042881ee1277d9",
+      "sourceId": "ff14",
+      "sourceName": "FFXIV Lodestone",
+      "category": "game",
+      "publishedAt": "2026-09-17T07:00:00+00:00",
+      "detectedAt": "2026-09-17T08:38:30+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "f7c4ead620dd78c06d1147edbe174f8f1147ea2e5fb9db7e2af818cd52dff753",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "1eabe70eada583104aa2129c",
+      "title": "Harbour Masters release 'PaperBoat' their Paper Mario 64 PC port",
+      "url": "https://store.steampowered.com/news/group/4218320/view/698776157349216503",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-17T07:53:55+00:00",
+      "detectedAt": "2026-09-17T08:38:30+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "700cc1507aff0856d9d63ab90fd25aee0e37cd66cc88d25939ddb6d826b9b5db",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "release"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "128326342ea86e859d37008a",
+      "title": "Fire Emblem: Fortune's Weave Part I: Leda's Path Walkthrough",
+      "url": "https://store.steampowered.com/news/group/6070552/view/677384059121303822",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-17T07:12:46+00:00",
+      "detectedAt": "2026-09-17T08:38:30+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "7d65743aeda367e542dc6f6e893d7a394d75799bb7a5703bc2d6cc57df73f825",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "0d45970999410333ce8e7865",
+      "title": "Lepton from Valve to run Android games on Linux is now open source",
+      "url": "https://store.steampowered.com/news/group/4218320/view/698776157349216492",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-17T07:33:54+00:00",
+      "detectedAt": "2026-09-17T08:38:30+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "f522fe2e4aa830edce978353d74975585b41b16b3cb96d76f7a1d7a1b18b4c99",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "0ce67416d51141bc4cfac7b4",
+      "title": "\"Our Journey Continues\" 10th Anniversary Expedition",
+      "url": "https://store.steampowered.com/news/app/275850/view/677384059121303721",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-17T07:48:36+00:00",
+      "detectedAt": "2026-09-17T08:38:30+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "7fb5e0e9a92feb4a6407fd31366190eabf7673ad1dfc256273613b1901fe98cd",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "00b22ae94c70a3644ecbce54",
+      "title": "Minecraft Java Edition 26.3 'Wilderness Bound' update released",
+      "url": "https://store.steampowered.com/news/group/4218320/view/698776157349216505",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-17T08:13:56+00:00",
+      "detectedAt": "2026-09-17T08:38:30+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "04c25ff96ddf079d465c93f2a90fa5564cc85c2a75718674ab1910b9c6300b98",
+      "revision": 1,
+      "importance": 80,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "update",
+        "release"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
     {
       "id": "fb58016db6da341c86a8696a",
       "title": "Sony responds after PC games including Helldivers 2 disappear in UK",
@@ -778,10 +1207,9 @@
       "summary": null,
       "contentHash": "d823bfd7795b58d92b3a92f2ce210083d6e068a57b72c93121abab6ea8c78067",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1011,10 +1439,9 @@
       "summary": null,
       "contentHash": "c105bfd6f817494d86eafa164e18af60792cde001bff9baff7e055f33c2c4ba6",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1034,10 +1461,9 @@
       "summary": null,
       "contentHash": "fd1e752b4dccc0693eadfeee6dd6fdb4a5472c5a01a80ac47bf602b0ef1148d4",
       "revision": 1,
-      "importance": 80,
+      "importance": 70,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "脆弱性"
       ],
       "tags": [
@@ -1060,10 +1486,9 @@
       "summary": null,
       "contentHash": "897cb154bad09c80d640002b5f099670513d6883ced6e1028c3f1cd4ecdd2bcc",
       "revision": 1,
-      "importance": 80,
+      "importance": 70,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "脆弱性"
       ],
       "tags": [
@@ -1086,10 +1511,9 @@
       "summary": null,
       "contentHash": "148288e7b7a82c7aac42631c0a31b6a097532b4711f15b3493a4ecc4a1c959a3",
       "revision": 1,
-      "importance": 65,
+      "importance": 55,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "release"
       ],
       "tags": [
@@ -1112,10 +1536,9 @@
       "summary": null,
       "contentHash": "f1e7277c123f51f227dc4450ac4bfea484382534249ba7778ccbb323f73f5451",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1135,10 +1558,9 @@
       "summary": null,
       "contentHash": "1a890222890f7aab141e55c378a415cd9199e5a804bf9bd8bf6b1023304cafb8",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1158,10 +1580,9 @@
       "summary": null,
       "contentHash": "12cb80fa76c94533dab248fe0e4abd0cc1174e6bfc981ac88fc16112161a60ce",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1181,10 +1602,9 @@
       "summary": null,
       "contentHash": "002609810f0c144a6a28024bf8910810dd9a456776096c02e9f041cca5bc4259",
       "revision": 2,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1204,10 +1624,9 @@
       "summary": null,
       "contentHash": "decbd2be7d444918e382311ccf8966fb6220aeb655903909f57d60c3226ab0c2",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1227,10 +1646,9 @@
       "summary": null,
       "contentHash": "c76352533d1903f050746d52b6f03943053447ffceecd29a4cd5c9bd4a949d5c",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1250,10 +1668,9 @@
       "summary": null,
       "contentHash": "7c6fccb82ac19f9eeee2d1838bd8cf4e60aab15402aaf960a7f2f990eefd1784",
       "revision": 1,
-      "importance": 100,
+      "importance": 90,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "緊急",
         "自治体"
       ],
@@ -1300,10 +1717,9 @@
       "summary": null,
       "contentHash": "2c995c566cfe0773d7c02128d2fed0f0d1199d53abf778a15e79c2ae31413e21",
       "revision": 1,
-      "importance": 70,
+      "importance": 60,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "重要"
       ],
       "tags": []
@@ -1324,10 +1740,9 @@
       "summary": null,
       "contentHash": "5208c211892230fb3a45e667b2a5ba655e0a58c9f7bf1380e691747bd7be9275",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1347,10 +1762,9 @@
       "summary": null,
       "contentHash": "ea223b288ce4f2c3e3233034eba92a347f0eaa2eb6beddd79465e3733a5e0a26",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1370,10 +1784,9 @@
       "summary": null,
       "contentHash": "669a294f7fa85f49b1212c603311798327cd1ced688fe7e62a66f4e11d1246a1",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1396,7 +1809,6 @@
       "importance": 100,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "緊急",
         "メンテナンス"
       ],
@@ -1420,10 +1832,9 @@
       "summary": null,
       "contentHash": "bebe6447078234b38ab8e00a2d05862ebf73deebd4165d25c9c1193957f49e91",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1465,10 +1876,9 @@
       "summary": null,
       "contentHash": "b459dc580e2fbd16535e4d7055589fd3c68a146742b211c2e7a20409cf36700c",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1488,10 +1898,9 @@
       "summary": null,
       "contentHash": "688084cc00c64458208b4385ad11bd44da3de1fc375ee694e857f14e3d24e7c7",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1511,10 +1920,9 @@
       "summary": null,
       "contentHash": "8af2f7ec67a5158c9f61da43a1a9d3c7a6fec0ba66ae9a39abe29691b1a172fd",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -9368,10 +9776,9 @@
       "summary": null,
       "contentHash": "99f64d2ea3aacfb1d92f18a7198649c48dd68c1ad8e619a5c13e86720f95e4ac",
       "revision": 2,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },

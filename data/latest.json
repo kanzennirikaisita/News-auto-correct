@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-17T08:38:30+00:00",
+  "generatedAt": "2026-09-17T14:17:28+00:00",
   "collector": {
-    "lastRun": "2026-09-17T08:38:30+00:00",
+    "lastRun": "2026-09-17T14:17:28+00:00",
     "success": 13,
     "failed": 0
   },
@@ -14,8 +14,8 @@
       "url": "https://www.digital.go.jp/rss/news.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-17T08:38:30+00:00",
-      "count": 24
+      "lastSuccess": "2026-09-17T14:17:28+00:00",
+      "count": 26
     },
     {
       "id": "jpcert",
@@ -24,7 +24,7 @@
       "url": "https://www.jpcert.or.jp/rss/jpcert.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-17T08:38:30+00:00",
+      "lastSuccess": "2026-09-17T14:17:28+00:00",
       "count": 28
     },
     {
@@ -34,7 +34,7 @@
       "url": "https://jvn.jp/rss/jvn.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-17T08:38:30+00:00",
+      "lastSuccess": "2026-09-17T14:17:28+00:00",
       "count": 20
     },
     {
@@ -44,7 +44,7 @@
       "url": "https://blogs.jpcert.or.jp/ja/atom.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-17T08:38:30+00:00",
+      "lastSuccess": "2026-09-17T14:17:28+00:00",
       "count": 15
     },
     {
@@ -54,7 +54,7 @@
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-17T08:38:30+00:00",
+      "lastSuccess": "2026-09-17T14:17:28+00:00",
       "count": 200
     },
     {
@@ -64,7 +64,7 @@
       "url": "https://github.blog/changelog/feed/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-17T08:38:30+00:00",
+      "lastSuccess": "2026-09-17T14:17:28+00:00",
       "count": 10
     },
     {
@@ -74,7 +74,7 @@
       "url": "https://api.github.com/repos/langgenius/dify/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-17T08:38:30+00:00",
+      "lastSuccess": "2026-09-17T14:17:28+00:00",
       "count": 27
     },
     {
@@ -84,7 +84,7 @@
       "url": "https://api.github.com/repos/openai/codex/releases?per_page=10",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-17T08:38:30+00:00",
+      "lastSuccess": "2026-09-17T14:17:28+00:00",
       "count": 0
     },
     {
@@ -94,7 +94,7 @@
       "url": "https://api.github.com/repos/anthropics/claude-code/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-17T08:38:30+00:00",
+      "lastSuccess": "2026-09-17T14:17:28+00:00",
       "count": 30
     },
     {
@@ -104,8 +104,8 @@
       "url": "https://jp.finalfantasyxiv.com/lodestone/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-17T08:38:30+00:00",
-      "count": 30
+      "lastSuccess": "2026-09-17T14:17:28+00:00",
+      "count": 29
     },
     {
       "id": "elden-ring",
@@ -114,7 +114,7 @@
       "url": "https://steamcommunity.com/games/1245620/rss/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-17T08:38:30+00:00",
+      "lastSuccess": "2026-09-17T14:17:28+00:00",
       "count": 10
     },
     {
@@ -124,7 +124,7 @@
       "url": "https://store.steampowered.com/feeds/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-17T08:38:30+00:00",
+      "lastSuccess": "2026-09-17T14:17:28+00:00",
       "count": 10
     },
     {
@@ -134,11 +134,341 @@
       "url": "https://www.apple.com/jp/newsroom/rss-feed.rss",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-17T08:38:30+00:00",
+      "lastSuccess": "2026-09-17T14:17:28+00:00",
       "count": 20
     }
   ],
   "items": [
+    {
+      "id": "f61b68fc2aad0630a93987fa",
+      "title": "AION 2 Playtest peaks at 71k players",
+      "url": "https://store.steampowered.com/news/group/4777282/view/693146657813954781",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-17T13:23:15+00:00",
+      "detectedAt": "2026-09-17T14:17:28+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "be07c2790220911d62fc2c603d00076393ca172b7476b23ba30f54f42e3e6c57",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "e7e19d169071a59ec8a3cd7a",
+      "title": "「第47回 FFXIVコミュニティ放送」9月24日（木）放送決定！",
+      "url": "https://jp.finalfantasyxiv.com/lodestone/topics/detail/92d6eb378eaeace3ae75603319ab9de25d352726",
+      "sourceId": "ff14",
+      "sourceName": "FFXIV Lodestone",
+      "category": "game",
+      "publishedAt": null,
+      "detectedAt": "2026-09-17T14:17:28+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "d8c5461c8087ce8c6574b05cbd4c8f3829b4a06d7d16cf89d41d2e4846fca478",
+      "revision": 1,
+      "importance": 40,
+      "importanceReasons": [
+        "公式一次情報"
+      ],
+      "tags": []
+    },
+    {
+      "id": "cce35f827cc2591647757730",
+      "title": "The CONTROL Resonant Launch Trailer Is Here!",
+      "url": "https://store.steampowered.com/news/app/3669870/view/714538756043964651",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-17T14:05:40+00:00",
+      "detectedAt": "2026-09-17T14:17:28+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "8d2944fbbb8970af41781650ae5b79ceb8573ce49b5dc16009db031c6708aefb",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "be7f6a9448269a5eb5848fa1",
+      "title": "令和8年9月17日付デジタル庁幹部一覧を掲載しました",
+      "url": "https://www.digital.go.jp/about/member",
+      "sourceId": "digital-agency",
+      "sourceName": "デジタル庁",
+      "category": "work",
+      "publishedAt": "2026-09-17T11:53:35+00:00",
+      "detectedAt": "2026-09-17T14:17:28+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "bc6fe57969b770a87b33b2bfaa4fdab4621b19be7c379365f39b0899a38d6f9f",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "bc301ddf24a752b04a5f0571",
+      "title": "What time does EA Sports FC 27 go live? Digital release time in your region and New Zealand trick",
+      "url": "https://store.steampowered.com/news/group/42342144/view/677384059121303865",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-17T14:05:41+00:00",
+      "detectedAt": "2026-09-17T14:17:28+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "19df1c3bd5c3a4ebdce99d1a8293ccfedb6a1b68a167bf723e57549631dcc32e",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "release"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "ba3a65306d95c78448181c52",
+      "title": "松本大臣退任記者会見（令和8年9月17日）要旨を掲載しました",
+      "url": "https://www.digital.go.jp/speech/minister-260917-01",
+      "sourceId": "digital-agency",
+      "sourceName": "デジタル庁",
+      "category": "work",
+      "publishedAt": "2026-09-17T11:12:47+00:00",
+      "detectedAt": "2026-09-17T08:38:30+00:00",
+      "updatedAt": "2026-09-17T14:17:28+00:00",
+      "sourceUpdatedAt": null,
+      "changeType": "updated",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "8351af0cd82b2704a170a01ee6c9b8a02bddaf6ae982851497b5c58ffe507346",
+      "revision": 2,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "a8e1f4f52d8102d69d9d546a",
+      "title": "ACE COMBAT 8: WINGS OF THEVE | Live-Action HOUR ZERO Episode 2",
+      "url": "https://store.steampowered.com/news/app/2288340/view/702153857067647164",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-17T14:01:55+00:00",
+      "detectedAt": "2026-09-17T14:17:28+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "41dbfa8032ff30eef0e8dfb8a69c0c55c07833791fbdb8a3df1efd252dd68ef5",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "8db7af372c7b956cd810df95",
+      "title": "Hideo Kojima Announces Bill Skarsgard As Physint’s 4th Cast Member, And He’s The Lead",
+      "url": "https://store.steampowered.com/news/group/7433348/view/690894858003415314",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-17T14:02:47+00:00",
+      "detectedAt": "2026-09-17T14:17:28+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "f479fb3a1394d6bb35ad63e0787a49e64ad1c591d9fa0de77b54a22539316d7a",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "8d20eaf5383c07f13067de35",
+      "title": "Game Of Thrones: The Kingswood Hunt Officially Announced",
+      "url": "https://store.steampowered.com/news/group/38666666/view/686391258373947661",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-17T14:03:22+00:00",
+      "detectedAt": "2026-09-17T14:17:28+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "40308d5805e0c28a9fc555cd95beda77b2d09e9b8a8ff32a86590e74bd4da5b3",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "8438ef37b00472a2d5e69acb",
+      "title": "I'm two weeks into The Blood of Dawnwalker and may have already damned my soul – is that good?",
+      "url": "https://store.steampowered.com/news/group/38509069/view/714538756043964719",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-17T14:04:20+00:00",
+      "detectedAt": "2026-09-17T14:17:28+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "ee4d843f54123b0baa26a741dce326576352f7a26cd487f1a97aa09610ebf253",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "807db248a08f81221c6f8307",
+      "title": "Trails in the Sky 2nd Chapter DLC Guide – How To Access DLC, Editions, Costumes, Upgrades, and More",
+      "url": "https://store.steampowered.com/news/group/6070552/view/677384059121303863",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-17T14:02:58+00:00",
+      "detectedAt": "2026-09-17T14:17:28+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "5984043956297439bca420a0383df2964df602dd28a06b2310ba6b22dd73dd54",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "7f2da9d9ff16b66bef3f65f3",
+      "title": "The Blood of Dawnwalker Sequels Could Bring Back Controversial Feature",
+      "url": "https://store.steampowered.com/news/group/1450625/view/692020757910257941",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-17T13:53:44+00:00",
+      "detectedAt": "2026-09-17T14:17:28+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "2cc0cbc04c416597b73d76a158bc61c5a9a0617b9009cef6c0c937fedf64542f",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "6eadc8d8dafbf4c7d4d22f53",
+      "title": "GTA 6 on PC sounds even more inevitable in Take-Two CEO's latest comments",
+      "url": "https://store.steampowered.com/news/group/38509069/view/714538756043964723",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-17T14:14:20+00:00",
+      "detectedAt": "2026-09-17T14:17:28+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "cbe3f2e0aa1e4f7d7c65316989709b900ec7a3faea7db18f385458b11eb5eb70",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "30522cdd6a09e2f770f37c39",
+      "title": "[続報] 全ワールド 緊急メンテナンス作業 終了時間変更のお知らせ(9/17)",
+      "url": "https://jp.finalfantasyxiv.com/lodestone/news/detail/620c6c6fa50b9c46645fc319a60a090e9e205950",
+      "sourceId": "ff14",
+      "sourceName": "FFXIV Lodestone",
+      "category": "game",
+      "publishedAt": "2026-09-17T09:05:00+00:00",
+      "detectedAt": "2026-09-17T14:17:28+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "85c93fb75141e234e8e44758e76009758cc431b800881a905991d84f78456a0f",
+      "revision": 1,
+      "importance": 100,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "緊急",
+        "終了",
+        "メンテナンス"
+      ],
+      "tags": [
+        "終了・廃止",
+        "メンテナンス"
+      ]
+    },
     {
       "id": "fccf8a4a7a85f52b7215c3ad",
       "title": "更新のお知らせ(9/17)",
@@ -154,29 +484,6 @@
       "kind": "article",
       "summary": null,
       "contentHash": "60ebf847ca724fd79f5751f8ab9672acc2cb26b75356c0179887c541003537af",
-      "revision": 1,
-      "importance": 50,
-      "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
-      ],
-      "tags": []
-    },
-    {
-      "id": "ba3a65306d95c78448181c52",
-      "title": "松本大臣退任記者会見（令和8年9月17日）動画を掲載しました",
-      "url": "https://www.digital.go.jp/speech/minister-260917-01",
-      "sourceId": "digital-agency",
-      "sourceName": "デジタル庁",
-      "category": "work",
-      "publishedAt": "2026-09-17T05:33:33+00:00",
-      "detectedAt": "2026-09-17T08:38:30+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "aed8f8a32123847602a7eaea139d5fff52fc23bf1dc3416196b3065ca0daad46",
       "revision": 1,
       "importance": 50,
       "importanceReasons": [
@@ -899,10 +1206,9 @@
       "summary": null,
       "contentHash": "028704c07917c45f32bbdcae5ce5b961c4c43d6231f29269dbb0f41134122ecd",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -971,10 +1277,9 @@
       "summary": null,
       "contentHash": "bd8f8ded3faa1dc81ea22e2a24e41cf2dfecc6264cba6bf864cb0c6439098ea8",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1112,10 +1417,9 @@
       "summary": null,
       "contentHash": "087e97b62d42b993799876bb9f143bdb70299faa56c8a4878fdcf69617be3efd",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1135,10 +1439,9 @@
       "summary": null,
       "contentHash": "a8cfaba2fe62aabaccee5a75346ccbfd186d7c916c94585ebc24f334ce8f9dfa",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1158,10 +1461,9 @@
       "summary": null,
       "contentHash": "e214216780817f967a01e579839b0141c4fd37fbedf9951af976bb5358b1d4ec",
       "revision": 1,
-      "importance": 65,
+      "importance": 55,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "update"
       ],
       "tags": [
@@ -1184,10 +1486,9 @@
       "summary": null,
       "contentHash": "1c113765fb8561c2875844bddae5c6120bef86aa9b61196118483ed7e9a14c60",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1229,10 +1530,9 @@
       "summary": null,
       "contentHash": "df73ad92afc745a2cee6333f4a1f36335adfffd3b22c899e43f351e22913a685",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1252,10 +1552,9 @@
       "summary": null,
       "contentHash": "b65708f7658ce9a2c72a33333ed8a845e41b3c7e0ff1a2a1a8c6dfe4bc852e2d",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1275,10 +1574,9 @@
       "summary": null,
       "contentHash": "c9772eba7206529595f010d999a751e4618655e4e8f7b66ddb5b58844a1d3218",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1298,10 +1596,9 @@
       "summary": null,
       "contentHash": "ed83037efa531a6d1ae5bda056d00343b979bfbd00f1fc0e5257028877d43d96",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1321,10 +1618,9 @@
       "summary": null,
       "contentHash": "794472a2e6c00cbc45a3a7dab271c285079663b4d881d1bf9a04b6a9d2dca0b4",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1344,10 +1640,9 @@
       "summary": null,
       "contentHash": "b4051d065da83e19bb4ecb34b5abd1cb0f84155bdaaf0e345e3dd21ee0b80b84",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1367,10 +1662,9 @@
       "summary": null,
       "contentHash": "9b9fed36dd1a193cbf5be175963693036803a2ab899438be7b1d5a718529b34e",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1390,10 +1684,9 @@
       "summary": null,
       "contentHash": "901fe4ad14e52d71c49ecd90d162401d1a621fe20558bc0137b4c085ff06f879",
       "revision": 1,
-      "importance": 65,
+      "importance": 55,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "release"
       ],
       "tags": [
@@ -1416,10 +1709,9 @@
       "summary": null,
       "contentHash": "0535a63c7cd33cbc6e92ffb28749aff64577eea8f89257f0785b024d05a2fe36",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -9767,7 +10059,7 @@
       "sourceId": "ff14",
       "sourceName": "FFXIV Lodestone",
       "category": "game",
-      "publishedAt": "2026-09-16T07:10:00+00:00",
+      "publishedAt": "2026-09-17T09:40:00+00:00",
       "detectedAt": "2026-09-09T03:22:00+00:00",
       "updatedAt": "2026-09-09T03:26:17+00:00",
       "sourceUpdatedAt": null,
@@ -9776,9 +10068,10 @@
       "summary": null,
       "contentHash": "99f64d2ea3aacfb1d92f18a7198649c48dd68c1ad8e619a5c13e86720f95e4ac",
       "revision": 2,
-      "importance": 40,
+      "importance": 50,
       "importanceReasons": [
-        "公式一次情報"
+        "公式一次情報",
+        "24時間以内"
       ],
       "tags": []
     },

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-17T14:17:28+00:00",
+  "generatedAt": "2026-09-18T00:17:49+00:00",
   "collector": {
-    "lastRun": "2026-09-17T14:17:28+00:00",
+    "lastRun": "2026-09-18T00:17:49+00:00",
     "success": 13,
     "failed": 0
   },
@@ -14,7 +14,7 @@
       "url": "https://www.digital.go.jp/rss/news.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-17T14:17:28+00:00",
+      "lastSuccess": "2026-09-18T00:17:49+00:00",
       "count": 26
     },
     {
@@ -24,7 +24,7 @@
       "url": "https://www.jpcert.or.jp/rss/jpcert.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-17T14:17:28+00:00",
+      "lastSuccess": "2026-09-18T00:17:49+00:00",
       "count": 28
     },
     {
@@ -34,7 +34,7 @@
       "url": "https://jvn.jp/rss/jvn.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-17T14:17:28+00:00",
+      "lastSuccess": "2026-09-18T00:17:49+00:00",
       "count": 20
     },
     {
@@ -44,7 +44,7 @@
       "url": "https://blogs.jpcert.or.jp/ja/atom.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-17T14:17:28+00:00",
+      "lastSuccess": "2026-09-18T00:17:49+00:00",
       "count": 15
     },
     {
@@ -54,7 +54,7 @@
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-17T14:17:28+00:00",
+      "lastSuccess": "2026-09-18T00:17:49+00:00",
       "count": 200
     },
     {
@@ -64,7 +64,7 @@
       "url": "https://github.blog/changelog/feed/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-17T14:17:28+00:00",
+      "lastSuccess": "2026-09-18T00:17:49+00:00",
       "count": 10
     },
     {
@@ -74,7 +74,7 @@
       "url": "https://api.github.com/repos/langgenius/dify/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-17T14:17:28+00:00",
+      "lastSuccess": "2026-09-18T00:17:49+00:00",
       "count": 27
     },
     {
@@ -84,8 +84,8 @@
       "url": "https://api.github.com/repos/openai/codex/releases?per_page=10",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-17T14:17:28+00:00",
-      "count": 0
+      "lastSuccess": "2026-09-18T00:17:49+00:00",
+      "count": 1
     },
     {
       "id": "claude-code",
@@ -94,7 +94,7 @@
       "url": "https://api.github.com/repos/anthropics/claude-code/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-17T14:17:28+00:00",
+      "lastSuccess": "2026-09-18T00:17:49+00:00",
       "count": 30
     },
     {
@@ -104,7 +104,7 @@
       "url": "https://jp.finalfantasyxiv.com/lodestone/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-17T14:17:28+00:00",
+      "lastSuccess": "2026-09-18T00:17:49+00:00",
       "count": 29
     },
     {
@@ -114,7 +114,7 @@
       "url": "https://steamcommunity.com/games/1245620/rss/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-17T14:17:28+00:00",
+      "lastSuccess": "2026-09-18T00:17:49+00:00",
       "count": 10
     },
     {
@@ -124,7 +124,7 @@
       "url": "https://store.steampowered.com/feeds/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-17T14:17:28+00:00",
+      "lastSuccess": "2026-09-18T00:17:49+00:00",
       "count": 10
     },
     {
@@ -134,11 +134,456 @@
       "url": "https://www.apple.com/jp/newsroom/rss-feed.rss",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-17T14:17:28+00:00",
+      "lastSuccess": "2026-09-18T00:17:49+00:00",
       "count": 20
     }
   ],
   "items": [
+    {
+      "id": "fab0508afb5b961e5400fb12",
+      "title": "If you can't get enough of record-breaking Emmy winner Matthew Rhys, his newest TV series is based on an '80s Sega game, and is out now",
+      "url": "https://store.steampowered.com/news/group/1850/view/692020757910257995",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-17T22:48:35+00:00",
+      "detectedAt": "2026-09-18T00:17:49+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "8006acd14112ef16e6dcc12e7ce25d4c0f71ccf8147b13aa298543746d0a73c5",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "f57d82d85b5d17d4ed520228",
+      "title": "Stranger Than Heaven × “Battles Without Honor and Humanity” Collaboration Tribute Trailer",
+      "url": "https://store.steampowered.com/news/group/6070552/view/677384059121303918",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-17T22:13:21+00:00",
+      "detectedAt": "2026-09-18T00:17:49+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "18e76395db2c52f4d9173ae59c6c239b42343ffb50030b215ae958bf07beb742",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "d22acfa5d0cc1d093c4a65f6",
+      "title": "How Cooley is accelerating IPO work with ChatGPT",
+      "url": "https://openai.com/index/cooley-gopublic",
+      "sourceId": "openai",
+      "sourceName": "OpenAI",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-17T12:00:00+00:00",
+      "detectedAt": "2026-09-18T00:17:49+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "bdf35f39ba30b4ef6143b743352cc07e88ca6734ce5befbec045d6531b430483",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "ce4a6b7e7a995bf0d48b9abe",
+      "title": "12 Hidden New Locations In Cyberpunk 2077 Phantom Liberty DLC & 2.0 Update",
+      "url": "https://store.steampowered.com/news/group/38666666/view/686391258373947709",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-17T21:03:40+00:00",
+      "detectedAt": "2026-09-18T00:17:49+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "1cf738e5ac3af066392fd2511d8d046839929a20da62120d628689f397281653",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "update"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "bf2dcc893cff7cd679346089",
+      "title": "Steam is shoveling RPGs at people right now, and I think it's the perfect time to get Divinity: Original Sin for 90% off ahead of Larian's post-Baldur's Gate 3 Divinity",
+      "url": "https://store.steampowered.com/news/group/38509069/view/714538756043964799",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-17T21:24:42+00:00",
+      "detectedAt": "2026-09-18T00:17:49+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "ea494c95f921a00f2677c021a382b778bdd2a77ef6a9d73953bd9f832f75f748",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "bced42187a56aa0993e183e0",
+      "title": "Scalpers & Scammers Swoop In To Prey On Waitlisted Would-Be Steam Frame Buyers",
+      "url": "https://store.steampowered.com/news/group/25080149/view/694272557720797478",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-18T00:04:10+00:00",
+      "detectedAt": "2026-09-18T00:17:49+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "9a89cb1158998fe4fa7e9f5e63f1892ec8053465826872d2b612da3d7184564e",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "b9c00131521ef49f411bfe45",
+      "title": "\"One of the biggest mistakes game developers make,\" Valve's Gabe Newell warns in an unearthed clip, is treating \"genuinely entertaining\" player actions as hacking",
+      "url": "https://store.steampowered.com/news/group/38509069/view/714538756043964794",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-17T21:14:41+00:00",
+      "detectedAt": "2026-09-18T00:17:49+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "63aefed97e79b1d9be0cd6216ce137645ddbdc8e1da1a8b59575cb60a95b210f",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "9550dbfcc4d908968eb736bf",
+      "title": "Ubuntu 26 generally available and latest migration",
+      "url": "https://github.blog/changelog/2026-09-17-ubuntu-26-generally-available-and-latest-migration",
+      "sourceId": "github",
+      "sourceName": "GitHub Changelog",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-17T16:27:16+00:00",
+      "detectedAt": "2026-09-18T00:17:49+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "91160f6dc40261b4f97feafe4cb193dfb61fc1b5826e924e99b478555721544b",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "90b5cabeec17943a5cc00faa",
+      "title": "Steam Officially Makes 4 Games 100% Free Through September 21",
+      "url": "https://store.steampowered.com/news/group/1450625/view/692020757910257997",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-17T23:04:12+00:00",
+      "detectedAt": "2026-09-18T00:17:49+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "f7c1fa8eef10260e3e7b390ffcc724a25f408e77e00a78cf4de07e935c1ff313",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "7feb72646dfd51207a666baa",
+      "title": "Next generation of AMD and Nvidia GPUs rumored for 2028 launch",
+      "url": "https://store.steampowered.com/news/group/3693985/view/669502759770259694",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-17T22:43:41+00:00",
+      "detectedAt": "2026-09-18T00:17:49+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "9511ee98e503ed095e0c69f62d59f9533fb9e1021cbb5eca254695984c469313",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "7a2491fd9c2082b1f0b32e81",
+      "title": "Workflow execution protections in GitHub Actions generally available",
+      "url": "https://github.blog/changelog/2026-09-17-workflow-execution-protections-in-github-actions-generally-available",
+      "sourceId": "github",
+      "sourceName": "GitHub Changelog",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-17T15:45:26+00:00",
+      "detectedAt": "2026-09-18T00:17:49+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "8a7390cb31efea3f01a6235c48f3e68348bdb635487653fbd2e09508b9541aaa",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "74fc977f691fc14677d3d30f",
+      "title": "Agentic CLI customizations now in the usage metrics API",
+      "url": "https://github.blog/changelog/2026-09-17-agentic-cli-customizations-now-in-the-usage-metrics-api",
+      "sourceId": "github",
+      "sourceName": "GitHub Changelog",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-17T21:08:50+00:00",
+      "detectedAt": "2026-09-18T00:17:49+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "d5c654c522de66e8f654c6ab4a64f77f78eeca8f36e6592625dee21ea9d355ec",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "733392711551a1c39fa410a1",
+      "title": "Claude Code v2.1.275",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.275",
+      "sourceId": "claude-code",
+      "sourceName": "Claude Code",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-17T22:33:17+00:00",
+      "detectedAt": "2026-09-18T00:17:49+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-09-17T22:33:17+00:00",
+      "changeType": "new",
+      "kind": "release",
+      "summary": null,
+      "contentHash": "06985543a7d2d72f99fd2f31b250b21197f2ff4e3c198cd1e4fa57449be402f4",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "バージョン公開"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "5f7daf352d40f239a6f7c118",
+      "title": "Codex 0.155.0",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.155.0",
+      "sourceId": "codex",
+      "sourceName": "Codex",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-17T23:14:43+00:00",
+      "detectedAt": "2026-09-18T00:17:49+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-09-17T23:16:01+00:00",
+      "changeType": "new",
+      "kind": "release",
+      "summary": null,
+      "contentHash": "3fa67231c67394443a635b5dd357220464508cc55ef80927fbea98703f51ab33",
+      "revision": 1,
+      "importance": 75,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "バージョン公開",
+        "codex"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "553eb3c867220f4c8b6d99e9",
+      "title": "Copilot impact dashboard now shows feature engagement",
+      "url": "https://github.blog/changelog/2026-09-17-copilot-impact-dashboard-now-shows-feature-engagement",
+      "sourceId": "github",
+      "sourceName": "GitHub Changelog",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-17T21:47:27+00:00",
+      "detectedAt": "2026-09-18T00:17:49+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "bef5381e49dd3e2e8e14283d9e83c675b98e71f678bf3295e5c90c06b744d599",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "41f2b23db141d620003afb9b",
+      "title": "Copilot budget increase requests are generally available",
+      "url": "https://github.blog/changelog/2026-09-16-copilot-budget-increase-requests-are-generally-available",
+      "sourceId": "github",
+      "sourceName": "GitHub Changelog",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-16T20:17:18+00:00",
+      "detectedAt": "2026-09-17T00:31:55+00:00",
+      "updatedAt": "2026-09-18T00:17:49+00:00",
+      "sourceUpdatedAt": null,
+      "changeType": "updated",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "4ed29e3454bf1eb72db04bc95f983414a36f58f1d42a108d732e68da268fb702",
+      "revision": 2,
+      "importance": 40,
+      "importanceReasons": [
+        "公式一次情報"
+      ],
+      "tags": []
+    },
+    {
+      "id": "24a10519e6bd7c77fae428a3",
+      "title": "Palworld Palfarm is less like Stardew Valley than you might expect, lead says, but it \"is more on the cozier side\" than Pocketpair's survival game",
+      "url": "https://store.steampowered.com/news/group/38509069/view/714538756043964796",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-17T21:14:41+00:00",
+      "detectedAt": "2026-09-18T00:17:49+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "d4c108c1d70554d00e20cae9f214301564955f75fde0aed1b201ea236891287a",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "192794312f979cbd50ee7eab",
+      "title": "Introducing Astra for Law",
+      "url": "https://openai.com/index/astra-for-law",
+      "sourceId": "openai",
+      "sourceName": "OpenAI",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-17T00:00:00+00:00",
+      "detectedAt": "2026-09-18T00:17:49+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "cf94d283163623e65ba9f46433bb81568fab9b58aafcee40e6a3b17d3aa161c6",
+      "revision": 1,
+      "importance": 40,
+      "importanceReasons": [
+        "公式一次情報"
+      ],
+      "tags": []
+    },
+    {
+      "id": "130fe6336bc9fda961f13ac3",
+      "title": "World of Warcraft: Forever beta struggles to launch as devs say \"the number of people hammering at the door of the Beta is... insane\"",
+      "url": "https://store.steampowered.com/news/group/38509069/view/714538756043964803",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-17T21:44:43+00:00",
+      "detectedAt": "2026-09-18T00:17:49+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "556ede717c3db597fce7847442bc93058c5024e85bab90c6a2dd478675da03b9",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
     {
       "id": "f61b68fc2aad0630a93987fa",
       "title": "AION 2 Playtest peaks at 71k players",
@@ -891,10 +1336,9 @@
       "summary": null,
       "contentHash": "4dab07285292937c4406e83691ec4f9f40f74d7d09c2fb006cdef90359a30197",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -914,10 +1358,9 @@
       "summary": null,
       "contentHash": "e158c9d9a222cbaab10aab3aa30a627559b83576b01efb675a0446e37a3c276a",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -937,10 +1380,9 @@
       "summary": null,
       "contentHash": "00ace8ffa7f0e375f28447b627e1c84edbbd06cc515815cbcacce43f2beb9b35",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -960,10 +1402,9 @@
       "summary": null,
       "contentHash": "4aaa1b2dca705889379887192cb15939ee2787c118554773bff51b8ff8c0b5e1",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1009,10 +1450,9 @@
       "summary": null,
       "contentHash": "0c46057196398842bd7edc5665769352284a62154a07587400e32a1725471b3b",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1032,10 +1472,9 @@
       "summary": null,
       "contentHash": "e9723c1750606ea904642793da68234ec5a9b7e772567f861449841f7ac1b1e4",
       "revision": 1,
-      "importance": 90,
+      "importance": 80,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "障害"
       ],
       "tags": []
@@ -1056,10 +1495,9 @@
       "summary": null,
       "contentHash": "7e67d2476640bfb7819029a5a894d4273bb01b543b4f78bb3536a26b24ac35fc",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1079,10 +1517,9 @@
       "summary": null,
       "contentHash": "c7ada349f33a16fe3b13c62472536eb20119c6f8d88507e9aa0e0ae3b92ab2f2",
       "revision": 1,
-      "importance": 65,
+      "importance": 55,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "release"
       ],
       "tags": [
@@ -1105,10 +1542,9 @@
       "summary": null,
       "contentHash": "525cbea02f70c64cfe8b16987b3a1c91f928a3b4ebbb6ea5bfe7b4aadb21092e",
       "revision": 1,
-      "importance": 65,
+      "importance": 55,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "release"
       ],
       "tags": [
@@ -1131,10 +1567,9 @@
       "summary": null,
       "contentHash": "898bdd0d7dc31749378d9e0fcf2592612a2649054ab9c091916fbb5803531ccf",
       "revision": 2,
-      "importance": 65,
+      "importance": 55,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "アップデート"
       ],
       "tags": [
@@ -1183,10 +1618,9 @@
       "summary": null,
       "contentHash": "2ac962f86f7aa08fda1550536fb28b3f8a630646e2bf912d77bf63ccf6cc5094",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1228,10 +1662,9 @@
       "summary": null,
       "contentHash": "3ee79dde4da7622a022252c824f94ea35a47c808b28101d9cee7a5bd5367cbc3",
       "revision": 1,
-      "importance": 65,
+      "importance": 55,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "バージョン公開"
       ],
       "tags": [
@@ -1254,10 +1687,9 @@
       "summary": null,
       "contentHash": "66c251bfa3e3b821f78234dab69bc761afa9d462cb2eaf1f39158ee441f64553",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1284,29 +1716,6 @@
       "tags": []
     },
     {
-      "id": "41f2b23db141d620003afb9b",
-      "title": "Copilot budget increase requests are generally available",
-      "url": "https://github.blog/changelog/2026-09-16-copilot-budget-increase-requests-are-generally-available",
-      "sourceId": "github",
-      "sourceName": "GitHub Changelog",
-      "category": "ai-dev",
-      "publishedAt": "2026-09-16T20:17:18+00:00",
-      "detectedAt": "2026-09-17T00:31:55+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "d5582ed522b4b27930dc4fd7a12675d2fa1086d7b9785e5bcfa06ddb55a8298f",
-      "revision": 1,
-      "importance": 50,
-      "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
-      ],
-      "tags": []
-    },
-    {
       "id": "30d97322bf2aeffe94a0a295",
       "title": "Preorder Magic: The Gathering® | The Hobbit™ on MTG Arena!",
       "url": "https://store.steampowered.com/news/app/2141910/view/694272557720797371",
@@ -1322,10 +1731,9 @@
       "summary": null,
       "contentHash": "331641ec1fd55ecf36820969ab9d9e6298da79b4d1af19085918174a74081a1e",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1345,10 +1753,9 @@
       "summary": null,
       "contentHash": "674fcc730baafd8209d3b8b635a70d28d0e283f6e40e0eab0666179abdaf2106",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1368,10 +1775,9 @@
       "summary": null,
       "contentHash": "49ea06702029444232222669b268b7df66e6a0e2b6af2d8c54739b9ff17884e8",
       "revision": 1,
-      "importance": 65,
+      "importance": 55,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "release"
       ],
       "tags": [
@@ -1394,10 +1800,9 @@
       "summary": null,
       "contentHash": "f96eda12d84910fcf87ddd309a16eba96f63a38e2d90dd3ec89d7199bda45bde",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },

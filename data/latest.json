@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T13:09:48+00:00",
+  "generatedAt": "2026-09-19T16:29:39+00:00",
   "collector": {
-    "lastRun": "2026-09-19T13:09:48+00:00",
+    "lastRun": "2026-09-19T16:29:39+00:00",
     "success": 13,
     "failed": 0
   },
@@ -14,7 +14,7 @@
       "url": "https://www.digital.go.jp/rss/news.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-19T13:09:48+00:00",
+      "lastSuccess": "2026-09-19T16:29:39+00:00",
       "count": 33
     },
     {
@@ -24,7 +24,7 @@
       "url": "https://www.jpcert.or.jp/rss/jpcert.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-19T13:09:48+00:00",
+      "lastSuccess": "2026-09-19T16:29:39+00:00",
       "count": 28
     },
     {
@@ -34,7 +34,7 @@
       "url": "https://jvn.jp/rss/jvn.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-19T13:09:48+00:00",
+      "lastSuccess": "2026-09-19T16:29:39+00:00",
       "count": 20
     },
     {
@@ -44,7 +44,7 @@
       "url": "https://blogs.jpcert.or.jp/ja/atom.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-19T13:09:48+00:00",
+      "lastSuccess": "2026-09-19T16:29:39+00:00",
       "count": 15
     },
     {
@@ -54,7 +54,7 @@
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-19T13:09:48+00:00",
+      "lastSuccess": "2026-09-19T16:29:39+00:00",
       "count": 200
     },
     {
@@ -64,7 +64,7 @@
       "url": "https://github.blog/changelog/feed/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-19T13:09:48+00:00",
+      "lastSuccess": "2026-09-19T16:29:39+00:00",
       "count": 10
     },
     {
@@ -74,7 +74,7 @@
       "url": "https://api.github.com/repos/langgenius/dify/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-19T13:09:48+00:00",
+      "lastSuccess": "2026-09-19T16:29:39+00:00",
       "count": 27
     },
     {
@@ -84,7 +84,7 @@
       "url": "https://api.github.com/repos/openai/codex/releases?per_page=10",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-19T13:09:48+00:00",
+      "lastSuccess": "2026-09-19T16:29:39+00:00",
       "count": 2
     },
     {
@@ -94,7 +94,7 @@
       "url": "https://api.github.com/repos/anthropics/claude-code/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-19T13:09:48+00:00",
+      "lastSuccess": "2026-09-19T16:29:39+00:00",
       "count": 30
     },
     {
@@ -104,7 +104,7 @@
       "url": "https://jp.finalfantasyxiv.com/lodestone/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-19T13:09:48+00:00",
+      "lastSuccess": "2026-09-19T16:29:39+00:00",
       "count": 29
     },
     {
@@ -114,7 +114,7 @@
       "url": "https://steamcommunity.com/games/1245620/rss/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-19T13:09:48+00:00",
+      "lastSuccess": "2026-09-19T16:29:39+00:00",
       "count": 10
     },
     {
@@ -124,7 +124,7 @@
       "url": "https://store.steampowered.com/feeds/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-19T13:09:48+00:00",
+      "lastSuccess": "2026-09-19T16:29:39+00:00",
       "count": 10
     },
     {
@@ -134,11 +134,249 @@
       "url": "https://www.apple.com/jp/newsroom/rss-feed.rss",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-19T13:09:48+00:00",
+      "lastSuccess": "2026-09-19T16:29:39+00:00",
       "count": 20
     }
   ],
   "items": [
+    {
+      "id": "c08ea297f2cc2425918d4977",
+      "title": "PEC: Fall Finals 1 Day 2 is LIVE!!",
+      "url": "https://store.steampowered.com/news/app/578080/view/686391258373948169",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-19T02:09:21+00:00",
+      "detectedAt": "2026-09-19T16:29:39+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "21ea404dfe6abc703b771559682471e2b3ec5e56e87d6ce6421a8febc7fe74ad",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "8b90b50520528b53a1640124",
+      "title": "GTA 6 PC Version Gets Official Release Date Update",
+      "url": "https://store.steampowered.com/news/group/38666666/view/686391258373948203",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-19T15:25:26+00:00",
+      "detectedAt": "2026-09-19T16:29:39+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "d25e7c7ea830dba70ad87a12c9a71d30c7fa6ad6baae555a70d11e8eb55934fd",
+      "revision": 1,
+      "importance": 80,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "update",
+        "release"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "6c00d1f8e45577c224209679",
+      "title": "Batman's Official New Harley Quinn Is A Hit With Fans",
+      "url": "https://store.steampowered.com/news/group/38666666/view/686391258373948210",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-19T16:15:28+00:00",
+      "detectedAt": "2026-09-19T16:29:39+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "eacd95fc3313c6744a4618414ce73b3791acb340a7dd90e6341a7a788254fe44",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "60c553a4b4a7b2b5c51f4e1c",
+      "title": "Here's how to watch this year's PC Gaming Show Tokyo Direct",
+      "url": "https://store.steampowered.com/news/group/38509069/view/714538756043965316",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-19T15:07:00+00:00",
+      "detectedAt": "2026-09-19T16:29:39+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "c03c4306c1718aa3ba6e6f2e91d738d2b68ed0cbeea1f5bce6be8ec7abc04f0a",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "605bd76cc6345a1ef8ca4260",
+      "title": "Aniimo peaks at 150k players",
+      "url": "https://store.steampowered.com/news/group/4777282/view/693146657813954565",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-16T02:21:53+00:00",
+      "detectedAt": "2026-09-16T14:11:53+00:00",
+      "updatedAt": "2026-09-19T16:29:39+00:00",
+      "sourceUpdatedAt": null,
+      "changeType": "updated",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "5e6e9f44d62a545d7dd34ff7c9e49483cf8eabae59b5bd3af79b5b6bbaddcbc2",
+      "revision": 2,
+      "importance": 40,
+      "importanceReasons": [
+        "公式一次情報"
+      ],
+      "tags": []
+    },
+    {
+      "id": "3d3cf452dd536ac595cc1088",
+      "title": "Game Of Thrones Meets Magic: The Gathering In New Deckbuilder",
+      "url": "https://store.steampowered.com/news/group/38666666/view/686391258373948205",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-19T15:35:26+00:00",
+      "detectedAt": "2026-09-19T16:29:39+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "e1d85a45ef50aa36690d0151544e6b8135480f9860eb5479011199ab0e50aca8",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "3146a91b5fe0c6fdb69565e5",
+      "title": "The Legend Of Zelda: Breath Of The Wild Meets Genshin Impact In New Open-World RPG",
+      "url": "https://store.steampowered.com/news/group/38666666/view/686391258373948208",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-19T16:05:28+00:00",
+      "detectedAt": "2026-09-19T16:29:39+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "e4898c037fe5c80691be2b2c47168368c937c3b3b3212b853808dd3e178df2ac",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "1dabe0dc5cf8f62601423247",
+      "title": "My least favorite Blood of Dawnwalker mission has the best writing in the whole RPG, and I never want to play it again",
+      "url": "https://store.steampowered.com/news/group/38509069/view/714538756043965334",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-19T15:37:01+00:00",
+      "detectedAt": "2026-09-19T16:29:39+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "0208bcd1c2e7e1ace1819b40ef51244ff1c159c823f15c86572b6df804128de2",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "089e2adc6fd5fd4a89c8c832",
+      "title": "New Soulframe update brings the world to life with adorable wolf pups, fishing, and weather",
+      "url": "https://store.steampowered.com/news/group/3693985/view/669502759770260164",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-19T14:45:18+00:00",
+      "detectedAt": "2026-09-19T16:29:39+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "9cf2fe92865a538d5b69dd7a8da11233a9d3b5efa50741bcbd49aa54824a5b2d",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "update"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "004eb7e36561053a8b58f698",
+      "title": "The Wrath of the Dragon Event is live TOMORROW!",
+      "url": "https://store.steampowered.com/news/app/1374490/view/716790555855553156",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-18T16:56:42+00:00",
+      "detectedAt": "2026-09-19T16:29:39+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "24a21c0ca6a6a853eacfc214920f4a0f1eebbda985ff6b3269a42fc6cd2e36fe",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": [
+        "イベント"
+      ]
+    },
     {
       "id": "ded6d663a6b323e5c8cc1c57",
       "title": "The Last of Us director apologises to God of War Laufey team for citing it while saying AAA experiences are ‘boring’",
@@ -1067,10 +1305,9 @@
       "summary": null,
       "contentHash": "e1de39f229ebb5159ff091127bd31242172b28e692940d6c97eb213c3e2ef07b",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1244,10 +1481,9 @@
       "summary": null,
       "contentHash": "87cc8d671f31b5084600ffa52ec8be141272497fc80b1f7e3b3165b189cc3d96",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -3572,28 +3808,6 @@
       "kind": "article",
       "summary": null,
       "contentHash": "1c113765fb8561c2875844bddae5c6120bef86aa9b61196118483ed7e9a14c60",
-      "revision": 1,
-      "importance": 40,
-      "importanceReasons": [
-        "公式一次情報"
-      ],
-      "tags": []
-    },
-    {
-      "id": "605bd76cc6345a1ef8ca4260",
-      "title": "Aniimo peaks at 114k players",
-      "url": "https://store.steampowered.com/news/group/4777282/view/693146657813954565",
-      "sourceId": "steam",
-      "sourceName": "Steam News",
-      "category": "game",
-      "publishedAt": "2026-09-16T02:21:53+00:00",
-      "detectedAt": "2026-09-16T14:11:53+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "d823bfd7795b58d92b3a92f2ce210083d6e068a57b72c93121abab6ea8c78067",
       "revision": 1,
       "importance": 40,
       "importanceReasons": [

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T08:34:17+00:00",
+  "generatedAt": "2026-09-20T13:34:52+00:00",
   "collector": {
-    "lastRun": "2026-09-20T08:34:17+00:00",
+    "lastRun": "2026-09-20T13:34:52+00:00",
     "success": 13,
     "failed": 0
   },
@@ -14,7 +14,7 @@
       "url": "https://www.digital.go.jp/rss/news.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-20T08:34:17+00:00",
+      "lastSuccess": "2026-09-20T13:34:52+00:00",
       "count": 33
     },
     {
@@ -24,7 +24,7 @@
       "url": "https://www.jpcert.or.jp/rss/jpcert.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-20T08:34:17+00:00",
+      "lastSuccess": "2026-09-20T13:34:52+00:00",
       "count": 28
     },
     {
@@ -34,7 +34,7 @@
       "url": "https://jvn.jp/rss/jvn.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-20T08:34:17+00:00",
+      "lastSuccess": "2026-09-20T13:34:52+00:00",
       "count": 20
     },
     {
@@ -44,7 +44,7 @@
       "url": "https://blogs.jpcert.or.jp/ja/atom.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-20T08:34:17+00:00",
+      "lastSuccess": "2026-09-20T13:34:52+00:00",
       "count": 15
     },
     {
@@ -54,7 +54,7 @@
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-20T08:34:17+00:00",
+      "lastSuccess": "2026-09-20T13:34:52+00:00",
       "count": 200
     },
     {
@@ -64,7 +64,7 @@
       "url": "https://github.blog/changelog/feed/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-20T08:34:17+00:00",
+      "lastSuccess": "2026-09-20T13:34:52+00:00",
       "count": 10
     },
     {
@@ -74,7 +74,7 @@
       "url": "https://api.github.com/repos/langgenius/dify/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-20T08:34:17+00:00",
+      "lastSuccess": "2026-09-20T13:34:52+00:00",
       "count": 27
     },
     {
@@ -84,7 +84,7 @@
       "url": "https://api.github.com/repos/openai/codex/releases?per_page=10",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-20T08:34:17+00:00",
+      "lastSuccess": "2026-09-20T13:34:52+00:00",
       "count": 1
     },
     {
@@ -94,7 +94,7 @@
       "url": "https://api.github.com/repos/anthropics/claude-code/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-20T08:34:17+00:00",
+      "lastSuccess": "2026-09-20T13:34:52+00:00",
       "count": 30
     },
     {
@@ -104,7 +104,7 @@
       "url": "https://jp.finalfantasyxiv.com/lodestone/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-20T08:34:17+00:00",
+      "lastSuccess": "2026-09-20T13:34:52+00:00",
       "count": 29
     },
     {
@@ -114,7 +114,7 @@
       "url": "https://steamcommunity.com/games/1245620/rss/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-20T08:34:17+00:00",
+      "lastSuccess": "2026-09-20T13:34:52+00:00",
       "count": 10
     },
     {
@@ -124,7 +124,7 @@
       "url": "https://store.steampowered.com/feeds/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-20T08:34:17+00:00",
+      "lastSuccess": "2026-09-20T13:34:52+00:00",
       "count": 10
     },
     {
@@ -134,11 +134,241 @@
       "url": "https://www.apple.com/jp/newsroom/rss-feed.rss",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-20T08:34:17+00:00",
+      "lastSuccess": "2026-09-20T13:34:52+00:00",
       "count": 20
     }
   ],
   "items": [
+    {
+      "id": "f9f39b044833fffdffa284f6",
+      "title": "Analog horror meets Cards Against Humanity in this bizarre TTRPG",
+      "url": "https://store.steampowered.com/news/group/718735/view/696524357534483267",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-20T13:04:53+00:00",
+      "detectedAt": "2026-09-20T13:34:52+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "2d61de39ebf89974259ad3a6274405abb7188d9164140552f075ea2676ff930e",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "f1e8b5aae4ce1359081f0bcf",
+      "title": "Hideo Kojima didn't think Physint would be at risk of cancelation because \"this is the biggest selling title I could possibly create\"",
+      "url": "https://store.steampowered.com/news/group/38509069/view/714538756043965399",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-20T12:38:13+00:00",
+      "detectedAt": "2026-09-20T13:34:52+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "edb9bfcc1ba786d27380d188475fc7986375f5ba0b9a6d01c4155c8f0f8fd0fb",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "d20f0b6e4cf7fc13b4648111",
+      "title": "Become everyone's favorite DM in DnD with the best DMG books for 92% off",
+      "url": "https://store.steampowered.com/news/group/718735/view/696524357534483261",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-20T11:04:49+00:00",
+      "detectedAt": "2026-09-20T13:34:52+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "53d8be4c26da3d5d4d290db9d4971fc5ca0b991679a746f79b5dbae5c53bf298",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "bb70e7e311fc305d306b2da9",
+      "title": "Epic Games Launcher Is Officially To Blame For Weird PC Noises",
+      "url": "https://store.steampowered.com/news/group/38458038/view/716790555855553262",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-20T12:45:48+00:00",
+      "detectedAt": "2026-09-20T13:34:52+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "91e1b2614fbee0be00839c194abc40d939ffdcd5e9bfe6a4824367b093f231aa",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "b15bc1e4ad149e1c3f7210b3",
+      "title": "Total War Warhammer 40k learns from CA's fantasy trilogy to craft \"a single experience\" that will just keep growing",
+      "url": "https://store.steampowered.com/news/group/3693985/view/669502759770260215",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-20T12:46:15+00:00",
+      "detectedAt": "2026-09-20T13:34:52+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "7306fe881b6315360dd29b9e530f778ebd17764596a2c0a71e38b383b882a84a",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "ac447fb6e5b82199cf6feec2",
+      "title": "Delta Force | ANNIVERSARY SEASON STREAMER",
+      "url": "https://store.steampowered.com/news/app/2507950/view/679635858932892785",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-20T11:22:49+00:00",
+      "detectedAt": "2026-09-20T13:34:52+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "c5676b225ff327416b846776b572b005f8e79f09816f911bef59724b4dc37097",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "9f72361c99c6de7abaea9a66",
+      "title": "Shift Up shares new Stellar Blade Bayonetta Collaboration trailer showcasing outfits and more",
+      "url": "https://store.steampowered.com/news/group/6070552/view/677384059121304491",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-20T12:45:32+00:00",
+      "detectedAt": "2026-09-20T13:34:52+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "e6ba8345cdf9c69716774527d358d99bd637ffe76d2a6e49145723e718b8b6b2",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "4fb0a8f998be24c4ee700291",
+      "title": "The MTG Reality Fracture Commander precon reprints this $24 dollar demon",
+      "url": "https://store.steampowered.com/news/group/718735/view/696524357534483269",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-20T13:04:53+00:00",
+      "detectedAt": "2026-09-20T13:34:52+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "f3d20e4305710dc10083c60514475fbe01cbc0ba0cd750d3bb2192fbd35fc14d",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "37bfd0043e1fab378a9dff13",
+      "title": "It's Not Over Yet",
+      "url": "https://store.steampowered.com/news/app/1818450/view/686391258373948265",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-20T11:01:30+00:00",
+      "detectedAt": "2026-09-20T13:34:52+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "b4de73ebbf840681893f524160c6e1ef4d367ca25e923d7c01169c0cf0b4b6d5",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "0dad8f28bedda92d9b2ac58c",
+      "title": "Stellar Blade Nintendo Switch 2 demo is now available on the eShop",
+      "url": "https://store.steampowered.com/news/group/6070552/view/677384059121304493",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-20T12:55:33+00:00",
+      "detectedAt": "2026-09-20T13:34:52+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "2be6bb960d22ce9da0f81ea956815935d4491a099a8d4b1cf7eb4c96505d779b",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
     {
       "id": "a4d6d7fcfb76179b230bf202",
       "title": "Zelda Meets Assassin's Creed: Black Flag In Steam Game You Can Try Free Now",
@@ -787,10 +1017,9 @@
       "summary": null,
       "contentHash": "baa293f225291a74e971a1648c15847d5d71c34d5b8b22b3b5732c068bdd4daa",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -810,10 +1039,9 @@
       "summary": null,
       "contentHash": "a7cdd40906002a0ec437c32c9438b90a231b07513b9a338dd11a7f26f22b5ff4",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -833,10 +1061,9 @@
       "summary": null,
       "contentHash": "033639d381fe1a8f3ffda9582b400b2e0405bb8fabf553704083b383a40ec5bf",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -856,10 +1083,9 @@
       "summary": null,
       "contentHash": "f3584800eec801a0426bbf8fefbd2a55ee0c45c14c9922755ceaa7e46200a542",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -879,10 +1105,9 @@
       "summary": null,
       "contentHash": "81660de1d3428429468e2f4d511e55453c1d3a587eb2c7f5145e3da4e62d7ca0",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -902,10 +1127,9 @@
       "summary": null,
       "contentHash": "285728e3090a8d7a0cc7fef11f172d1dd8ce37d4edf9e50df14c9f3675863df4",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -925,10 +1149,9 @@
       "summary": null,
       "contentHash": "0a8fa8c3a5d6e3664628da3f2b8ef8311327a90939950594eee0edb3fba3b013",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -948,10 +1171,9 @@
       "summary": null,
       "contentHash": "6e93b756ab644d449bd59ad47d3522f524746408549ecfb8b94f7ea9c1f7f44c",
       "revision": 1,
-      "importance": 65,
+      "importance": 55,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "release"
       ],
       "tags": [
@@ -974,10 +1196,9 @@
       "summary": null,
       "contentHash": "7e2f3951b39ed60f908ac538d850055cdcacd2ca1bd28c05345f596cefbd7258",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -997,10 +1218,9 @@
       "summary": null,
       "contentHash": "ab319b77831580a1675d343627736d7ceff358237996da4ba21c102c0049f5ce",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },

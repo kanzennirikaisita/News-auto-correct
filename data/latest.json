@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T00:08:38+00:00",
+  "generatedAt": "2026-09-20T08:34:17+00:00",
   "collector": {
-    "lastRun": "2026-09-20T00:08:38+00:00",
+    "lastRun": "2026-09-20T08:34:17+00:00",
     "success": 13,
     "failed": 0
   },
@@ -14,7 +14,7 @@
       "url": "https://www.digital.go.jp/rss/news.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-20T00:08:38+00:00",
+      "lastSuccess": "2026-09-20T08:34:17+00:00",
       "count": 33
     },
     {
@@ -24,7 +24,7 @@
       "url": "https://www.jpcert.or.jp/rss/jpcert.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-20T00:08:38+00:00",
+      "lastSuccess": "2026-09-20T08:34:17+00:00",
       "count": 28
     },
     {
@@ -34,7 +34,7 @@
       "url": "https://jvn.jp/rss/jvn.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-20T00:08:38+00:00",
+      "lastSuccess": "2026-09-20T08:34:17+00:00",
       "count": 20
     },
     {
@@ -44,7 +44,7 @@
       "url": "https://blogs.jpcert.or.jp/ja/atom.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-20T00:08:38+00:00",
+      "lastSuccess": "2026-09-20T08:34:17+00:00",
       "count": 15
     },
     {
@@ -54,7 +54,7 @@
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-20T00:08:38+00:00",
+      "lastSuccess": "2026-09-20T08:34:17+00:00",
       "count": 200
     },
     {
@@ -64,7 +64,7 @@
       "url": "https://github.blog/changelog/feed/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-20T00:08:38+00:00",
+      "lastSuccess": "2026-09-20T08:34:17+00:00",
       "count": 10
     },
     {
@@ -74,7 +74,7 @@
       "url": "https://api.github.com/repos/langgenius/dify/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-20T00:08:38+00:00",
+      "lastSuccess": "2026-09-20T08:34:17+00:00",
       "count": 27
     },
     {
@@ -84,8 +84,8 @@
       "url": "https://api.github.com/repos/openai/codex/releases?per_page=10",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-20T00:08:38+00:00",
-      "count": 2
+      "lastSuccess": "2026-09-20T08:34:17+00:00",
+      "count": 1
     },
     {
       "id": "claude-code",
@@ -94,7 +94,7 @@
       "url": "https://api.github.com/repos/anthropics/claude-code/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-20T00:08:38+00:00",
+      "lastSuccess": "2026-09-20T08:34:17+00:00",
       "count": 30
     },
     {
@@ -104,7 +104,7 @@
       "url": "https://jp.finalfantasyxiv.com/lodestone/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-20T00:08:38+00:00",
+      "lastSuccess": "2026-09-20T08:34:17+00:00",
       "count": 29
     },
     {
@@ -114,7 +114,7 @@
       "url": "https://steamcommunity.com/games/1245620/rss/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-20T00:08:38+00:00",
+      "lastSuccess": "2026-09-20T08:34:17+00:00",
       "count": 10
     },
     {
@@ -124,7 +124,7 @@
       "url": "https://store.steampowered.com/feeds/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-20T00:08:38+00:00",
+      "lastSuccess": "2026-09-20T08:34:17+00:00",
       "count": 10
     },
     {
@@ -134,11 +134,175 @@
       "url": "https://www.apple.com/jp/newsroom/rss-feed.rss",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-20T00:08:38+00:00",
+      "lastSuccess": "2026-09-20T08:34:17+00:00",
       "count": 20
     }
   ],
   "items": [
+    {
+      "id": "a4d6d7fcfb76179b230bf202",
+      "title": "Zelda Meets Assassin's Creed: Black Flag In Steam Game You Can Try Free Now",
+      "url": "https://store.steampowered.com/news/group/38666666/view/686391258373948262",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-20T08:06:07+00:00",
+      "detectedAt": "2026-09-20T08:34:17+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "6d133750ec2fc355519d45f532e863b038f6f8d28771e408e4eab61674e7f71c",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "818118011e53f183c630bc9f",
+      "title": "Final Fantasy Meets Octopath Traveler In New RPG Arriving In October",
+      "url": "https://store.steampowered.com/news/group/38666666/view/686391258373948244",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-20T04:05:57+00:00",
+      "detectedAt": "2026-09-20T08:34:17+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "749b674bafd069b9c121c57d1ab7c443a6f1a8661f95d1ecea6f59bc92371f7a",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "6e413f3989a9c0a40fd3d700",
+      "title": "Avatar The Last Airbender: The Loyal Flame Officially Unveiled",
+      "url": "https://store.steampowered.com/news/group/38666666/view/686391258373948234",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-20T01:05:50+00:00",
+      "detectedAt": "2026-09-20T08:34:17+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "83e5ce6bb55d53d14c0ce5051b810b0c0a590d90725786bcdbaa3a87a938d077",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "5d1f6dfb4433f8dd6d2433be",
+      "title": "Special Enforcement Against Negative Behavior",
+      "url": "https://store.steampowered.com/news/app/2073620/view/678509959027098540",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-20T04:01:53+00:00",
+      "detectedAt": "2026-09-20T08:34:17+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "9ac0667dafabbbc7dcb89fe940bc6003863fa4b2c33a81db2c33159eb68ca6a2",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "2b6729ffe97dda5fc3f7f769",
+      "title": "Final Fantasy 14 Sets Unexpected Release For December 2026",
+      "url": "https://store.steampowered.com/news/group/38666666/view/686391258373948254",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-20T06:06:02+00:00",
+      "detectedAt": "2026-09-20T08:34:17+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "736d248ad8196aec41d27e6084468a9e4765d958709923ca4c455c861a20be70",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "release"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "0bcd89c697d2e00adc2d9bab",
+      "title": "Diablo 4 Is Completely Free For 24 Hours",
+      "url": "https://store.steampowered.com/news/group/38666666/view/686391258373948248",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-20T04:35:58+00:00",
+      "detectedAt": "2026-09-20T08:34:17+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "bfaccdfb53d1c790dfef7a978f4fdaf2af9b6a3e0022873a6d09a5a3de62e734",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "0245dad51bb3d67a1e1e1829",
+      "title": "The Wheel Of Time Is About To Rewrite The Forsaken’s Fate",
+      "url": "https://store.steampowered.com/news/group/38666666/view/686391258373948252",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-20T05:36:01+00:00",
+      "detectedAt": "2026-09-20T08:34:17+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "2d6d8363bdf19f2a01fdbca454e989970fbf68225c096c1f4daf7e7c2b61bb20",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
     {
       "id": "f88e4928c0079ce46adea570",
       "title": "PAS2 Finals 1 Day 2 is LIVE!!",
@@ -155,10 +319,9 @@
       "summary": null,
       "contentHash": "7fb3a71891e073d0fa2127902ae7e8d88bb625a645e3040786458c70488e9ebd",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -388,10 +551,9 @@
       "summary": null,
       "contentHash": "21ea404dfe6abc703b771559682471e2b3ec5e56e87d6ce6421a8febc7fe74ad",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -858,10 +1020,9 @@
       "summary": null,
       "contentHash": "b46d574bb407e6300fa9872e81711bae96d3b8bfc8cad8849f0a9671cf80c5e6",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -881,10 +1042,9 @@
       "summary": null,
       "contentHash": "9d45731f737d8c8ad02b1d61f004f51eadd60927c71393cbdc9e752e0c99c642",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -926,10 +1086,9 @@
       "summary": null,
       "contentHash": "be0b02c589e9236192ca9bf365ce4fce8861472cf6412883bea4ef747d390856",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -949,10 +1108,9 @@
       "summary": null,
       "contentHash": "cf438d7c151f0da0cbeda402b6fecb03b2a913b120bb24bbe039ada08f7eb977",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -994,10 +1152,9 @@
       "summary": null,
       "contentHash": "9691e39c47b3d6a938e8f381be2e28d38103793686f015f28722357294948c04",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1017,10 +1174,9 @@
       "summary": null,
       "contentHash": "a2929e17c3c9769ba675a5c9e72bf371dc5e31ff1bd0a593d72a59887dcc4d9e",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1040,10 +1196,9 @@
       "summary": null,
       "contentHash": "161be322194b800e2d13c761b00118f1d09486cb41214ccd13ce663101a7f39a",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1063,10 +1218,9 @@
       "summary": null,
       "contentHash": "7936d749f4af9636dab005665812f5f7776b9d1f4da8310a0f0e55633aa08a9f",
       "revision": 1,
-      "importance": 65,
+      "importance": 55,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "バージョン公開"
       ],
       "tags": [
@@ -1089,10 +1243,9 @@
       "summary": null,
       "contentHash": "881b9759a1d0ade26b470e627fb3762388253b5f8d0460be1234965eeaf7ee79",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },

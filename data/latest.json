@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-21T08:55:18+00:00",
+  "generatedAt": "2026-09-21T15:53:27+00:00",
   "collector": {
-    "lastRun": "2026-09-21T08:55:18+00:00",
+    "lastRun": "2026-09-21T15:53:27+00:00",
     "success": 13,
     "failed": 0
   },
@@ -14,7 +14,7 @@
       "url": "https://www.digital.go.jp/rss/news.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-21T08:55:18+00:00",
+      "lastSuccess": "2026-09-21T15:53:27+00:00",
       "count": 33
     },
     {
@@ -24,7 +24,7 @@
       "url": "https://www.jpcert.or.jp/rss/jpcert.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-21T08:55:18+00:00",
+      "lastSuccess": "2026-09-21T15:53:27+00:00",
       "count": 28
     },
     {
@@ -34,7 +34,7 @@
       "url": "https://jvn.jp/rss/jvn.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-21T08:55:18+00:00",
+      "lastSuccess": "2026-09-21T15:53:27+00:00",
       "count": 20
     },
     {
@@ -44,7 +44,7 @@
       "url": "https://blogs.jpcert.or.jp/ja/atom.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-21T08:55:18+00:00",
+      "lastSuccess": "2026-09-21T15:53:27+00:00",
       "count": 15
     },
     {
@@ -54,7 +54,7 @@
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-21T08:55:18+00:00",
+      "lastSuccess": "2026-09-21T15:53:27+00:00",
       "count": 200
     },
     {
@@ -64,7 +64,7 @@
       "url": "https://github.blog/changelog/feed/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-21T08:55:18+00:00",
+      "lastSuccess": "2026-09-21T15:53:27+00:00",
       "count": 10
     },
     {
@@ -74,7 +74,7 @@
       "url": "https://api.github.com/repos/langgenius/dify/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-21T08:55:18+00:00",
+      "lastSuccess": "2026-09-21T15:53:27+00:00",
       "count": 27
     },
     {
@@ -84,7 +84,7 @@
       "url": "https://api.github.com/repos/openai/codex/releases?per_page=10",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-21T08:55:18+00:00",
+      "lastSuccess": "2026-09-21T15:53:27+00:00",
       "count": 1
     },
     {
@@ -94,7 +94,7 @@
       "url": "https://api.github.com/repos/anthropics/claude-code/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-21T08:55:18+00:00",
+      "lastSuccess": "2026-09-21T15:53:27+00:00",
       "count": 30
     },
     {
@@ -104,7 +104,7 @@
       "url": "https://jp.finalfantasyxiv.com/lodestone/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-21T08:55:18+00:00",
+      "lastSuccess": "2026-09-21T15:53:27+00:00",
       "count": 29
     },
     {
@@ -114,7 +114,7 @@
       "url": "https://steamcommunity.com/games/1245620/rss/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-21T08:55:18+00:00",
+      "lastSuccess": "2026-09-21T15:53:27+00:00",
       "count": 10
     },
     {
@@ -124,7 +124,7 @@
       "url": "https://store.steampowered.com/feeds/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-21T08:55:18+00:00",
+      "lastSuccess": "2026-09-21T15:53:27+00:00",
       "count": 10
     },
     {
@@ -134,11 +134,286 @@
       "url": "https://www.apple.com/jp/newsroom/rss-feed.rss",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-21T08:55:18+00:00",
+      "lastSuccess": "2026-09-21T15:53:27+00:00",
       "count": 20
     }
   ],
   "items": [
+    {
+      "id": "f641f4dce5b7ae9edc43c001",
+      "title": "RuneScape: Dragonwilds has gathered its ingredients but still lacks flavor",
+      "url": "https://store.steampowered.com/news/group/38509069/view/714538756043965538",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-21T15:09:35+00:00",
+      "detectedAt": "2026-09-21T15:53:27+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "ab88339d02810d4efa019d336ce475a5b77af633d84710c08313a69434f76a08",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "e7198d51fa72407f27a6bda1",
+      "title": "「PAX Australia 2026」出展情報！",
+      "url": "https://jp.finalfantasyxiv.com/lodestone/topics/detail/06c05868997287ccdb33c177488c64989f761d1d",
+      "sourceId": "ff14",
+      "sourceName": "FFXIV Lodestone",
+      "category": "game",
+      "publishedAt": null,
+      "detectedAt": "2026-09-21T15:53:27+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "e1afe2a5fe526e07c053bc2aa931b428ed50e079bfa284586c71721497768806",
+      "revision": 1,
+      "importance": 40,
+      "importanceReasons": [
+        "公式一次情報"
+      ],
+      "tags": []
+    },
+    {
+      "id": "d2871d486c61275aa1831622",
+      "title": "How V7 gives AI agents institutional memory",
+      "url": "https://openai.com/index/v7",
+      "sourceId": "openai",
+      "sourceName": "OpenAI",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-21T00:00:00+00:00",
+      "detectedAt": "2026-09-21T15:53:27+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "f9a0e7b554e148b1683e876ea11227810771e80078493f226b224b742c964e7b",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "b80fdb7d373326a7c2051d47",
+      "title": "Putin's awkward online voting video features a Dell PC and an \"Activate Windows\" watermark",
+      "url": "https://store.steampowered.com/news/group/3081/view/680761758839735158",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-21T15:15:43+00:00",
+      "detectedAt": "2026-09-21T15:53:27+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "6619e3de643712e36d6fa446250d9b542c7f366f5136658fb21241f88f42bb51",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "9d0660d20f149757f435592b",
+      "title": "“I Have No Bad Feelings,” Hideo Kojima Says Following Physint’s Cancellation at PlayStation",
+      "url": "https://store.steampowered.com/news/group/7433348/view/690894858003416035",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-21T15:14:35+00:00",
+      "detectedAt": "2026-09-21T15:53:27+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "578a561afab94e58405841422778cafe57b5051f6b08391e92e40bb29b94c067",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "90619c59b7bd501086f65e29",
+      "title": "The most highly rated Native Linux Steam games for August 2026",
+      "url": "https://store.steampowered.com/news/group/4218320/view/698776157349217214",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-21T15:30:45+00:00",
+      "detectedAt": "2026-09-21T15:53:27+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "6f1bd978f2591308be3a296f6395af94d1b7fd3b640176d8ec3336ab8fdee6b8",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "7dd255c52ce8269d880e28ef",
+      "title": "\"You can't tell me this isn't WoW 2\": Blizzard says World of Warcraft doesn't need a sequel thanks to Forever, but MMO fans say it already made one",
+      "url": "https://store.steampowered.com/news/group/38509069/view/714538756043965540",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-21T15:09:35+00:00",
+      "detectedAt": "2026-09-21T15:53:27+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "174db3614543adff54dfe0b37a464b35309b3177c4261773a251c61976d4bd60",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "679c822cf7cffe0987dd0952",
+      "title": "New Extraction Shooter Seems Like Hideo Kojima’s Take on the Genre",
+      "url": "https://store.steampowered.com/news/group/1450625/view/692020757910258669",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-21T15:38:37+00:00",
+      "detectedAt": "2026-09-21T15:53:27+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "e5fe427f994d6cc1bd0d215f84b2b48d9336aa832154c7d9003094d7a3183604",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "5b7123ba733b93c975a7486a",
+      "title": "Monster Hunter Wilds: Ascendance reveals Khezu",
+      "url": "https://store.steampowered.com/news/group/6070552/view/677384059121304637",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-21T14:36:19+00:00",
+      "detectedAt": "2026-09-21T15:53:27+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "834b87b305ae410af7be39fd5e5119936ddc36964e9cbf6d28433035028a80b2",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "3cdfc74f0add79f7f532c204",
+      "title": "New 2D Platformer Game on Steam Is Basically Cuphead Meets Hollow Knight",
+      "url": "https://store.steampowered.com/news/group/1450625/view/692020757910258667",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-21T15:08:35+00:00",
+      "detectedAt": "2026-09-21T15:53:27+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "d5879e868ebf70caf75abd2fcbc657b936037751abe4669f3bc19aacde65b4de",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "1bcb842d25421519a2adf646",
+      "title": "Get free cosmetics and help streamers raise money for charity",
+      "url": "https://store.steampowered.com/news/app/1172710/view/690894858003416009",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-21T14:43:50+00:00",
+      "detectedAt": "2026-09-21T15:53:27+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "69160d309bd2ce2da6019f9ca9b11b5fcbf5ea032b54bb999112def8684408f5",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "0e7b90c66a566c8d475a432d",
+      "title": "Atmospheric management RPG Keep Driving is coming to PS5, Xbox Series, and Switch on September 28",
+      "url": "https://store.steampowered.com/news/group/6070552/view/677384059121304643",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-21T15:46:22+00:00",
+      "detectedAt": "2026-09-21T15:53:27+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "6f90bbc9b9c6e5c16d1633719f0b2f61f18b22c06a2110bc2adca04cc33752e9",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
     {
       "id": "eb4e8ab377d819944d001ef2",
       "title": "Oozing with deadly sludge, reclaim the world in the roguelike survival city builder Toxic Frontier",
@@ -626,10 +901,9 @@
       "summary": null,
       "contentHash": "2d61de39ebf89974259ad3a6274405abb7188d9164140552f075ea2676ff930e",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -649,10 +923,9 @@
       "summary": null,
       "contentHash": "edb9bfcc1ba786d27380d188475fc7986375f5ba0b9a6d01c4155c8f0f8fd0fb",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -672,10 +945,9 @@
       "summary": null,
       "contentHash": "53d8be4c26da3d5d4d290db9d4971fc5ca0b991679a746f79b5dbae5c53bf298",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -695,10 +967,9 @@
       "summary": null,
       "contentHash": "91e1b2614fbee0be00839c194abc40d939ffdcd5e9bfe6a4824367b093f231aa",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -718,10 +989,9 @@
       "summary": null,
       "contentHash": "7306fe881b6315360dd29b9e530f778ebd17764596a2c0a71e38b383b882a84a",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -741,10 +1011,9 @@
       "summary": null,
       "contentHash": "c5676b225ff327416b846776b572b005f8e79f09816f911bef59724b4dc37097",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -764,10 +1033,9 @@
       "summary": null,
       "contentHash": "e6ba8345cdf9c69716774527d358d99bd637ffe76d2a6e49145723e718b8b6b2",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -787,10 +1055,9 @@
       "summary": null,
       "contentHash": "f3d20e4305710dc10083c60514475fbe01cbc0ba0cd750d3bb2192fbd35fc14d",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -810,10 +1077,9 @@
       "summary": null,
       "contentHash": "b4de73ebbf840681893f524160c6e1ef4d367ca25e923d7c01169c0cf0b4b6d5",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -833,10 +1099,9 @@
       "summary": null,
       "contentHash": "2be6bb960d22ce9da0f81ea956815935d4491a099a8d4b1cf7eb4c96505d779b",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },

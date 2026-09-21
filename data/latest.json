@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-21T00:15:54+00:00",
+  "generatedAt": "2026-09-21T08:55:18+00:00",
   "collector": {
-    "lastRun": "2026-09-21T00:15:54+00:00",
+    "lastRun": "2026-09-21T08:55:18+00:00",
     "success": 13,
     "failed": 0
   },
@@ -14,7 +14,7 @@
       "url": "https://www.digital.go.jp/rss/news.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-21T00:15:54+00:00",
+      "lastSuccess": "2026-09-21T08:55:18+00:00",
       "count": 33
     },
     {
@@ -24,7 +24,7 @@
       "url": "https://www.jpcert.or.jp/rss/jpcert.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-21T00:15:54+00:00",
+      "lastSuccess": "2026-09-21T08:55:18+00:00",
       "count": 28
     },
     {
@@ -34,7 +34,7 @@
       "url": "https://jvn.jp/rss/jvn.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-21T00:15:54+00:00",
+      "lastSuccess": "2026-09-21T08:55:18+00:00",
       "count": 20
     },
     {
@@ -44,7 +44,7 @@
       "url": "https://blogs.jpcert.or.jp/ja/atom.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-21T00:15:54+00:00",
+      "lastSuccess": "2026-09-21T08:55:18+00:00",
       "count": 15
     },
     {
@@ -54,7 +54,7 @@
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-21T00:15:54+00:00",
+      "lastSuccess": "2026-09-21T08:55:18+00:00",
       "count": 200
     },
     {
@@ -64,7 +64,7 @@
       "url": "https://github.blog/changelog/feed/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-21T00:15:54+00:00",
+      "lastSuccess": "2026-09-21T08:55:18+00:00",
       "count": 10
     },
     {
@@ -74,7 +74,7 @@
       "url": "https://api.github.com/repos/langgenius/dify/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-21T00:15:54+00:00",
+      "lastSuccess": "2026-09-21T08:55:18+00:00",
       "count": 27
     },
     {
@@ -84,7 +84,7 @@
       "url": "https://api.github.com/repos/openai/codex/releases?per_page=10",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-21T00:15:54+00:00",
+      "lastSuccess": "2026-09-21T08:55:18+00:00",
       "count": 1
     },
     {
@@ -94,7 +94,7 @@
       "url": "https://api.github.com/repos/anthropics/claude-code/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-21T00:15:54+00:00",
+      "lastSuccess": "2026-09-21T08:55:18+00:00",
       "count": 30
     },
     {
@@ -104,7 +104,7 @@
       "url": "https://jp.finalfantasyxiv.com/lodestone/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-21T00:15:54+00:00",
+      "lastSuccess": "2026-09-21T08:55:18+00:00",
       "count": 29
     },
     {
@@ -114,7 +114,7 @@
       "url": "https://steamcommunity.com/games/1245620/rss/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-21T00:15:54+00:00",
+      "lastSuccess": "2026-09-21T08:55:18+00:00",
       "count": 10
     },
     {
@@ -124,7 +124,7 @@
       "url": "https://store.steampowered.com/feeds/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-21T00:15:54+00:00",
+      "lastSuccess": "2026-09-21T08:55:18+00:00",
       "count": 10
     },
     {
@@ -134,11 +134,247 @@
       "url": "https://www.apple.com/jp/newsroom/rss-feed.rss",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-21T00:15:54+00:00",
+      "lastSuccess": "2026-09-21T08:55:18+00:00",
       "count": 20
     }
   ],
   "items": [
+    {
+      "id": "eb4e8ab377d819944d001ef2",
+      "title": "Oozing with deadly sludge, reclaim the world in the roguelike survival city builder Toxic Frontier",
+      "url": "https://store.steampowered.com/news/group/4218320/view/698776157349217164",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-21T08:40:17+00:00",
+      "detectedAt": "2026-09-21T08:55:18+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "3bc398380afd116616109e185ec961a1628d745de1bf40fb82118072c2904a5f",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "e344fb545b2e5994f2de3e65",
+      "title": "dwproton-11.0-13 brings fixes for Goddess of Victory: NIKKE, Aniimo and more on SteamOS / Linux",
+      "url": "https://store.steampowered.com/news/group/4218320/view/698776157349217149",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-21T07:50:13+00:00",
+      "detectedAt": "2026-09-21T08:55:18+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "f1a0cd7dfc7bf9b6d3903b08327f8b39b03be1c60f06417a5231166538619041",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "ba0c7d6aad8d30d3f5b78c81",
+      "title": "Steam Users Have Limited Time to Claim 2D Platformer Game Completely Free of Charge",
+      "url": "https://store.steampowered.com/news/group/1450625/view/692020757910258613",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-21T07:28:12+00:00",
+      "detectedAt": "2026-09-21T08:55:18+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "8d444c3a0c18b248a174e89a3af13cb73ccb739d82b682ec021938d76577a344",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "a025aee021651234412bba41",
+      "title": "Thief: The Dark Project Remastered from Nightdive gets a new trailer",
+      "url": "https://store.steampowered.com/news/group/4218320/view/698776157349217157",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-21T08:20:15+00:00",
+      "detectedAt": "2026-09-21T08:55:18+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "703f31dd9755ad19b794ec5c75ac97061b78ea6b459c910cce218d7236147973",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "8c810fdef92f552982764159",
+      "title": "Wine 11.18 released with more NTOSKRNL support for kernel drivers",
+      "url": "https://store.steampowered.com/news/group/4218320/view/698776157349217145",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-21T07:10:10+00:00",
+      "detectedAt": "2026-09-21T08:55:18+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "cb81554f20bb4432d1a2a91dbfaaa9895b63e5e5c566f24f6740a847225036f7",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "release"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "6a25ff98b6dc3baaaa46039c",
+      "title": "The Legend of Zelda: Twilight Princess PC port Dusklight 2.0 brings modding, a randomizer and more",
+      "url": "https://store.steampowered.com/news/group/4218320/view/698776157349217153",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-21T08:00:14+00:00",
+      "detectedAt": "2026-09-21T08:55:18+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "a49034ab251b32799ec220aa0dc2e2a359529bc8f5291e01286f113bcbc961be",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "6718b751d35f54c8fc337331",
+      "title": "SILENT HILL: Townfall Launch Trailer Released",
+      "url": "https://store.steampowered.com/news/app/1636440/view/719042355668190025",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-21T08:05:46+00:00",
+      "detectedAt": "2026-09-21T08:55:18+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "eaf7305ff0009141d1c888f7c05dd311fe6a15ce83e05f61ea33efc942d7457e",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "release"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "480aff7a2cbafa1c9ae27664",
+      "title": "Silent Hill: Townfall (PS5) Review",
+      "url": "https://store.steampowered.com/news/group/7433348/view/690894858003415950",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-21T07:11:50+00:00",
+      "detectedAt": "2026-09-21T08:55:18+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "b083b66afbaa18351ce091b016339245c0f7eb13dfd4a2a0defcb92d088bdac3",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "28640bee2c93413ff2a86fcc",
+      "title": "Inspired by 1930s & 1940s animations, Moylo looks supremely cool",
+      "url": "https://store.steampowered.com/news/group/4218320/view/698776157349217155",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-21T08:20:15+00:00",
+      "detectedAt": "2026-09-21T08:55:18+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "d5993791299fbf7b10448e39b1fb40865192d93dc1c4c1db8e8e01687890a458",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "0a10293da1aadc3416a1363c",
+      "title": "Check out the demo for the narrative-driven bullet-heaven roguelite Spaceborn Awakening",
+      "url": "https://store.steampowered.com/news/group/4218320/view/698776157349217159",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-21T08:30:16+00:00",
+      "detectedAt": "2026-09-21T08:55:18+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "a45840b8f943ca9eaaee9c30a8e6697d72a4ca5629996526accf3eb72e7d80b6",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
     {
       "id": "f8c434cf3f48408d252da6eb",
       "title": "World of Warcraft Is Stealing Two of Final Fantasy 14's Best Features",
@@ -273,10 +509,9 @@
       "summary": null,
       "contentHash": "b6bedfcb90051438a0fe61211bed9cebba4535bbcb2649d85a06efb2243ad771",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -621,10 +856,9 @@
       "summary": null,
       "contentHash": "6d133750ec2fc355519d45f532e863b038f6f8d28771e408e4eab61674e7f71c",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -644,10 +878,9 @@
       "summary": null,
       "contentHash": "749b674bafd069b9c121c57d1ab7c443a6f1a8661f95d1ecea6f59bc92371f7a",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -667,10 +900,9 @@
       "summary": null,
       "contentHash": "83e5ce6bb55d53d14c0ce5051b810b0c0a590d90725786bcdbaa3a87a938d077",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -690,10 +922,9 @@
       "summary": null,
       "contentHash": "9ac0667dafabbbc7dcb89fe940bc6003863fa4b2c33a81db2c33159eb68ca6a2",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -713,10 +944,9 @@
       "summary": null,
       "contentHash": "736d248ad8196aec41d27e6084468a9e4765d958709923ca4c455c861a20be70",
       "revision": 1,
-      "importance": 65,
+      "importance": 55,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "release"
       ],
       "tags": [
@@ -739,10 +969,9 @@
       "summary": null,
       "contentHash": "bfaccdfb53d1c790dfef7a978f4fdaf2af9b6a3e0022873a6d09a5a3de62e734",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -762,10 +991,9 @@
       "summary": null,
       "contentHash": "2d6d8363bdf19f2a01fdbca454e989970fbf68225c096c1f4daf7e7c2b61bb20",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },

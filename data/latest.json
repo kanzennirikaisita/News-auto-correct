@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T13:34:52+00:00",
+  "generatedAt": "2026-09-21T00:15:54+00:00",
   "collector": {
-    "lastRun": "2026-09-20T13:34:52+00:00",
+    "lastRun": "2026-09-21T00:15:54+00:00",
     "success": 13,
     "failed": 0
   },
@@ -14,7 +14,7 @@
       "url": "https://www.digital.go.jp/rss/news.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-20T13:34:52+00:00",
+      "lastSuccess": "2026-09-21T00:15:54+00:00",
       "count": 33
     },
     {
@@ -24,7 +24,7 @@
       "url": "https://www.jpcert.or.jp/rss/jpcert.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-20T13:34:52+00:00",
+      "lastSuccess": "2026-09-21T00:15:54+00:00",
       "count": 28
     },
     {
@@ -34,7 +34,7 @@
       "url": "https://jvn.jp/rss/jvn.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-20T13:34:52+00:00",
+      "lastSuccess": "2026-09-21T00:15:54+00:00",
       "count": 20
     },
     {
@@ -44,7 +44,7 @@
       "url": "https://blogs.jpcert.or.jp/ja/atom.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-20T13:34:52+00:00",
+      "lastSuccess": "2026-09-21T00:15:54+00:00",
       "count": 15
     },
     {
@@ -54,7 +54,7 @@
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-20T13:34:52+00:00",
+      "lastSuccess": "2026-09-21T00:15:54+00:00",
       "count": 200
     },
     {
@@ -64,7 +64,7 @@
       "url": "https://github.blog/changelog/feed/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-20T13:34:52+00:00",
+      "lastSuccess": "2026-09-21T00:15:54+00:00",
       "count": 10
     },
     {
@@ -74,7 +74,7 @@
       "url": "https://api.github.com/repos/langgenius/dify/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-20T13:34:52+00:00",
+      "lastSuccess": "2026-09-21T00:15:54+00:00",
       "count": 27
     },
     {
@@ -84,7 +84,7 @@
       "url": "https://api.github.com/repos/openai/codex/releases?per_page=10",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-20T13:34:52+00:00",
+      "lastSuccess": "2026-09-21T00:15:54+00:00",
       "count": 1
     },
     {
@@ -94,7 +94,7 @@
       "url": "https://api.github.com/repos/anthropics/claude-code/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-20T13:34:52+00:00",
+      "lastSuccess": "2026-09-21T00:15:54+00:00",
       "count": 30
     },
     {
@@ -104,7 +104,7 @@
       "url": "https://jp.finalfantasyxiv.com/lodestone/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-20T13:34:52+00:00",
+      "lastSuccess": "2026-09-21T00:15:54+00:00",
       "count": 29
     },
     {
@@ -114,7 +114,7 @@
       "url": "https://steamcommunity.com/games/1245620/rss/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-20T13:34:52+00:00",
+      "lastSuccess": "2026-09-21T00:15:54+00:00",
       "count": 10
     },
     {
@@ -124,7 +124,7 @@
       "url": "https://store.steampowered.com/feeds/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-20T13:34:52+00:00",
+      "lastSuccess": "2026-09-21T00:15:54+00:00",
       "count": 10
     },
     {
@@ -134,11 +134,247 @@
       "url": "https://www.apple.com/jp/newsroom/rss-feed.rss",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-20T13:34:52+00:00",
+      "lastSuccess": "2026-09-21T00:15:54+00:00",
       "count": 20
     }
   ],
   "items": [
+    {
+      "id": "f8c434cf3f48408d252da6eb",
+      "title": "World of Warcraft Is Stealing Two of Final Fantasy 14's Best Features",
+      "url": "https://store.steampowered.com/news/group/1450625/view/692020757910258593",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-20T22:37:45+00:00",
+      "detectedAt": "2026-09-21T00:15:54+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "80ef6c78979a32e913b908a241a75f7fd806c1be4aebdc6ad487bcddbd6c0865",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "e7676594efdcfbacc8635bc3",
+      "title": "Blizzard Confirms Diablo 4's Amazon is Breaking a 4-Year Tradition",
+      "url": "https://store.steampowered.com/news/group/1450625/view/692020757910258591",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-20T22:07:44+00:00",
+      "detectedAt": "2026-09-21T00:15:54+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "b4cd0ff7e81f2da9c4ebe1606ca5044d675f5030d9bd41746023809bfdbeef10",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "c119746c6cf64265a4140c4e",
+      "title": "Patch Notes #12",
+      "url": "https://store.steampowered.com/news/app/2938460/view/713412856137122655",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-20T22:41:43+00:00",
+      "detectedAt": "2026-09-21T00:15:54+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "b16242add8028915d224c82baa367c0f2530a4151f2f61b0a2edd05a1b722179",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "patch"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "b8312597b076cb2f60c3d481",
+      "title": "Lufia I & II The Sinistrals Saga brings both Lufia and Lufia II to PS5, Switch 2, Switch, and PC",
+      "url": "https://store.steampowered.com/news/group/6070552/view/677384059121304545",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-20T23:15:51+00:00",
+      "detectedAt": "2026-09-21T00:15:54+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "85304a4e8d984041d6597be27a194062ca57a5d1c9a2c522a9028d693b1c6c2c",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "a5707e9bb536c1c0d0ea8a2b",
+      "title": "A New Pokemon MMO Is Rumored To Be Releasing After Gen 11",
+      "url": "https://store.steampowered.com/news/group/38458038/view/716790555855553287",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-20T20:16:05+00:00",
+      "detectedAt": "2026-09-21T00:15:54+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "4a80079296db2374e6e10353a65c175b3d730c50f0142dc76c2c382937ab752d",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "942f7833d6b08a9d614f5e5c",
+      "title": "PAS2 Finals 1 Day 3 is LIVE!!",
+      "url": "https://store.steampowered.com/news/app/578080/view/686391258373948239",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-20T02:02:02+00:00",
+      "detectedAt": "2026-09-21T00:15:54+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "b6bedfcb90051438a0fe61211bed9cebba4535bbcb2649d85a06efb2243ad771",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "7627253e858848070afb4489",
+      "title": "This big buff bug is the least valuable reprint in the Pokémon TCG's Celebration Classic Collection",
+      "url": "https://store.steampowered.com/news/group/718735/view/696524357534483304",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-20T23:05:11+00:00",
+      "detectedAt": "2026-09-21T00:15:54+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "eee72b0467c43c3935f3a0bd85b87fa9a658fb5bc1ce95703c24c66cdb7ccee3",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "6736d6f69e7a3951ee963a94",
+      "title": "New Street Fighter 6 Release Confirmed for December 2026",
+      "url": "https://store.steampowered.com/news/group/1450625/view/692020757910258595",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-21T00:07:50+00:00",
+      "detectedAt": "2026-09-21T00:15:54+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "c0e483fcbc8090d81c1e18f01b72d6c1dfcb0097455f3b7478fdcf6cda3ba2b5",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "release"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "55ed012b70ecc88927ec4dfd",
+      "title": "Final Fantasy 7 Revelation Will 'Easily Take Over 100 Hours' for Completionists to Beat, Director Teases",
+      "url": "https://store.steampowered.com/news/group/9869/view/674006359399728038",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-20T21:08:16+00:00",
+      "detectedAt": "2026-09-21T00:15:54+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "89e4cbaa897073c6445f30528f2807e6d6ae4e59ec7a225e20f1c31df1384770",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "4878ce1cf3bc74083e836128",
+      "title": "Baldur's Gate 3 Fans Rush To Cancel Preorders For Official Prequel",
+      "url": "https://store.steampowered.com/news/group/38666666/view/686391258373948310",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-20T20:56:39+00:00",
+      "detectedAt": "2026-09-21T00:15:54+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "4d55a81f56209f4b7d60c1dcb9950e9be1735c0b5f55d8d9d9cb1af2371ff3d2",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
     {
       "id": "f9f39b044833fffdffa284f6",
       "title": "Analog horror meets Cards Against Humanity in this bizarre TTRPG",
@@ -571,10 +807,9 @@
       "summary": null,
       "contentHash": "00556cf3e807f6d8879df93a479fbdba8087a2475594dcd248ee81f7ec476295",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -594,10 +829,9 @@
       "summary": null,
       "contentHash": "19e85c7b358995ccc01ecfec7722e1eb26d241f098da65a833e8227c9a405290",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -617,10 +851,9 @@
       "summary": null,
       "contentHash": "03d2c4786581f77df7d58a0e4bcec1f2a4bad1195060f1a9cdc8b1316adcbcb0",
       "revision": 1,
-      "importance": 65,
+      "importance": 55,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "release"
       ],
       "tags": [
@@ -643,10 +876,9 @@
       "summary": null,
       "contentHash": "6167d843f76bb1bbeb8ae5d84fe92bd9727bdc934369e75dfa058e1568929d15",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -666,10 +898,9 @@
       "summary": null,
       "contentHash": "8b7814e920f9babbc5494382404680a5524b4453b949f5ece52a20b1251ed540",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -689,10 +920,9 @@
       "summary": null,
       "contentHash": "65b5eb58a1f83d8aaad3cbbcbf732ef55832cae98540ffd1baa35c6df79506d1",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -712,10 +942,9 @@
       "summary": null,
       "contentHash": "d4e15feda1bb7f7f3511d1a31c5593444908123b01412eb92f4b624216ef5d75",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -735,10 +964,9 @@
       "summary": null,
       "contentHash": "11123e05c9d07007ec2265f9b1297d990f78eff35a4f1873075ce4fc475d80ae",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -758,10 +986,9 @@
       "summary": null,
       "contentHash": "cf1d008b087bbb9e0867ab9c8a09eb5dea9546be90a19e6d7c6785a2102bab0b",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -803,10 +1030,9 @@
       "summary": null,
       "contentHash": "d25e7c7ea830dba70ad87a12c9a71d30c7fa6ad6baae555a70d11e8eb55934fd",
       "revision": 1,
-      "importance": 80,
+      "importance": 70,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "update",
         "release"
       ],
@@ -830,10 +1056,9 @@
       "summary": null,
       "contentHash": "eacd95fc3313c6744a4618414ce73b3791acb340a7dd90e6341a7a788254fe44",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -853,10 +1078,9 @@
       "summary": null,
       "contentHash": "c03c4306c1718aa3ba6e6f2e91d738d2b68ed0cbeea1f5bce6be8ec7abc04f0a",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -898,10 +1122,9 @@
       "summary": null,
       "contentHash": "e1d85a45ef50aa36690d0151544e6b8135480f9860eb5479011199ab0e50aca8",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -921,10 +1144,9 @@
       "summary": null,
       "contentHash": "e4898c037fe5c80691be2b2c47168368c937c3b3b3212b853808dd3e178df2ac",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -944,10 +1166,9 @@
       "summary": null,
       "contentHash": "0208bcd1c2e7e1ace1819b40ef51244ff1c159c823f15c86572b6df804128de2",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -967,10 +1188,9 @@
       "summary": null,
       "contentHash": "9cf2fe92865a538d5b69dd7a8da11233a9d3b5efa50741bcbd49aa54824a5b2d",
       "revision": 1,
-      "importance": 65,
+      "importance": 55,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "update"
       ],
       "tags": [

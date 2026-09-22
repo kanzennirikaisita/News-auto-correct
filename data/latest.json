@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-22T00:49:36+00:00",
+  "generatedAt": "2026-09-22T08:31:30+00:00",
   "collector": {
-    "lastRun": "2026-09-22T00:49:36+00:00",
+    "lastRun": "2026-09-22T08:31:30+00:00",
     "success": 13,
     "failed": 0
   },
@@ -14,7 +14,7 @@
       "url": "https://www.digital.go.jp/rss/news.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-22T00:49:36+00:00",
+      "lastSuccess": "2026-09-22T08:31:30+00:00",
       "count": 33
     },
     {
@@ -24,7 +24,7 @@
       "url": "https://www.jpcert.or.jp/rss/jpcert.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-22T00:49:36+00:00",
+      "lastSuccess": "2026-09-22T08:31:30+00:00",
       "count": 28
     },
     {
@@ -34,7 +34,7 @@
       "url": "https://jvn.jp/rss/jvn.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-22T00:49:36+00:00",
+      "lastSuccess": "2026-09-22T08:31:30+00:00",
       "count": 20
     },
     {
@@ -44,7 +44,7 @@
       "url": "https://blogs.jpcert.or.jp/ja/atom.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-22T00:49:36+00:00",
+      "lastSuccess": "2026-09-22T08:31:30+00:00",
       "count": 15
     },
     {
@@ -54,7 +54,7 @@
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-22T00:49:36+00:00",
+      "lastSuccess": "2026-09-22T08:31:30+00:00",
       "count": 200
     },
     {
@@ -64,7 +64,7 @@
       "url": "https://github.blog/changelog/feed/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-22T00:49:36+00:00",
+      "lastSuccess": "2026-09-22T08:31:30+00:00",
       "count": 10
     },
     {
@@ -74,7 +74,7 @@
       "url": "https://api.github.com/repos/langgenius/dify/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-22T00:49:36+00:00",
+      "lastSuccess": "2026-09-22T08:31:30+00:00",
       "count": 27
     },
     {
@@ -84,7 +84,7 @@
       "url": "https://api.github.com/repos/openai/codex/releases?per_page=10",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-22T00:49:36+00:00",
+      "lastSuccess": "2026-09-22T08:31:30+00:00",
       "count": 0
     },
     {
@@ -94,7 +94,7 @@
       "url": "https://api.github.com/repos/anthropics/claude-code/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-22T00:49:36+00:00",
+      "lastSuccess": "2026-09-22T08:31:30+00:00",
       "count": 30
     },
     {
@@ -104,7 +104,7 @@
       "url": "https://jp.finalfantasyxiv.com/lodestone/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-22T00:49:36+00:00",
+      "lastSuccess": "2026-09-22T08:31:30+00:00",
       "count": 29
     },
     {
@@ -114,7 +114,7 @@
       "url": "https://steamcommunity.com/games/1245620/rss/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-22T00:49:36+00:00",
+      "lastSuccess": "2026-09-22T08:31:30+00:00",
       "count": 10
     },
     {
@@ -124,7 +124,7 @@
       "url": "https://store.steampowered.com/feeds/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-22T00:49:36+00:00",
+      "lastSuccess": "2026-09-22T08:31:30+00:00",
       "count": 10
     },
     {
@@ -134,11 +134,270 @@
       "url": "https://www.apple.com/jp/newsroom/rss-feed.rss",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-22T00:49:36+00:00",
+      "lastSuccess": "2026-09-22T08:31:30+00:00",
       "count": 20
     }
   ],
   "items": [
+    {
+      "id": "eda30d0c03235b02757aff08",
+      "title": "Roadhouse Simulator - Hotfix #2",
+      "url": "https://store.steampowered.com/news/app/3565480/view/683013558653420512",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-22T06:58:08+00:00",
+      "detectedAt": "2026-09-22T08:31:30+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "f63700eecf28b50a770dc33cb02b779abccf880b846bba1c0e966f48fb7e415f",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "d6ee446fb597cafb6467e5c7",
+      "title": "17/9 (Thu) – 21/9 (Mon) Results of the Crackdown on Abusive Users",
+      "url": "https://store.steampowered.com/news/app/2074920/view/690894858003416104",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-22T05:00:16+00:00",
+      "detectedAt": "2026-09-22T08:31:30+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "f297200c9ab799053660561e1ab5d7306a1a3b5d374f1061806759d264524e0e",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "c2fbf75c68a306b92cb795dd",
+      "title": "The Wheel Of Time Is Officially Changing The Last Battle",
+      "url": "https://store.steampowered.com/news/group/38666666/view/686391258373948508",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-22T06:08:02+00:00",
+      "detectedAt": "2026-09-22T08:31:30+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "e8032b2882730f2c9a93ea780b0f100b1c4e872e3bd44c6e5793980aede7c996",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "be5ea048ec74e74ba6155665",
+      "title": "Final Fantasy 7: Zack Fair Officially Releases January 2027",
+      "url": "https://store.steampowered.com/news/group/38666666/view/686391258373948499",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-22T04:07:57+00:00",
+      "detectedAt": "2026-09-22T08:31:30+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "a0ec24d808be36386cb58f031730fc18429478bce53917e73812370a09636ff4",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "release"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "bcb10b812330cec42890f642",
+      "title": "Foundation Officially Begins A New Era In Upcoming Season",
+      "url": "https://store.steampowered.com/news/group/38666666/view/686391258373948506",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-22T05:08:00+00:00",
+      "detectedAt": "2026-09-22T08:31:30+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "b97807d55d9d43700ff96b4b6f2c97ad73f489143875479a8fe360053542a88f",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "ad174fc35200662a3bac6030",
+      "title": "Jailbreak codes (September 2026) for cosmetics and cash",
+      "url": "https://store.steampowered.com/news/group/38509069/view/714538756043965660",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-22T08:20:31+00:00",
+      "detectedAt": "2026-09-22T08:31:30+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "5eac32d6260e33efc8ec76a300ecfade539146185434224e8702c9c65c85503d",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "82389153bbdc3b477129cd64",
+      "title": "Here's some of the best VR games released on Steam in 2026 so far",
+      "url": "https://store.steampowered.com/news/group/4218320/view/698776157349217304",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-22T08:11:52+00:00",
+      "detectedAt": "2026-09-22T08:31:30+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "0d0ee504067de59c6f1363bc42c7ad4a1e2aeb124661d6b44bb6f31dbda4ef17",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "release"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "7ad080e7219353ce2f47d876",
+      "title": "Dungeon Crawler Carl's Next Book Officially Begins A Brand-New Era",
+      "url": "https://store.steampowered.com/news/group/38666666/view/686391258373948503",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-22T04:37:58+00:00",
+      "detectedAt": "2026-09-22T08:31:30+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "d84e67697bb801e9c84aba6bf53416a0829034fa366cf029646c054e4ef24f1a",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "5580c57bea18417fa16e109b",
+      "title": "Refreshed repository pull requests page generally available",
+      "url": "https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available",
+      "sourceId": "github",
+      "sourceName": "GitHub Changelog",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-22T01:25:53+00:00",
+      "detectedAt": "2026-09-22T08:31:30+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "4757222a525995745daaf162e7c40eb4a5153cdd91d9121cd2894c2b0097b04d",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "10bc159fd4a91709522d4723",
+      "title": "Xbox will reportedly ‘consolidate several studios’ in new major wave of layoffs",
+      "url": "https://store.steampowered.com/news/group/42342144/view/677384059121304721",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-22T04:26:29+00:00",
+      "detectedAt": "2026-09-22T08:31:30+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "8fe1b47629e2b6e8c506a1b9532767b3481c872039b3d40e4e496317c0e2d4a3",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "0bed1cd878b55f575abbf068",
+      "title": "Steam Beta adds experimental new Pyrowave video codec for Remote Play",
+      "url": "https://store.steampowered.com/news/group/4218320/view/698776157349217300",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-22T07:11:48+00:00",
+      "detectedAt": "2026-09-22T08:31:30+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "68dd7e181317c1d1c877c891d92319ec08712cf2520ed70c6fed524d909fcbf1",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
     {
       "id": "fdf7168c9e031867e94ff12f",
       "title": "Rockstar Games Is Taking Down Footage and Images of Scrapped GTA 5 DLC And Early Version of Leaked GTA 6 Map",
@@ -460,10 +719,9 @@
       "summary": null,
       "contentHash": "7552d2f73bf4c1aeefedb4476a7fd50e339f7f5c82b52cd14829553e8e6c0e73",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -852,10 +1110,9 @@
       "summary": null,
       "contentHash": "f1a0cd7dfc7bf9b6d3903b08327f8b39b03be1c60f06417a5231166538619041",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -875,10 +1132,9 @@
       "summary": null,
       "contentHash": "8d444c3a0c18b248a174e89a3af13cb73ccb739d82b682ec021938d76577a344",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -898,10 +1154,9 @@
       "summary": null,
       "contentHash": "703f31dd9755ad19b794ec5c75ac97061b78ea6b459c910cce218d7236147973",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -921,10 +1176,9 @@
       "summary": null,
       "contentHash": "cb81554f20bb4432d1a2a91dbfaaa9895b63e5e5c566f24f6740a847225036f7",
       "revision": 1,
-      "importance": 65,
+      "importance": 55,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "release"
       ],
       "tags": [
@@ -947,10 +1201,9 @@
       "summary": null,
       "contentHash": "a49034ab251b32799ec220aa0dc2e2a359529bc8f5291e01286f113bcbc961be",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -970,10 +1223,9 @@
       "summary": null,
       "contentHash": "eaf7305ff0009141d1c888f7c05dd311fe6a15ce83e05f61ea33efc942d7457e",
       "revision": 1,
-      "importance": 65,
+      "importance": 55,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "release"
       ],
       "tags": [
@@ -996,10 +1248,9 @@
       "summary": null,
       "contentHash": "b083b66afbaa18351ce091b016339245c0f7eb13dfd4a2a0defcb92d088bdac3",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1019,10 +1270,9 @@
       "summary": null,
       "contentHash": "d5993791299fbf7b10448e39b1fb40865192d93dc1c4c1db8e8e01687890a458",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1042,10 +1292,9 @@
       "summary": null,
       "contentHash": "a45840b8f943ca9eaaee9c30a8e6697d72a4ca5629996526accf3eb72e7d80b6",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -14029,7 +14278,7 @@
       "sourceId": "ff14",
       "sourceName": "FFXIV Lodestone",
       "category": "game",
-      "publishedAt": "2026-09-17T09:40:00+00:00",
+      "publishedAt": "2026-09-22T04:00:00+00:00",
       "detectedAt": "2026-09-09T03:22:00+00:00",
       "updatedAt": "2026-09-09T03:26:17+00:00",
       "sourceUpdatedAt": null,
@@ -14038,9 +14287,10 @@
       "summary": null,
       "contentHash": "99f64d2ea3aacfb1d92f18a7198649c48dd68c1ad8e619a5c13e86720f95e4ac",
       "revision": 2,
-      "importance": 40,
+      "importance": 50,
       "importanceReasons": [
-        "公式一次情報"
+        "公式一次情報",
+        "24時間以内"
       ],
       "tags": []
     },

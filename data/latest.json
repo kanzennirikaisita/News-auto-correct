@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-22T08:31:30+00:00",
+  "generatedAt": "2026-09-22T14:02:13+00:00",
   "collector": {
-    "lastRun": "2026-09-22T08:31:30+00:00",
+    "lastRun": "2026-09-22T14:02:13+00:00",
     "success": 13,
     "failed": 0
   },
@@ -14,7 +14,7 @@
       "url": "https://www.digital.go.jp/rss/news.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-22T08:31:30+00:00",
+      "lastSuccess": "2026-09-22T14:02:13+00:00",
       "count": 33
     },
     {
@@ -24,7 +24,7 @@
       "url": "https://www.jpcert.or.jp/rss/jpcert.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-22T08:31:30+00:00",
+      "lastSuccess": "2026-09-22T14:02:13+00:00",
       "count": 28
     },
     {
@@ -34,7 +34,7 @@
       "url": "https://jvn.jp/rss/jvn.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-22T08:31:30+00:00",
+      "lastSuccess": "2026-09-22T14:02:13+00:00",
       "count": 20
     },
     {
@@ -44,7 +44,7 @@
       "url": "https://blogs.jpcert.or.jp/ja/atom.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-22T08:31:30+00:00",
+      "lastSuccess": "2026-09-22T14:02:13+00:00",
       "count": 15
     },
     {
@@ -54,7 +54,7 @@
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-22T08:31:30+00:00",
+      "lastSuccess": "2026-09-22T14:02:13+00:00",
       "count": 200
     },
     {
@@ -64,7 +64,7 @@
       "url": "https://github.blog/changelog/feed/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-22T08:31:30+00:00",
+      "lastSuccess": "2026-09-22T14:02:13+00:00",
       "count": 10
     },
     {
@@ -74,7 +74,7 @@
       "url": "https://api.github.com/repos/langgenius/dify/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-22T08:31:30+00:00",
+      "lastSuccess": "2026-09-22T14:02:13+00:00",
       "count": 27
     },
     {
@@ -84,7 +84,7 @@
       "url": "https://api.github.com/repos/openai/codex/releases?per_page=10",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-22T08:31:30+00:00",
+      "lastSuccess": "2026-09-22T14:02:13+00:00",
       "count": 0
     },
     {
@@ -94,7 +94,7 @@
       "url": "https://api.github.com/repos/anthropics/claude-code/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-22T08:31:30+00:00",
+      "lastSuccess": "2026-09-22T14:02:13+00:00",
       "count": 30
     },
     {
@@ -104,7 +104,7 @@
       "url": "https://jp.finalfantasyxiv.com/lodestone/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-22T08:31:30+00:00",
+      "lastSuccess": "2026-09-22T14:02:13+00:00",
       "count": 29
     },
     {
@@ -114,7 +114,7 @@
       "url": "https://steamcommunity.com/games/1245620/rss/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-22T08:31:30+00:00",
+      "lastSuccess": "2026-09-22T14:02:13+00:00",
       "count": 10
     },
     {
@@ -124,7 +124,7 @@
       "url": "https://store.steampowered.com/feeds/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-22T08:31:30+00:00",
+      "lastSuccess": "2026-09-22T14:02:13+00:00",
       "count": 10
     },
     {
@@ -134,11 +134,292 @@
       "url": "https://www.apple.com/jp/newsroom/rss-feed.rss",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-22T08:31:30+00:00",
+      "lastSuccess": "2026-09-22T14:02:13+00:00",
       "count": 20
     }
   ],
   "items": [
+    {
+      "id": "e95722f2ae1e43e179c55ba5",
+      "title": "D&D's Lord of the Rings spinoff takes an unexpected journey to Gondor, Rohan, and 5.5e",
+      "url": "https://store.steampowered.com/news/group/718735/view/696524357534483474",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-22T13:06:35+00:00",
+      "detectedAt": "2026-09-22T14:02:13+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "d6b2c27de3b2e2a0a044b8099ef5e5cc7e378cb309577562805bdef70d0a8bfd",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "e6dec8650450b52b22499946",
+      "title": "New Final Fantasy 40th Anniversary Release Officially Revealed",
+      "url": "https://store.steampowered.com/news/group/1450625/view/692020757910258790",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-22T13:09:44+00:00",
+      "detectedAt": "2026-09-22T14:02:13+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "2ae4fb4f93c9c9ef20c8d3803b48648d5311c65444e65b80f56ffa89ea15dfb9",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "release"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "d1a0ac0932a5b807e1ae8765",
+      "title": "The Blood of Dawnwalker Permanently Adding Highly Requested Content Next Month",
+      "url": "https://store.steampowered.com/news/group/1450625/view/692020757910258796",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-22T13:39:45+00:00",
+      "detectedAt": "2026-09-22T14:02:13+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "49c7837cb5bccea9de7eec88ae8cb48d08f9a0e9f028ee61b7767b682038950e",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "cee4e610d38eeffffffe79d5",
+      "title": "MTG sphinx card spikes by staggering 1,100% after Reality Fracture spoilers",
+      "url": "https://store.steampowered.com/news/group/718735/view/696524357534483476",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-22T13:06:35+00:00",
+      "detectedAt": "2026-09-22T14:02:13+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "d4b2f2f8a0038394c1ac9c7301dd35119f4fec217bf221fd845a0747bcb301b0",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "ae4d9901d896b0d20684ac2d",
+      "title": "Roguelike Deckbuilder Hungry Horrors is out of Early Access on October 13th",
+      "url": "https://store.steampowered.com/news/group/25563497/view/694272557720798221",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-22T13:21:36+00:00",
+      "detectedAt": "2026-09-22T14:02:13+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "3720ce59c3981d6921ef46c6f4a34a99b0038a8a3e581eed550fa526c36a8049",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "850372ddcc576beee67e5732",
+      "title": "After Party Tea",
+      "url": "https://store.steampowered.com/news/app/4019220/view/669502759770260425",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-22T13:39:45+00:00",
+      "detectedAt": "2026-09-22T14:02:13+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "e38f3430cdeba113ba1e7173034a75051eb22d39f3ff96077d3c70fc19b9e5e8",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "720d0e1f012e35c87ba3c7b7",
+      "title": "新しいMac miniとMac Studio、本日より販売開始",
+      "url": "https://www.apple.com/jp/newsroom/2026/09/the-new-mac-mini-and-mac-studio-are-available-today/",
+      "sourceId": "apple",
+      "sourceName": "Apple Newsroom",
+      "category": "gadget",
+      "publishedAt": null,
+      "detectedAt": "2026-09-22T14:02:13+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-09-22T13:00:18+00:00",
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "ac2db0153a2d33a27734f03132ce2907ed23c323006996e7faf442ec1e97913b",
+      "revision": 1,
+      "importance": 40,
+      "importanceReasons": [
+        "公式一次情報"
+      ],
+      "tags": []
+    },
+    {
+      "id": "66c2b4c1fb1f9805bf376bac",
+      "title": "Thank You and Upcoming Content Update 🍺",
+      "url": "https://store.steampowered.com/news/app/3565480/view/683013558653420533",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-22T13:00:40+00:00",
+      "detectedAt": "2026-09-22T14:02:13+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "0433677e7184475f880a262a7ccec892bc8fac1a8b093ebcc179b53b096987b3",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "update"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "6688ab395719042d36bf3e5c",
+      "title": "Ace Combat 8 Wings of Theve pre-orders have taken flight on Xbox and PS5, and it's your only chance to grab The Belkan War as a bonus",
+      "url": "https://store.steampowered.com/news/group/38509069/view/714538756043965706",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-22T13:40:58+00:00",
+      "detectedAt": "2026-09-22T14:02:13+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "dbd1eb11dd7be03922c7e501c2d78bcc7fa94f9b5cdbfac2b4e0b4e0ece56f07",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "46b4cd37b5ec8f079d740e27",
+      "title": "Genshin Impact studio's new Pokemon-like has some of the best creature designs I've ever seen",
+      "url": "https://store.steampowered.com/news/group/38509069/view/714538756043965689",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-22T12:10:42+00:00",
+      "detectedAt": "2026-09-22T14:02:13+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "e3f73d503f46125f27c002994245dcbf7dcf0322db180dbe2779802199cd9036",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "3822e53281df1dc0922def79",
+      "title": "Deprecation notice: All-platform CodeQL bundle",
+      "url": "https://github.blog/changelog/2026-09-22-deprecation-notice-all-platform-codeql-bundle",
+      "sourceId": "github",
+      "sourceName": "GitHub Changelog",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-22T09:21:03+00:00",
+      "detectedAt": "2026-09-22T14:02:13+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "6003bf98a527ec22b2391dee458583e8d3f9454e2fc3b0162306f49ef2b398e4",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "22a59a5c1618bc9ba7639892",
+      "title": "The Witcher Announces Two New Adaptations In The Next Two Years",
+      "url": "https://store.steampowered.com/news/group/38666666/view/686391258373948551",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-22T13:58:22+00:00",
+      "detectedAt": "2026-09-22T14:02:13+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "a3b3969ad516edd1d41c83f41695c2c8f36ebae2e285483b4c9cd89be4e77f5d",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
     {
       "id": "eda30d0c03235b02757aff08",
       "title": "Roadhouse Simulator - Hotfix #2",
@@ -626,10 +907,9 @@
       "summary": null,
       "contentHash": "09ff824e4eb4f2e12c8426b390a74f83a5700103b1725b326c96c3d09daba789",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -741,10 +1021,9 @@
       "summary": null,
       "contentHash": "7c4e7a28aadfec89c9d67231df9742b8304a621a941eca00482f2887db671531",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -790,10 +1069,9 @@
       "summary": null,
       "contentHash": "c7962e879708a3f36b15f26f3d8f73b1156721bf94c3a302e59fdb38fac09cf6",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1087,10 +1365,9 @@
       "summary": null,
       "contentHash": "3bc398380afd116616109e185ec961a1628d745de1bf40fb82118072c2904a5f",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-22T14:02:13+00:00",
+  "generatedAt": "2026-09-23T00:32:14+00:00",
   "collector": {
-    "lastRun": "2026-09-22T14:02:13+00:00",
+    "lastRun": "2026-09-23T00:32:14+00:00",
     "success": 13,
     "failed": 0
   },
@@ -14,7 +14,7 @@
       "url": "https://www.digital.go.jp/rss/news.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-22T14:02:13+00:00",
+      "lastSuccess": "2026-09-23T00:32:14+00:00",
       "count": 33
     },
     {
@@ -24,7 +24,7 @@
       "url": "https://www.jpcert.or.jp/rss/jpcert.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-22T14:02:13+00:00",
+      "lastSuccess": "2026-09-23T00:32:14+00:00",
       "count": 28
     },
     {
@@ -34,7 +34,7 @@
       "url": "https://jvn.jp/rss/jvn.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-22T14:02:13+00:00",
+      "lastSuccess": "2026-09-23T00:32:14+00:00",
       "count": 20
     },
     {
@@ -44,7 +44,7 @@
       "url": "https://blogs.jpcert.or.jp/ja/atom.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-22T14:02:13+00:00",
+      "lastSuccess": "2026-09-23T00:32:14+00:00",
       "count": 15
     },
     {
@@ -54,7 +54,7 @@
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-22T14:02:13+00:00",
+      "lastSuccess": "2026-09-23T00:32:14+00:00",
       "count": 200
     },
     {
@@ -64,7 +64,7 @@
       "url": "https://github.blog/changelog/feed/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-22T14:02:13+00:00",
+      "lastSuccess": "2026-09-23T00:32:14+00:00",
       "count": 10
     },
     {
@@ -74,7 +74,7 @@
       "url": "https://api.github.com/repos/langgenius/dify/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-22T14:02:13+00:00",
+      "lastSuccess": "2026-09-23T00:32:14+00:00",
       "count": 27
     },
     {
@@ -84,8 +84,8 @@
       "url": "https://api.github.com/repos/openai/codex/releases?per_page=10",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-22T14:02:13+00:00",
-      "count": 0
+      "lastSuccess": "2026-09-23T00:32:14+00:00",
+      "count": 1
     },
     {
       "id": "claude-code",
@@ -94,7 +94,7 @@
       "url": "https://api.github.com/repos/anthropics/claude-code/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-22T14:02:13+00:00",
+      "lastSuccess": "2026-09-23T00:32:14+00:00",
       "count": 30
     },
     {
@@ -104,7 +104,7 @@
       "url": "https://jp.finalfantasyxiv.com/lodestone/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-22T14:02:13+00:00",
+      "lastSuccess": "2026-09-23T00:32:14+00:00",
       "count": 29
     },
     {
@@ -114,7 +114,7 @@
       "url": "https://steamcommunity.com/games/1245620/rss/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-22T14:02:13+00:00",
+      "lastSuccess": "2026-09-23T00:32:14+00:00",
       "count": 10
     },
     {
@@ -124,7 +124,7 @@
       "url": "https://store.steampowered.com/feeds/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-22T14:02:13+00:00",
+      "lastSuccess": "2026-09-23T00:32:14+00:00",
       "count": 10
     },
     {
@@ -134,11 +134,480 @@
       "url": "https://www.apple.com/jp/newsroom/rss-feed.rss",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-22T14:02:13+00:00",
+      "lastSuccess": "2026-09-23T00:32:14+00:00",
       "count": 20
     }
   ],
   "items": [
+    {
+      "id": "f9982fc6f0da0fb42bd1c697",
+      "title": "Game Anglia Direct 2026",
+      "url": "https://store.steampowered.com/news/group/45808819/view/681887024995632431",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-22T21:30:39+00:00",
+      "detectedAt": "2026-09-23T00:32:14+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "b8a8a4253f950a08abc53366d38f64331b63a7b56cbcbb1c83e5352d34a5abd4",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "f9027d80e820682e90d7e8a7",
+      "title": "Better prompt caching for GPT-6",
+      "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+      "sourceId": "openai",
+      "sourceName": "OpenAI",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-22T21:00:00+00:00",
+      "detectedAt": "2026-09-23T00:32:14+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "b80980ef8d6bc0923b6793deee11d8a30e1b4728845213f98937997c53a2a409",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "f05a574f35fedc0736fa62a1",
+      "title": "OpenAI’s GPT-6 Sol and GPT-6 Luna now available",
+      "url": "https://github.blog/changelog/2026-09-22-openais-gpt-6-sol-and-gpt-6-luna-now-available",
+      "sourceId": "github",
+      "sourceName": "GitHub Changelog",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-22T17:00:14+00:00",
+      "detectedAt": "2026-09-23T00:32:14+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "5f82fa5826e496ea98de4b61cbfb59a7e70eb4139b8fda8a7a654d4294aff8f5",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "e6805664ade5ff684bdcaf43",
+      "title": "Save $1,050 Off the Alienware 16X Aurora RTX 5060 Gaming Laptop During Walmart's GeForce Week Sale",
+      "url": "https://store.steampowered.com/news/group/9869/view/687517794773762078",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-23T00:18:26+00:00",
+      "detectedAt": "2026-09-23T00:32:14+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "e8d179189e92115c73d7c99fd8755a034f66dc13c55eaa31b596561fa8655e01",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "d4d56a13930f6f47f2ea8f98",
+      "title": "State of Decay Developer Undead Labs Responds to 'Significant' Layoffs Following Independence from Xbox",
+      "url": "https://store.steampowered.com/news/group/9869/view/687517794773762080",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-23T00:18:26+00:00",
+      "detectedAt": "2026-09-23T00:32:14+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "1d5b82599991af98d53624d6f2f98f2e8aca9445a0830b88ef2708da5ef93d56",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "b69fca3419d30d115314e33b",
+      "title": "Halo cinematic director \"promoted and laid off in the same week\" amid sweeping Xbox layoffs",
+      "url": "https://store.steampowered.com/news/group/38509069/view/714538756043965848",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-22T21:11:27+00:00",
+      "detectedAt": "2026-09-23T00:32:14+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "10c075bfb99b5a9b76e4758e9586df5f7ccf839af97c5c5cd3b802168ff6136e",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "b4356bea3487fdd489ea2dce",
+      "title": "Middle-earth: Shadow of War and Shadow of Mordor launch on September 30 for Switch 2",
+      "url": "https://store.steampowered.com/news/group/6070552/view/712287592723251225",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-22T23:58:25+00:00",
+      "detectedAt": "2026-09-23T00:32:14+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "adbaf293c5b88264d215a61cbd255792e92392499a84a33f85afca155b8e019a",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "82ce39a5876e7acded3e4e26",
+      "title": "Qualcomm Goes All In on Gaming and Content Creation With Snapdragon 8 Elite Gen 6 Dual Platforms",
+      "url": "https://store.steampowered.com/news/group/7433348/view/690894858003416272",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-22T22:05:52+00:00",
+      "detectedAt": "2026-09-23T00:32:14+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "fcf4e9421f83f207508d0545864d68c2cedd8c39bb9aeab03b177b7331eb38f0",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "73461b3e97af0d93277a11c9",
+      "title": "Introducing GPT-6 Sol and Luna",
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+      "sourceId": "openai",
+      "sourceName": "OpenAI",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-22T18:00:00+00:00",
+      "detectedAt": "2026-09-23T00:32:14+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "86d4aa2231e3feb4d9cda16599c9d24a6c037715b63bc485c5092f0e9fcdaf28",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "6131601860cd8845ba7849e8",
+      "title": "Codex 0.156.0",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.156.0",
+      "sourceId": "codex",
+      "sourceName": "Codex",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-22T19:51:01+00:00",
+      "detectedAt": "2026-09-23T00:32:14+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-09-22T19:53:19+00:00",
+      "changeType": "new",
+      "kind": "release",
+      "summary": null,
+      "contentHash": "0291845bfb3adaa354e0cd431da1c3de7b7e124c3ab9646c3f6269eccfa9f876",
+      "revision": 1,
+      "importance": 75,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "バージョン公開",
+        "codex"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "60efaf744a4d6c2c20e9e8f1",
+      "title": "Priorities and principles for effective third party assessments",
+      "url": "https://openai.com/index/priorities-principles-third-party-assessments",
+      "sourceId": "openai",
+      "sourceName": "OpenAI",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-22T00:00:00+00:00",
+      "detectedAt": "2026-09-23T00:32:14+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "0ebdb6798bae5e79280c5ea0898b8b314d919688f53e38cb4f2e3ee78e93afd1",
+      "revision": 1,
+      "importance": 40,
+      "importanceReasons": [
+        "公式一次情報"
+      ],
+      "tags": []
+    },
+    {
+      "id": "566dfe7d34b559d7ec3b71f0",
+      "title": "Faster C++ code intelligence with whole codebase indexing",
+      "url": "https://github.blog/changelog/2026-09-22-faster-c-code-intelligence-with-whole-codebase-indexing",
+      "sourceId": "github",
+      "sourceName": "GitHub Changelog",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-22T22:24:48+00:00",
+      "detectedAt": "2026-09-23T00:32:14+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "6b45f2da2f72b7b2a575fad7ee4632287b466ef4fb8e206d966284cf944a80bc",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "4164cf9086cede97ac31539d",
+      "title": "Rush Hour",
+      "url": "https://store.steampowered.com/news/app/730/view/711161056325533826",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-22T23:38:37+00:00",
+      "detectedAt": "2026-09-23T00:32:14+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "f572635a6acf66b4f35d7151fbe2293a6ba3f2f5f3a9b916c1b03360a4ea295e",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "3fcefd9c665fb2c2484965cf",
+      "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+      "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+      "sourceId": "openai",
+      "sourceName": "OpenAI",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-22T12:00:00+00:00",
+      "detectedAt": "2026-09-23T00:32:14+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "c927bd50064baf17f6dd21afdb7fa85b429e8a91d51f24d3d950fb31a4bcca48",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "3104d79078c30c3952e0fcd5",
+      "title": "World of Warcraft Forever Breaks Silence on Shared Drops and Tagging",
+      "url": "https://store.steampowered.com/news/group/1450625/view/701028593652727809",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-22T22:48:23+00:00",
+      "detectedAt": "2026-09-23T00:32:14+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "43b2139a9a73f2e8ebdf6ad32f52c9c68a8ce1bf1748d352be8a7dccc00eaf04",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "30e043012c93cfbed951b75c",
+      "title": "🚧Having issues with blurriness or graphic resolution? Here's a fix🚧",
+      "url": "https://store.steampowered.com/news/app/4094660/view/670629296167976961",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-22T22:54:39+00:00",
+      "detectedAt": "2026-09-23T00:32:14+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "351028b2002a4aa2a48bf3a7fcd366c7c92c300ac0b07cc8660557618a76c8a4",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "23966244d47d35ba5ef9a285",
+      "title": "Claude Code v2.1.280",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.280",
+      "sourceId": "claude-code",
+      "sourceName": "Claude Code",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-22T16:38:14+00:00",
+      "detectedAt": "2026-09-23T00:32:14+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-09-22T16:38:14+00:00",
+      "changeType": "new",
+      "kind": "release",
+      "summary": null,
+      "contentHash": "b2625b8c72bc6bedc1d77553b73e0f6f91cf4dd1f7ffae44cc54f5a15e88c70c",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "バージョン公開"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "235d6f2bbf750d6c0d6191c6",
+      "title": "Claude Opus 5.5 is now available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-09-22-claude-opus-5-5-is-now-available-in-github-copilot",
+      "sourceId": "github",
+      "sourceName": "GitHub Changelog",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-22T17:10:23+00:00",
+      "detectedAt": "2026-09-23T00:32:14+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "7d84f7a73a244e89b0e568608df11f54f31a57d2222b9ce0ac07be96adfee6e9",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "19a33bd9fb39c4b83e650f84",
+      "title": "\"We are constructing a system that has the best of both worlds for battle systems\" - Gust chats with us about Atelier Karia's combat, potential plans for a third game, how 'Maomao in an Atelier game' led to The Apothecary Diaries, and more",
+      "url": "https://store.steampowered.com/news/group/6070552/view/712287592723251201",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-22T22:48:22+00:00",
+      "detectedAt": "2026-09-23T00:32:14+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "6ecce6709a030a714a46d7adea0cf6dda5cd77a6189fa3a35ff61e4c3a9fbe9b",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "01037b2410289b4f9f5f94f3",
+      "title": "Security improvements for SSH",
+      "url": "https://github.blog/changelog/2026-09-22-security-improvements-for-ssh",
+      "sourceId": "github",
+      "sourceName": "GitHub Changelog",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-22T14:11:47+00:00",
+      "detectedAt": "2026-09-23T00:32:14+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "ed3559623ec0adc65719bb9b091d5ffd52983535113d4f0eed5c3bfe347560fb",
+      "revision": 1,
+      "importance": 70,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "security"
+      ],
+      "tags": [
+        "セキュリティ"
+      ]
+    },
     {
       "id": "e95722f2ae1e43e179c55ba5",
       "title": "D&D's Lord of the Rings spinoff takes an unexpected journey to Gondor, Rohan, and 5.5e",
@@ -695,10 +1164,9 @@
       "summary": null,
       "contentHash": "d7d1a9804205dc7e726a3e72253ffbb51e6151cdc68f6a298a724841fc880df3",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -718,10 +1186,9 @@
       "summary": null,
       "contentHash": "215ba569155af24ee7dcca24f958670ef66873b05431325bb795ab96cdcdac86",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -741,10 +1208,9 @@
       "summary": null,
       "contentHash": "538fadfa1071b23a30af5d9f364c70db9c5fe8c84804bcdb6a665a4d86f0547c",
       "revision": 1,
-      "importance": 65,
+      "importance": 55,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "update"
       ],
       "tags": [
@@ -767,10 +1233,9 @@
       "summary": null,
       "contentHash": "44c385879624c45f0798dcd75ed295d5fad9277663379591b50c3f3c5b98faae",
       "revision": 1,
-      "importance": 65,
+      "importance": 55,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "release"
       ],
       "tags": [
@@ -815,10 +1280,9 @@
       "summary": null,
       "contentHash": "ed4b51ba90c8713b8d4031c4030816355ba52fd5df22abc795c4911a673a17a1",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -838,10 +1302,9 @@
       "summary": null,
       "contentHash": "47687dd1e3973a72f60db152f78bfc504d960a65f0504d439d671cc800fc5dae",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -861,10 +1324,9 @@
       "summary": null,
       "contentHash": "21397a23bf619abc872ad1c64eed3a829cb8ee502a55ac914c593a5f4aa5e726",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -884,10 +1346,9 @@
       "summary": null,
       "contentHash": "cd2a8096f419a3e430fdee8c846665da8527ab9d00e5ef21a3726116abf6f527",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -929,10 +1390,9 @@
       "summary": null,
       "contentHash": "9b958d4a03d3dabe64143943fdcde7ad3e428e51b41e60c720f5844b92599dd9",
       "revision": 1,
-      "importance": 90,
+      "importance": 80,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "障害"
       ],
       "tags": []
@@ -953,10 +1413,9 @@
       "summary": null,
       "contentHash": "4d6934d4d70ae1d969b68f1418bf317bb7ca043fe756c1fc328c665eb6f4cc8e",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -976,10 +1435,9 @@
       "summary": null,
       "contentHash": "9e5407f42885b9db7a60e5cd123b018f5310d65115d730ee7d88de137e0e7799",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1043,10 +1501,9 @@
       "summary": null,
       "contentHash": "6b2cab6b132e31b263bb31d7440b584241ae7c7012a58ff0ca5794a0aa79e570",
       "revision": 1,
-      "importance": 65,
+      "importance": 55,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "update"
       ],
       "tags": [
@@ -1091,10 +1548,9 @@
       "summary": null,
       "contentHash": "ab88339d02810d4efa019d336ce475a5b77af633d84710c08313a69434f76a08",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1158,10 +1614,9 @@
       "summary": null,
       "contentHash": "6619e3de643712e36d6fa446250d9b542c7f366f5136658fb21241f88f42bb51",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1181,10 +1636,9 @@
       "summary": null,
       "contentHash": "578a561afab94e58405841422778cafe57b5051f6b08391e92e40bb29b94c067",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1204,10 +1658,9 @@
       "summary": null,
       "contentHash": "6f1bd978f2591308be3a296f6395af94d1b7fd3b640176d8ec3336ab8fdee6b8",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1227,10 +1680,9 @@
       "summary": null,
       "contentHash": "174db3614543adff54dfe0b37a464b35309b3177c4261773a251c61976d4bd60",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1250,10 +1702,9 @@
       "summary": null,
       "contentHash": "e5fe427f994d6cc1bd0d215f84b2b48d9336aa832154c7d9003094d7a3183604",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1273,10 +1724,9 @@
       "summary": null,
       "contentHash": "834b87b305ae410af7be39fd5e5119936ddc36964e9cbf6d28433035028a80b2",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1296,10 +1746,9 @@
       "summary": null,
       "contentHash": "d5879e868ebf70caf75abd2fcbc657b936037751abe4669f3bc19aacde65b4de",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1319,10 +1768,9 @@
       "summary": null,
       "contentHash": "69160d309bd2ce2da6019f9ca9b11b5fcbf5ea032b54bb999112def8684408f5",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1342,10 +1790,9 @@
       "summary": null,
       "contentHash": "6f90bbc9b9c6e5c16d1633719f0b2f61f18b22c06a2110bc2adca04cc33752e9",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },

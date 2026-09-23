@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-23T08:33:43+00:00",
+  "generatedAt": "2026-09-23T14:13:54+00:00",
   "collector": {
-    "lastRun": "2026-09-23T08:33:43+00:00",
+    "lastRun": "2026-09-23T14:13:54+00:00",
     "success": 13,
     "failed": 0
   },
@@ -14,7 +14,7 @@
       "url": "https://www.digital.go.jp/rss/news.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-23T08:33:43+00:00",
+      "lastSuccess": "2026-09-23T14:13:54+00:00",
       "count": 33
     },
     {
@@ -24,7 +24,7 @@
       "url": "https://www.jpcert.or.jp/rss/jpcert.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-23T08:33:43+00:00",
+      "lastSuccess": "2026-09-23T14:13:54+00:00",
       "count": 28
     },
     {
@@ -34,7 +34,7 @@
       "url": "https://jvn.jp/rss/jvn.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-23T08:33:43+00:00",
+      "lastSuccess": "2026-09-23T14:13:54+00:00",
       "count": 20
     },
     {
@@ -44,7 +44,7 @@
       "url": "https://blogs.jpcert.or.jp/ja/atom.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-23T08:33:43+00:00",
+      "lastSuccess": "2026-09-23T14:13:54+00:00",
       "count": 15
     },
     {
@@ -54,7 +54,7 @@
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-23T08:33:43+00:00",
+      "lastSuccess": "2026-09-23T14:13:54+00:00",
       "count": 200
     },
     {
@@ -64,7 +64,7 @@
       "url": "https://github.blog/changelog/feed/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-23T08:33:43+00:00",
+      "lastSuccess": "2026-09-23T14:13:54+00:00",
       "count": 10
     },
     {
@@ -74,7 +74,7 @@
       "url": "https://api.github.com/repos/langgenius/dify/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-23T08:33:43+00:00",
+      "lastSuccess": "2026-09-23T14:13:54+00:00",
       "count": 27
     },
     {
@@ -84,7 +84,7 @@
       "url": "https://api.github.com/repos/openai/codex/releases?per_page=10",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-23T08:33:43+00:00",
+      "lastSuccess": "2026-09-23T14:13:54+00:00",
       "count": 2
     },
     {
@@ -94,7 +94,7 @@
       "url": "https://api.github.com/repos/anthropics/claude-code/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-23T08:33:43+00:00",
+      "lastSuccess": "2026-09-23T14:13:54+00:00",
       "count": 30
     },
     {
@@ -104,7 +104,7 @@
       "url": "https://jp.finalfantasyxiv.com/lodestone/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-23T08:33:43+00:00",
+      "lastSuccess": "2026-09-23T14:13:54+00:00",
       "count": 29
     },
     {
@@ -114,7 +114,7 @@
       "url": "https://steamcommunity.com/games/1245620/rss/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-23T08:33:43+00:00",
+      "lastSuccess": "2026-09-23T14:13:54+00:00",
       "count": 10
     },
     {
@@ -124,7 +124,7 @@
       "url": "https://store.steampowered.com/feeds/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-23T08:33:43+00:00",
+      "lastSuccess": "2026-09-23T14:13:54+00:00",
       "count": 10
     },
     {
@@ -134,11 +134,305 @@
       "url": "https://www.apple.com/jp/newsroom/rss-feed.rss",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-23T08:33:43+00:00",
+      "lastSuccess": "2026-09-23T14:13:54+00:00",
       "count": 20
     }
   ],
   "items": [
+    {
+      "id": "ec8edc9b3a40a5cb22f93a9e",
+      "title": "Frontline: Afrika Korps is an RTS that feels right out of the Golden Age",
+      "url": "https://store.steampowered.com/news/group/25563497/view/679636495422718856",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-23T13:01:01+00:00",
+      "detectedAt": "2026-09-23T14:13:54+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "416106b64164a126d57ef78a2c19fd2de93a05d8475b2cd30693084b793c06cb",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "e0bd1fcbb07c8ec8d0c4c077",
+      "title": "I've played 1007 hours of Warhammer 3, and its new update is essential for Total War fans",
+      "url": "https://store.steampowered.com/news/group/38509069/view/678510595516924960",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-23T14:09:07+00:00",
+      "detectedAt": "2026-09-23T14:13:54+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "6f1f37aeb76ad90b32ff220f442e3675dd22f8fc517f5464c2d9c8ba314d1227",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "update"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "c731256f039924f26c1218fd",
+      "title": "Controller maker CKRD releases the Atom+, a keychain sized controller promising no stick drift",
+      "url": "https://store.steampowered.com/news/group/42342144/view/712287592723252046",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-23T12:29:41+00:00",
+      "detectedAt": "2026-09-23T14:13:54+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "5fcd2e8fcd81ba8380ecab57991c0282631660c598631f9d871c7d151c7cace2",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "release"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "ae28ae807dcb4d3521a3d319",
+      "title": "Call of the Beast: Week 1 - join forces and reach the GLOBAL GOAL!",
+      "url": "https://store.steampowered.com/news/app/3008130/view/715665292442731383",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-23T13:46:04+00:00",
+      "detectedAt": "2026-09-23T14:13:54+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "b465c4d4b0b7a5c8cff26576a1235761cceccf71c477bbbf96a38845f5b3b51b",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "a91c8b20977094868cf7f37b",
+      "title": "Dune: Awakening (PS5) Review",
+      "url": "https://store.steampowered.com/news/group/7433348/view/699902693745886152",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-23T14:03:48+00:00",
+      "detectedAt": "2026-09-23T14:13:54+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "53b01513505fc9f56ddc8c192a790fb7f04ad11c298730c1215b0fd83ef1c19b",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "977ccea3ffc877481d55fdc7",
+      "title": "1.0.0.5 Patch Notes - Releasing Friday",
+      "url": "https://store.steampowered.com/news/app/1374490/view/684140095047992333",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-23T14:00:42+00:00",
+      "detectedAt": "2026-09-23T14:13:54+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "c89b6caaa2e12bb3705375ad925a1de33cd71e04ba9ddabb229b059ba5d7c772",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "patch"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "948285c6899b2e76e3bf190c",
+      "title": "New Cozy Farming Sim is Basically Stardew Valley with Criminals and Chinese Mythology",
+      "url": "https://store.steampowered.com/news/group/1450625/view/701028593652728790",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-23T13:09:11+00:00",
+      "detectedAt": "2026-09-23T14:13:54+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "98c8a9fd448fa1ab43bad9794c63273a4f11db0a718f50009a6ee8bfa057c8ea",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "9328fa400dd37e6b9e773781",
+      "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+      "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+      "sourceId": "openai",
+      "sourceName": "OpenAI",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-23T13:00:00+00:00",
+      "detectedAt": "2026-09-23T14:13:54+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "056493326ee045428c887d3b221be85344bb8f9e9147de4b5a2d0a0f0aa8ab10",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "739cffe4364c15e926b63b41",
+      "title": "Backrooms: Savior Officially Releases March 2027",
+      "url": "https://store.steampowered.com/news/group/38666666/view/668377496357437999",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-23T12:08:54+00:00",
+      "detectedAt": "2026-09-23T14:13:54+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "9ed23449e778812b45126eb99869a49a5cac2d55203003bc3a35ecb1410a60b7",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "release"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "5ab590850491008e2cefeb69",
+      "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+      "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
+      "sourceId": "openai",
+      "sourceName": "OpenAI",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-23T00:00:00+00:00",
+      "detectedAt": "2026-09-23T14:13:54+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "abd2e2ce732da57149c9fac349019bfed21d5040125da12784dd4acb6e0d8633",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "5348cfd375c5458eebbc5218",
+      "title": "Discover The Season of Scares Update!",
+      "url": "https://store.steampowered.com/news/app/1401590/view/686391258373947713",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-23T13:06:26+00:00",
+      "detectedAt": "2026-09-23T14:13:54+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "76e75c2266a706cee1d08212b1d649e10db22fc0e623992e035a6c2436dda1d6",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "update"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "461355c46977622e8fc7726d",
+      "title": "New Diablo 4 patch notes fix lost boss fights, infinite loot farms, and unlimited Butchers",
+      "url": "https://store.steampowered.com/news/group/3693985/view/703280393464316820",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-23T12:58:56+00:00",
+      "detectedAt": "2026-09-23T14:13:54+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "bbcd23be12153771a1ca4a54bf53651aa84f7d342a61fef014d7f3c6585fdc33",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "patch"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
     {
       "id": "f29cba9d3e8e8434a347d8ed",
       "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (09/14~09/20)",
@@ -769,10 +1063,9 @@
       "summary": null,
       "contentHash": "c927bd50064baf17f6dd21afdb7fa85b429e8a91d51f24d3d950fb31a4bcca48",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -910,10 +1203,9 @@
       "summary": null,
       "contentHash": "ed3559623ec0adc65719bb9b091d5ffd52983535113d4f0eed5c3bfe347560fb",
       "revision": 1,
-      "importance": 70,
+      "importance": 60,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "security"
       ],
       "tags": [
@@ -936,10 +1228,9 @@
       "summary": null,
       "contentHash": "d6b2c27de3b2e2a0a044b8099ef5e5cc7e378cb309577562805bdef70d0a8bfd",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -959,10 +1250,9 @@
       "summary": null,
       "contentHash": "2ae4fb4f93c9c9ef20c8d3803b48648d5311c65444e65b80f56ffa89ea15dfb9",
       "revision": 1,
-      "importance": 65,
+      "importance": 55,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "release"
       ],
       "tags": [
@@ -985,10 +1275,9 @@
       "summary": null,
       "contentHash": "49c7837cb5bccea9de7eec88ae8cb48d08f9a0e9f028ee61b7767b682038950e",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1008,10 +1297,9 @@
       "summary": null,
       "contentHash": "d4b2f2f8a0038394c1ac9c7301dd35119f4fec217bf221fd845a0747bcb301b0",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1031,10 +1319,9 @@
       "summary": null,
       "contentHash": "3720ce59c3981d6921ef46c6f4a34a99b0038a8a3e581eed550fa526c36a8049",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1054,10 +1341,9 @@
       "summary": null,
       "contentHash": "e38f3430cdeba113ba1e7173034a75051eb22d39f3ff96077d3c70fc19b9e5e8",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1099,10 +1385,9 @@
       "summary": null,
       "contentHash": "0433677e7184475f880a262a7ccec892bc8fac1a8b093ebcc179b53b096987b3",
       "revision": 1,
-      "importance": 65,
+      "importance": 55,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "update"
       ],
       "tags": [
@@ -1125,10 +1410,9 @@
       "summary": null,
       "contentHash": "dbd1eb11dd7be03922c7e501c2d78bcc7fa94f9b5cdbfac2b4e0b4e0ece56f07",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1148,10 +1432,9 @@
       "summary": null,
       "contentHash": "e3f73d503f46125f27c002994245dcbf7dcf0322db180dbe2779802199cd9036",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1171,10 +1454,9 @@
       "summary": null,
       "contentHash": "6003bf98a527ec22b2391dee458583e8d3f9454e2fc3b0162306f49ef2b398e4",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1194,10 +1476,9 @@
       "summary": null,
       "contentHash": "a3b3969ad516edd1d41c83f41695c2c8f36ebae2e285483b4c9cd89be4e77f5d",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },

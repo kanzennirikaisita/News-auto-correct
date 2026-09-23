@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-23T00:32:14+00:00",
+  "generatedAt": "2026-09-23T08:33:43+00:00",
   "collector": {
-    "lastRun": "2026-09-23T00:32:14+00:00",
+    "lastRun": "2026-09-23T08:33:43+00:00",
     "success": 13,
     "failed": 0
   },
@@ -14,7 +14,7 @@
       "url": "https://www.digital.go.jp/rss/news.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-23T00:32:14+00:00",
+      "lastSuccess": "2026-09-23T08:33:43+00:00",
       "count": 33
     },
     {
@@ -24,7 +24,7 @@
       "url": "https://www.jpcert.or.jp/rss/jpcert.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-23T00:32:14+00:00",
+      "lastSuccess": "2026-09-23T08:33:43+00:00",
       "count": 28
     },
     {
@@ -34,7 +34,7 @@
       "url": "https://jvn.jp/rss/jvn.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-23T00:32:14+00:00",
+      "lastSuccess": "2026-09-23T08:33:43+00:00",
       "count": 20
     },
     {
@@ -44,7 +44,7 @@
       "url": "https://blogs.jpcert.or.jp/ja/atom.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-23T00:32:14+00:00",
+      "lastSuccess": "2026-09-23T08:33:43+00:00",
       "count": 15
     },
     {
@@ -54,7 +54,7 @@
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-23T00:32:14+00:00",
+      "lastSuccess": "2026-09-23T08:33:43+00:00",
       "count": 200
     },
     {
@@ -64,7 +64,7 @@
       "url": "https://github.blog/changelog/feed/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-23T00:32:14+00:00",
+      "lastSuccess": "2026-09-23T08:33:43+00:00",
       "count": 10
     },
     {
@@ -74,7 +74,7 @@
       "url": "https://api.github.com/repos/langgenius/dify/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-23T00:32:14+00:00",
+      "lastSuccess": "2026-09-23T08:33:43+00:00",
       "count": 27
     },
     {
@@ -84,8 +84,8 @@
       "url": "https://api.github.com/repos/openai/codex/releases?per_page=10",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-23T00:32:14+00:00",
-      "count": 1
+      "lastSuccess": "2026-09-23T08:33:43+00:00",
+      "count": 2
     },
     {
       "id": "claude-code",
@@ -94,7 +94,7 @@
       "url": "https://api.github.com/repos/anthropics/claude-code/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-23T00:32:14+00:00",
+      "lastSuccess": "2026-09-23T08:33:43+00:00",
       "count": 30
     },
     {
@@ -104,7 +104,7 @@
       "url": "https://jp.finalfantasyxiv.com/lodestone/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-23T00:32:14+00:00",
+      "lastSuccess": "2026-09-23T08:33:43+00:00",
       "count": 29
     },
     {
@@ -114,7 +114,7 @@
       "url": "https://steamcommunity.com/games/1245620/rss/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-23T00:32:14+00:00",
+      "lastSuccess": "2026-09-23T08:33:43+00:00",
       "count": 10
     },
     {
@@ -124,7 +124,7 @@
       "url": "https://store.steampowered.com/feeds/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-23T00:32:14+00:00",
+      "lastSuccess": "2026-09-23T08:33:43+00:00",
       "count": 10
     },
     {
@@ -134,11 +134,323 @@
       "url": "https://www.apple.com/jp/newsroom/rss-feed.rss",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-23T00:32:14+00:00",
+      "lastSuccess": "2026-09-23T08:33:43+00:00",
       "count": 20
     }
   ],
   "items": [
+    {
+      "id": "f29cba9d3e8e8434a347d8ed",
+      "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (09/14~09/20)",
+      "url": "https://store.steampowered.com/news/app/578080/view/668377496357437530",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-23T07:01:38+00:00",
+      "detectedAt": "2026-09-23T08:33:43+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "3b610f0962f75f977eba9781b29337ff653bf4753d02b08fda7a1ac930942531",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "de072db2b146b7cecf18976f",
+      "title": "The gold problem in WoW Classic is really a time problem",
+      "url": "https://store.steampowered.com/news/group/25563497/view/679636495422718039",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-23T07:09:55+00:00",
+      "detectedAt": "2026-09-23T08:33:43+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "d14d192c78df9a11517c24c0796924d6090a82f2bdfb09edd2b53b2bf59be146",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "cf4f876c079667faff553980",
+      "title": "OpenTelemetry in the GitHub Copilot app",
+      "url": "https://github.blog/changelog/2026-09-22-opentelemetry-in-the-github-copilot-app",
+      "sourceId": "github",
+      "sourceName": "GitHub Changelog",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-23T02:14:54+00:00",
+      "detectedAt": "2026-09-23T08:33:43+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "dae784a83934a5af1648c69028d256d088f7102a41e529149326872c0fbd80ee",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "c0eb1dd5f5e2e96f375d74f3",
+      "title": "Dune Is Officially Switching Genres",
+      "url": "https://store.steampowered.com/news/group/38666666/view/668377496357437523",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-23T06:08:39+00:00",
+      "detectedAt": "2026-09-23T08:33:43+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "539aec9e2a8217fbf4bf00d7ca1665a371ba1016d2955f1bb93300be82f2ee4c",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "b4dbbca6c32440cc55eea85f",
+      "title": "Beat Saber gets a first discount on Steam - ready up for the Steam Frame",
+      "url": "https://store.steampowered.com/news/group/4218320/view/694273194214817875",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-23T07:38:58+00:00",
+      "detectedAt": "2026-09-23T08:33:43+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "0731f22c98f897fabdfee66a4fb837d0c0eb55e498a130c1f4f771f26ce67577",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "b209a268019f133b9572679b",
+      "title": "Additional Details on Sep. 24th Scheduled Update",
+      "url": "https://store.steampowered.com/news/app/1973530/view/677384695610081375",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-23T06:54:55+00:00",
+      "detectedAt": "2026-09-23T08:33:43+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "b7446ab31b60cdc6c1fb046a51e753089b8aaba1aa8e685f3eb5cf5a028a4237",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "update"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "905df219d58542f048287844",
+      "title": "Respect The Horde playtest adds Native Linux and controller support",
+      "url": "https://store.steampowered.com/news/group/4218320/view/694273194214817878",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-23T07:59:00+00:00",
+      "detectedAt": "2026-09-23T08:33:43+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "6b8c922a60c1909840911c9a41e1ba56e2a886d1cc9c10fb51dcecf32c184ec0",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "8fbf0da01b0e4875080fcec4",
+      "title": "SteamOS 3.8.28 Beta released, plus another Steam Client Beta with Remote Play: Pyrowave fixes",
+      "url": "https://store.steampowered.com/news/group/4218320/view/694273194214817865",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-23T06:58:55+00:00",
+      "detectedAt": "2026-09-23T08:33:43+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "564383bc68631a2198ed9b22ea7ae1d1fdaa5217578b406ac43d30515920cb66",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "release"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "8741770bf40fbf9f44748f8c",
+      "title": "NVIDIA recommended stable driver 595.104.02 released for Linux",
+      "url": "https://store.steampowered.com/news/group/4218320/view/694273194214817871",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-23T07:18:57+00:00",
+      "detectedAt": "2026-09-23T08:33:43+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "64e94153c1fb9b483569acf12c172e5f3a7be3c968e3beb646f2e5e9e311f781",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "release"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "744c91e8d685d54edb31368f",
+      "title": "Stargate SG-1 Officially Switched Genres For Its Long-Awaited Return, To Mixed Results",
+      "url": "https://store.steampowered.com/news/group/38666666/view/668377496357437534",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-23T07:08:41+00:00",
+      "detectedAt": "2026-09-23T08:33:43+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "73b86c30eaa51d85226b5634b4989022318d4b1954c32ff5d86f5c0f4f2dfef2",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "6e556c3af2807b579fe87a39",
+      "title": "Codex 0.156.1",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.156.1",
+      "sourceId": "codex",
+      "sourceName": "Codex",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-23T02:41:36+00:00",
+      "detectedAt": "2026-09-23T08:33:43+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-09-23T02:43:57+00:00",
+      "changeType": "new",
+      "kind": "release",
+      "summary": null,
+      "contentHash": "1f0359a2c8d7d5e8ebf178a94e6dbb7213968bd8c17c8e408cc58e6541660dde",
+      "revision": 1,
+      "importance": 75,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "バージョン公開",
+        "codex"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "684ced904af984da7148df5d",
+      "title": "Discord announced a revamped global age verification system",
+      "url": "https://store.steampowered.com/news/group/4218320/view/694273194214817868",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-23T07:08:56+00:00",
+      "detectedAt": "2026-09-23T08:33:43+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "2cfe9cd068add6ab75ba8b1def36095de4b573c581ccc73d3512d735a4a6d557",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "18036a2d23f1f8494acfaf6b",
+      "title": "New features and improvements in Copilot for JetBrains",
+      "url": "https://github.blog/changelog/2026-09-22-new-features-and-improvements-in-copilot-for-jetbrains",
+      "sourceId": "github",
+      "sourceName": "GitHub Changelog",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-23T00:34:18+00:00",
+      "detectedAt": "2026-09-23T08:33:43+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "35081320ed418584bc58e1dafa95b2e90b4e21bd9324659c1663567977a8e080",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
     {
       "id": "f9982fc6f0da0fb42bd1c697",
       "title": "Game Anglia Direct 2026",
@@ -905,10 +1217,9 @@
       "summary": null,
       "contentHash": "f63700eecf28b50a770dc33cb02b779abccf880b846bba1c0e966f48fb7e415f",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -928,10 +1239,9 @@
       "summary": null,
       "contentHash": "f297200c9ab799053660561e1ab5d7306a1a3b5d374f1061806759d264524e0e",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -951,10 +1261,9 @@
       "summary": null,
       "contentHash": "e8032b2882730f2c9a93ea780b0f100b1c4e872e3bd44c6e5793980aede7c996",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -974,10 +1283,9 @@
       "summary": null,
       "contentHash": "a0ec24d808be36386cb58f031730fc18429478bce53917e73812370a09636ff4",
       "revision": 1,
-      "importance": 65,
+      "importance": 55,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "release"
       ],
       "tags": [
@@ -1000,10 +1308,9 @@
       "summary": null,
       "contentHash": "b97807d55d9d43700ff96b4b6f2c97ad73f489143875479a8fe360053542a88f",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1023,10 +1330,9 @@
       "summary": null,
       "contentHash": "5eac32d6260e33efc8ec76a300ecfade539146185434224e8702c9c65c85503d",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1046,10 +1352,9 @@
       "summary": null,
       "contentHash": "0d0ee504067de59c6f1363bc42c7ad4a1e2aeb124661d6b44bb6f31dbda4ef17",
       "revision": 1,
-      "importance": 65,
+      "importance": 55,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "release"
       ],
       "tags": [
@@ -1072,10 +1377,9 @@
       "summary": null,
       "contentHash": "d84e67697bb801e9c84aba6bf53416a0829034fa366cf029646c054e4ef24f1a",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1095,10 +1399,9 @@
       "summary": null,
       "contentHash": "4757222a525995745daaf162e7c40eb4a5153cdd91d9121cd2894c2b0097b04d",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1118,10 +1421,9 @@
       "summary": null,
       "contentHash": "8fe1b47629e2b6e8c506a1b9532767b3481c872039b3d40e4e496317c0e2d4a3",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1141,10 +1443,9 @@
       "summary": null,
       "contentHash": "68dd7e181317c1d1c877c891d92319ec08712cf2520ed70c6fed524d909fcbf1",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -15011,10 +15312,9 @@
       "summary": null,
       "contentHash": "99f64d2ea3aacfb1d92f18a7198649c48dd68c1ad8e619a5c13e86720f95e4ac",
       "revision": 2,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },

@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-24T08:26:16+00:00",
+  "generatedAt": "2026-09-24T14:12:12+00:00",
   "collector": {
-    "lastRun": "2026-09-24T08:26:16+00:00",
-    "success": 13,
-    "failed": 0
+    "lastRun": "2026-09-24T14:12:12+00:00",
+    "success": 12,
+    "failed": 1
   },
   "sources": [
     {
@@ -14,8 +14,8 @@
       "url": "https://www.digital.go.jp/rss/news.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-24T08:26:16+00:00",
-      "count": 18
+      "lastSuccess": "2026-09-24T14:12:12+00:00",
+      "count": 19
     },
     {
       "id": "jpcert",
@@ -24,7 +24,7 @@
       "url": "https://www.jpcert.or.jp/rss/jpcert.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-24T08:26:16+00:00",
+      "lastSuccess": "2026-09-24T14:12:12+00:00",
       "count": 28
     },
     {
@@ -34,7 +34,7 @@
       "url": "https://jvn.jp/rss/jvn.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-24T08:26:16+00:00",
+      "lastSuccess": "2026-09-24T14:12:12+00:00",
       "count": 20
     },
     {
@@ -44,7 +44,7 @@
       "url": "https://blogs.jpcert.or.jp/ja/atom.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-24T08:26:16+00:00",
+      "lastSuccess": "2026-09-24T14:12:12+00:00",
       "count": 15
     },
     {
@@ -54,7 +54,7 @@
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-24T08:26:16+00:00",
+      "lastSuccess": "2026-09-24T14:12:12+00:00",
       "count": 200
     },
     {
@@ -64,7 +64,7 @@
       "url": "https://github.blog/changelog/feed/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-24T08:26:16+00:00",
+      "lastSuccess": "2026-09-24T14:12:12+00:00",
       "count": 10
     },
     {
@@ -74,7 +74,7 @@
       "url": "https://api.github.com/repos/langgenius/dify/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-24T08:26:16+00:00",
+      "lastSuccess": "2026-09-24T14:12:12+00:00",
       "count": 27
     },
     {
@@ -84,7 +84,7 @@
       "url": "https://api.github.com/repos/openai/codex/releases?per_page=10",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-24T08:26:16+00:00",
+      "lastSuccess": "2026-09-24T14:12:12+00:00",
       "count": 1
     },
     {
@@ -94,7 +94,7 @@
       "url": "https://api.github.com/repos/anthropics/claude-code/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-24T08:26:16+00:00",
+      "lastSuccess": "2026-09-24T14:12:12+00:00",
       "count": 30
     },
     {
@@ -104,8 +104,8 @@
       "url": "https://jp.finalfantasyxiv.com/lodestone/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-24T08:26:16+00:00",
-      "count": 29
+      "lastSuccess": "2026-09-24T14:12:12+00:00",
+      "count": 30
     },
     {
       "id": "elden-ring",
@@ -114,7 +114,7 @@
       "url": "https://steamcommunity.com/games/1245620/rss/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-24T08:26:16+00:00",
+      "lastSuccess": "2026-09-24T14:12:12+00:00",
       "count": 10
     },
     {
@@ -122,10 +122,10 @@
       "name": "Steam News",
       "category": "game",
       "url": "https://store.steampowered.com/feeds/news/",
-      "status": "ok",
-      "error": null,
+      "status": "error",
+      "error": "ParseError: not well-formed (invalid token): line 13, column 11023",
       "lastSuccess": "2026-09-24T08:26:16+00:00",
-      "count": 10
+      "count": 0
     },
     {
       "id": "apple",
@@ -134,11 +134,83 @@
       "url": "https://www.apple.com/jp/newsroom/rss-feed.rss",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-24T08:26:16+00:00",
+      "lastSuccess": "2026-09-24T14:12:12+00:00",
       "count": 20
     }
   ],
   "items": [
+    {
+      "id": "afc8dc40631603af30943e8b",
+      "title": "大臣・副大臣・大臣政務官の交代式を行いました",
+      "url": "https://www.digital.go.jp/news/efdd742c-aa9b-4482-8842-0e172fa9b78b",
+      "sourceId": "digital-agency",
+      "sourceName": "デジタル庁",
+      "category": "work",
+      "publishedAt": "2026-09-24T10:29:49+00:00",
+      "detectedAt": "2026-09-24T14:12:12+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "448e653fc782dbe69f117abed03b875a6ea59f2f58094eec8dc1ec9afde5f73c",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "21b74c2fb2288519817fa14b",
+      "title": "Apple、ロンドンに最先端のライブ音楽会場Apple Music Hallをオープン",
+      "url": "https://www.apple.com/jp/newsroom/2026/09/apple-opens-apple-music-hall-a-state-of-the-art-live-music-venue-in-london/",
+      "sourceId": "apple",
+      "sourceName": "Apple Newsroom",
+      "category": "gadget",
+      "publishedAt": null,
+      "detectedAt": "2026-09-24T14:12:12+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-09-24T08:28:55+00:00",
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "550deca1d2424ac5ad9cf176111ce58c8f5825feb15447f8c3382ef06aaa36a3",
+      "revision": 1,
+      "importance": 40,
+      "importanceReasons": [
+        "公式一次情報"
+      ],
+      "tags": []
+    },
+    {
+      "id": "1603082a4374eebb399f85e9",
+      "title": "[メンテナンス] セーブデータのサーバーバックアップ機能 緊急メンテナンス作業のお知らせ(9/25)",
+      "url": "https://jp.finalfantasyxiv.com/lodestone/news/detail/9092fc69a1aca4cc57f237db9b10f550a49bada9",
+      "sourceId": "ff14",
+      "sourceName": "FFXIV Lodestone",
+      "category": "game",
+      "publishedAt": "2026-09-24T10:10:00+00:00",
+      "detectedAt": "2026-09-24T14:12:12+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "7289e0841680424f99115fa243ddcdc173da746705ff3be9dea83ef95c36531e",
+      "revision": 1,
+      "importance": 100,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "緊急",
+        "メンテナンス"
+      ],
+      "tags": [
+        "メンテナンス"
+      ]
+    },
     {
       "id": "f717bf66593789da91d12a3a",
       "title": "Guide: How to find where Steam stores Proton game files",
@@ -691,10 +763,9 @@
       "summary": null,
       "contentHash": "30e76fad0d6eba9bda1e69c3957eb944878c2c613415ab4a8ea14d3e4c2e1db8",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1025,10 +1096,9 @@
       "summary": null,
       "contentHash": "031d006d1f451e3e319984eced2ed389c4b66883e527b1bc3b69d928af75767b",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1048,10 +1118,9 @@
       "summary": null,
       "contentHash": "a74e43b514714b338bcc319d6536170b8a24ceec2fa3b98cd43e0908e410c1e2",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1071,10 +1140,9 @@
       "summary": null,
       "contentHash": "0f256948899cc71c9c5bd3933eadf1da8fc93435eb9118e2b7041a02c0312372",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1094,10 +1162,9 @@
       "summary": null,
       "contentHash": "b1153d77570ca152d42e714eb71f4c6ddbf76d5eabd386d416938b50cd7b3a6e",
       "revision": 1,
-      "importance": 70,
+      "importance": 60,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "security"
       ],
       "tags": [
@@ -1191,10 +1258,9 @@
       "summary": null,
       "contentHash": "416106b64164a126d57ef78a2c19fd2de93a05d8475b2cd30693084b793c06cb",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1214,10 +1280,9 @@
       "summary": null,
       "contentHash": "6f1f37aeb76ad90b32ff220f442e3675dd22f8fc517f5464c2d9c8ba314d1227",
       "revision": 1,
-      "importance": 65,
+      "importance": 55,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "update"
       ],
       "tags": [
@@ -1240,10 +1305,9 @@
       "summary": null,
       "contentHash": "5fcd2e8fcd81ba8380ecab57991c0282631660c598631f9d871c7d151c7cace2",
       "revision": 1,
-      "importance": 65,
+      "importance": 55,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "release"
       ],
       "tags": [
@@ -1266,10 +1330,9 @@
       "summary": null,
       "contentHash": "b465c4d4b0b7a5c8cff26576a1235761cceccf71c477bbbf96a38845f5b3b51b",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1289,10 +1352,9 @@
       "summary": null,
       "contentHash": "53b01513505fc9f56ddc8c192a790fb7f04ad11c298730c1215b0fd83ef1c19b",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1312,10 +1374,9 @@
       "summary": null,
       "contentHash": "c89b6caaa2e12bb3705375ad925a1de33cd71e04ba9ddabb229b059ba5d7c772",
       "revision": 1,
-      "importance": 65,
+      "importance": 55,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "patch"
       ],
       "tags": [
@@ -1338,10 +1399,9 @@
       "summary": null,
       "contentHash": "98c8a9fd448fa1ab43bad9794c63273a4f11db0a718f50009a6ee8bfa057c8ea",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1361,10 +1421,9 @@
       "summary": null,
       "contentHash": "056493326ee045428c887d3b221be85344bb8f9e9147de4b5a2d0a0f0aa8ab10",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1384,10 +1443,9 @@
       "summary": null,
       "contentHash": "9ed23449e778812b45126eb99869a49a5cac2d55203003bc3a35ecb1410a60b7",
       "revision": 1,
-      "importance": 65,
+      "importance": 55,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "release"
       ],
       "tags": [
@@ -1432,10 +1490,9 @@
       "summary": null,
       "contentHash": "76e75c2266a706cee1d08212b1d649e10db22fc0e623992e035a6c2436dda1d6",
       "revision": 1,
-      "importance": 65,
+      "importance": 55,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "update"
       ],
       "tags": [
@@ -1458,10 +1515,9 @@
       "summary": null,
       "contentHash": "bbcd23be12153771a1ca4a54bf53651aa84f7d342a61fef014d7f3c6585fdc33",
       "revision": 1,
-      "importance": 65,
+      "importance": 55,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "patch"
       ],
       "tags": [

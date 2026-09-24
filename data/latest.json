@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-24T00:29:44+00:00",
+  "generatedAt": "2026-09-24T08:26:16+00:00",
   "collector": {
-    "lastRun": "2026-09-24T00:29:44+00:00",
+    "lastRun": "2026-09-24T08:26:16+00:00",
     "success": 13,
     "failed": 0
   },
@@ -14,8 +14,8 @@
       "url": "https://www.digital.go.jp/rss/news.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-24T00:29:44+00:00",
-      "count": 33
+      "lastSuccess": "2026-09-24T08:26:16+00:00",
+      "count": 18
     },
     {
       "id": "jpcert",
@@ -24,7 +24,7 @@
       "url": "https://www.jpcert.or.jp/rss/jpcert.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-24T00:29:44+00:00",
+      "lastSuccess": "2026-09-24T08:26:16+00:00",
       "count": 28
     },
     {
@@ -34,7 +34,7 @@
       "url": "https://jvn.jp/rss/jvn.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-24T00:29:44+00:00",
+      "lastSuccess": "2026-09-24T08:26:16+00:00",
       "count": 20
     },
     {
@@ -44,7 +44,7 @@
       "url": "https://blogs.jpcert.or.jp/ja/atom.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-24T00:29:44+00:00",
+      "lastSuccess": "2026-09-24T08:26:16+00:00",
       "count": 15
     },
     {
@@ -54,7 +54,7 @@
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-24T00:29:44+00:00",
+      "lastSuccess": "2026-09-24T08:26:16+00:00",
       "count": 200
     },
     {
@@ -64,7 +64,7 @@
       "url": "https://github.blog/changelog/feed/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-24T00:29:44+00:00",
+      "lastSuccess": "2026-09-24T08:26:16+00:00",
       "count": 10
     },
     {
@@ -74,7 +74,7 @@
       "url": "https://api.github.com/repos/langgenius/dify/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-24T00:29:44+00:00",
+      "lastSuccess": "2026-09-24T08:26:16+00:00",
       "count": 27
     },
     {
@@ -84,8 +84,8 @@
       "url": "https://api.github.com/repos/openai/codex/releases?per_page=10",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-24T00:29:44+00:00",
-      "count": 2
+      "lastSuccess": "2026-09-24T08:26:16+00:00",
+      "count": 1
     },
     {
       "id": "claude-code",
@@ -94,7 +94,7 @@
       "url": "https://api.github.com/repos/anthropics/claude-code/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-24T00:29:44+00:00",
+      "lastSuccess": "2026-09-24T08:26:16+00:00",
       "count": 30
     },
     {
@@ -104,7 +104,7 @@
       "url": "https://jp.finalfantasyxiv.com/lodestone/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-24T00:29:44+00:00",
+      "lastSuccess": "2026-09-24T08:26:16+00:00",
       "count": 29
     },
     {
@@ -114,7 +114,7 @@
       "url": "https://steamcommunity.com/games/1245620/rss/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-24T00:29:44+00:00",
+      "lastSuccess": "2026-09-24T08:26:16+00:00",
       "count": 10
     },
     {
@@ -124,7 +124,7 @@
       "url": "https://store.steampowered.com/feeds/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-24T00:29:44+00:00",
+      "lastSuccess": "2026-09-24T08:26:16+00:00",
       "count": 10
     },
     {
@@ -134,11 +134,547 @@
       "url": "https://www.apple.com/jp/newsroom/rss-feed.rss",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-24T00:29:44+00:00",
+      "lastSuccess": "2026-09-24T08:26:16+00:00",
       "count": 20
     }
   ],
   "items": [
+    {
+      "id": "f717bf66593789da91d12a3a",
+      "title": "Guide: How to find where Steam stores Proton game files",
+      "url": "https://store.steampowered.com/news/group/4218320/view/694273194214818958",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-24T08:20:39+00:00",
+      "detectedAt": "2026-09-24T08:26:16+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "0a6eda552b5ee7a79709fcb87d6d45b01ce670b9357277adc403546e89dd52ee",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "df217e8823bddf50bca1d2bb",
+      "title": "Notice: We have resolved an issue that prevented some DLC content from unlocking",
+      "url": "https://store.steampowered.com/news/app/1636440/view/702154493559571558",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-24T07:27:27+00:00",
+      "detectedAt": "2026-09-24T08:26:16+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "96f5c707667b10a02230bd638ae5b9df2b69eb7ed8a367c42212f6d591575128",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": [
+        "イベント"
+      ]
+    },
+    {
+      "id": "c8f0b1a7d5d197802aeaf62b",
+      "title": "SteamVR Beta v2.18.1 brings more Linux fixes and general improvements",
+      "url": "https://store.steampowered.com/news/group/4218320/view/694273194214818938",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-24T07:00:33+00:00",
+      "detectedAt": "2026-09-24T08:26:16+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "b86ce56f20c2a1de9cec4769f14f155bf8a1c445cda1f6af32a6a73a7283bf45",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "bb71e409dd7f29f762c233b6",
+      "title": "ChatGPT Ads expands to Southeast Asia and Taiwan",
+      "url": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
+      "sourceId": "openai",
+      "sourceName": "OpenAI",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-23T02:00:00+00:00",
+      "detectedAt": "2026-09-24T08:26:16+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "052d78eaa40234d9f3220435139a40f90e8a68db36bc3f2d50364247143e58eb",
+      "revision": 1,
+      "importance": 40,
+      "importanceReasons": [
+        "公式一次情報"
+      ],
+      "tags": []
+    },
+    {
+      "id": "b1b8038df751c5621cb199ba",
+      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月22日）",
+      "url": "https://jvn.jp/vu/JVNVU96198756/",
+      "sourceId": "jvn",
+      "sourceName": "JVN",
+      "category": "work",
+      "publishedAt": "2026-09-24T01:30:00+00:00",
+      "detectedAt": "2026-09-24T08:26:16+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-09-24T01:30:00+00:00",
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "6d57d8f803708a9da466d5505758ad79d36d5be12c6ee45b17b801675e06b0e4",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "adf4342553ed96203a0b4906",
+      "title": "The FINAL FANTASY XIV & FINAL FANTASY XV Collaboration Event Returns!",
+      "url": "https://store.steampowered.com/news/app/39210/view/669502759770260422",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-22T15:00:46+00:00",
+      "detectedAt": "2026-09-24T08:26:16+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "6797672a5b8ddbffc64bff8940e9ea3f6fad86779c481b709143823851ea994a",
+      "revision": 1,
+      "importance": 40,
+      "importanceReasons": [
+        "公式一次情報"
+      ],
+      "tags": [
+        "イベント"
+      ]
+    },
+    {
+      "id": "97dd22e71d9f14be348bb99e",
+      "title": "Siemens製品に対するアップデート（2026年9月）",
+      "url": "https://jvn.jp/vu/JVNVU97027767/",
+      "sourceId": "jvn",
+      "sourceName": "JVN",
+      "category": "work",
+      "publishedAt": "2026-09-24T02:30:00+00:00",
+      "detectedAt": "2026-09-09T03:22:00+00:00",
+      "updatedAt": "2026-09-24T08:26:16+00:00",
+      "sourceUpdatedAt": "2026-09-24T02:30:00+00:00",
+      "changeType": "updated",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "adf99637d07a4b4d91ed1fc9d8c4ed82cc69b6b0bb29a16eeb51ae05d58ccfc6",
+      "revision": 3,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "アップデート"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "940c2714c187fa43dbe6255b",
+      "title": "三菱電機製GX Works3およびモーション制御設定における認証回避の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU99700314/",
+      "sourceId": "jvn",
+      "sourceName": "JVN",
+      "category": "work",
+      "publishedAt": "2026-09-24T04:00:00+00:00",
+      "detectedAt": "2026-09-24T08:26:16+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-09-24T04:00:00+00:00",
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "5f8d0780ff61474b44d941f9591c457ea716335a363c7563abc3f265d0c667a0",
+      "revision": 1,
+      "importance": 80,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "脆弱性"
+      ],
+      "tags": [
+        "セキュリティ"
+      ]
+    },
+    {
+      "id": "855b76bac66776dc7ac7777a",
+      "title": "Marvel Rivals Version 20260924 Patch Notes",
+      "url": "https://store.steampowered.com/news/app/2767030/view/685265994960077911",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-24T06:54:04+00:00",
+      "detectedAt": "2026-09-24T08:26:16+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "2910525fa036cb09ad0144057ad9640d893a8477986dd955ebfbc541c3e45ab9",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "patch"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "84618fe03462b46c0de76203",
+      "title": "ゲーム内でのRMTおよび不正行為への対応について(9/24)",
+      "url": "https://jp.finalfantasyxiv.com/lodestone/news/detail/ff62755f2d6093090997d7fb563c86c9c7f9f0ff",
+      "sourceId": "ff14",
+      "sourceName": "FFXIV Lodestone",
+      "category": "game",
+      "publishedAt": "2026-09-24T07:00:00+00:00",
+      "detectedAt": "2026-09-24T08:26:16+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "8200abd46451c7eeab08cbd57af8778a118f43bc8ad7e5493b33a2efc6def8d9",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "82fe451083d3d09bc16dad4b",
+      "title": "最新のiPhone、Apple Watch、AirPodsのラインナップが世界中の店舗で販売開始",
+      "url": "https://www.apple.com/jp/newsroom/2026/09/the-latest-iphone-apple-watch-and-airpods-lineups-arrive-in-stores-worldwide/",
+      "sourceId": "apple",
+      "sourceName": "Apple Newsroom",
+      "category": "gadget",
+      "publishedAt": null,
+      "detectedAt": "2026-09-24T08:26:16+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-09-24T04:38:40+00:00",
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "2a2bf801d9252c13dee68de5fb225b57d635250bc9c6151e408ca07c5123b989",
+      "revision": 1,
+      "importance": 60,
+      "importanceReasons": [
+        "公式一次情報",
+        "iPhone",
+        "Apple Watch"
+      ],
+      "tags": []
+    },
+    {
+      "id": "7d3e55916f6fde45ef39e263",
+      "title": "ベンダによる署名済みUEFIアプリケーションにおけるセキュアブートバイパスの脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU93766760/",
+      "sourceId": "jvn",
+      "sourceName": "JVN",
+      "category": "work",
+      "publishedAt": "2026-09-24T01:30:10+00:00",
+      "detectedAt": "2026-09-24T08:26:16+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-09-24T01:30:10+00:00",
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "9f3deca1d71304dabf762eb12fd3dd0f3b0971586bcd279c1f4a42e90413c145",
+      "revision": 1,
+      "importance": 80,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "脆弱性"
+      ],
+      "tags": [
+        "セキュリティ"
+      ]
+    },
+    {
+      "id": "79f1ace839360b5024210d69",
+      "title": "Imprivata製Enterprise Access ManagementにおけるRSA鍵ペアを更新できない脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU92710088/",
+      "sourceId": "jvn",
+      "sourceName": "JVN",
+      "category": "work",
+      "publishedAt": "2026-09-24T01:30:30+00:00",
+      "detectedAt": "2026-09-24T08:26:16+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-09-24T01:30:30+00:00",
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "320050019c25a56d70da4b7f66cf430c97118f128426eee97e56bdb3c1737725",
+      "revision": 1,
+      "importance": 80,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "脆弱性"
+      ],
+      "tags": [
+        "セキュリティ"
+      ]
+    },
+    {
+      "id": "6eb1aa34b041579380cea408",
+      "title": "Apache Tomcatにおける複数の脆弱性（2026年9月23日）",
+      "url": "https://jvn.jp/vu/JVNVU94625787/",
+      "sourceId": "jvn",
+      "sourceName": "JVN",
+      "category": "work",
+      "publishedAt": "2026-09-24T01:30:40+00:00",
+      "detectedAt": "2026-09-24T08:26:16+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-09-24T01:30:40+00:00",
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "9cc4ae687cb4e7d1b52647abbc081a1484383d85628aceaaa73213dc970a22f5",
+      "revision": 1,
+      "importance": 80,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "脆弱性"
+      ],
+      "tags": [
+        "セキュリティ"
+      ]
+    },
+    {
+      "id": "6e3e1aa9ae103fbf9eab4c5d",
+      "title": "Beat Saber set for a massive upgrade with hand tracking, a new game mode and more",
+      "url": "https://store.steampowered.com/news/group/4218320/view/694273194214818948",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-24T07:30:35+00:00",
+      "detectedAt": "2026-09-24T08:26:16+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "bf874b85594d04d1e91b61ef8be7de070637f225c8eaf789de3b9915741f994c",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "53651787636369425f14ae07",
+      "title": "Intel GPU support with Proton should get better with DXVK-IGDEXT",
+      "url": "https://store.steampowered.com/news/group/4218320/view/694273194214818946",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-24T07:20:35+00:00",
+      "detectedAt": "2026-09-24T08:26:16+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "864f3b7cfb86f6fb9cbcbf73b57725b8838f75a517b4372229d4eb92aa6af37c",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "533810ab0e4b4616b49bbfbc",
+      "title": "『SILENT HILL: Townfall』発売",
+      "url": "https://store.steampowered.com/news/app/1636440/view/702154493559571561",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-24T08:16:53+00:00",
+      "detectedAt": "2026-09-24T08:26:16+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "97d17d73221a928b6df48e4f89e214b34e64aede579867dbfe7eabb2c0ee1389",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "4fa3f64eb483756d1d5b6878",
+      "title": "Qualcomm announce Snapdragon X2 Series will support Linux",
+      "url": "https://store.steampowered.com/news/group/4218320/view/694273194214818940",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-24T07:10:34+00:00",
+      "detectedAt": "2026-09-24T08:26:16+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "342473799d65625282464e66e5f91c27314f46bfb0825a1352163d8f2adf01f0",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "4203d3f7519e485886c92fbf",
+      "title": "Cinnamon AI製Kotaemonのマルチユーザーチャットハンドラにおける不適切な認可の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU91025240/",
+      "sourceId": "jvn",
+      "sourceName": "JVN",
+      "category": "work",
+      "publishedAt": "2026-09-24T01:30:20+00:00",
+      "detectedAt": "2026-09-24T08:26:16+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-09-24T01:30:20+00:00",
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "f358f2b5bdbc4774af7bf5d20b35932827f5729c9a6d9cd06ee165e500b09507",
+      "revision": 1,
+      "importance": 80,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "脆弱性"
+      ],
+      "tags": [
+        "セキュリティ"
+      ]
+    },
+    {
+      "id": "2d173e7f4443a837b37f42b4",
+      "title": "注意喚起: F5 BIG-IP Access Policy Managerにおけるヒープベースのバッファオーバーフローの脆弱性（CVE-2026-94127）に関する注意喚起 (公開)",
+      "url": "https://www.jpcert.or.jp/at/2026/at260028.html",
+      "sourceId": "jpcert",
+      "sourceName": "JPCERT/CC",
+      "category": "work",
+      "publishedAt": "2026-09-24T07:14:00+00:00",
+      "detectedAt": "2026-09-24T08:26:16+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "75cefc801c73e7e4eaf5b6205cc3714c37f8f53b664f50e1765b64bb90c4cd7a",
+      "revision": 1,
+      "importance": 100,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "脆弱性",
+        "注意喚起"
+      ],
+      "tags": [
+        "セキュリティ"
+      ]
+    },
+    {
+      "id": "228f058b1a2d11c724d5a814",
+      "title": "Persona 3 Portable Special Event: Reach for the Moon（5★ Kotone Shiomi）",
+      "url": "https://store.steampowered.com/news/app/3061570/view/695399094121661548",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-24T07:21:24+00:00",
+      "detectedAt": "2026-09-24T08:26:16+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "0d516e73ff5c2052f585d36fa7c4b479e8c4da78ed95be3c91b504f1db729c96",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": [
+        "イベント"
+      ]
+    },
+    {
+      "id": "222734d4ecec02194be32b77",
+      "title": "2026年度 一般職（高卒者）官庁訪問の予約フォームを公開しました",
+      "url": "https://www.digital.go.jp/recruitment/newgraduates/2026-governmentofficevisit-clericalposition-highschoolgraduate",
+      "sourceId": "digital-agency",
+      "sourceName": "デジタル庁",
+      "category": "work",
+      "publishedAt": "2026-09-24T06:00:00+00:00",
+      "detectedAt": "2026-09-09T03:22:00+00:00",
+      "updatedAt": "2026-09-24T08:26:16+00:00",
+      "sourceUpdatedAt": null,
+      "changeType": "updated",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "4dfd87a1a4ccff92f99f7749c8ea138c9cdf2be9ffbc546d39affd0e49926d8f",
+      "revision": 2,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
     {
       "id": "f2ff7f76056120414cf01f1b",
       "title": "How invideo improves color grading 3x with GPT‑6 Astra",
@@ -633,10 +1169,9 @@
       "summary": null,
       "contentHash": "7de66965b24ceac294f3d006f73ea1dbd94b056a62cd4771c56a8570beacdb89",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -949,10 +1484,9 @@
       "summary": null,
       "contentHash": "3b610f0962f75f977eba9781b29337ff653bf4753d02b08fda7a1ac930942531",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -972,10 +1506,9 @@
       "summary": null,
       "contentHash": "d14d192c78df9a11517c24c0796924d6090a82f2bdfb09edd2b53b2bf59be146",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -995,10 +1528,9 @@
       "summary": null,
       "contentHash": "dae784a83934a5af1648c69028d256d088f7102a41e529149326872c0fbd80ee",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1018,10 +1550,9 @@
       "summary": null,
       "contentHash": "539aec9e2a8217fbf4bf00d7ca1665a371ba1016d2955f1bb93300be82f2ee4c",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1041,10 +1572,9 @@
       "summary": null,
       "contentHash": "0731f22c98f897fabdfee66a4fb837d0c0eb55e498a130c1f4f771f26ce67577",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1064,10 +1594,9 @@
       "summary": null,
       "contentHash": "b7446ab31b60cdc6c1fb046a51e753089b8aaba1aa8e685f3eb5cf5a028a4237",
       "revision": 1,
-      "importance": 65,
+      "importance": 55,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "update"
       ],
       "tags": [
@@ -1090,10 +1619,9 @@
       "summary": null,
       "contentHash": "6b8c922a60c1909840911c9a41e1ba56e2a886d1cc9c10fb51dcecf32c184ec0",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1113,10 +1641,9 @@
       "summary": null,
       "contentHash": "564383bc68631a2198ed9b22ea7ae1d1fdaa5217578b406ac43d30515920cb66",
       "revision": 1,
-      "importance": 65,
+      "importance": 55,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "release"
       ],
       "tags": [
@@ -1139,10 +1666,9 @@
       "summary": null,
       "contentHash": "64e94153c1fb9b483569acf12c172e5f3a7be3c968e3beb646f2e5e9e311f781",
       "revision": 1,
-      "importance": 65,
+      "importance": 55,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "release"
       ],
       "tags": [
@@ -1165,10 +1691,9 @@
       "summary": null,
       "contentHash": "73b86c30eaa51d85226b5634b4989022318d4b1954c32ff5d86f5c0f4f2dfef2",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1188,10 +1713,9 @@
       "summary": null,
       "contentHash": "1f0359a2c8d7d5e8ebf178a94e6dbb7213968bd8c17c8e408cc58e6541660dde",
       "revision": 1,
-      "importance": 75,
+      "importance": 65,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "バージョン公開",
         "codex"
       ],
@@ -1215,10 +1739,9 @@
       "summary": null,
       "contentHash": "2cfe9cd068add6ab75ba8b1def36095de4b573c581ccc73d3512d735a4a6d557",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1238,10 +1761,9 @@
       "summary": null,
       "contentHash": "35081320ed418584bc58e1dafa95b2e90b4e21bd9324659c1663567977a8e080",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -7195,31 +7717,6 @@
       "importanceReasons": [
         "公式一次情報",
         "release"
-      ],
-      "tags": [
-        "更新"
-      ]
-    },
-    {
-      "id": "97dd22e71d9f14be348bb99e",
-      "title": "Siemens製品に対するアップデート（2026年9月）",
-      "url": "https://jvn.jp/vu/JVNVU97027767/",
-      "sourceId": "jvn",
-      "sourceName": "JVN",
-      "category": "work",
-      "publishedAt": "2026-09-17T00:00:00+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": "2026-09-17T00:31:55+00:00",
-      "sourceUpdatedAt": "2026-09-17T00:00:00+00:00",
-      "changeType": "updated",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "898bdd0d7dc31749378d9e0fcf2592612a2649054ab9c091916fbb5803531ccf",
-      "revision": 2,
-      "importance": 55,
-      "importanceReasons": [
-        "公式一次情報",
-        "アップデート"
       ],
       "tags": [
         "更新"
@@ -19304,28 +19801,6 @@
       "kind": "article",
       "summary": null,
       "contentHash": "362f9d8ab1fdf9823b4df70f7b2c48dad53ac9556c778cc2b5239e93156eab8f",
-      "revision": 1,
-      "importance": 40,
-      "importanceReasons": [
-        "公式一次情報"
-      ],
-      "tags": []
-    },
-    {
-      "id": "222734d4ecec02194be32b77",
-      "title": "2026年度 一般職（高卒者）官庁訪問の情報を掲載しました",
-      "url": "https://www.digital.go.jp/recruitment/newgraduates/2026-governmentofficevisit-clericalposition-highschoolgraduate",
-      "sourceId": "digital-agency",
-      "sourceName": "デジタル庁",
-      "category": "work",
-      "publishedAt": "2026-09-02T06:00:00+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "58cd2f54fcc465cef74de0df61f441c3b72bc628817b8f514f46dbbfac7133da",
       "revision": 1,
       "importance": 40,
       "importanceReasons": [

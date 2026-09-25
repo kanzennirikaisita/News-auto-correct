@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-25T08:48:17+00:00",
+  "generatedAt": "2026-09-25T14:36:03+00:00",
   "collector": {
-    "lastRun": "2026-09-25T08:48:17+00:00",
+    "lastRun": "2026-09-25T14:36:03+00:00",
     "success": 13,
     "failed": 0
   },
@@ -14,7 +14,7 @@
       "url": "https://www.digital.go.jp/rss/news.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-25T08:48:17+00:00",
+      "lastSuccess": "2026-09-25T14:36:03+00:00",
       "count": 10
     },
     {
@@ -24,7 +24,7 @@
       "url": "https://www.jpcert.or.jp/rss/jpcert.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-25T08:48:17+00:00",
+      "lastSuccess": "2026-09-25T14:36:03+00:00",
       "count": 28
     },
     {
@@ -34,7 +34,7 @@
       "url": "https://jvn.jp/rss/jvn.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-25T08:48:17+00:00",
+      "lastSuccess": "2026-09-25T14:36:03+00:00",
       "count": 20
     },
     {
@@ -44,7 +44,7 @@
       "url": "https://blogs.jpcert.or.jp/ja/atom.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-25T08:48:17+00:00",
+      "lastSuccess": "2026-09-25T14:36:03+00:00",
       "count": 15
     },
     {
@@ -54,7 +54,7 @@
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-25T08:48:17+00:00",
+      "lastSuccess": "2026-09-25T14:36:03+00:00",
       "count": 200
     },
     {
@@ -64,7 +64,7 @@
       "url": "https://github.blog/changelog/feed/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-25T08:48:17+00:00",
+      "lastSuccess": "2026-09-25T14:36:03+00:00",
       "count": 10
     },
     {
@@ -74,7 +74,7 @@
       "url": "https://api.github.com/repos/langgenius/dify/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-25T08:48:17+00:00",
+      "lastSuccess": "2026-09-25T14:36:03+00:00",
       "count": 27
     },
     {
@@ -84,8 +84,8 @@
       "url": "https://api.github.com/repos/openai/codex/releases?per_page=10",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-25T08:48:17+00:00",
-      "count": 2
+      "lastSuccess": "2026-09-25T14:36:03+00:00",
+      "count": 1
     },
     {
       "id": "claude-code",
@@ -94,7 +94,7 @@
       "url": "https://api.github.com/repos/anthropics/claude-code/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-25T08:48:17+00:00",
+      "lastSuccess": "2026-09-25T14:36:03+00:00",
       "count": 30
     },
     {
@@ -104,8 +104,8 @@
       "url": "https://jp.finalfantasyxiv.com/lodestone/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-25T08:48:17+00:00",
-      "count": 30
+      "lastSuccess": "2026-09-25T14:36:03+00:00",
+      "count": 29
     },
     {
       "id": "elden-ring",
@@ -114,7 +114,7 @@
       "url": "https://steamcommunity.com/games/1245620/rss/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-25T08:48:17+00:00",
+      "lastSuccess": "2026-09-25T14:36:03+00:00",
       "count": 10
     },
     {
@@ -124,7 +124,7 @@
       "url": "https://store.steampowered.com/feeds/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-25T08:48:17+00:00",
+      "lastSuccess": "2026-09-25T14:36:03+00:00",
       "count": 10
     },
     {
@@ -134,11 +134,288 @@
       "url": "https://www.apple.com/jp/newsroom/rss-feed.rss",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-25T08:48:17+00:00",
+      "lastSuccess": "2026-09-25T14:36:03+00:00",
       "count": 20
     }
   ],
   "items": [
+    {
+      "id": "f95d5a0e998d77ce2c1d35e8",
+      "title": "Grand Theft Auto: San Andreas – The Legacy Review",
+      "url": "https://store.steampowered.com/news/group/9869/view/687517794773763640",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-25T14:22:43+00:00",
+      "detectedAt": "2026-09-25T14:36:03+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "cbb6e9126dcda2d5aa7d70f0b289b737458a25d9b67909690842ab6a22b393cc",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "f809b412b720f38554f0dfd4",
+      "title": "Ace Combat 8 Wings of Theve Review: \"Soars thanks to thrilling dogfights and a genuinely gripping Metal Gear-like story\"",
+      "url": "https://store.steampowered.com/news/group/38509069/view/678510595516925602",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-25T14:01:44+00:00",
+      "detectedAt": "2026-09-25T14:36:03+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "639287dc768d53797713bb838f925173624e833cb698ad198615589f61243358",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "f79e7d7a633843bfcb6cfc44",
+      "title": "CodeQL 2.27.1 adds C and C++ query and Kotlin 2.4.20 support",
+      "url": "https://github.blog/changelog/2026-09-25-codeql-2-27-1-adds-c-and-c-query-and-kotlin-2-4-20-support",
+      "sourceId": "github",
+      "sourceName": "GitHub Changelog",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-25T09:55:23+00:00",
+      "detectedAt": "2026-09-25T14:36:03+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "90f1267355aa93dfd83d9968d10c68fb3e552b482f06d676e3a5d2a94a172f59",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "8bc8aaf244694895d307567b",
+      "title": "Ace Combat 8: Wings of Theve (PC) Review",
+      "url": "https://store.steampowered.com/news/group/7433348/view/699902693745886699",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-25T14:11:42+00:00",
+      "detectedAt": "2026-09-25T14:36:03+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "7336c4cdc7364925c779a608cb66c57b2a165813cd487671c5ffed34cb563bae",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "82bf1afae2929e178368a4ac",
+      "title": "Persona 4 Revival Clarifies 'Confusion' Surrounding New Character",
+      "url": "https://store.steampowered.com/news/group/1450625/view/701028593652729400",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-25T14:01:39+00:00",
+      "detectedAt": "2026-09-25T14:36:03+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "81b2ee9d9a0131c9807f49869484fa85cfb79e19d040e623e4ded1049336d3a2",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "7dbb32242d797163ac7b1919",
+      "title": "The Final VR3000 earphones bring a headset-level sound to traditional wired buds, but I wish their price wasn't as premium as their sound",
+      "url": "https://store.steampowered.com/news/group/38509069/view/678510595516925604",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-25T14:01:44+00:00",
+      "detectedAt": "2026-09-25T14:36:03+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "46ae85916bc7c28bbac6a42157dd105bbf7f6c847ac12bdfd78d12da445ec6bd",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "66f7a60f8961ee37db7d728d",
+      "title": "World of Warcraft: Forever Add-On Permanently Mutes Asmongold's Guilds",
+      "url": "https://store.steampowered.com/news/group/1450625/view/701028593652729398",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-25T14:01:39+00:00",
+      "detectedAt": "2026-09-25T14:36:03+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "2b11eec92fb3f11e1a62089b54c7b37498391b184209cc227eca420d7786b19a",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "60b9cb6ca828dc2c819cd30f",
+      "title": "Ace Combat 8: Wings of Theve Review - Mostly Ace, Lots Of Combat",
+      "url": "https://store.steampowered.com/news/group/38666666/view/668377496357439081",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-25T14:11:01+00:00",
+      "detectedAt": "2026-09-25T14:36:03+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "2540059fe0291de371fedcc152fd2f726162ff4cbe130886e0d5e0e446f2216f",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "5c9f2e9c2dcc4638d6054c1c",
+      "title": "Blizzard Insists Actual Humans Are Reading Through All the WoW Forever Beta Character Names It Banned Players for This Week",
+      "url": "https://store.steampowered.com/news/group/9869/view/687517794773763642",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-25T14:22:43+00:00",
+      "detectedAt": "2026-09-25T14:36:03+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "a39696776b7a180f83f8f39fa1efeefac22164d49671e12232cd9cc706f164e0",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "4327e7a1efe5bee0a5281a09",
+      "title": "[復旧] コンパニオンアプリ 一部機能障害復旧作業完了のお知らせ(9/25)",
+      "url": "https://jp.finalfantasyxiv.com/lodestone/news/detail/755dd2ae3520056b74f8801dac7a10752015720b",
+      "sourceId": "ff14",
+      "sourceName": "FFXIV Lodestone",
+      "category": "game",
+      "publishedAt": "2026-09-25T11:45:00+00:00",
+      "detectedAt": "2026-09-25T14:36:03+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "29c99a744276ad8f89a9195f1cdfc09ebc0990f8ae7716f24f5abb93a8dfc053",
+      "revision": 1,
+      "importance": 90,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "障害"
+      ],
+      "tags": []
+    },
+    {
+      "id": "1ac84f43fa7d502b03f3bed6",
+      "title": "Steam Users Can Claim 10/10 Masterpiece FPS Completely Free of Charge in October",
+      "url": "https://store.steampowered.com/news/group/1450625/view/701028593652729392",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-25T13:31:37+00:00",
+      "detectedAt": "2026-09-25T14:36:03+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "806a78efa2f9f4edecdf8fd289981b49e270a8e3c3bbd4fe4503473615fcffa8",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "08594c77dc134e80ce51ecec",
+      "title": "EA SPORTS FC™ 27 peaks at 78k players",
+      "url": "https://store.steampowered.com/news/group/4777282/view/717917092255368627",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-25T11:20:46+00:00",
+      "detectedAt": "2026-09-25T14:36:03+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "43302876ca86d4ae900c873616871fe803cdf23d29f26d8a635edd4cf052c3ab",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
     {
       "id": "fa28fc81ac3667fae2b6ab8e",
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月24日）",
@@ -1060,7 +1337,6 @@
       "importance": 100,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "緊急",
         "メンテナンス"
       ],

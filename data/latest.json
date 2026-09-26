@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-26T00:37:22+00:00",
+  "generatedAt": "2026-09-26T08:35:01+00:00",
   "collector": {
-    "lastRun": "2026-09-26T00:37:22+00:00",
+    "lastRun": "2026-09-26T08:35:01+00:00",
     "success": 13,
     "failed": 0
   },
@@ -14,7 +14,7 @@
       "url": "https://www.digital.go.jp/rss/news.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-26T00:37:22+00:00",
+      "lastSuccess": "2026-09-26T08:35:01+00:00",
       "count": 10
     },
     {
@@ -24,7 +24,7 @@
       "url": "https://www.jpcert.or.jp/rss/jpcert.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-26T00:37:22+00:00",
+      "lastSuccess": "2026-09-26T08:35:01+00:00",
       "count": 28
     },
     {
@@ -34,7 +34,7 @@
       "url": "https://jvn.jp/rss/jvn.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-26T00:37:22+00:00",
+      "lastSuccess": "2026-09-26T08:35:01+00:00",
       "count": 20
     },
     {
@@ -44,7 +44,7 @@
       "url": "https://blogs.jpcert.or.jp/ja/atom.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-26T00:37:22+00:00",
+      "lastSuccess": "2026-09-26T08:35:01+00:00",
       "count": 15
     },
     {
@@ -54,7 +54,7 @@
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-26T00:37:22+00:00",
+      "lastSuccess": "2026-09-26T08:35:01+00:00",
       "count": 200
     },
     {
@@ -64,7 +64,7 @@
       "url": "https://github.blog/changelog/feed/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-26T00:37:22+00:00",
+      "lastSuccess": "2026-09-26T08:35:01+00:00",
       "count": 10
     },
     {
@@ -74,7 +74,7 @@
       "url": "https://api.github.com/repos/langgenius/dify/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-26T00:37:22+00:00",
+      "lastSuccess": "2026-09-26T08:35:01+00:00",
       "count": 27
     },
     {
@@ -84,8 +84,8 @@
       "url": "https://api.github.com/repos/openai/codex/releases?per_page=10",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-26T00:37:22+00:00",
-      "count": 1
+      "lastSuccess": "2026-09-26T08:35:01+00:00",
+      "count": 2
     },
     {
       "id": "claude-code",
@@ -94,7 +94,7 @@
       "url": "https://api.github.com/repos/anthropics/claude-code/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-26T00:37:22+00:00",
+      "lastSuccess": "2026-09-26T08:35:01+00:00",
       "count": 30
     },
     {
@@ -104,7 +104,7 @@
       "url": "https://jp.finalfantasyxiv.com/lodestone/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-26T00:37:22+00:00",
+      "lastSuccess": "2026-09-26T08:35:01+00:00",
       "count": 30
     },
     {
@@ -114,7 +114,7 @@
       "url": "https://steamcommunity.com/games/1245620/rss/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-26T00:37:22+00:00",
+      "lastSuccess": "2026-09-26T08:35:01+00:00",
       "count": 10
     },
     {
@@ -124,7 +124,7 @@
       "url": "https://store.steampowered.com/feeds/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-26T00:37:22+00:00",
+      "lastSuccess": "2026-09-26T08:35:01+00:00",
       "count": 10
     },
     {
@@ -134,11 +134,274 @@
       "url": "https://www.apple.com/jp/newsroom/rss-feed.rss",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-26T00:37:22+00:00",
+      "lastSuccess": "2026-09-26T08:35:01+00:00",
       "count": 20
     }
   ],
   "items": [
+    {
+      "id": "f9324d19d461b5db6e298536",
+      "title": "Lord Of The Rings Officially Switches Genres In Its Most Anticipated New Gaming Project",
+      "url": "https://store.steampowered.com/news/group/38666666/view/668377496357439205",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-26T07:01:44+00:00",
+      "detectedAt": "2026-09-26T08:35:01+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "3e6474c1d85a5e45dc83af4d34d78d071ba32e2b86eda514bdacee6351d26049",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "df1b6a171e473b03fe1015fd",
+      "title": "Steam Client Beta - September 25th brings more Remote Play and Linux fixes",
+      "url": "https://store.steampowered.com/news/group/4218320/view/694273194214819431",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-26T07:23:52+00:00",
+      "detectedAt": "2026-09-26T08:35:01+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "95091d155d6cad299cc9e54dc8549bc686788f8a3db3e5133f733f33e9d05f40",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "dc8f062827d5ec6db2144153",
+      "title": "New Gameplay Difficulty Modes, Balance Patch and Fixes",
+      "url": "https://store.steampowered.com/news/app/4173620/view/688643694674314904",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-26T03:50:42+00:00",
+      "detectedAt": "2026-09-26T08:35:01+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "77e8eef6501802708377ba16cdc88d8c3e3a0fda309d5a48fd27efd07d7cbd8d",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "patch"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "daa972f5a2a555c121097eac",
+      "title": "Screenshot Competition – Into the Fray!",
+      "url": "https://store.steampowered.com/news/app/236390/view/679636495422719494",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-26T05:10:03+00:00",
+      "detectedAt": "2026-09-26T08:35:01+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "090afb4d4fd32586945bb8d5ffef84d15152cfd1d9cd6d44b1409875456833a5",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "bd2918007820facdb11680e5",
+      "title": "SteamOS 3.9.2 Beta brings fixes for VRR, VR Streaming, Remote Play, Boot Time and more",
+      "url": "https://store.steampowered.com/news/group/4218320/view/694273194214819429",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-26T07:23:52+00:00",
+      "detectedAt": "2026-09-26T08:35:01+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "77e1856ac6124753b519a4a0d094ce69857e1e36a8a572df6ca2638d9803fc8b",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "a36fdb709732eddd0b24c6b5",
+      "title": "Red Dead Redemption 2: The Forgotten Frontier Is Out Now",
+      "url": "https://store.steampowered.com/news/group/38666666/view/668377496357439199",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-26T04:21:38+00:00",
+      "detectedAt": "2026-09-26T08:35:01+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "5161c8550ff32da9f5af2287dc96c376fba0ae193b27faa2b562119a099b1b33",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "8429b85742302fdd58fe244b",
+      "title": "Update 0.4.0.156",
+      "url": "https://store.steampowered.com/news/app/2887580/view/717917092255368714",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-26T08:06:06+00:00",
+      "detectedAt": "2026-09-26T08:35:01+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "a4978d45043d61f351ab031f48102015aafd6d0d7d223e8c841ce0c07f6b0ea0",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "update"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "4ef1e9dc38c37964fb3bd059",
+      "title": "SteamOS 0.4.1 Beta for Steam Frame fixes some nuisance bugs",
+      "url": "https://store.steampowered.com/news/group/4218320/view/694273194214819427",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-26T07:13:51+00:00",
+      "detectedAt": "2026-09-26T08:35:01+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "c80fff4ed8df9675f46d0c7d632da03fa3995b13295cd68ff19cb60fcfe3b3d6",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "4c48b2d0f2c73ef211d14016",
+      "title": "Proton Experimental brings fixes for Crysis, Crysis Wars, CEG-protected games, early support for 32bit OpenXR",
+      "url": "https://store.steampowered.com/news/group/4218320/view/694273194214819437",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-26T07:43:53+00:00",
+      "detectedAt": "2026-09-26T08:35:01+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "f33c2cfd19c9c9c6e27cb58384b90ef3df19483fecf44780f158536d0dce1261",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "2f20ff05fa98f6cdec7c1793",
+      "title": "Codex 0.157.1",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.157.1",
+      "sourceId": "codex",
+      "sourceName": "Codex",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-26T01:02:31+00:00",
+      "detectedAt": "2026-09-26T08:35:01+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-09-26T01:04:09+00:00",
+      "changeType": "new",
+      "kind": "release",
+      "summary": null,
+      "contentHash": "129dc2d736f8edc236a649d367172d8fde66d2a626f8692b3c1cc9d0256217b7",
+      "revision": 1,
+      "importance": 75,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "バージョン公開",
+        "codex"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "17b6c88e6ce75d62a9774740",
+      "title": "The Expanse Meets Starfield In This Sci-Fi RPG You Can Play Free Now",
+      "url": "https://store.steampowered.com/news/group/38666666/view/668377496357439201",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-26T04:51:39+00:00",
+      "detectedAt": "2026-09-26T08:35:01+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "b9641a6185785a595af985c02c8419425e281f494487945eed5d9cf11d117ed0",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
     {
       "id": "e8a7c581ca047af6e330053e",
       "title": "My favorite $6 RPG on Steam just got a beastmode free 'Enhanced Edition' update",
@@ -377,10 +640,9 @@
       "summary": null,
       "contentHash": "2f15cc69ce75f8d9e1d0356f8524247191e24d30fba883cbb440d85c68ef9ffa",
       "revision": 2,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -959,10 +1221,9 @@
       "summary": null,
       "contentHash": "b9a7eadb6e7d1a1094d209d35d38917037a34bc84956472e4629c6865c8c3556",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -982,10 +1243,9 @@
       "summary": null,
       "contentHash": "ee7d6c242b7ffe6f6ab47f6fd2e3eab5ef6cddcc5c8255e8e71e0b2a628445ed",
       "revision": 1,
-      "importance": 80,
+      "importance": 70,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "脆弱性"
       ],
       "tags": [
@@ -1008,10 +1268,9 @@
       "summary": null,
       "contentHash": "564830c480eed6dd754b1e7f0c502f1da2cd543c641c17bd1b3b66862e38d306",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1031,10 +1290,9 @@
       "summary": null,
       "contentHash": "8c6cf841add51dc6bb5e92be769a56237e8eb192e500ce6e2d34dc5dddfdcd09",
       "revision": 1,
-      "importance": 65,
+      "importance": 55,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "update"
       ],
       "tags": [
@@ -1057,10 +1315,9 @@
       "summary": null,
       "contentHash": "df17836ce830a288b33c4bfd5646950a07b7a1e83ca4498e3f913f1bfc6e213d",
       "revision": 1,
-      "importance": 80,
+      "importance": 70,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "脆弱性"
       ],
       "tags": [
@@ -1105,10 +1362,9 @@
       "summary": null,
       "contentHash": "ec27e5e9525dea2e49dddf067fa09d70d024fe9dafeb3c9182457c65f6fe2702",
       "revision": 2,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1128,10 +1384,9 @@
       "summary": null,
       "contentHash": "0d6249645a8dd4d62f302a109c99e8f04345bc118666aab2ce6fde106e15a850",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1151,10 +1406,9 @@
       "summary": null,
       "contentHash": "eb02e1514da1e0da80877fe55d3c881b73c264b1a6e337e602d3ef355b42497b",
       "revision": 2,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1174,10 +1428,9 @@
       "summary": null,
       "contentHash": "35363a621ba61573d26368a1025675f3148c8980f3f1a62dfa1330b05756f079",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1197,10 +1450,9 @@
       "summary": null,
       "contentHash": "1d785ee5d1c1fbe21740b460304218a5e413c6dfd1c8ecbf1ef0463f1d7c5c7c",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1220,10 +1472,9 @@
       "summary": null,
       "contentHash": "32f3aee31dc9f11ffbce4ab4cfd3e1a980346e3e39dee268ee5748956c7a3604",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1243,10 +1494,9 @@
       "summary": null,
       "contentHash": "74dbdfb1c3ade329586353baa9c59bfd3ebe1630065b1c56245a204898d5bfcc",
       "revision": 1,
-      "importance": 80,
+      "importance": 70,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "脆弱性"
       ],
       "tags": [
@@ -1269,10 +1519,9 @@
       "summary": null,
       "contentHash": "e55125c4d4c671bdc9e69a8a665f110e31b549d0c60f6d539f24019d13dde711",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1292,10 +1541,9 @@
       "summary": null,
       "contentHash": "181de794d7a4e70383aa5999cc672fbd00375d9b52f7a3fa22bb5f83085bfcdc",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1315,10 +1563,9 @@
       "summary": null,
       "contentHash": "133de845ced8ebbb58832db43df22de58ec3ed241879a67dd4d1fc1ca43d64c3",
       "revision": 1,
-      "importance": 75,
+      "importance": 65,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "バージョン公開",
         "codex"
       ],
@@ -1342,10 +1589,9 @@
       "summary": null,
       "contentHash": "de3f4f15e9ec637749b28a9ca15fab02755cd172dc683cc26bc540bbdca158c8",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1365,10 +1611,9 @@
       "summary": null,
       "contentHash": "1fe2a40f8efba0c0c837c222da046b2a4819f584dfc50b8091c3dc0f50c8d15b",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1410,10 +1655,9 @@
       "summary": null,
       "contentHash": "df38b6e0473a4a102c664ca28ca9cd09579952319dc148d7f2166a6865adc346",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1433,10 +1677,9 @@
       "summary": null,
       "contentHash": "d5cd464b5180f6080b29162435dcd24153732c43bf3902cb5e7b21adb08c26dd",
       "revision": 1,
-      "importance": 65,
+      "importance": 55,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "release"
       ],
       "tags": [
@@ -1459,10 +1702,9 @@
       "summary": null,
       "contentHash": "7d01a5fa77ce64bb48f5990e84c727526995618aa3e33dc22cbfbd2d8d21b5b1",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1482,10 +1724,9 @@
       "summary": null,
       "contentHash": "ae29c6a1ee284fd74e337c2eee17abf4e614fd82ed86e3b703baba83f7b602ba",
       "revision": 1,
-      "importance": 80,
+      "importance": 70,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "脆弱性"
       ],
       "tags": [
@@ -1781,10 +2022,9 @@
       "summary": null,
       "contentHash": "448e653fc782dbe69f117abed03b875a6ea59f2f58094eec8dc1ec9afde5f73c",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -14918,10 +15158,9 @@
       "summary": null,
       "contentHash": "545e54198bc32626388284388933f3edc6db4d91fcf4c083d8b43e3e7e5bdfcb",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-25T14:36:03+00:00",
+  "generatedAt": "2026-09-26T00:37:22+00:00",
   "collector": {
-    "lastRun": "2026-09-25T14:36:03+00:00",
+    "lastRun": "2026-09-26T00:37:22+00:00",
     "success": 13,
     "failed": 0
   },
@@ -14,7 +14,7 @@
       "url": "https://www.digital.go.jp/rss/news.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-25T14:36:03+00:00",
+      "lastSuccess": "2026-09-26T00:37:22+00:00",
       "count": 10
     },
     {
@@ -24,7 +24,7 @@
       "url": "https://www.jpcert.or.jp/rss/jpcert.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-25T14:36:03+00:00",
+      "lastSuccess": "2026-09-26T00:37:22+00:00",
       "count": 28
     },
     {
@@ -34,7 +34,7 @@
       "url": "https://jvn.jp/rss/jvn.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-25T14:36:03+00:00",
+      "lastSuccess": "2026-09-26T00:37:22+00:00",
       "count": 20
     },
     {
@@ -44,7 +44,7 @@
       "url": "https://blogs.jpcert.or.jp/ja/atom.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-25T14:36:03+00:00",
+      "lastSuccess": "2026-09-26T00:37:22+00:00",
       "count": 15
     },
     {
@@ -54,7 +54,7 @@
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-25T14:36:03+00:00",
+      "lastSuccess": "2026-09-26T00:37:22+00:00",
       "count": 200
     },
     {
@@ -64,7 +64,7 @@
       "url": "https://github.blog/changelog/feed/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-25T14:36:03+00:00",
+      "lastSuccess": "2026-09-26T00:37:22+00:00",
       "count": 10
     },
     {
@@ -74,7 +74,7 @@
       "url": "https://api.github.com/repos/langgenius/dify/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-25T14:36:03+00:00",
+      "lastSuccess": "2026-09-26T00:37:22+00:00",
       "count": 27
     },
     {
@@ -84,7 +84,7 @@
       "url": "https://api.github.com/repos/openai/codex/releases?per_page=10",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-25T14:36:03+00:00",
+      "lastSuccess": "2026-09-26T00:37:22+00:00",
       "count": 1
     },
     {
@@ -94,7 +94,7 @@
       "url": "https://api.github.com/repos/anthropics/claude-code/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-25T14:36:03+00:00",
+      "lastSuccess": "2026-09-26T00:37:22+00:00",
       "count": 30
     },
     {
@@ -104,8 +104,8 @@
       "url": "https://jp.finalfantasyxiv.com/lodestone/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-25T14:36:03+00:00",
-      "count": 29
+      "lastSuccess": "2026-09-26T00:37:22+00:00",
+      "count": 30
     },
     {
       "id": "elden-ring",
@@ -114,7 +114,7 @@
       "url": "https://steamcommunity.com/games/1245620/rss/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-25T14:36:03+00:00",
+      "lastSuccess": "2026-09-26T00:37:22+00:00",
       "count": 10
     },
     {
@@ -124,7 +124,7 @@
       "url": "https://store.steampowered.com/feeds/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-25T14:36:03+00:00",
+      "lastSuccess": "2026-09-26T00:37:22+00:00",
       "count": 10
     },
     {
@@ -134,11 +134,538 @@
       "url": "https://www.apple.com/jp/newsroom/rss-feed.rss",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-25T14:36:03+00:00",
+      "lastSuccess": "2026-09-26T00:37:22+00:00",
       "count": 20
     }
   ],
   "items": [
+    {
+      "id": "e8a7c581ca047af6e330053e",
+      "title": "My favorite $6 RPG on Steam just got a beastmode free 'Enhanced Edition' update",
+      "url": "https://store.steampowered.com/news/group/1850/view/701028593652729496",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-25T22:28:36+00:00",
+      "detectedAt": "2026-09-26T00:37:22+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "535b3bb61ce0bf1a39c5ee36dbdc608293dec19026855ae85cc618cdae895716",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "update"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "de36fa73b8545f5faefd5fad",
+      "title": "Changes to query results in the GitHub Actions API and UI",
+      "url": "https://github.blog/changelog/2026-09-25-changes-to-query-results-in-the-github-actions-api-and-ui",
+      "sourceId": "github",
+      "sourceName": "GitHub Changelog",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-25T18:17:06+00:00",
+      "detectedAt": "2026-09-26T00:37:22+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "1dbdebeb601e112a7ba5bb4fde4d323f3dbfeda83d13590c07967e3f990ca9db",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "dd0ae6195f4186245399be67",
+      "title": "[メンテナンス] アカウント管理システム メンテナンス作業のお知らせ(9/28)",
+      "url": "https://jp.finalfantasyxiv.com/lodestone/news/detail/e8ec0a20bf9792caf3b84d8e645f8899fc6f4199",
+      "sourceId": "ff14",
+      "sourceName": "FFXIV Lodestone",
+      "category": "game",
+      "publishedAt": "2026-09-25T16:30:00+00:00",
+      "detectedAt": "2026-09-26T00:37:22+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "c6239a73001936c6a321a5e359a03eb7874131807972da094588c9da6fc5baa0",
+      "revision": 1,
+      "importance": 75,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "メンテナンス"
+      ],
+      "tags": [
+        "メンテナンス"
+      ]
+    },
+    {
+      "id": "c1d4e08f8273da72d80ce3ab",
+      "title": "Updates to GitHub Copilot for Slack and Microsoft Teams",
+      "url": "https://github.blog/changelog/2026-09-25-updates-to-github-copilot-for-slack-and-microsoft-teams",
+      "sourceId": "github",
+      "sourceName": "GitHub Changelog",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-25T16:33:42+00:00",
+      "detectedAt": "2026-09-26T00:37:22+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "bfcee34c3bd90d5a38509e15300c5ccd5fa6c3b0c7826a4b34416a0626fffd7a",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "update"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "b959e00fd485f1ff7920d4f4",
+      "title": "PC Gamers Can Get Multiple 10/10 Masterpieces for Less Than $10",
+      "url": "https://store.steampowered.com/news/group/1450625/view/701028593652729508",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-26T00:12:09+00:00",
+      "detectedAt": "2026-09-26T00:37:22+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "1ba4ae44ce66e19fd013c321c9e25736bab6539630fde39642f6c31f2ae8be86",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "b7bae5ebcdd9649940123cf8",
+      "title": "Sega shares new Stranger Than Heaven screenshots and character details (Update)",
+      "url": "https://store.steampowered.com/news/group/6070552/view/712287592723252474",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-24T11:29:29+00:00",
+      "detectedAt": "2026-09-26T00:37:22+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "7e2da6d2d14f2322acce4ca5eab41f1f0f6f21236c09c6e3ef2991beea8a61e4",
+      "revision": 1,
+      "importance": 55,
+      "importanceReasons": [
+        "公式一次情報",
+        "update"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "b1728c9ecd673a6631c6fa94",
+      "title": "Mr. Hytale is offering $15,000 to the first person to beat a new challenge in next month's update",
+      "url": "https://store.steampowered.com/news/group/38509069/view/678510595516925740",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-26T00:12:11+00:00",
+      "detectedAt": "2026-09-26T00:37:22+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "5cd367dbc23cfa58b5de2c691da7afefed89308ccb23934b3cc6637395db8934",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "update"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "a22c349ab0ccbd90ce99586b",
+      "title": "The eyes of Valve's creepy portrait are glowing again",
+      "url": "https://store.steampowered.com/news/group/1850/view/701028593652729494",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-25T22:18:35+00:00",
+      "detectedAt": "2026-09-26T00:37:22+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "ba98e3651cea6686a0addd9b145f263a848d128c9b6502f98ee9e43d127b9a22",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "9de028fbe46cac8b155a7c08",
+      "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+      "url": "https://openai.com/index/proaction",
+      "sourceId": "openai",
+      "sourceName": "OpenAI",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-25T19:00:00+00:00",
+      "detectedAt": "2026-09-26T00:37:22+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "f5fd79113a532ddcd72ab85ba894cbbce7f694fa1025a75a6c04454c9e1e75f7",
+      "revision": 1,
+      "importance": 60,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "codex"
+      ],
+      "tags": []
+    },
+    {
+      "id": "9111ec33ec962e74818200f5",
+      "title": "Default Enablement of Copilot features for Copilot Business and Enterprise",
+      "url": "https://github.blog/changelog/2026-09-24-default-enablement-of-copilot-features-for-copilot-business-and-enterprise",
+      "sourceId": "github",
+      "sourceName": "GitHub Changelog",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-25T03:13:23+00:00",
+      "detectedAt": "2026-09-25T08:48:17+00:00",
+      "updatedAt": "2026-09-26T00:37:22+00:00",
+      "sourceUpdatedAt": null,
+      "changeType": "updated",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "2f15cc69ce75f8d9e1d0356f8524247191e24d30fba883cbb440d85c68ef9ffa",
+      "revision": 2,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "893e9d6794cf99c2b7544a10",
+      "title": "Xbox Game Pass Officially Confirms New Game Coming in November",
+      "url": "https://store.steampowered.com/news/group/1450625/view/701028593652729492",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-25T22:12:03+00:00",
+      "detectedAt": "2026-09-26T00:37:22+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "4bb0b13006beeca3b0563c19602d8fa8ef50b81a3c79305b208bc2ac7fd4372a",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "657e8dcb63185cb9edc3aec6",
+      "title": "Hotfix – Stability & Bug Fixes",
+      "url": "https://store.steampowered.com/news/app/3222640/view/668377496357439167",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-25T22:57:28+00:00",
+      "detectedAt": "2026-09-26T00:37:22+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "e77a6d39b4378e10a4c29ed96fa032dc83b4a30c2e45133887114ebb0d6eeb38",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "61d624b5fd902a17b9a4a93f",
+      "title": "The Neowsletter - September 2026",
+      "url": "https://store.steampowered.com/news/app/2868840/view/698776157349217033",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-25T23:35:41+00:00",
+      "detectedAt": "2026-09-26T00:37:22+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "f65dd8065eeadd8eb39a15f3a592455b0bea0e3176fbeaa57d75a7f36326fb7a",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "6023038a8912cd08a228ab14",
+      "title": "Asana completed a years-long code migration in 2 weeks with Codex",
+      "url": "https://openai.com/index/asana",
+      "sourceId": "openai",
+      "sourceName": "OpenAI",
+      "category": "ai-dev",
+      "publishedAt": "2026-08-18T07:00:00+00:00",
+      "detectedAt": "2026-09-09T03:22:00+00:00",
+      "updatedAt": "2026-09-26T00:37:22+00:00",
+      "sourceUpdatedAt": null,
+      "changeType": "updated",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "5082dac0831a4d5b43e0a9c930b2711dca694886dcd4c08e273a80425a2ab70a",
+      "revision": 2,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "codex"
+      ],
+      "tags": []
+    },
+    {
+      "id": "4c0c3d96a80e51256e88e0bf",
+      "title": "EA Sports FC 27 Review",
+      "url": "https://store.steampowered.com/news/group/9869/view/687517794773763757",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-26T00:23:33+00:00",
+      "detectedAt": "2026-09-26T00:37:22+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "d76a56ceb168a119c33644b4f2db3ffbfb9776826cff6affcdc6283c4da2ad2a",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "48eaa8bbafaa8bc422c903d5",
+      "title": "GitHub Copilot weekly releases — September 21",
+      "url": "https://github.blog/changelog/2026-09-25-github-copilot-weekly-releases-september-21",
+      "sourceId": "github",
+      "sourceName": "GitHub Changelog",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-25T16:42:48+00:00",
+      "detectedAt": "2026-09-26T00:37:22+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "198f4003d7f0a92a8bba3c97f1cf6d69f6313fe530b45e344086d79c8802253c",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "release"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "35ab415a8fa4d23e0c8a12cc",
+      "title": "Claude Code v2.1.283",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.283",
+      "sourceId": "claude-code",
+      "sourceName": "Claude Code",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-25T21:50:12+00:00",
+      "detectedAt": "2026-09-26T00:37:22+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-09-25T21:50:12+00:00",
+      "changeType": "new",
+      "kind": "release",
+      "summary": null,
+      "contentHash": "f8aebc196f27074834fa764684d5a65eb9ea2daca8fcce26474431ef5598327e",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "バージョン公開"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "2653f5794fb9985f870ebc6b",
+      "title": "Agentic autofix now uses Copilot Memory",
+      "url": "https://github.blog/changelog/2026-09-25-agentic-autofix-now-uses-copilot-memory",
+      "sourceId": "github",
+      "sourceName": "GitHub Changelog",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-25T17:25:50+00:00",
+      "detectedAt": "2026-09-26T00:37:22+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "49ec550ee9bc1e00be4c543935fabc85f7b48360a4c70bffdaeb5531b3056aa3",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "10030137c3a01f3444e23ded",
+      "title": "Private saved views for repository issues and “Relates to” issue relationship is generally available",
+      "url": "https://github.blog/changelog/2026-09-25-personal-saved-views-for-repository-issues-and-more",
+      "sourceId": "github",
+      "sourceName": "GitHub Changelog",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-25T19:05:03+00:00",
+      "detectedAt": "2026-09-26T00:37:22+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "eb7068c49f73db7a99a2d68854fc870d2cb61e7f0ec9636d8be352fd291efc65",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "0b908d944975f4b6edb9a445",
+      "title": "Konami had the best booth at TGS 2 years in a row",
+      "url": "https://store.steampowered.com/news/group/1850/view/701028593652729510",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-26T00:18:49+00:00",
+      "detectedAt": "2026-09-26T00:37:22+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "e4791f504877b2d1d8a168cc13886f60dbf9da8f4d7e7725810a4da73552d5ff",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "0a10d0252c63a3f9d568712c",
+      "title": "Usage metrics API adds pull request review stages",
+      "url": "https://github.blog/changelog/2026-09-25-usage-metrics-api-adds-pull-request-review-stages",
+      "sourceId": "github",
+      "sourceName": "GitHub Changelog",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-25T21:09:40+00:00",
+      "detectedAt": "2026-09-26T00:37:22+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "3a231637a9bcb5540e0ed9d8b24387c8d1fcd5f6f9119d0add7e68c7ef0897fc",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "07dade88210664e3a861290c",
+      "title": "Enterprise managed settings in-product validator",
+      "url": "https://github.blog/changelog/2026-09-25-enterprise-managed-settings-in-product-validator",
+      "sourceId": "github",
+      "sourceName": "GitHub Changelog",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-25T23:24:57+00:00",
+      "detectedAt": "2026-09-26T00:37:22+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "8ef78af56c6d300c844746bf63a1b17d8ec73b69b8dd3ebeadcd557c1f1d95fb",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
     {
       "id": "f95d5a0e998d77ce2c1d35e8",
       "title": "Grand Theft Auto: San Andreas – The Legacy Review",
@@ -678,29 +1205,6 @@
       "tags": []
     },
     {
-      "id": "9111ec33ec962e74818200f5",
-      "title": "Default Enablement of Copilot Features for Copilot Business and Enterprise",
-      "url": "https://github.blog/changelog/2026-09-24-default-enablement-of-copilot-features-for-copilot-business-and-enterprise",
-      "sourceId": "github",
-      "sourceName": "GitHub Changelog",
-      "category": "ai-dev",
-      "publishedAt": "2026-09-25T03:13:23+00:00",
-      "detectedAt": "2026-09-25T08:48:17+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "0a919dde8d0436d15944a1fc42d7039b646749fb2add4094ed39df9348e7a69c",
-      "revision": 1,
-      "importance": 50,
-      "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
-      ],
-      "tags": []
-    },
-    {
       "id": "7f2ff2ed8d27aa88a75c226c",
       "title": "New screenshots for Dragon Quest Monsters: The Withered World showcase Quick Scouting, Joint Battles, Almira, and more new monsters",
       "url": "https://store.steampowered.com/news/group/6070552/view/712287592723252685",
@@ -1004,10 +1508,9 @@
       "summary": null,
       "contentHash": "f8afbffab1f73e22e1ce3c38d7d871c0542d71986bb8b56b20017a26797c39f2",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1027,10 +1530,9 @@
       "summary": null,
       "contentHash": "dc0540caa5a1e34c941a2bfbbdf1656dc256cbbe8d7d46db9f69302ee4985667",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1050,10 +1552,9 @@
       "summary": null,
       "contentHash": "8500b6ecbddb206ccae52e60b3d1c225c4d07613c1cd36d9fa974c6351befed0",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1073,10 +1574,9 @@
       "summary": null,
       "contentHash": "05919caab89976409608bd0571f81d4cb27dd729b09abb211e64bae524cc042b",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1096,10 +1596,9 @@
       "summary": null,
       "contentHash": "1ea42a594587381eb718053c0372a24589add09aeafdfbe64600e8605c77f8d2",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1119,10 +1618,9 @@
       "summary": null,
       "contentHash": "f9b0d8885e8ab0a73b0667618b70a17228566285035637e6ffad99f910664625",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1142,10 +1640,9 @@
       "summary": null,
       "contentHash": "fec7975c0c8ebfa121a2d357093d37bffbafdca995e5f9fa7b4c327f4f1f76f5",
       "revision": 1,
-      "importance": 65,
+      "importance": 55,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "release"
       ],
       "tags": [
@@ -1168,10 +1665,9 @@
       "summary": null,
       "contentHash": "2425cc6122e32b9e7d86eb7db5022ed79b7aa2989113ecada9a4c87f6da9d07b",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1191,10 +1687,9 @@
       "summary": null,
       "contentHash": "0f20057be3a8c424e4c9b0f87effb430c5ec06fd09eba15b6cb88ac3d90dd7ca",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1214,10 +1709,9 @@
       "summary": null,
       "contentHash": "4043e4f514f1051e9a70434093e96e626a7c634645fefea884647cde95108ed8",
       "revision": 1,
-      "importance": 65,
+      "importance": 55,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "release"
       ],
       "tags": [
@@ -1240,10 +1734,9 @@
       "summary": null,
       "contentHash": "99eb53019fea75336d596c90ec1f2beb48232888ef8908c1e05d5fa8e42c5e57",
       "revision": 1,
-      "importance": 65,
+      "importance": 55,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "バージョン公開"
       ],
       "tags": [
@@ -1266,10 +1759,9 @@
       "summary": null,
       "contentHash": "c9b2569eab3f0ef4c3dad00fc11f31873b9c3174e172cb5ccaef56fa8b7fea68",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -19967,29 +20459,6 @@
       "importance": 40,
       "importanceReasons": [
         "公式一次情報"
-      ],
-      "tags": []
-    },
-    {
-      "id": "6023038a8912cd08a228ab14",
-      "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
-      "url": "https://openai.com/index/asana",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "category": "ai-dev",
-      "publishedAt": "2026-08-18T07:00:00+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "54f23a2f8a17973e86cc00fe1b871ef4466df00666ec993c2505e5a9154cd2a0",
-      "revision": 1,
-      "importance": 50,
-      "importanceReasons": [
-        "公式一次情報",
-        "codex"
       ],
       "tags": []
     },

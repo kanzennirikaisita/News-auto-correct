@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-26T08:35:01+00:00",
+  "generatedAt": "2026-09-26T13:44:38+00:00",
   "collector": {
-    "lastRun": "2026-09-26T08:35:01+00:00",
+    "lastRun": "2026-09-26T13:44:38+00:00",
     "success": 13,
     "failed": 0
   },
@@ -14,7 +14,7 @@
       "url": "https://www.digital.go.jp/rss/news.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-26T08:35:01+00:00",
+      "lastSuccess": "2026-09-26T13:44:38+00:00",
       "count": 10
     },
     {
@@ -24,7 +24,7 @@
       "url": "https://www.jpcert.or.jp/rss/jpcert.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-26T08:35:01+00:00",
+      "lastSuccess": "2026-09-26T13:44:38+00:00",
       "count": 28
     },
     {
@@ -34,7 +34,7 @@
       "url": "https://jvn.jp/rss/jvn.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-26T08:35:01+00:00",
+      "lastSuccess": "2026-09-26T13:44:38+00:00",
       "count": 20
     },
     {
@@ -44,7 +44,7 @@
       "url": "https://blogs.jpcert.or.jp/ja/atom.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-26T08:35:01+00:00",
+      "lastSuccess": "2026-09-26T13:44:38+00:00",
       "count": 15
     },
     {
@@ -54,7 +54,7 @@
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-26T08:35:01+00:00",
+      "lastSuccess": "2026-09-26T13:44:38+00:00",
       "count": 200
     },
     {
@@ -64,7 +64,7 @@
       "url": "https://github.blog/changelog/feed/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-26T08:35:01+00:00",
+      "lastSuccess": "2026-09-26T13:44:38+00:00",
       "count": 10
     },
     {
@@ -74,7 +74,7 @@
       "url": "https://api.github.com/repos/langgenius/dify/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-26T08:35:01+00:00",
+      "lastSuccess": "2026-09-26T13:44:38+00:00",
       "count": 27
     },
     {
@@ -84,7 +84,7 @@
       "url": "https://api.github.com/repos/openai/codex/releases?per_page=10",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-26T08:35:01+00:00",
+      "lastSuccess": "2026-09-26T13:44:38+00:00",
       "count": 2
     },
     {
@@ -94,7 +94,7 @@
       "url": "https://api.github.com/repos/anthropics/claude-code/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-26T08:35:01+00:00",
+      "lastSuccess": "2026-09-26T13:44:38+00:00",
       "count": 30
     },
     {
@@ -104,7 +104,7 @@
       "url": "https://jp.finalfantasyxiv.com/lodestone/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-26T08:35:01+00:00",
+      "lastSuccess": "2026-09-26T13:44:38+00:00",
       "count": 30
     },
     {
@@ -114,7 +114,7 @@
       "url": "https://steamcommunity.com/games/1245620/rss/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-26T08:35:01+00:00",
+      "lastSuccess": "2026-09-26T13:44:38+00:00",
       "count": 10
     },
     {
@@ -124,7 +124,7 @@
       "url": "https://store.steampowered.com/feeds/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-26T08:35:01+00:00",
+      "lastSuccess": "2026-09-26T13:44:38+00:00",
       "count": 10
     },
     {
@@ -134,11 +134,246 @@
       "url": "https://www.apple.com/jp/newsroom/rss-feed.rss",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-26T08:35:01+00:00",
+      "lastSuccess": "2026-09-26T13:44:38+00:00",
       "count": 20
     }
   ],
   "items": [
+    {
+      "id": "cc25b7aabc8f9386cf0b9447",
+      "title": "Manor Lords publisher isn't worried about launching a game on GTA 6's release date",
+      "url": "https://store.steampowered.com/news/group/38509069/view/678510595516925811",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-26T12:52:48+00:00",
+      "detectedAt": "2026-09-26T13:44:38+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "fcc9be1c12555b22f554de831577ae1d36ffb3742bbbc2c86112fa455bb408e2",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "release"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "af8575093af3dc2d7ad113fe",
+      "title": "New Open-World Game on Steam Is Like Monster Hunter Meets Palworld",
+      "url": "https://store.steampowered.com/news/group/1450625/view/701028593652729582",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-26T13:42:55+00:00",
+      "detectedAt": "2026-09-26T13:44:38+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "54752374614e9518bf138d3ba6e10535c4d2a194e6c608ac779856bd57452fe9",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "98da3fe5b081d2205d3e99e4",
+      "title": "Ball vs Ball codes (September 2026)",
+      "url": "https://store.steampowered.com/news/group/3693985/view/703280393464317584",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-26T13:02:38+00:00",
+      "detectedAt": "2026-09-26T13:44:38+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "74ec50613b49f6071c3e563688e7fcfad1a175c65f2ffba62c97fb2071e54fbe",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "97f3b49ba743c754581ca4bc",
+      "title": "Open Sea for Animals codes (September 2026)",
+      "url": "https://store.steampowered.com/news/group/3693985/view/703280393464317582",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-26T13:02:38+00:00",
+      "detectedAt": "2026-09-26T13:44:38+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "266ad51c3aed68acf88795c57c05ddf17f1af439cb0550dd03fc8d6708ccf631",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "6cb4f80592accd6476ec2d6d",
+      "title": "Catch Dragons to Defend codes (September 2026)",
+      "url": "https://store.steampowered.com/news/group/3693985/view/703280393464317580",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-26T13:02:38+00:00",
+      "detectedAt": "2026-09-26T13:44:38+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "7a57da6e9ecd19619930b4e3f0ff804f0ae85946073412df5cbd918bcae0cac9",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "651c3de92299f3f9b246264c",
+      "title": "Devils may cry in this board game about battling personal demons",
+      "url": "https://store.steampowered.com/news/group/718735/view/681888295241647801",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-26T13:10:54+00:00",
+      "detectedAt": "2026-09-26T13:44:38+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "5096eeb9a93f724129c7b55e05356f0941a016dc8e895ec413ea5906ff2ae772",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "49b90eeee88341661e067591",
+      "title": "'Castlevania 40th Anniversary An Orchestral Concert' set for Spring 2027, new anniversary video released",
+      "url": "https://store.steampowered.com/news/group/6070552/view/712287592723252957",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-26T13:31:05+00:00",
+      "detectedAt": "2026-09-26T13:44:38+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "7d1f85d6e93935784a1345d8bb472cd06cb8ee2bc286ed9b8baa039e06fbf76b",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "release"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "48e277bbacedbb878ef21d3c",
+      "title": "How To Claim Ubisoft Connect's Free Offering Of For Honor",
+      "url": "https://store.steampowered.com/news/group/38458038/view/684140095047993014",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-26T13:01:33+00:00",
+      "detectedAt": "2026-09-26T13:44:38+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "f396239fcbfcb7749c479e7e4ba8b1e017695c58b0bc5581186b816740260851",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "2d721085bd756d6a2a1dd6ec",
+      "title": "Graveyard Keeper 2 peaks at 55k players",
+      "url": "https://store.steampowered.com/news/group/4777282/view/693146657813955628",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-22T19:08:21+00:00",
+      "detectedAt": "2026-09-26T13:44:38+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "d9ea8f9d131f31eb36d9ed46ca74d806a91ff864709cef27acd9f7abb985d6eb",
+      "revision": 1,
+      "importance": 40,
+      "importanceReasons": [
+        "公式一次情報"
+      ],
+      "tags": []
+    },
+    {
+      "id": "0558371691528e98f066b6b3",
+      "title": "Final Fantasy 7 Revelation lead says the original RPG \"is very much enshrined within the story\"",
+      "url": "https://store.steampowered.com/news/group/38509069/view/678510595516925816",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-26T13:32:50+00:00",
+      "detectedAt": "2026-09-26T13:44:38+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "1cdc8c8d65b24f9f069509d74fc8514cd778ac7b9aa44274fe813926cda3ac87",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
     {
       "id": "f9324d19d461b5db6e298536",
       "title": "Lord Of The Rings Officially Switches Genres In Its Most Anticipated New Gaming Project",
@@ -990,10 +1225,9 @@
       "summary": null,
       "contentHash": "90f1267355aa93dfd83d9968d10c68fb3e552b482f06d676e3a5d2a94a172f59",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1151,10 +1385,9 @@
       "summary": null,
       "contentHash": "29c99a744276ad8f89a9195f1cdfc09ebc0990f8ae7716f24f5abb93a8dfc053",
       "revision": 1,
-      "importance": 90,
+      "importance": 80,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "障害"
       ],
       "tags": []
@@ -1175,10 +1408,9 @@
       "summary": null,
       "contentHash": "806a78efa2f9f4edecdf8fd289981b49e270a8e3c3bbd4fe4503473615fcffa8",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1198,10 +1430,9 @@
       "summary": null,
       "contentHash": "43302876ca86d4ae900c873616871fe803cdf23d29f26d8a635edd4cf052c3ab",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-27T09:14:22+00:00",
+  "generatedAt": "2026-09-27T14:42:15+00:00",
   "collector": {
-    "lastRun": "2026-09-27T09:14:22+00:00",
+    "lastRun": "2026-09-27T14:42:15+00:00",
     "success": 13,
     "failed": 0
   },
@@ -14,7 +14,7 @@
       "url": "https://www.digital.go.jp/rss/news.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-27T09:14:22+00:00",
+      "lastSuccess": "2026-09-27T14:42:15+00:00",
       "count": 10
     },
     {
@@ -24,7 +24,7 @@
       "url": "https://www.jpcert.or.jp/rss/jpcert.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-27T09:14:22+00:00",
+      "lastSuccess": "2026-09-27T14:42:15+00:00",
       "count": 28
     },
     {
@@ -34,7 +34,7 @@
       "url": "https://jvn.jp/rss/jvn.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-27T09:14:22+00:00",
+      "lastSuccess": "2026-09-27T14:42:15+00:00",
       "count": 20
     },
     {
@@ -44,7 +44,7 @@
       "url": "https://blogs.jpcert.or.jp/ja/atom.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-27T09:14:22+00:00",
+      "lastSuccess": "2026-09-27T14:42:15+00:00",
       "count": 15
     },
     {
@@ -54,7 +54,7 @@
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-27T09:14:22+00:00",
+      "lastSuccess": "2026-09-27T14:42:15+00:00",
       "count": 200
     },
     {
@@ -64,7 +64,7 @@
       "url": "https://github.blog/changelog/feed/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-27T09:14:22+00:00",
+      "lastSuccess": "2026-09-27T14:42:15+00:00",
       "count": 10
     },
     {
@@ -74,7 +74,7 @@
       "url": "https://api.github.com/repos/langgenius/dify/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-27T09:14:22+00:00",
+      "lastSuccess": "2026-09-27T14:42:15+00:00",
       "count": 27
     },
     {
@@ -84,7 +84,7 @@
       "url": "https://api.github.com/repos/openai/codex/releases?per_page=10",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-27T09:14:22+00:00",
+      "lastSuccess": "2026-09-27T14:42:15+00:00",
       "count": 1
     },
     {
@@ -94,7 +94,7 @@
       "url": "https://api.github.com/repos/anthropics/claude-code/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-27T09:14:22+00:00",
+      "lastSuccess": "2026-09-27T14:42:15+00:00",
       "count": 30
     },
     {
@@ -104,7 +104,7 @@
       "url": "https://jp.finalfantasyxiv.com/lodestone/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-27T09:14:22+00:00",
+      "lastSuccess": "2026-09-27T14:42:15+00:00",
       "count": 30
     },
     {
@@ -114,7 +114,7 @@
       "url": "https://steamcommunity.com/games/1245620/rss/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-27T09:14:22+00:00",
+      "lastSuccess": "2026-09-27T14:42:15+00:00",
       "count": 10
     },
     {
@@ -124,7 +124,7 @@
       "url": "https://store.steampowered.com/feeds/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-27T09:14:22+00:00",
+      "lastSuccess": "2026-09-27T14:42:15+00:00",
       "count": 10
     },
     {
@@ -134,11 +134,240 @@
       "url": "https://www.apple.com/jp/newsroom/rss-feed.rss",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-27T09:14:22+00:00",
+      "lastSuccess": "2026-09-27T14:42:15+00:00",
       "count": 20
     }
   ],
   "items": [
+    {
+      "id": "f01d23745e37d5bb5b124004",
+      "title": "Gabe Newell had a \"room full of knives and blades and swords,\" says Counter-Strike co-creator",
+      "url": "https://store.steampowered.com/news/group/38509069/view/678510595516925980",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-27T13:53:56+00:00",
+      "detectedAt": "2026-09-27T14:42:15+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "44055720fe4f1d1f4309a33148455d4845808d66cdeb7ff20eb53e8797c2abe3",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "eb89635f0e9edc9deededfeb",
+      "title": "This ambitious Half-Life 2 mod asks: what if Iron Lung had a submarine and an airship?",
+      "url": "https://store.steampowered.com/news/group/1850/view/701028593652729757",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-27T13:54:07+00:00",
+      "detectedAt": "2026-09-27T14:42:15+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "9b6147f6bb23df30d4b9017bbab5fe2a9e4173b37f9e0c5efacc54e21c6b84ab",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "e6e7868bdcc6b98a5aee23f3",
+      "title": "New Steam Game Looks Like a Disco Elysium Successor With Just a Hint of Dishonored",
+      "url": "https://store.steampowered.com/news/group/1450625/view/701028593652729750",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-27T13:04:11+00:00",
+      "detectedAt": "2026-09-27T14:42:15+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "6d917c599bb5b157801e56701d3d205b37df596c7d696af4e31323557e776a63",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "a3ac9701fe44581759614c67",
+      "title": "Final Fantasy 9: A Place to Call Home Officially Announced",
+      "url": "https://store.steampowered.com/news/group/1450625/view/701028593652729746",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-27T12:54:10+00:00",
+      "detectedAt": "2026-09-27T14:42:15+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "7a35ea6ffaefc5abe1d6d06377274afd692c4410e3e6f65013e0f2302e3c730a",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "929494215aa06cd6137dea92",
+      "title": "This violently gothic TTRPG makes DnD campaigns look wholesome",
+      "url": "https://store.steampowered.com/news/group/718735/view/681888295241647948",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-27T13:11:35+00:00",
+      "detectedAt": "2026-09-27T14:42:15+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "d72a485d4d201063904c1519e375a4e2ef99937590836cd556c7809303321f73",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "4d0428164673e544181640c4",
+      "title": "The Elder Scrolls Is Officially Switching Genre November 2026",
+      "url": "https://store.steampowered.com/news/group/38666666/view/668377496357439395",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-27T12:32:55+00:00",
+      "detectedAt": "2026-09-27T14:42:15+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "0e9584a94d42e845e5cb7cf068264c4890c5f4a4dad3781293deba5175b2e930",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "2d721085bd756d6a2a1dd6ec",
+      "title": "Graveyard Keeper 2 peaks at 60k players",
+      "url": "https://store.steampowered.com/news/group/4777282/view/693146657813955628",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-22T19:08:21+00:00",
+      "detectedAt": "2026-09-26T13:44:38+00:00",
+      "updatedAt": "2026-09-27T14:42:15+00:00",
+      "sourceUpdatedAt": null,
+      "changeType": "updated",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "f0ed0577f893159c696fc5757a3c90d28b1715334b14695ccd42ba2b71abff1d",
+      "revision": 2,
+      "importance": 40,
+      "importanceReasons": [
+        "公式一次情報"
+      ],
+      "tags": []
+    },
+    {
+      "id": "2bc4f6bf5e3f2fc63c99887c",
+      "title": "This \"reverse heist\" board game punishes the loot hoarder in you",
+      "url": "https://store.steampowered.com/news/group/718735/view/681888295241647950",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-27T13:11:35+00:00",
+      "detectedAt": "2026-09-27T14:42:15+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "0d7268ddfc692514c19b8b9daebcc650d50c2c3f50d24568eacd4c61ad217061",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "066b1ab0156e60a2000c554a",
+      "title": "Diablo 4 Quietly Giving Out Rare Item As Season 15 Apology",
+      "url": "https://store.steampowered.com/news/group/1450625/view/701028593652729760",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-27T14:04:14+00:00",
+      "detectedAt": "2026-09-27T14:42:15+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "5d9daaa5c66f5cdf1c68cbd12649b522d3374990dadac838cf0bb92886c7a41c",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "00a87e4e3b3846281bb7a6a2",
+      "title": "'Don't Cheat Bro' Hytale Will Give $15,000 to the First Player to Beat an Impossible Challenge",
+      "url": "https://store.steampowered.com/news/group/1450625/view/701028593652729753",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-27T13:14:11+00:00",
+      "detectedAt": "2026-09-27T14:42:15+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "3bcc838c39a2d7cd37309bf53df1a4dcbe386aed5be559b273713a4039410d55",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
     {
       "id": "ee3aed0311c3a4cd6f2bc9dd",
       "title": "John Wick Is Switching Genres In Upcoming Game Prequel",
@@ -569,10 +798,9 @@
       "summary": null,
       "contentHash": "fcc9be1c12555b22f554de831577ae1d36ffb3742bbbc2c86112fa455bb408e2",
       "revision": 1,
-      "importance": 65,
+      "importance": 55,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "release"
       ],
       "tags": [
@@ -595,10 +823,9 @@
       "summary": null,
       "contentHash": "54752374614e9518bf138d3ba6e10535c4d2a194e6c608ac779856bd57452fe9",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -618,10 +845,9 @@
       "summary": null,
       "contentHash": "74ec50613b49f6071c3e563688e7fcfad1a175c65f2ffba62c97fb2071e54fbe",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -641,10 +867,9 @@
       "summary": null,
       "contentHash": "266ad51c3aed68acf88795c57c05ddf17f1af439cb0550dd03fc8d6708ccf631",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -664,10 +889,9 @@
       "summary": null,
       "contentHash": "7a57da6e9ecd19619930b4e3f0ff804f0ae85946073412df5cbd918bcae0cac9",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -687,10 +911,9 @@
       "summary": null,
       "contentHash": "5096eeb9a93f724129c7b55e05356f0941a016dc8e895ec413ea5906ff2ae772",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -710,10 +933,9 @@
       "summary": null,
       "contentHash": "7d1f85d6e93935784a1345d8bb472cd06cb8ee2bc286ed9b8baa039e06fbf76b",
       "revision": 1,
-      "importance": 65,
+      "importance": 55,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "release"
       ],
       "tags": [
@@ -735,29 +957,6 @@
       "kind": "article",
       "summary": null,
       "contentHash": "f396239fcbfcb7749c479e7e4ba8b1e017695c58b0bc5581186b816740260851",
-      "revision": 1,
-      "importance": 50,
-      "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
-      ],
-      "tags": []
-    },
-    {
-      "id": "2d721085bd756d6a2a1dd6ec",
-      "title": "Graveyard Keeper 2 peaks at 55k players",
-      "url": "https://store.steampowered.com/news/group/4777282/view/693146657813955628",
-      "sourceId": "steam",
-      "sourceName": "Steam News",
-      "category": "game",
-      "publishedAt": "2026-09-22T19:08:21+00:00",
-      "detectedAt": "2026-09-26T13:44:38+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "d9ea8f9d131f31eb36d9ed46ca74d806a91ff864709cef27acd9f7abb985d6eb",
       "revision": 1,
       "importance": 40,
       "importanceReasons": [
@@ -781,10 +980,9 @@
       "summary": null,
       "contentHash": "1cdc8c8d65b24f9f069509d74fc8514cd778ac7b9aa44274fe813926cda3ac87",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },

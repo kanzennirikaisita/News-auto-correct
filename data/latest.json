@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-28T09:44:52+00:00",
+  "generatedAt": "2026-09-28T20:07:02+00:00",
   "collector": {
-    "lastRun": "2026-09-28T09:44:52+00:00",
+    "lastRun": "2026-09-28T20:07:02+00:00",
     "success": 13,
     "failed": 0
   },
@@ -14,7 +14,7 @@
       "url": "https://www.digital.go.jp/rss/news.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-28T09:44:52+00:00",
+      "lastSuccess": "2026-09-28T20:07:02+00:00",
       "count": 12
     },
     {
@@ -24,7 +24,7 @@
       "url": "https://www.jpcert.or.jp/rss/jpcert.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-28T09:44:52+00:00",
+      "lastSuccess": "2026-09-28T20:07:02+00:00",
       "count": 28
     },
     {
@@ -34,7 +34,7 @@
       "url": "https://jvn.jp/rss/jvn.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-28T09:44:52+00:00",
+      "lastSuccess": "2026-09-28T20:07:02+00:00",
       "count": 20
     },
     {
@@ -44,7 +44,7 @@
       "url": "https://blogs.jpcert.or.jp/ja/atom.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-28T09:44:52+00:00",
+      "lastSuccess": "2026-09-28T20:07:02+00:00",
       "count": 15
     },
     {
@@ -54,7 +54,7 @@
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-28T09:44:52+00:00",
+      "lastSuccess": "2026-09-28T20:07:02+00:00",
       "count": 200
     },
     {
@@ -64,7 +64,7 @@
       "url": "https://github.blog/changelog/feed/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-28T09:44:52+00:00",
+      "lastSuccess": "2026-09-28T20:07:02+00:00",
       "count": 10
     },
     {
@@ -74,7 +74,7 @@
       "url": "https://api.github.com/repos/langgenius/dify/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-28T09:44:52+00:00",
+      "lastSuccess": "2026-09-28T20:07:02+00:00",
       "count": 27
     },
     {
@@ -84,7 +84,7 @@
       "url": "https://api.github.com/repos/openai/codex/releases?per_page=10",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-28T09:44:52+00:00",
+      "lastSuccess": "2026-09-28T20:07:02+00:00",
       "count": 1
     },
     {
@@ -94,7 +94,7 @@
       "url": "https://api.github.com/repos/anthropics/claude-code/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-28T09:44:52+00:00",
+      "lastSuccess": "2026-09-28T20:07:02+00:00",
       "count": 30
     },
     {
@@ -104,7 +104,7 @@
       "url": "https://jp.finalfantasyxiv.com/lodestone/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-28T09:44:52+00:00",
+      "lastSuccess": "2026-09-28T20:07:02+00:00",
       "count": 30
     },
     {
@@ -114,7 +114,7 @@
       "url": "https://steamcommunity.com/games/1245620/rss/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-28T09:44:52+00:00",
+      "lastSuccess": "2026-09-28T20:07:02+00:00",
       "count": 10
     },
     {
@@ -124,7 +124,7 @@
       "url": "https://store.steampowered.com/feeds/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-28T09:44:52+00:00",
+      "lastSuccess": "2026-09-28T20:07:02+00:00",
       "count": 10
     },
     {
@@ -134,11 +134,339 @@
       "url": "https://www.apple.com/jp/newsroom/rss-feed.rss",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-28T09:44:52+00:00",
+      "lastSuccess": "2026-09-28T20:07:02+00:00",
       "count": 20
     }
   ],
   "items": [
+    {
+      "id": "e2e079dd38b1e3a9a7f07bf2",
+      "title": "The Witcher 3: Songs of the Past EP Drops, Giving First Taste of New Music from the Expansion",
+      "url": "https://store.steampowered.com/news/group/9869/view/687517794773764238",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-28T19:29:28+00:00",
+      "detectedAt": "2026-09-28T20:07:02+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "396be4f503bff25d018eaaed93ed79174dfb61a790f1fe6797ae4bc90ef10b95",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "de7249e0d1c9b28a8db641ff",
+      "title": "Gears Of War E-Day Collaborative Pizza Cutter Was A Smashing Success",
+      "url": "https://store.steampowered.com/news/group/38458038/view/684140095047993306",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-28T19:13:34+00:00",
+      "detectedAt": "2026-09-28T20:07:02+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "f1390db72ca7e917ff24b06278edf96aa1cd81be475a2ce32ba1d2c10addb401",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "ce3dd9fc32604fba27933be8",
+      "title": "Game Of Thrones: Honor the Old Gods Officially Available Now",
+      "url": "https://store.steampowered.com/news/group/38666666/view/668377496357439592",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-28T19:24:09+00:00",
+      "detectedAt": "2026-09-28T20:07:02+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "7834272255947c24e60a16d135c4d198340720cea6d04abc3e193256e8d6b8e7",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "cdf0d63217ad659b5e61b732",
+      "title": "Claude Code v2.1.284",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.284",
+      "sourceId": "claude-code",
+      "sourceName": "Claude Code",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-28T18:02:03+00:00",
+      "detectedAt": "2026-09-28T20:07:02+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-09-28T18:02:03+00:00",
+      "changeType": "new",
+      "kind": "release",
+      "summary": null,
+      "contentHash": "ce19f49c91eaee804e550d183cc7710ea1bb03658b2c4ce304f13e484b5896c9",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "バージョン公開"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "bce6e37f0e2f8690caefbaf2",
+      "title": "Hades in Concert Ballads of the Underworld video now available on YouTube featuring music from both games",
+      "url": "https://store.steampowered.com/news/group/6070552/view/712287592723253363",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-28T20:02:51+00:00",
+      "detectedAt": "2026-09-28T20:07:02+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "2e2bdfb4e5e7a15b831949f508b4eb2897fa1626a70b2e358c91e4fdc81e2932",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "b3f88d4b6942c3f730a092a5",
+      "title": "Capcom Quietly Reveals Cut Monster Hunter Wilds Designs",
+      "url": "https://store.steampowered.com/news/group/1450625/view/701028593652729981",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-28T20:05:46+00:00",
+      "detectedAt": "2026-09-28T20:07:02+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "08fb2879e25953ce0f465adda660de7e58c128ff05fd8bbcd4c9926229da26d5",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "57148d20a39cead4be9ed253",
+      "title": "Apex Legends: Latest Update 9/28/2026",
+      "url": "https://store.steampowered.com/news/app/1172470/view/694273194214819778",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-28T19:17:40+00:00",
+      "detectedAt": "2026-09-28T20:07:02+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "45d5ff0ecbdd7eb0d5e8c5b749bd62293e8c47f470ec67c1f376d5820852c54f",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "update"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "469712811c22e040083a3bd4",
+      "title": "Claude Sonnet 5.5 in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-09-28-claude-sonnet-5-5-in-github-copilot",
+      "sourceId": "github",
+      "sourceName": "GitHub Changelog",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-28T18:03:57+00:00",
+      "detectedAt": "2026-09-28T20:07:02+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "258928fd96bf25061084f2da0a81e55522ee1010eabd5974247f47d6c9f86184",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "281d648cf1bc5e76061ae9da",
+      "title": "NASCAR 26 (PS5) Review",
+      "url": "https://store.steampowered.com/news/group/7433348/view/699902693745887153",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-28T18:37:29+00:00",
+      "detectedAt": "2026-09-28T20:07:02+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "dfbb982190686147e6c0808015307a1d7836f108b305129ba0b4d02823c1b985",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "20d5b72d9422e403c95a4da3",
+      "title": "CD Projekt lays out why you should play The Witcher 3 Remastered",
+      "url": "https://store.steampowered.com/news/group/1850/view/701028593652729975",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-28T19:39:05+00:00",
+      "detectedAt": "2026-09-28T20:07:02+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "f6d6aeb82f1f8b848682daecf55de60b427d11f99abfc4860c567c97cac3729e",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "1d09516522abfde5d3cf8f8a",
+      "title": "Self-hosted runner version enforcement date has moved",
+      "url": "https://github.blog/changelog/2026-09-28-self-hosted-runner-version-enforcement-date-has-moved",
+      "sourceId": "github",
+      "sourceName": "GitHub Changelog",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-28T19:22:46+00:00",
+      "detectedAt": "2026-09-28T20:07:02+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "6208df237fb5bac3e2a5d54718df9ca08cc9ae349dda7b6a684ee362b80cde9a",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "0f767e1696a527b1ffe09e66",
+      "title": "Planned Technical Works on 29.09.2026",
+      "url": "https://store.steampowered.com/news/app/236390/view/679636495422719827",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-28T18:12:06+00:00",
+      "detectedAt": "2026-09-28T20:07:02+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "8756ce2f2cae5a780cabc52b6b843bdfb4333d064a8ec180613b70f8cdf0d178",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "0adf5bb2a473897d12526e4b",
+      "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+      "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+      "sourceId": "openai",
+      "sourceName": "OpenAI",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-28T07:00:00+00:00",
+      "detectedAt": "2026-09-28T20:07:02+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "f4cd2443f104dce89b08ab556d006c8b2b62298101ffe7662d5243b821cdfbfa",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "069f2d9d89b2b4a2881fd73d",
+      "title": "MSI MPG 322UR QD-OLED X24 32″ Gaming Monitor Review",
+      "url": "https://store.steampowered.com/news/group/7433348/view/699902693745887148",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-28T18:07:17+00:00",
+      "detectedAt": "2026-09-28T20:07:02+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "488e9e8387c08775e3ce4044624c2dd064e82828e1ea5ad003e9d074a7e198fc",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
     {
       "id": "ecae141a2ddba9385808b2d8",
       "title": "Steam's Free-to-Keep Promotion Officially Confirms 5 Giveaways for October 2026 Ahead of Time",
@@ -658,10 +986,9 @@
       "summary": null,
       "contentHash": "b16f42b5e6f3b161746a3ee023ae7d9962c771ee3ac6e2936d2520042dda5ac9",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -681,10 +1008,9 @@
       "summary": null,
       "contentHash": "042e8909f1cd32b56be0aae1b15c87b23453facba74fd01682af1d3a5a4c7ac0",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -704,10 +1030,9 @@
       "summary": null,
       "contentHash": "ba2496009b7190f9e39dd4401d39daf0bba4eaab12ff6f5df6656dcf0caa33f4",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -776,10 +1101,9 @@
       "summary": null,
       "contentHash": "af81b926955d84932d94ed43b2dac1b4dafa1bfcfd021468cce2c4a48bbdaa8c",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -870,10 +1194,9 @@
       "summary": null,
       "contentHash": "44055720fe4f1d1f4309a33148455d4845808d66cdeb7ff20eb53e8797c2abe3",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -893,10 +1216,9 @@
       "summary": null,
       "contentHash": "9b6147f6bb23df30d4b9017bbab5fe2a9e4173b37f9e0c5efacc54e21c6b84ab",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -916,10 +1238,9 @@
       "summary": null,
       "contentHash": "6d917c599bb5b157801e56701d3d205b37df596c7d696af4e31323557e776a63",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -939,10 +1260,9 @@
       "summary": null,
       "contentHash": "7a35ea6ffaefc5abe1d6d06377274afd692c4410e3e6f65013e0f2302e3c730a",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -962,10 +1282,9 @@
       "summary": null,
       "contentHash": "d72a485d4d201063904c1519e375a4e2ef99937590836cd556c7809303321f73",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -985,10 +1304,9 @@
       "summary": null,
       "contentHash": "0e9584a94d42e845e5cb7cf068264c4890c5f4a4dad3781293deba5175b2e930",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1030,10 +1348,9 @@
       "summary": null,
       "contentHash": "0d7268ddfc692514c19b8b9daebcc650d50c2c3f50d24568eacd4c61ad217061",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1053,10 +1370,9 @@
       "summary": null,
       "contentHash": "5d9daaa5c66f5cdf1c68cbd12649b522d3374990dadac838cf0bb92886c7a41c",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1076,10 +1392,9 @@
       "summary": null,
       "contentHash": "3bcc838c39a2d7cd37309bf53df1a4dcbe386aed5be559b273713a4039410d55",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -22348,7 +22663,7 @@
       "sourceId": "openai",
       "sourceName": "OpenAI",
       "category": "ai-dev",
-      "publishedAt": "2026-09-08T00:00:00+00:00",
+      "publishedAt": "2026-09-08T11:00:00+00:00",
       "detectedAt": "2026-09-09T03:22:00+00:00",
       "updatedAt": null,
       "sourceUpdatedAt": null,

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-29T01:56:26+00:00",
+  "generatedAt": "2026-09-29T09:48:16+00:00",
   "collector": {
-    "lastRun": "2026-09-29T01:56:26+00:00",
+    "lastRun": "2026-09-29T09:48:16+00:00",
     "success": 13,
     "failed": 0
   },
@@ -14,8 +14,8 @@
       "url": "https://www.digital.go.jp/rss/news.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-29T01:56:26+00:00",
-      "count": 12
+      "lastSuccess": "2026-09-29T09:48:16+00:00",
+      "count": 18
     },
     {
       "id": "jpcert",
@@ -24,7 +24,7 @@
       "url": "https://www.jpcert.or.jp/rss/jpcert.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-29T01:56:26+00:00",
+      "lastSuccess": "2026-09-29T09:48:16+00:00",
       "count": 28
     },
     {
@@ -34,7 +34,7 @@
       "url": "https://jvn.jp/rss/jvn.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-29T01:56:26+00:00",
+      "lastSuccess": "2026-09-29T09:48:16+00:00",
       "count": 20
     },
     {
@@ -44,7 +44,7 @@
       "url": "https://blogs.jpcert.or.jp/ja/atom.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-29T01:56:26+00:00",
+      "lastSuccess": "2026-09-29T09:48:16+00:00",
       "count": 15
     },
     {
@@ -54,7 +54,7 @@
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-29T01:56:26+00:00",
+      "lastSuccess": "2026-09-29T09:48:16+00:00",
       "count": 200
     },
     {
@@ -64,7 +64,7 @@
       "url": "https://github.blog/changelog/feed/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-29T01:56:26+00:00",
+      "lastSuccess": "2026-09-29T09:48:16+00:00",
       "count": 10
     },
     {
@@ -74,7 +74,7 @@
       "url": "https://api.github.com/repos/langgenius/dify/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-29T01:56:26+00:00",
+      "lastSuccess": "2026-09-29T09:48:16+00:00",
       "count": 27
     },
     {
@@ -84,8 +84,8 @@
       "url": "https://api.github.com/repos/openai/codex/releases?per_page=10",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-29T01:56:26+00:00",
-      "count": 1
+      "lastSuccess": "2026-09-29T09:48:16+00:00",
+      "count": 2
     },
     {
       "id": "claude-code",
@@ -94,7 +94,7 @@
       "url": "https://api.github.com/repos/anthropics/claude-code/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-29T01:56:26+00:00",
+      "lastSuccess": "2026-09-29T09:48:16+00:00",
       "count": 30
     },
     {
@@ -104,7 +104,7 @@
       "url": "https://jp.finalfantasyxiv.com/lodestone/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-29T01:56:26+00:00",
+      "lastSuccess": "2026-09-29T09:48:16+00:00",
       "count": 30
     },
     {
@@ -114,7 +114,7 @@
       "url": "https://steamcommunity.com/games/1245620/rss/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-29T01:56:26+00:00",
+      "lastSuccess": "2026-09-29T09:48:16+00:00",
       "count": 10
     },
     {
@@ -124,7 +124,7 @@
       "url": "https://store.steampowered.com/feeds/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-29T01:56:26+00:00",
+      "lastSuccess": "2026-09-29T09:48:16+00:00",
       "count": 10
     },
     {
@@ -134,11 +134,509 @@
       "url": "https://www.apple.com/jp/newsroom/rss-feed.rss",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-29T01:56:26+00:00",
+      "lastSuccess": "2026-09-29T09:48:16+00:00",
       "count": 20
     }
   ],
   "items": [
+    {
+      "id": "ee81224e56778d52ee563a85",
+      "title": "How to get the Feline armor in The Witcher 3",
+      "url": "https://store.steampowered.com/news/group/1850/view/701028593652730374",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-29T09:01:16+00:00",
+      "detectedAt": "2026-09-29T09:48:16+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "f804168ae45d279c84add63e80ada4ea15df5b8b4689c569a344419d50c6019b",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "e634e12afd747a49f5f07890",
+      "title": "Light Up Your Fall With Neon Dash!",
+      "url": "https://store.steampowered.com/news/app/1407200/view/711161056325533812",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-29T09:00:35+00:00",
+      "detectedAt": "2026-09-29T09:48:16+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "6c9beff2b87f9dfec96894187fa507f5d58f89d4558aea3e9c8bf9e496c50a5d",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "de77b4a9ecc493e665b7bd9f",
+      "title": "Pgpool-IIにおける複数の脆弱性",
+      "url": "https://jvn.jp/jp/JVN22475874/",
+      "sourceId": "jvn",
+      "sourceName": "JVN",
+      "category": "work",
+      "publishedAt": "2026-09-29T05:00:00+00:00",
+      "detectedAt": "2026-09-29T09:48:16+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-09-29T05:00:00+00:00",
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "f9fcb5387e6a5f78568bffe0f3fc0f0caacbf5e322838e9beeca78e751e006e2",
+      "revision": 1,
+      "importance": 80,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "脆弱性"
+      ],
+      "tags": [
+        "セキュリティ"
+      ]
+    },
+    {
+      "id": "ba0dd1c724ea8f8cc8af0a05",
+      "title": "令和8年度「病院情報システム等の刷新に向けた協議会」の構成員の追加募集（分科会C）を開始しました",
+      "url": "https://www.digital.go.jp/news/19b45883-978f-4424-929a-ee8fa5bc20e6",
+      "sourceId": "digital-agency",
+      "sourceName": "デジタル庁",
+      "category": "work",
+      "publishedAt": "2026-09-29T06:00:00+00:00",
+      "detectedAt": "2026-09-29T09:48:16+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "8d442651bca6d70ea75e4b4078c45178b588f1cbdd4d73eda59ba77fea0f5aeb",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "b9c772c4d3500b123aad047f",
+      "title": "How to get the Griffin armor in The Witcher 3",
+      "url": "https://store.steampowered.com/news/group/1850/view/701028593652730370",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-29T09:01:16+00:00",
+      "detectedAt": "2026-09-29T09:48:16+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "a81266f8f67b4aa00865d0a8c2b78614cb302c405b0a1c03d494a942f0bd223c",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "9b9d615d7fb6df0bae74fa36",
+      "title": "Codex 0.159.0",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.159.0",
+      "sourceId": "codex",
+      "sourceName": "Codex",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-29T08:05:42+00:00",
+      "detectedAt": "2026-09-29T09:48:16+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-09-29T08:07:30+00:00",
+      "changeType": "new",
+      "kind": "release",
+      "summary": null,
+      "contentHash": "32c9d6c4d6266f7d0b47d73c295eea8ca7d22abd7d4ea1f9e3d23f8bb521f2d5",
+      "revision": 1,
+      "importance": 75,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "バージョン公開",
+        "codex"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "7e52c8bc9ec62f6d9a20811c",
+      "title": "Road Trip: Ford DLC Release",
+      "url": "https://store.steampowered.com/news/app/270880/view/683014577767580224",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-29T08:00:31+00:00",
+      "detectedAt": "2026-09-29T09:48:16+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "086917f4287d06da4d890ba9eef1b69dd457327a1ffb006098b8ac6810f604ad",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "release"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "7b050a70f1439de78b05fed5",
+      "title": "Devil May Cry HD Collection will now work properly on SteamOS / Linux",
+      "url": "https://store.steampowered.com/news/group/4218320/view/694273194214820115",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-29T08:58:58+00:00",
+      "detectedAt": "2026-09-29T09:48:16+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "ed3768b9b24b1cf07ed3112f82eba0a37721bdc2b5cb71869aecb9a35e5cd0f9",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "76212f9921bcd0d931732e63",
+      "title": "PFU製Image Scanner Driver for Linuxにおける複数の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU96968110/",
+      "sourceId": "jvn",
+      "sourceName": "JVN",
+      "category": "work",
+      "publishedAt": "2026-09-29T06:00:00+00:00",
+      "detectedAt": "2026-09-29T09:48:16+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-09-29T06:00:00+00:00",
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "8dad6dab20cb3256ab9270315d0ea64f5aa9fca666059f30bf695f67fe8337e3",
+      "revision": 1,
+      "importance": 80,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "脆弱性"
+      ],
+      "tags": [
+        "セキュリティ"
+      ]
+    },
+    {
+      "id": "50d71cd52400f551c336b9ad",
+      "title": "How we will do better for Australia",
+      "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+      "sourceId": "openai",
+      "sourceName": "OpenAI",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-28T19:00:00+00:00",
+      "detectedAt": "2026-09-29T01:56:26+00:00",
+      "updatedAt": "2026-09-29T09:48:16+00:00",
+      "sourceUpdatedAt": null,
+      "changeType": "updated",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "52df276aff613f0c6551a014d63312df2c58a6d333c5ef1625cf1fe77b66c0b9",
+      "revision": 2,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "3dcdb62bfd40127e0be53014",
+      "title": "第6回先進的AI利活用アドバイザリーボードの会議資料等を掲載しました",
+      "url": "https://www.digital.go.jp/councils/ai-advisory-board/162953b0-3dc0-46a6-a24c-0e3a335e0495",
+      "sourceId": "digital-agency",
+      "sourceName": "デジタル庁",
+      "category": "work",
+      "publishedAt": "2026-09-29T06:00:00+00:00",
+      "detectedAt": "2026-09-29T09:48:16+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "07f849bd99f92cd7aaee1b3b343c824b35a5c1935c21fe8a5c552b2622294fa4",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "38bc683aafc142dd292b2073",
+      "title": "デジタル推進委員の取組について「ご協力いただいている企業・団体等の一覧」「地域で開催される講習会等の情報」を更新しました",
+      "url": "https://www.digital.go.jp/policies/digital_promotion_staff",
+      "sourceId": "digital-agency",
+      "sourceName": "デジタル庁",
+      "category": "work",
+      "publishedAt": "2026-09-29T06:00:00+00:00",
+      "detectedAt": "2026-09-29T09:48:16+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "3e7a81248e2d6a0fed27c869a809866d2b55b7067453de8eac60862c651fc72f",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": [
+        "イベント"
+      ]
+    },
+    {
+      "id": "325062cb39e9becf439f6041",
+      "title": "How to get the Ursine armor in The Witcher 3",
+      "url": "https://store.steampowered.com/news/group/1850/view/701028593652730366",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-29T09:01:16+00:00",
+      "detectedAt": "2026-09-29T09:48:16+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "0db972afa38485f78d310f9e7416fbb097a682a10e81f34b5b1def0b65232723",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "2fc54b690d7b20a2e1432838",
+      "title": "Towards safety cases for frontier AI training",
+      "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+      "sourceId": "openai",
+      "sourceName": "OpenAI",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-28T19:00:00+00:00",
+      "detectedAt": "2026-09-29T09:48:16+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "9222d023cef5e80cf19c4af62830770c639bee8c6bb5fae321fe3a2f417df847",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "2580f722baf1a6c525660345",
+      "title": "How to unlock transmog in The Witcher 3 Remastered",
+      "url": "https://store.steampowered.com/news/group/1850/view/701028593652730372",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-29T09:01:16+00:00",
+      "detectedAt": "2026-09-29T09:48:16+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "ae6b113ee721490b2bb8925635f9c8a3904f8d504373d8dbc200ef4c65f8a3b7",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "19b489b87a8c2329195a5544",
+      "title": "The deeper you go the darker it gets in the roguelike shoot 'em up Earth Atlantis Abyss",
+      "url": "https://store.steampowered.com/news/group/4218320/view/694273194214820111",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-29T08:08:55+00:00",
+      "detectedAt": "2026-09-29T09:48:16+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "64f0a8167f865a9eeb79c605e56ddb279fce673c5cf4a617a5271fb162f6ccc2",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "16669171aa7f61cbbfab9b80",
+      "title": "令和8年度一般会計予備費使用要求書を掲載しました",
+      "url": "https://www.digital.go.jp/budget",
+      "sourceId": "digital-agency",
+      "sourceName": "デジタル庁",
+      "category": "work",
+      "publishedAt": "2026-09-29T04:26:26+00:00",
+      "detectedAt": "2026-09-09T03:22:00+00:00",
+      "updatedAt": "2026-09-29T09:48:16+00:00",
+      "sourceUpdatedAt": null,
+      "changeType": "updated",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "16a28498176dea73867076bf0d2c441ac62aa90d234dec01d0e8ebffb2fd02a0",
+      "revision": 2,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "14c60d3fe5cb3ab62e6e7ae1",
+      "title": "The Witcher 3 Remastered is now the highest-scoring game of 2026 on Metacritic",
+      "url": "https://store.steampowered.com/news/group/42342144/view/712287592723253700",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-29T08:53:25+00:00",
+      "detectedAt": "2026-09-29T09:48:16+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "88a0d52074bc8305ff8f641ce291b15398466fb658a773fcaba4f714164bfda4",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "0f520cf3c5954e1493bc8e46",
+      "title": "企画競争：令和8年度地方公共団体におけるSaaS調達及びDMP利用促進に関する調査研究等業務を掲載しました",
+      "url": "https://www.digital.go.jp/procurement",
+      "sourceId": "digital-agency",
+      "sourceName": "デジタル庁",
+      "category": "work",
+      "publishedAt": "2026-09-29T06:00:00+00:00",
+      "detectedAt": "2026-09-09T03:22:00+00:00",
+      "updatedAt": "2026-09-29T09:48:16+00:00",
+      "sourceUpdatedAt": null,
+      "changeType": "updated",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "95e2fc7055c7d8cb6558143eca512ef16201b82ccfe0848c62e9d85579880d3f",
+      "revision": 6,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "0eb4706883d674d85e360327",
+      "title": "古川大臣記者会見（令和8年9月29日）動画を追加しました",
+      "url": "https://www.digital.go.jp/speech/minister-260929-01",
+      "sourceId": "digital-agency",
+      "sourceName": "デジタル庁",
+      "category": "work",
+      "publishedAt": "2026-09-29T03:44:02+00:00",
+      "detectedAt": "2026-09-29T09:48:16+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "6927c78ba16852bb01b880bb5f34d12a466531cdd2e935082f1e733d6cd2e72c",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "04aaa82edba36623cda27c41",
+      "title": "How to get the Wolven armor in The Witcher 3",
+      "url": "https://store.steampowered.com/news/group/1850/view/701028593652730368",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-29T09:01:16+00:00",
+      "detectedAt": "2026-09-29T09:48:16+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "43f5074a9568202985a0ea2229cdae2577ddb641dbcd23f8fadf88a8a504cb30",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
     {
       "id": "eb674100bb687fff764326a1",
       "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
@@ -346,29 +844,6 @@
       "kind": "article",
       "summary": null,
       "contentHash": "b9711153ac2c20f82736206c506782ccd69645486e2a6cd1ea6ace2c66c7b48c",
-      "revision": 1,
-      "importance": 50,
-      "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
-      ],
-      "tags": []
-    },
-    {
-      "id": "50d71cd52400f551c336b9ad",
-      "title": "How we will do better for Australia",
-      "url": "https://openai.com/index/how-we-will-do-better-for-australia",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "category": "ai-dev",
-      "publishedAt": "2026-09-29T01:00:00+00:00",
-      "detectedAt": "2026-09-29T01:56:26+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "45147f6437c558deae2c109969be837c2bf0241f2508d1fd24eafc04fff95fbf",
       "revision": 1,
       "importance": 50,
       "importanceReasons": [
@@ -793,10 +1268,9 @@
       "summary": null,
       "contentHash": "f4cd2443f104dce89b08ab556d006c8b2b62298101ffe7662d5243b821cdfbfa",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -839,10 +1313,9 @@
       "summary": null,
       "contentHash": "b0433a66f6355ea04f87daf3f05901914135324d4d6dc85ca550abb62b99d781",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -862,10 +1335,9 @@
       "summary": null,
       "contentHash": "12a60023b1ce033f29d13a1de77a0d5022047fa95dc188bb3a4afdd377d583ec",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -885,10 +1357,9 @@
       "summary": null,
       "contentHash": "845b18b153538836ba077acb7e79d72850785f6c2995aebb77cc73e832be36a3",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -908,10 +1379,9 @@
       "summary": null,
       "contentHash": "a7103d0cec8115ede1f23e018f81fa87706a06c93f9c09d5e39a2cb30bbffe23",
       "revision": 1,
-      "importance": 80,
+      "importance": 70,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "脆弱性"
       ],
       "tags": [
@@ -934,10 +1404,9 @@
       "summary": null,
       "contentHash": "9b819f870412cb4a1de75f6cf9ea783409c389dd9be8fe27abcca61b1eaed0db",
       "revision": 1,
-      "importance": 75,
+      "importance": 65,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "バージョン公開",
         "codex"
       ],
@@ -961,10 +1430,9 @@
       "summary": null,
       "contentHash": "99689b6f644aaf98ef49489550e1cebe22222be96ad416f5c9af49c2b0303d4d",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -984,10 +1452,9 @@
       "summary": null,
       "contentHash": "ecc4787194531d46d68f736838cf5326e8c700ee6c779d7de8b7ccfe4f22b1f9",
       "revision": 1,
-      "importance": 100,
+      "importance": 90,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "脆弱性",
         "注意喚起"
       ],
@@ -1011,10 +1478,9 @@
       "summary": null,
       "contentHash": "d13e39c20f8838f8c162390f17ea14dd4fce7bf0340e486bc08fcd3279520985",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1034,10 +1500,9 @@
       "summary": null,
       "contentHash": "f494a78ec2f19dd307be1456badbcfc819dda03f7989487890edae135f9baefe",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1057,10 +1522,9 @@
       "summary": null,
       "contentHash": "82dcdbaaa0220e9866a0a2671974483ec9d553fd64bd30d17f4672b857aed870",
       "revision": 1,
-      "importance": 65,
+      "importance": 55,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "update"
       ],
       "tags": [
@@ -1083,10 +1547,9 @@
       "summary": null,
       "contentHash": "cc3fcecd0190b09f73ef88abb8fdb2711acf85228271c07d240f452d9651eeea",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1106,10 +1569,9 @@
       "summary": null,
       "contentHash": "364e8ac509184db55b94d25c7d5e470007b0412cb6a7d9e9d49ef27952cd6fdf",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1129,10 +1591,9 @@
       "summary": null,
       "contentHash": "430c268b21223a5cd662459ec0a3db8032b3a3074acc3ca2c31f543e355c60d0",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1152,10 +1613,9 @@
       "summary": null,
       "contentHash": "062ffc3b269e9a39167ad8dc0095f04a8eb40d5042c4d8c77ee50419692f1d0f",
       "revision": 2,
-      "importance": 80,
+      "importance": 70,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "脆弱性"
       ],
       "tags": [
@@ -1178,10 +1638,9 @@
       "summary": null,
       "contentHash": "f4ce733e22b26555def3155b620f2d17f4daa2ee445ce4ae4a8d5f02e384de46",
       "revision": 1,
-      "importance": 75,
+      "importance": 65,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "メンテナンス"
       ],
       "tags": [
@@ -1204,10 +1663,9 @@
       "summary": null,
       "contentHash": "3722d255445b0e425f11ec40aa85d7ce94259eaaa5d7c0196ac54edf9b5c65b5",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1227,10 +1685,9 @@
       "summary": null,
       "contentHash": "247e6224c5f87be761f88fa6e9f3152fdba92421888eb687fc4578c988870f99",
       "revision": 2,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1250,10 +1707,9 @@
       "summary": null,
       "contentHash": "da532444a67d953ca39977d680f79ed7bb61d46124d79b7e498fba00cebc382a",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1273,10 +1729,9 @@
       "summary": null,
       "contentHash": "89fe4997e58096e5a699330bd8a7df53c6fc6e88f9589b70dd79de618b370f17",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -10181,28 +10636,6 @@
         "イベント",
         "終了・廃止"
       ]
-    },
-    {
-      "id": "0f520cf3c5954e1493bc8e46",
-      "title": "企画競争：令和8年度プライバシー・バイ・デザインガイドラインの制定に関する検討会の運営及びデジタル社会推進標準ガイドライン群化に向けた関連業務を掲載しました",
-      "url": "https://www.digital.go.jp/procurement",
-      "sourceId": "digital-agency",
-      "sourceName": "デジタル庁",
-      "category": "work",
-      "publishedAt": "2026-09-18T06:00:00+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": "2026-09-18T08:14:12+00:00",
-      "sourceUpdatedAt": null,
-      "changeType": "updated",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "063e2f83e0cb55755cc758f870d9935c6e341600099eb8643b68bab52061f541",
-      "revision": 5,
-      "importance": 40,
-      "importanceReasons": [
-        "公式一次情報"
-      ],
-      "tags": []
     },
     {
       "id": "0dbf2f41412f579d61e40117",
@@ -20480,7 +20913,7 @@
       "sourceId": "ff14",
       "sourceName": "FFXIV Lodestone",
       "category": "game",
-      "publishedAt": "2026-09-22T04:00:00+00:00",
+      "publishedAt": "2026-09-29T04:00:00+00:00",
       "detectedAt": "2026-09-09T03:22:00+00:00",
       "updatedAt": "2026-09-09T03:26:17+00:00",
       "sourceUpdatedAt": null,
@@ -20489,9 +20922,10 @@
       "summary": null,
       "contentHash": "99f64d2ea3aacfb1d92f18a7198649c48dd68c1ad8e619a5c13e86720f95e4ac",
       "revision": 2,
-      "importance": 40,
+      "importance": 50,
       "importanceReasons": [
-        "公式一次情報"
+        "公式一次情報",
+        "24時間以内"
       ],
       "tags": []
     },
@@ -23738,28 +24172,6 @@
       "kind": "article",
       "summary": null,
       "contentHash": "6749b98ee27371f7f224fc2894032747a3f9dd04e4b31ac73c195d4d3d49bb25",
-      "revision": 1,
-      "importance": 40,
-      "importanceReasons": [
-        "公式一次情報"
-      ],
-      "tags": []
-    },
-    {
-      "id": "16669171aa7f61cbbfab9b80",
-      "title": "令和6年度ならびに令和7年度補正予算の主な事業の執行状況（一般会計）（令和7年度決算時点）を掲載しました",
-      "url": "https://www.digital.go.jp/budget",
-      "sourceId": "digital-agency",
-      "sourceName": "デジタル庁",
-      "category": "work",
-      "publishedAt": "2026-09-04T06:00:00+00:00",
-      "detectedAt": "2026-09-09T03:22:00+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "b2e61322a7fd454710db3a182c2d731311d80ebea627fc29462f236fd2250a83",
       "revision": 1,
       "importance": 40,
       "importanceReasons": [

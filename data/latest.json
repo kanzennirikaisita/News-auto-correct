@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-29T09:48:16+00:00",
+  "generatedAt": "2026-09-29T18:38:24+00:00",
   "collector": {
-    "lastRun": "2026-09-29T09:48:16+00:00",
+    "lastRun": "2026-09-29T18:38:24+00:00",
     "success": 13,
     "failed": 0
   },
@@ -14,7 +14,7 @@
       "url": "https://www.digital.go.jp/rss/news.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-29T09:48:16+00:00",
+      "lastSuccess": "2026-09-29T18:38:24+00:00",
       "count": 18
     },
     {
@@ -24,7 +24,7 @@
       "url": "https://www.jpcert.or.jp/rss/jpcert.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-29T09:48:16+00:00",
+      "lastSuccess": "2026-09-29T18:38:24+00:00",
       "count": 28
     },
     {
@@ -34,7 +34,7 @@
       "url": "https://jvn.jp/rss/jvn.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-29T09:48:16+00:00",
+      "lastSuccess": "2026-09-29T18:38:24+00:00",
       "count": 20
     },
     {
@@ -44,7 +44,7 @@
       "url": "https://blogs.jpcert.or.jp/ja/atom.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-29T09:48:16+00:00",
+      "lastSuccess": "2026-09-29T18:38:24+00:00",
       "count": 15
     },
     {
@@ -54,7 +54,7 @@
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-29T09:48:16+00:00",
+      "lastSuccess": "2026-09-29T18:38:24+00:00",
       "count": 200
     },
     {
@@ -64,7 +64,7 @@
       "url": "https://github.blog/changelog/feed/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-29T09:48:16+00:00",
+      "lastSuccess": "2026-09-29T18:38:24+00:00",
       "count": 10
     },
     {
@@ -74,7 +74,7 @@
       "url": "https://api.github.com/repos/langgenius/dify/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-29T09:48:16+00:00",
+      "lastSuccess": "2026-09-29T18:38:24+00:00",
       "count": 27
     },
     {
@@ -84,7 +84,7 @@
       "url": "https://api.github.com/repos/openai/codex/releases?per_page=10",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-29T09:48:16+00:00",
+      "lastSuccess": "2026-09-29T18:38:24+00:00",
       "count": 2
     },
     {
@@ -94,7 +94,7 @@
       "url": "https://api.github.com/repos/anthropics/claude-code/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-29T09:48:16+00:00",
+      "lastSuccess": "2026-09-29T18:38:24+00:00",
       "count": 30
     },
     {
@@ -104,7 +104,7 @@
       "url": "https://jp.finalfantasyxiv.com/lodestone/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-29T09:48:16+00:00",
+      "lastSuccess": "2026-09-29T18:38:24+00:00",
       "count": 30
     },
     {
@@ -114,7 +114,7 @@
       "url": "https://steamcommunity.com/games/1245620/rss/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-29T09:48:16+00:00",
+      "lastSuccess": "2026-09-29T18:38:24+00:00",
       "count": 10
     },
     {
@@ -124,7 +124,7 @@
       "url": "https://store.steampowered.com/feeds/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-29T09:48:16+00:00",
+      "lastSuccess": "2026-09-29T18:38:24+00:00",
       "count": 10
     },
     {
@@ -134,11 +134,403 @@
       "url": "https://www.apple.com/jp/newsroom/rss-feed.rss",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-29T09:48:16+00:00",
+      "lastSuccess": "2026-09-29T18:38:24+00:00",
       "count": 20
     }
   ],
   "items": [
+    {
+      "id": "dec620cb7225d2434a9b02e6",
+      "title": "Introducing dots",
+      "url": "https://openai.com/index/introducing-dots",
+      "sourceId": "openai",
+      "sourceName": "OpenAI",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-29T00:00:00+00:00",
+      "detectedAt": "2026-09-29T18:38:24+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "0c2d11399bef033756f3826eb2e12cd01f6a49fc0b438862fb272006c5b1aa21",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "d6b9f5e651b1891e950e0096",
+      "title": "Introducing GPT-6.1 Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "sourceId": "openai",
+      "sourceName": "OpenAI",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-29T10:00:00+00:00",
+      "detectedAt": "2026-09-29T18:38:24+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "f4a4bbb3e392c1f8b7d3b0e73cc1f081ee4e08ee58be1220396cd1d48be19553",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "d0ab9bafe782e283971aa19d",
+      "title": "The Big Break Showcase",
+      "url": "https://store.steampowered.com/news/group/46193397/view/680758587997293617",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-29T17:00:58+00:00",
+      "detectedAt": "2026-09-29T18:38:24+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "e9e6afbc49056d2cece20c502517f3399b304feecb7fc788a23e256fa86bd6a8",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "ab92632132f5e94c51e813e3",
+      "title": "How to upgrade to The Witcher 3 Remastered on Switch 2 from the Switch 1 physical version",
+      "url": "https://store.steampowered.com/news/group/6070552/view/712287592723253841",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-29T17:13:33+00:00",
+      "detectedAt": "2026-09-29T18:38:24+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "198fde4c3f2fb792209340cd5f6dd60ea44a9f3120b48b64c4dbe66a7677e3cf",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "a89a5b36d7057e4278df8627",
+      "title": "Photography puzzle game TOEM 2 is out now on PC and Console",
+      "url": "https://store.steampowered.com/news/group/25563497/view/679636495422720350",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-29T17:06:03+00:00",
+      "detectedAt": "2026-09-29T18:38:24+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "29b643e9adbfe2597acd3a9166f7c138dd9791bc5e8ee232b5293f1482bf503d",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "932a1e1e1f646c2b73fcff88",
+      "title": "The Witcher 3: Wild Hunt — Remastered peaks at 120k players",
+      "url": "https://store.steampowered.com/news/group/4777282/view/717917092255369427",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-29T13:14:35+00:00",
+      "detectedAt": "2026-09-29T18:38:24+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "beb2be0245cc5bb77396ba82e1a9f0b322a902110ce0e5f44a084b9c83a751da",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "7aedde0993d2a1d3cda6440f",
+      "title": "Dead by Daylight brings us our first Native American Survivor Shane Wiigwaas",
+      "url": "https://store.steampowered.com/news/group/25563497/view/679636495422720367",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-29T18:06:13+00:00",
+      "detectedAt": "2026-09-29T18:38:24+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "fbfe4bd4b9281893f304651c7fb0a4fded57989b5f5c3273ee28edc0bb62460e",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "7240f0e8ef96c179002fca80",
+      "title": "My GTA 5 install has a death wish but I have soothed it with flossing",
+      "url": "https://store.steampowered.com/news/group/1850/view/701028593652730529",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-29T17:03:20+00:00",
+      "detectedAt": "2026-09-29T18:38:24+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "613ac6fd7f519a5418c6958d08f8b3e460f6f466728ab11f0b9d6a9585e71f38",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "647343e106e83816acbfe8a0",
+      "title": "Apple、家族が健全なデジタル習慣を身につけるのに役立つ新しいガイドを公開",
+      "url": "https://www.apple.com/jp/newsroom/2026/09/apple-releases-new-guide-to-help-families-build-healthy-digital-habits/",
+      "sourceId": "apple",
+      "sourceName": "Apple Newsroom",
+      "category": "gadget",
+      "publishedAt": null,
+      "detectedAt": "2026-09-29T18:38:24+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-09-29T17:04:30+00:00",
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "bcb912ddaf26856452016141429e06d462898eced2716dad06db6e11f88d1876",
+      "revision": 1,
+      "importance": 40,
+      "importanceReasons": [
+        "公式一次情報"
+      ],
+      "tags": []
+    },
+    {
+      "id": "6071f63e21f6425413eb6372",
+      "title": "DevDay 2026 Recap",
+      "url": "https://openai.com/index/devday-2026-recap",
+      "sourceId": "openai",
+      "sourceName": "OpenAI",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-29T10:00:00+00:00",
+      "detectedAt": "2026-09-29T18:38:24+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "9548eff65d33ead513b358cc9bffe4cc6c8206daf7bbc4b3a13bb5f101861ac4",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "47f084e265420ef893a01683",
+      "title": "Apple Creator Studioに新たなアップデート",
+      "url": "https://www.apple.com/jp/newsroom/2026/09/new-updates-coming-to-apple-creator-studio/",
+      "sourceId": "apple",
+      "sourceName": "Apple Newsroom",
+      "category": "gadget",
+      "publishedAt": null,
+      "detectedAt": "2026-09-29T18:38:24+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-09-29T17:05:34+00:00",
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "adef51965cd218e4105307bfcf306e355fdc61ac29e7a4be8377db9c6ca2015b",
+      "revision": 1,
+      "importance": 55,
+      "importanceReasons": [
+        "公式一次情報",
+        "アップデート"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "41d195804a8e39c91d36b43f",
+      "title": "Why Control Resonant Developer Remedy Avoided Using Yellow Paint to Guide Players",
+      "url": "https://store.steampowered.com/news/group/9869/view/687517794773764735",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-29T17:41:04+00:00",
+      "detectedAt": "2026-09-29T18:38:24+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "e75eae42fa2d107e6f39dee695d345ef2d95385483c65e79c6255e4fedfde3d3",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "3972fa2dc53ea7f54e8bbf2c",
+      "title": "Final Cut CameraがiPhone 18 Proの可変絞りに対応",
+      "url": "https://www.apple.com/jp/newsroom/2026/09/final-cut-camera-now-supports-variable-aperture-on-iphone-18-pro/",
+      "sourceId": "apple",
+      "sourceName": "Apple Newsroom",
+      "category": "gadget",
+      "publishedAt": null,
+      "detectedAt": "2026-09-29T18:38:24+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-09-29T17:07:50+00:00",
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "724c74cc6b260bc8031cf33346d0bef25efb63f6b7506bfad88427aaf2fe7fda",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "iPhone"
+      ],
+      "tags": []
+    },
+    {
+      "id": "2ea98f8a3bbe3f4940585cbe",
+      "title": "World of Warcraft: Forever Preview – Coming Full Circle",
+      "url": "https://store.steampowered.com/news/group/7433348/view/699902693745887645",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-29T18:16:31+00:00",
+      "detectedAt": "2026-09-29T18:38:24+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "046dfea02cab0b6c630355423ad1b82d15decd2b0c446bfc9724bd3a6f547341",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "27fa41ed5cc26a14950e98a4",
+      "title": "GPT-6.1 Sol in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-09-29-gpt-6-1-sol-in-github-copilot",
+      "sourceId": "github",
+      "sourceName": "GitHub Changelog",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-29T17:02:27+00:00",
+      "detectedAt": "2026-09-29T18:38:24+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "eeba6616016bf7aa4d4e2d4dea8546ea49b79035f922a4301b371c063bf5433a",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "25b70aba5e8ea0e1ea622d75",
+      "title": "Get ready for The Witcher 3 Songs of the Past with a breakdown of everything you need to know about the new expansion",
+      "url": "https://store.steampowered.com/news/group/38509069/view/678510595516926747",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-29T17:06:26+00:00",
+      "detectedAt": "2026-09-29T18:38:24+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "2373d3cf1b002ac70c92468618823ecf4f50b3bf80983436b78843a5883b7edc",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "0bfbe46f4a8ac285bcdee622",
+      "title": "The Witcher 3: Wild Hunt - Remastered is now available for PS5, Xbox Series, Switch 2, and PC platforms",
+      "url": "https://store.steampowered.com/news/group/6070552/view/712287592723253839",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-29T17:13:33+00:00",
+      "detectedAt": "2026-09-29T18:38:24+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "1372c72e0fad8efc5789149a08b2c569f6381040ea0d41a40a8ddda694574743",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
     {
       "id": "ee81224e56778d52ee563a85",
       "title": "How to get the Feline armor in The Witcher 3",
@@ -1055,10 +1447,9 @@
       "summary": null,
       "contentHash": "ce19f49c91eaee804e550d183cc7710ea1bb03658b2c4ce304f13e484b5896c9",
       "revision": 1,
-      "importance": 65,
+      "importance": 55,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "バージョン公開"
       ],
       "tags": [
@@ -1153,10 +1544,9 @@
       "summary": null,
       "contentHash": "258928fd96bf25061084f2da0a81e55522ee1010eabd5974247f47d6c9f86184",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1176,10 +1566,9 @@
       "summary": null,
       "contentHash": "dfbb982190686147e6c0808015307a1d7836f108b305129ba0b4d02823c1b985",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1245,10 +1634,9 @@
       "summary": null,
       "contentHash": "8756ce2f2cae5a780cabc52b6b843bdfb4333d064a8ec180613b70f8cdf0d178",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1290,10 +1678,9 @@
       "summary": null,
       "contentHash": "488e9e8387c08775e3ce4044624c2dd064e82828e1ea5ad003e9d074a7e198fc",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-30T09:41:08+00:00",
+  "generatedAt": "2026-09-30T18:26:24+00:00",
   "collector": {
-    "lastRun": "2026-09-30T09:41:08+00:00",
+    "lastRun": "2026-09-30T18:26:24+00:00",
     "success": 13,
     "failed": 0
   },
@@ -14,7 +14,7 @@
       "url": "https://www.digital.go.jp/rss/news.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-30T09:41:08+00:00",
+      "lastSuccess": "2026-09-30T18:26:24+00:00",
       "count": 31
     },
     {
@@ -24,7 +24,7 @@
       "url": "https://www.jpcert.or.jp/rss/jpcert.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-30T09:41:08+00:00",
+      "lastSuccess": "2026-09-30T18:26:24+00:00",
       "count": 36
     },
     {
@@ -34,7 +34,7 @@
       "url": "https://jvn.jp/rss/jvn.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-30T09:41:08+00:00",
+      "lastSuccess": "2026-09-30T18:26:24+00:00",
       "count": 20
     },
     {
@@ -44,7 +44,7 @@
       "url": "https://blogs.jpcert.or.jp/ja/atom.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-30T09:41:08+00:00",
+      "lastSuccess": "2026-09-30T18:26:24+00:00",
       "count": 15
     },
     {
@@ -54,7 +54,7 @@
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-30T09:41:08+00:00",
+      "lastSuccess": "2026-09-30T18:26:24+00:00",
       "count": 200
     },
     {
@@ -64,7 +64,7 @@
       "url": "https://github.blog/changelog/feed/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-30T09:41:08+00:00",
+      "lastSuccess": "2026-09-30T18:26:24+00:00",
       "count": 10
     },
     {
@@ -74,7 +74,7 @@
       "url": "https://api.github.com/repos/langgenius/dify/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-30T09:41:08+00:00",
+      "lastSuccess": "2026-09-30T18:26:24+00:00",
       "count": 27
     },
     {
@@ -84,7 +84,7 @@
       "url": "https://api.github.com/repos/openai/codex/releases?per_page=10",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-30T09:41:08+00:00",
+      "lastSuccess": "2026-09-30T18:26:24+00:00",
       "count": 4
     },
     {
@@ -94,7 +94,7 @@
       "url": "https://api.github.com/repos/anthropics/claude-code/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-30T09:41:08+00:00",
+      "lastSuccess": "2026-09-30T18:26:24+00:00",
       "count": 30
     },
     {
@@ -104,7 +104,7 @@
       "url": "https://jp.finalfantasyxiv.com/lodestone/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-30T09:41:08+00:00",
+      "lastSuccess": "2026-09-30T18:26:24+00:00",
       "count": 29
     },
     {
@@ -114,7 +114,7 @@
       "url": "https://steamcommunity.com/games/1245620/rss/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-30T09:41:08+00:00",
+      "lastSuccess": "2026-09-30T18:26:24+00:00",
       "count": 10
     },
     {
@@ -124,7 +124,7 @@
       "url": "https://store.steampowered.com/feeds/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-30T09:41:08+00:00",
+      "lastSuccess": "2026-09-30T18:26:24+00:00",
       "count": 10
     },
     {
@@ -134,11 +134,362 @@
       "url": "https://www.apple.com/jp/newsroom/rss-feed.rss",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-30T09:41:08+00:00",
+      "lastSuccess": "2026-09-30T18:26:24+00:00",
       "count": 20
     }
   ],
   "items": [
+    {
+      "id": "eb0f33b3b7a8ffe01f85fde7",
+      "title": "Kingdom Come: Deliverance II Live in Kuttenberg full concert movie now available on YouTube",
+      "url": "https://store.steampowered.com/news/group/6070552/view/670629928317747290",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-30T16:56:54+00:00",
+      "detectedAt": "2026-09-30T18:26:24+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "827db74933645b792813bf61444cbc0e56f8aa0599af5931bdc1ef498ae3c139",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "e7b13a2c327d73f877078046",
+      "title": "Moss: The Forgotten Relic combines platforming with an adorable protagonist",
+      "url": "https://store.steampowered.com/news/group/25563497/view/679637128142913664",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-30T18:09:58+00:00",
+      "detectedAt": "2026-09-30T18:26:24+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "7edc00e64e584d6749bc27503f855e661ed0392c74ba241d0515dbf2f5c4e5bb",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "cad13c49eff0df4a6694b1ab",
+      "title": "HydraFusion in VS Code and the GitHub Copilot app",
+      "url": "https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app",
+      "sourceId": "github",
+      "sourceName": "GitHub Changelog",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-30T14:31:19+00:00",
+      "detectedAt": "2026-09-30T18:26:24+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "5610c6268e40a85600976e40f0bc3a430e7f6f209b2e3a255db73e373885bed5",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "9e6df852d1dc6d61a324bb1b",
+      "title": "Gameplay Developer Launch Update",
+      "url": "https://store.steampowered.com/news/app/4080220/view/684140727200907357",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-30T18:01:45+00:00",
+      "detectedAt": "2026-09-30T18:26:24+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "823c2f33f6d39e071689753c6ea7a161cd7fbf5b90e6d95a6c8a26457fba776d",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "update"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "9a54542db9e6e4965d783d43",
+      "title": "Board games have officially gone mainstream - Codenames is now on Netflix",
+      "url": "https://store.steampowered.com/news/group/718735/view/681888927386173567",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-30T17:16:52+00:00",
+      "detectedAt": "2026-09-30T18:26:24+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "26c2968652b060227ac239f1d6efdd50010f952c4c9378712a6f067697f2458f",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "90249c2a3882c6d31b88e7ce",
+      "title": "Disrupting a coordinated model-distillation campaign",
+      "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+      "sourceId": "openai",
+      "sourceName": "OpenAI",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-30T10:30:00+00:00",
+      "detectedAt": "2026-09-30T18:26:24+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "6cfc9bf51ce3cf79e50463b52ad91ca682b915996beca5f6a8b13cfd24e65d16",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "8df9f805894c02872a8d5b39",
+      "title": "I have saved GTA 5 from death and also added tornadoes",
+      "url": "https://store.steampowered.com/news/group/1850/view/699903325897752722",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-30T17:08:39+00:00",
+      "detectedAt": "2026-09-30T18:26:24+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "249daadaaacf169ba72ffacdb3414fe9dd9fbfad44e79b2a044f04373379248b",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "83c42770fe17223cd9044dc5",
+      "title": "GitHub Advanced Security trials for GitHub Team",
+      "url": "https://github.blog/changelog/2026-09-30-github-advanced-security-trials-for-github-team",
+      "sourceId": "github",
+      "sourceName": "GitHub Changelog",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-30T16:48:24+00:00",
+      "detectedAt": "2026-09-30T18:26:24+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "09f9d2c1fea773c1291900734ebf980c06315e171e558defd6212c3ae2b9f971",
+      "revision": 1,
+      "importance": 70,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "security"
+      ],
+      "tags": [
+        "セキュリティ"
+      ]
+    },
+    {
+      "id": "7ecb75d17d50c9e8eb8978a3",
+      "title": "X25519-only TLS ends for GHE.com on October 7",
+      "url": "https://github.blog/changelog/2026-09-30-x25519-only-tls-ends-for-ghe-com-on-september-15",
+      "sourceId": "github",
+      "sourceName": "GitHub Changelog",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-30T13:30:24+00:00",
+      "detectedAt": "2026-09-30T18:26:24+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "eacc388f43a7cee1145dc35306cec15894d8166ca0ecc72566aad82336b5f3b3",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "5904283de7e5ca6d33bf248c",
+      "title": "'We Have Been Gradually Preparing': Capcom Already Has a Plan for When Its Resident Evil Remakes Catch Up With Newer Games",
+      "url": "https://store.steampowered.com/news/group/9869/view/711162324968276114",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-30T17:37:16+00:00",
+      "detectedAt": "2026-09-30T18:26:24+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "d84a307b83b091b1f37fb387f20acba7d5c19aa5392e8b5408fca74123b6e2c8",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "49e0edf4e79981d0754c6f48",
+      "title": "Star Wars Jedi 3 Plans Leaked",
+      "url": "https://store.steampowered.com/news/group/1450625/view/699903325897752720",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-30T17:07:23+00:00",
+      "detectedAt": "2026-09-30T18:26:24+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "acfb1fe376f45f47560a05c2172675f146f90a0e4514394f0ce66b4596a36094",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "2aba2c2af6edbd98619fb27f",
+      "title": "Suda 51’s Grasshopper Manufacture Splits From NetEase Games",
+      "url": "https://store.steampowered.com/news/group/32177162/view/696525626177224789",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-30T17:18:03+00:00",
+      "detectedAt": "2026-09-30T18:26:24+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "4c1a644ca27e655d356ff06e3dc6492f1005877058ad1a9f28f3c38de9be7600",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "26520590d695db735be700bc",
+      "title": "Warhammer 40,000: Dark Heresy reveals new companion character Aspyce Chorda",
+      "url": "https://store.steampowered.com/news/group/6070552/view/670629928317747292",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-30T16:56:55+00:00",
+      "detectedAt": "2026-09-30T18:26:24+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "a84dc0140067fd7ca3300d87844ed1a651c1dc94910e4e392a8f463281c6b38f",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "061338e668ed697490e5190c",
+      "title": "Helping small businesses put AI to work",
+      "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+      "sourceId": "openai",
+      "sourceName": "OpenAI",
+      "category": "ai-dev",
+      "publishedAt": "2026-09-30T10:00:00+00:00",
+      "detectedAt": "2026-09-30T18:26:24+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "d80a98930cf6b0609548b8853f57eb71db3423d7cd29a3ec1946b8346746def9",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "038bd5c1fe2ae8ca8fdfd7aa",
+      "title": "Apex Legends: Matchmaking Test Results - 09/30/2026",
+      "url": "https://store.steampowered.com/news/app/1172470/view/703281025618280449",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-30T17:11:17+00:00",
+      "detectedAt": "2026-09-30T18:26:24+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "9ed0bc60b206905566f25d8432b630672b83e8e0e5d50ea27945bfee02297e4c",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
     {
       "id": "fb95b5be32e7ca3cbd3ada67",
       "title": "地方公共団体の基幹業務システムの統一・標準化に関するデータ要件・連携要件の各種仕様書を更新しました",
@@ -491,7 +842,7 @@
       "sourceId": "digital-agency",
       "sourceName": "デジタル庁",
       "category": "work",
-      "publishedAt": "2026-09-30T09:19:45+00:00",
+      "publishedAt": "2026-09-30T11:05:14+00:00",
       "detectedAt": "2026-09-30T09:41:08+00:00",
       "updatedAt": null,
       "sourceUpdatedAt": null,
@@ -1161,10 +1512,9 @@
       "summary": null,
       "contentHash": "f4a4bbb3e392c1f8b7d3b0e73cc1f081ee4e08ee58be1220396cd1d48be19553",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1184,10 +1534,9 @@
       "summary": null,
       "contentHash": "e9e6afbc49056d2cece20c502517f3399b304feecb7fc788a23e256fa86bd6a8",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1207,10 +1556,9 @@
       "summary": null,
       "contentHash": "198fde4c3f2fb792209340cd5f6dd60ea44a9f3120b48b64c4dbe66a7677e3cf",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1230,10 +1578,9 @@
       "summary": null,
       "contentHash": "29b643e9adbfe2597acd3a9166f7c138dd9791bc5e8ee232b5293f1482bf503d",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1253,10 +1600,9 @@
       "summary": null,
       "contentHash": "beb2be0245cc5bb77396ba82e1a9f0b322a902110ce0e5f44a084b9c83a751da",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1276,10 +1622,9 @@
       "summary": null,
       "contentHash": "fbfe4bd4b9281893f304651c7fb0a4fded57989b5f5c3273ee28edc0bb62460e",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1299,10 +1644,9 @@
       "summary": null,
       "contentHash": "613ac6fd7f519a5418c6958d08f8b3e460f6f466728ab11f0b9d6a9585e71f38",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1344,10 +1688,9 @@
       "summary": null,
       "contentHash": "9548eff65d33ead513b358cc9bffe4cc6c8206daf7bbc4b3a13bb5f101861ac4",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1392,10 +1735,9 @@
       "summary": null,
       "contentHash": "e75eae42fa2d107e6f39dee695d345ef2d95385483c65e79c6255e4fedfde3d3",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1438,10 +1780,9 @@
       "summary": null,
       "contentHash": "046dfea02cab0b6c630355423ad1b82d15decd2b0c446bfc9724bd3a6f547341",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1461,10 +1802,9 @@
       "summary": null,
       "contentHash": "eeba6616016bf7aa4d4e2d4dea8546ea49b79035f922a4301b371c063bf5433a",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1484,10 +1824,9 @@
       "summary": null,
       "contentHash": "2373d3cf1b002ac70c92468618823ecf4f50b3bf80983436b78843a5883b7edc",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1507,10 +1846,9 @@
       "summary": null,
       "contentHash": "1372c72e0fad8efc5789149a08b2c569f6381040ea0d41a40a8ddda694574743",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },

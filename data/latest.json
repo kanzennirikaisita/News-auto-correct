@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-30T01:17:30+00:00",
+  "generatedAt": "2026-09-30T09:41:08+00:00",
   "collector": {
-    "lastRun": "2026-09-30T01:17:30+00:00",
+    "lastRun": "2026-09-30T09:41:08+00:00",
     "success": 13,
     "failed": 0
   },
@@ -14,8 +14,8 @@
       "url": "https://www.digital.go.jp/rss/news.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-30T01:17:30+00:00",
-      "count": 18
+      "lastSuccess": "2026-09-30T09:41:08+00:00",
+      "count": 31
     },
     {
       "id": "jpcert",
@@ -24,8 +24,8 @@
       "url": "https://www.jpcert.or.jp/rss/jpcert.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-30T01:17:30+00:00",
-      "count": 28
+      "lastSuccess": "2026-09-30T09:41:08+00:00",
+      "count": 36
     },
     {
       "id": "jvn",
@@ -34,7 +34,7 @@
       "url": "https://jvn.jp/rss/jvn.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-30T01:17:30+00:00",
+      "lastSuccess": "2026-09-30T09:41:08+00:00",
       "count": 20
     },
     {
@@ -44,7 +44,7 @@
       "url": "https://blogs.jpcert.or.jp/ja/atom.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-30T01:17:30+00:00",
+      "lastSuccess": "2026-09-30T09:41:08+00:00",
       "count": 15
     },
     {
@@ -54,7 +54,7 @@
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-30T01:17:30+00:00",
+      "lastSuccess": "2026-09-30T09:41:08+00:00",
       "count": 200
     },
     {
@@ -64,7 +64,7 @@
       "url": "https://github.blog/changelog/feed/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-30T01:17:30+00:00",
+      "lastSuccess": "2026-09-30T09:41:08+00:00",
       "count": 10
     },
     {
@@ -74,7 +74,7 @@
       "url": "https://api.github.com/repos/langgenius/dify/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-30T01:17:30+00:00",
+      "lastSuccess": "2026-09-30T09:41:08+00:00",
       "count": 27
     },
     {
@@ -84,7 +84,7 @@
       "url": "https://api.github.com/repos/openai/codex/releases?per_page=10",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-30T01:17:30+00:00",
+      "lastSuccess": "2026-09-30T09:41:08+00:00",
       "count": 4
     },
     {
@@ -94,7 +94,7 @@
       "url": "https://api.github.com/repos/anthropics/claude-code/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-30T01:17:30+00:00",
+      "lastSuccess": "2026-09-30T09:41:08+00:00",
       "count": 30
     },
     {
@@ -104,8 +104,8 @@
       "url": "https://jp.finalfantasyxiv.com/lodestone/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-30T01:17:30+00:00",
-      "count": 30
+      "lastSuccess": "2026-09-30T09:41:08+00:00",
+      "count": 29
     },
     {
       "id": "elden-ring",
@@ -114,7 +114,7 @@
       "url": "https://steamcommunity.com/games/1245620/rss/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-30T01:17:30+00:00",
+      "lastSuccess": "2026-09-30T09:41:08+00:00",
       "count": 10
     },
     {
@@ -124,7 +124,7 @@
       "url": "https://store.steampowered.com/feeds/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-30T01:17:30+00:00",
+      "lastSuccess": "2026-09-30T09:41:08+00:00",
       "count": 10
     },
     {
@@ -134,11 +134,610 @@
       "url": "https://www.apple.com/jp/newsroom/rss-feed.rss",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-09-30T01:17:30+00:00",
+      "lastSuccess": "2026-09-30T09:41:08+00:00",
       "count": 20
     }
   ],
   "items": [
+    {
+      "id": "fb95b5be32e7ca3cbd3ada67",
+      "title": "地方公共団体の基幹業務システムの統一・標準化に関するデータ要件・連携要件の各種仕様書を更新しました",
+      "url": "https://www.digital.go.jp/policies/local_governments/specification",
+      "sourceId": "digital-agency",
+      "sourceName": "デジタル庁",
+      "category": "work",
+      "publishedAt": "2026-09-30T06:00:00+00:00",
+      "detectedAt": "2026-09-30T09:41:08+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "e592d155e70ac8a316fff08213eabf5b7ee84de343b9f75584fdf62cb952b3fb",
+      "revision": 1,
+      "importance": 70,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "標準化"
+      ],
+      "tags": []
+    },
+    {
+      "id": "f48daf4012150583ad6aebe6",
+      "title": "Halo’s former creative director urges Activision to hire laid off Bungie, Halo Studios devs",
+      "url": "https://store.steampowered.com/news/group/42342144/view/670629928317747232",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-30T09:07:08+00:00",
+      "detectedAt": "2026-09-30T09:41:08+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "36128bf672daf564702207307f50c32b3ee2eaaf5f28c45db5f0e8000b2810e4",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "e1172177fc1c24d426e829cc",
+      "title": "GビズIDの利用状況に関するダッシュボードを更新しました",
+      "url": "https://www.digital.go.jp/resources/govdashboard/gbiz-id",
+      "sourceId": "digital-agency",
+      "sourceName": "デジタル庁",
+      "category": "work",
+      "publishedAt": "2026-09-30T06:00:00+00:00",
+      "detectedAt": "2026-09-30T09:41:08+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "e0c8e8e4e9b24c9a1ac8575e6c84e8b8ec9f9495bba8f6c43865632c55075fc4",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "d910a80621dcb8eaf5176457",
+      "title": "「ファンフェスティバル 2026 in 東京」コスプレ更衣室、クローク情報公開",
+      "url": "https://jp.finalfantasyxiv.com/lodestone/topics/detail/e1d953ff889d1418dc8cb40b415b5f7cfe8900ed",
+      "sourceId": "ff14",
+      "sourceName": "FFXIV Lodestone",
+      "category": "game",
+      "publishedAt": null,
+      "detectedAt": "2026-09-30T09:41:08+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "0836e7d1de2d88f870e79333ed85db14dbfcf627c30f1105d9b764fde1f58585",
+      "revision": 1,
+      "importance": 40,
+      "importanceReasons": [
+        "公式一次情報"
+      ],
+      "tags": []
+    },
+    {
+      "id": "ccae854851aa0924b84eadaa",
+      "title": "40 New User-Created Camouflages in the Sky Odyssey Trophy!",
+      "url": "https://store.steampowered.com/news/app/236390/view/679636495422720218",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-30T09:19:35+00:00",
+      "detectedAt": "2026-09-30T09:41:08+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "5e4974cf4e4626ae0b3bc2af95d01ce06cb80c4ad4b2717a98f57e9c41586d28",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "cc5c0ca1e2e9f461cb54488c",
+      "title": "自治体が実施する健康・医療・介護分野の事業のデジタル化（PMH）ー医療費助成に関するダッシュボードを公開しました",
+      "url": "https://www.digital.go.jp/resources/govdashboard/pmh-medical-expense-subsidies",
+      "sourceId": "digital-agency",
+      "sourceName": "デジタル庁",
+      "category": "work",
+      "publishedAt": "2026-09-30T06:00:00+00:00",
+      "detectedAt": "2026-09-30T09:41:08+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "398b49a286dae3b887a6c0fa22b03164c4b7ee1adb7d407ba2157b4d074b95e3",
+      "revision": 1,
+      "importance": 60,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "自治体"
+      ],
+      "tags": []
+    },
+    {
+      "id": "be7f6a9448269a5eb5848fa1",
+      "title": "令和8年9月30日付デジタル庁幹部一覧を掲載しました",
+      "url": "https://www.digital.go.jp/about/member",
+      "sourceId": "digital-agency",
+      "sourceName": "デジタル庁",
+      "category": "work",
+      "publishedAt": "2026-09-30T06:00:00+00:00",
+      "detectedAt": "2026-09-17T14:17:28+00:00",
+      "updatedAt": "2026-09-30T09:41:08+00:00",
+      "sourceUpdatedAt": null,
+      "changeType": "updated",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "a4f596bcc10e57c65733043f512d5dcc76934c5f39ec858890273ab1952b90cb",
+      "revision": 3,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "a74e582f73aca8d373f264b2",
+      "title": "Weekly Report: ServiceNow AI Platformに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr260930.html",
+      "sourceId": "jpcert",
+      "sourceName": "JPCERT/CC",
+      "category": "work",
+      "publishedAt": "2026-09-30T00:07:00+00:00",
+      "detectedAt": "2026-09-30T09:41:08+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "719d98f5f5fa16cc950d712719f0b80d43a830f94c7902fd99c60c6aaeb1bc4d",
+      "revision": 1,
+      "importance": 80,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "脆弱性"
+      ],
+      "tags": [
+        "セキュリティ"
+      ]
+    },
+    {
+      "id": "96868a8126a39dfb1c22e496",
+      "title": "WARDOGS | Update 0.1.2 (Minor Patch)",
+      "url": "https://store.steampowered.com/news/app/1867240/view/712287592723252267",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-30T06:57:06+00:00",
+      "detectedAt": "2026-09-30T09:41:08+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "5e6ad575d37602c1e3e7828f9da60764d10457772732ef3a85c69cc6b9afc275",
+      "revision": 1,
+      "importance": 80,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "patch",
+        "update"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "7ea0fd32849fa708e9cd9236",
+      "title": "Here comes the algorithm - Valve updating Steam to show different games for discounts and events",
+      "url": "https://store.steampowered.com/news/group/4218320/view/703281025618280488",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-30T09:07:04+00:00",
+      "detectedAt": "2026-09-30T09:41:08+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "662b714fd1ea0a581c41b4f83311bdb685b3f268b5765d773fcbdaf0be8eec46",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": [
+        "イベント"
+      ]
+    },
+    {
+      "id": "744b5941b99f60e12159e3aa",
+      "title": "「Fall Guys」コラボイベント 10月7日（水）より再演！",
+      "url": "https://jp.finalfantasyxiv.com/lodestone/topics/detail/cd121984d390aad591c7a2050372b31c39962673",
+      "sourceId": "ff14",
+      "sourceName": "FFXIV Lodestone",
+      "category": "game",
+      "publishedAt": null,
+      "detectedAt": "2026-09-30T09:41:08+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "6d2039a815089eeb17c2fb31fed7b5c365d83b3f2c1599bcfde5dc8740d0cf3f",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "イベント"
+      ],
+      "tags": [
+        "イベント"
+      ]
+    },
+    {
+      "id": "737c582b5816c65462899f1f",
+      "title": "熊本地震の被災自治体等へ、ガバメントAI 源内を緊急提供します（終了）",
+      "url": "https://www.digital.go.jp/news/cb912b3b-49c9-4a02-aa46-4056b96c1d4f",
+      "sourceId": "digital-agency",
+      "sourceName": "デジタル庁",
+      "category": "work",
+      "publishedAt": "2026-09-30T09:18:34+00:00",
+      "detectedAt": "2026-09-16T08:34:26+00:00",
+      "updatedAt": "2026-09-30T09:41:08+00:00",
+      "sourceUpdatedAt": null,
+      "changeType": "updated",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "7c82fe9a1c38789fdc3b2b5f59ea0989c9044fdcd649e97fb809642e781c798c",
+      "revision": 2,
+      "importance": 100,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "緊急",
+        "終了",
+        "自治体"
+      ],
+      "tags": [
+        "終了・廃止"
+      ]
+    },
+    {
+      "id": "61707656e7c6621e607bc336",
+      "title": "富士フイルムビジネスイノベーション製およびシャープ製複合機（MFP）におけるパストラバーサルの脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU90160989/",
+      "sourceId": "jvn",
+      "sourceName": "JVN",
+      "category": "work",
+      "publishedAt": "2026-09-30T03:30:00+00:00",
+      "detectedAt": "2026-09-30T09:41:08+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-09-30T03:30:00+00:00",
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "baa396ee63bda7255d2f1dc71c92b0c7bdaacfa27ddb9802cf41c5715773423e",
+      "revision": 1,
+      "importance": 80,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "脆弱性"
+      ],
+      "tags": [
+        "セキュリティ"
+      ]
+    },
+    {
+      "id": "50eab26d63eb1fe49088b034",
+      "title": "Huge Deadlock Update Propels Valve's MOBA Hero Shooter to the Top of the Steam Charts, Smashes Peak Concurrent Player Record",
+      "url": "https://store.steampowered.com/news/group/9869/view/711162324968276042",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-30T09:36:54+00:00",
+      "detectedAt": "2026-09-30T09:41:08+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "47b550311999829d4e751980d1f141ff62bf966fe9aa87e5858f1143a5507f3e",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "update"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "4fa068722c95b2311e67dae1",
+      "title": "令和8年熊本地震に関する対応状況について（9月30日）",
+      "url": "https://www.digital.go.jp/news/8ee2e00d-6a81-452a-9191-7796fba0ae77",
+      "sourceId": "digital-agency",
+      "sourceName": "デジタル庁",
+      "category": "work",
+      "publishedAt": "2026-09-30T09:19:45+00:00",
+      "detectedAt": "2026-09-30T09:41:08+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "27b3eedbbd0156543a6411ea78b6d2bafa8aad406b5baf3036f996e86eadcef1",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "4c2ec0390d5f331c00ac3872",
+      "title": "About Error Code: ST-3100001",
+      "url": "https://store.steampowered.com/news/app/2288340/view/695399726270382123",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-30T09:31:17+00:00",
+      "detectedAt": "2026-09-30T09:41:08+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "6e74d822a40d2660feeb155cf022e352a946a4a5c6a1bbd2a9204d199a20c41e",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "49f74a0f831c37df94ec5d49",
+      "title": "Star Trek: Picard Officially Returns In Gorgeous 60th Anniversary Trailer",
+      "url": "https://store.steampowered.com/news/group/38666666/view/708910525152493604",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-30T06:06:40+00:00",
+      "detectedAt": "2026-09-30T09:41:08+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "1c9481c6c4859bdaa1269c08193418e51a00f72e5e34c71b16f5642a51039879",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "42d93c20595598ef90ae1a83",
+      "title": "The Big Break Showcase was stacked with reveals from Coffee Stain and others",
+      "url": "https://store.steampowered.com/news/group/4218320/view/703281025618280484",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-30T08:47:02+00:00",
+      "detectedAt": "2026-09-30T09:41:08+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "685e119420d0d18683fe081e6de43b05eedc7aca790c731f5f2cb6c7cda8b591",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "3f712d094578f9f7827ef66f",
+      "title": "共通機能の標準仕様に係る仕様書最新版のリンク集を更新しました",
+      "url": "https://www.digital.go.jp/policies/local_governments/common-feature-specification",
+      "sourceId": "digital-agency",
+      "sourceName": "デジタル庁",
+      "category": "work",
+      "publishedAt": "2026-09-30T06:00:00+00:00",
+      "detectedAt": "2026-09-30T09:41:08+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "56a637dd0b22ad5a5faad9b99da93ebb3a2308da9df89a8142f3b4049ead0c2b",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "350eabbfab06cd69061bd768",
+      "title": "地方公共団体におけるアナログ規制の見直しの取組紹介「和歌山県における衛星データとAIの活用事例」を掲載しました",
+      "url": "https://www.digital.go.jp/policies/digital-extraordinary-administrative-research-committee/local-government",
+      "sourceId": "digital-agency",
+      "sourceName": "デジタル庁",
+      "category": "work",
+      "publishedAt": "2026-09-30T06:00:00+00:00",
+      "detectedAt": "2026-09-30T09:41:08+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "0b4a340211e9259bb4a76bc618efd8f2edaf78eddffcddcfebdb069f297cd5dd",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "2912dd03d787118ccf46f389",
+      "title": "Classic strategy game DEFCON from Introversion Software gets a free 20th Anniversary Edition upgrade",
+      "url": "https://store.steampowered.com/news/group/4218320/view/703281025618280486",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-30T08:57:03+00:00",
+      "detectedAt": "2026-09-30T09:41:08+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "96944728a72457263531ce34975a7b7a0c171e1c88129047618d7f73c1f99d0d",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "253cec32f1aeab15fd1c7ee0",
+      "title": "地方公共団体の基幹業務システムの統一・標準化に係る標準仕様書等の管理方針の資料を更新しました",
+      "url": "https://www.digital.go.jp/policies/local_governments",
+      "sourceId": "digital-agency",
+      "sourceName": "デジタル庁",
+      "category": "work",
+      "publishedAt": "2026-09-30T06:00:00+00:00",
+      "detectedAt": "2026-09-30T09:41:08+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "18e769f13d8e65c5a7d4f53d83d443cc33548288f387fe20e57359e5077ed76e",
+      "revision": 1,
+      "importance": 70,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "標準化"
+      ],
+      "tags": []
+    },
+    {
+      "id": "1533d65df2ae2f3ea5a3b3f1",
+      "title": "電子カルテの導入状況に関するダッシュボードを公開しました",
+      "url": "https://www.digital.go.jp/resources/govdashboard/electronic-medical-record",
+      "sourceId": "digital-agency",
+      "sourceName": "デジタル庁",
+      "category": "work",
+      "publishedAt": "2026-09-30T06:00:00+00:00",
+      "detectedAt": "2026-09-30T09:41:08+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "1212cae00312bb249e97b324386777e7fd14fb3e9f46a650e339a4df137dcf1a",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "130e6789ef7c420d08184a28",
+      "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (09/21~09/27)",
+      "url": "https://store.steampowered.com/news/app/578080/view/708910525152493606",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-09-30T07:01:00+00:00",
+      "detectedAt": "2026-09-30T09:41:08+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "aff4ee053f12c06c176a0736a5ea79f9f5747f3e5976d4298ccbcd23741b66ee",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "0eb4706883d674d85e360327",
+      "title": "古川大臣記者会見（令和8年9月29日）要旨を掲載しました",
+      "url": "https://www.digital.go.jp/speech/minister-260929-01",
+      "sourceId": "digital-agency",
+      "sourceName": "デジタル庁",
+      "category": "work",
+      "publishedAt": "2026-09-30T07:33:49+00:00",
+      "detectedAt": "2026-09-29T09:48:16+00:00",
+      "updatedAt": "2026-09-30T09:41:08+00:00",
+      "sourceUpdatedAt": null,
+      "changeType": "updated",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "3c8c0854c6302cfee645efcb5ddd6f9ab3f749e862f003fc69094f64149ec9a3",
+      "revision": 2,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
     {
       "id": "ff1ca072bf39e4719a02d6be",
       "title": "Claude Code v2.1.285",
@@ -931,10 +1530,9 @@
       "summary": null,
       "contentHash": "f804168ae45d279c84add63e80ada4ea15df5b8b4689c569a344419d50c6019b",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -954,10 +1552,9 @@
       "summary": null,
       "contentHash": "6c9beff2b87f9dfec96894187fa507f5d58f89d4558aea3e9c8bf9e496c50a5d",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -977,10 +1574,9 @@
       "summary": null,
       "contentHash": "f9fcb5387e6a5f78568bffe0f3fc0f0caacbf5e322838e9beeca78e751e006e2",
       "revision": 1,
-      "importance": 80,
+      "importance": 70,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "脆弱性"
       ],
       "tags": [
@@ -1003,10 +1599,9 @@
       "summary": null,
       "contentHash": "8d442651bca6d70ea75e4b4078c45178b588f1cbdd4d73eda59ba77fea0f5aeb",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1026,10 +1621,9 @@
       "summary": null,
       "contentHash": "a81266f8f67b4aa00865d0a8c2b78614cb302c405b0a1c03d494a942f0bd223c",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1049,10 +1643,9 @@
       "summary": null,
       "contentHash": "32c9d6c4d6266f7d0b47d73c295eea8ca7d22abd7d4ea1f9e3d23f8bb521f2d5",
       "revision": 1,
-      "importance": 75,
+      "importance": 65,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "バージョン公開",
         "codex"
       ],
@@ -1076,10 +1669,9 @@
       "summary": null,
       "contentHash": "086917f4287d06da4d890ba9eef1b69dd457327a1ffb006098b8ac6810f604ad",
       "revision": 1,
-      "importance": 65,
+      "importance": 55,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "release"
       ],
       "tags": [
@@ -1102,10 +1694,9 @@
       "summary": null,
       "contentHash": "ed3768b9b24b1cf07ed3112f82eba0a37721bdc2b5cb71869aecb9a35e5cd0f9",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1125,10 +1716,9 @@
       "summary": null,
       "contentHash": "8dad6dab20cb3256ab9270315d0ea64f5aa9fca666059f30bf695f67fe8337e3",
       "revision": 1,
-      "importance": 80,
+      "importance": 70,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "脆弱性"
       ],
       "tags": [
@@ -1173,10 +1763,9 @@
       "summary": null,
       "contentHash": "07f849bd99f92cd7aaee1b3b343c824b35a5c1935c21fe8a5c552b2622294fa4",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1196,10 +1785,9 @@
       "summary": null,
       "contentHash": "3e7a81248e2d6a0fed27c869a809866d2b55b7067453de8eac60862c651fc72f",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": [
         "イベント"
@@ -1221,10 +1809,9 @@
       "summary": null,
       "contentHash": "0db972afa38485f78d310f9e7416fbb097a682a10e81f34b5b1def0b65232723",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1266,10 +1853,9 @@
       "summary": null,
       "contentHash": "ae6b113ee721490b2bb8925635f9c8a3904f8d504373d8dbc200ef4c65f8a3b7",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1289,10 +1875,9 @@
       "summary": null,
       "contentHash": "64f0a8167f865a9eeb79c605e56ddb279fce673c5cf4a617a5271fb162f6ccc2",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1312,10 +1897,9 @@
       "summary": null,
       "contentHash": "16a28498176dea73867076bf0d2c441ac62aa90d234dec01d0e8ebffb2fd02a0",
       "revision": 2,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1335,10 +1919,9 @@
       "summary": null,
       "contentHash": "88a0d52074bc8305ff8f641ce291b15398466fb658a773fcaba4f714164bfda4",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1358,33 +1941,9 @@
       "summary": null,
       "contentHash": "95e2fc7055c7d8cb6558143eca512ef16201b82ccfe0848c62e9d85579880d3f",
       "revision": 6,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
-      ],
-      "tags": []
-    },
-    {
-      "id": "0eb4706883d674d85e360327",
-      "title": "古川大臣記者会見（令和8年9月29日）動画を追加しました",
-      "url": "https://www.digital.go.jp/speech/minister-260929-01",
-      "sourceId": "digital-agency",
-      "sourceName": "デジタル庁",
-      "category": "work",
-      "publishedAt": "2026-09-29T03:44:02+00:00",
-      "detectedAt": "2026-09-29T09:48:16+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "6927c78ba16852bb01b880bb5f34d12a466531cdd2e935082f1e733d6cd2e72c",
-      "revision": 1,
-      "importance": 50,
-      "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1404,10 +1963,9 @@
       "summary": null,
       "contentHash": "43f5074a9568202985a0ea2229cdae2577ddb641dbcd23f8fadf88a8a504cb30",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1635,10 +2193,9 @@
       "summary": null,
       "contentHash": "4eb93a3a2454b13cff902ec2dec3bcc8f36fc832f508ce04a31eb1386a12ebf4",
       "revision": 1,
-      "importance": 65,
+      "importance": 55,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "release"
       ],
       "tags": [
@@ -10776,28 +11333,6 @@
       "tags": []
     },
     {
-      "id": "be7f6a9448269a5eb5848fa1",
-      "title": "令和8年9月18日付デジタル庁幹部一覧を掲載しました",
-      "url": "https://www.digital.go.jp/about/member",
-      "sourceId": "digital-agency",
-      "sourceName": "デジタル庁",
-      "category": "work",
-      "publishedAt": "2026-09-18T13:06:46+00:00",
-      "detectedAt": "2026-09-17T14:17:28+00:00",
-      "updatedAt": "2026-09-18T13:35:48+00:00",
-      "sourceUpdatedAt": null,
-      "changeType": "updated",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "94bfcab67f1c8ccea544b3c5941124a992b7635d52f693bb298ba558c76e5fa5",
-      "revision": 2,
-      "importance": 40,
-      "importanceReasons": [
-        "公式一次情報"
-      ],
-      "tags": []
-    },
-    {
       "id": "b782fa5897e762666e9f398f",
       "title": "🥷 WE'RE LIVE on AC Shadows at Gamescom 2026! 🔴",
       "url": "https://store.steampowered.com/news/app/3159330/view/696522455474242175",
@@ -13349,7 +13884,7 @@
       "sourceId": "digital-agency",
       "sourceName": "デジタル庁",
       "category": "work",
-      "publishedAt": "2026-09-16T01:00:00+00:00",
+      "publishedAt": "2026-09-30T02:35:29+00:00",
       "detectedAt": "2026-09-16T08:34:26+00:00",
       "updatedAt": null,
       "sourceUpdatedAt": null,
@@ -13358,9 +13893,10 @@
       "summary": null,
       "contentHash": "c105bfd6f817494d86eafa164e18af60792cde001bff9baff7e055f33c2c4ba6",
       "revision": 1,
-      "importance": 40,
+      "importance": 50,
       "importanceReasons": [
-        "公式一次情報"
+        "公式一次情報",
+        "24時間以内"
       ],
       "tags": []
     },
@@ -13568,30 +14104,6 @@
       "importance": 40,
       "importanceReasons": [
         "公式一次情報"
-      ],
-      "tags": []
-    },
-    {
-      "id": "737c582b5816c65462899f1f",
-      "title": "熊本地震の被災自治体等へ、ガバメントAI 源内を緊急提供します（更新）",
-      "url": "https://www.digital.go.jp/news/cb912b3b-49c9-4a02-aa46-4056b96c1d4f",
-      "sourceId": "digital-agency",
-      "sourceName": "デジタル庁",
-      "category": "work",
-      "publishedAt": "2026-09-16T01:03:04+00:00",
-      "detectedAt": "2026-09-16T08:34:26+00:00",
-      "updatedAt": null,
-      "sourceUpdatedAt": null,
-      "changeType": "new",
-      "kind": "article",
-      "summary": null,
-      "contentHash": "7c6fccb82ac19f9eeee2d1838bd8cf4e60aab15402aaf960a7f2f990eefd1784",
-      "revision": 1,
-      "importance": 90,
-      "importanceReasons": [
-        "公式一次情報",
-        "緊急",
-        "自治体"
       ],
       "tags": []
     },
@@ -18643,7 +19155,7 @@
       "sourceId": "digital-agency",
       "sourceName": "デジタル庁",
       "category": "work",
-      "publishedAt": "2026-09-11T06:00:00+00:00",
+      "publishedAt": "2026-09-30T06:00:00+00:00",
       "detectedAt": "2026-09-11T08:02:31+00:00",
       "updatedAt": null,
       "sourceUpdatedAt": null,
@@ -18652,9 +19164,10 @@
       "summary": null,
       "contentHash": "fa3d432e4a162f882a1c7652c619bae6289719ef1b5b795696a7baec09dbe910",
       "revision": 1,
-      "importance": 40,
+      "importance": 50,
       "importanceReasons": [
-        "公式一次情報"
+        "公式一次情報",
+        "24時間以内"
       ],
       "tags": []
     },
@@ -21672,10 +22185,9 @@
       "summary": null,
       "contentHash": "99f64d2ea3aacfb1d92f18a7198649c48dd68c1ad8e619a5c13e86720f95e4ac",
       "revision": 2,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },

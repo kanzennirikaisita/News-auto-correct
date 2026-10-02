@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-01T18:53:02+00:00",
+  "generatedAt": "2026-10-02T01:41:14+00:00",
   "collector": {
-    "lastRun": "2026-10-01T18:53:02+00:00",
+    "lastRun": "2026-10-02T01:41:14+00:00",
     "success": 13,
     "failed": 0
   },
@@ -14,7 +14,7 @@
       "url": "https://www.digital.go.jp/rss/news.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-10-01T18:53:02+00:00",
+      "lastSuccess": "2026-10-02T01:41:14+00:00",
       "count": 36
     },
     {
@@ -24,7 +24,7 @@
       "url": "https://www.jpcert.or.jp/rss/jpcert.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-10-01T18:53:02+00:00",
+      "lastSuccess": "2026-10-02T01:41:14+00:00",
       "count": 36
     },
     {
@@ -34,7 +34,7 @@
       "url": "https://jvn.jp/rss/jvn.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-10-01T18:53:02+00:00",
+      "lastSuccess": "2026-10-02T01:41:14+00:00",
       "count": 20
     },
     {
@@ -44,7 +44,7 @@
       "url": "https://blogs.jpcert.or.jp/ja/atom.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-10-01T18:53:02+00:00",
+      "lastSuccess": "2026-10-02T01:41:14+00:00",
       "count": 15
     },
     {
@@ -54,7 +54,7 @@
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-10-01T18:53:02+00:00",
+      "lastSuccess": "2026-10-02T01:41:14+00:00",
       "count": 200
     },
     {
@@ -64,7 +64,7 @@
       "url": "https://github.blog/changelog/feed/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-10-01T18:53:02+00:00",
+      "lastSuccess": "2026-10-02T01:41:14+00:00",
       "count": 10
     },
     {
@@ -74,7 +74,7 @@
       "url": "https://api.github.com/repos/langgenius/dify/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-10-01T18:53:02+00:00",
+      "lastSuccess": "2026-10-02T01:41:14+00:00",
       "count": 27
     },
     {
@@ -84,7 +84,7 @@
       "url": "https://api.github.com/repos/openai/codex/releases?per_page=10",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-10-01T18:53:02+00:00",
+      "lastSuccess": "2026-10-02T01:41:14+00:00",
       "count": 1
     },
     {
@@ -94,7 +94,7 @@
       "url": "https://api.github.com/repos/anthropics/claude-code/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-10-01T18:53:02+00:00",
+      "lastSuccess": "2026-10-02T01:41:14+00:00",
       "count": 30
     },
     {
@@ -104,7 +104,7 @@
       "url": "https://jp.finalfantasyxiv.com/lodestone/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-10-01T18:53:02+00:00",
+      "lastSuccess": "2026-10-02T01:41:14+00:00",
       "count": 29
     },
     {
@@ -114,7 +114,7 @@
       "url": "https://steamcommunity.com/games/1245620/rss/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-10-01T18:53:02+00:00",
+      "lastSuccess": "2026-10-02T01:41:14+00:00",
       "count": 10
     },
     {
@@ -124,7 +124,7 @@
       "url": "https://store.steampowered.com/feeds/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-10-01T18:53:02+00:00",
+      "lastSuccess": "2026-10-02T01:41:14+00:00",
       "count": 10
     },
     {
@@ -134,11 +134,549 @@
       "url": "https://www.apple.com/jp/newsroom/rss-feed.rss",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-10-01T18:53:02+00:00",
+      "lastSuccess": "2026-10-02T01:41:14+00:00",
       "count": 20
     }
   ],
   "items": [
+    {
+      "id": "f885c40feed51954f2d5ce1d",
+      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月01日）",
+      "url": "https://jvn.jp/vu/JVNVU91842649/",
+      "sourceId": "jvn",
+      "sourceName": "JVN",
+      "category": "work",
+      "publishedAt": "2026-10-02T01:00:15+00:00",
+      "detectedAt": "2026-10-02T01:41:14+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-10-02T01:00:15+00:00",
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "15f874bb324acb9049058910f40917d6e50eed461a15e522c3af57738de5e16e",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "ec478b7ac495b8fee301f540",
+      "title": "Tainted Grail: The Fall of Avalon free Fists of Fury DLC is out now alongside major 1.3.0 update",
+      "url": "https://store.steampowered.com/news/group/6070552/view/670629928317748127",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-10-02T01:18:24+00:00",
+      "detectedAt": "2026-10-02T01:41:14+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "876b95d6c686e657f29298c59bd24d92d14eef8403df3c37179e3b4dc96c986c",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "update"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "e85317f1085058b2cfb63eae",
+      "title": "(AOS, iOS) Notice: Ver. 1.116.1 Update",
+      "url": "https://store.steampowered.com/news/app/1973530/view/678511227668791589",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-10-02T01:30:34+00:00",
+      "detectedAt": "2026-10-02T01:41:14+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "9dc4de8a4f622b18b2796370fe9010b9fbddbc9e0c7374c287dfdcf11fb92b10",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "update"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "e61beeca9f37dec1eb4079d7",
+      "title": "Codex 0.160.0",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.160.0",
+      "sourceId": "codex",
+      "sourceName": "Codex",
+      "category": "ai-dev",
+      "publishedAt": "2026-10-01T20:19:13+00:00",
+      "detectedAt": "2026-10-02T01:41:14+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-10-01T20:21:40+00:00",
+      "changeType": "new",
+      "kind": "release",
+      "summary": null,
+      "contentHash": "d70edfb16eaf336c4979b24b3c64b9e96c57e142290b45a8ac83200d01bd75a3",
+      "revision": 1,
+      "importance": 75,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "バージョン公開",
+        "codex"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "e2a8a2af14fcca5ac7f1a0ff",
+      "title": "Apache HTTP Server 2.4における複数の脆弱性に対するアップデート（2026年10月1日）",
+      "url": "https://jvn.jp/vu/JVNVU94648869/",
+      "sourceId": "jvn",
+      "sourceName": "JVN",
+      "category": "work",
+      "publishedAt": "2026-10-02T01:00:30+00:00",
+      "detectedAt": "2026-10-02T01:41:14+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-10-02T01:00:30+00:00",
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "155eb8d873f7d18ce4afab08614579e29dea5dbc0855aa817580863629e779bf",
+      "revision": 1,
+      "importance": 95,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "脆弱性",
+        "アップデート"
+      ],
+      "tags": [
+        "セキュリティ",
+        "更新"
+      ]
+    },
+    {
+      "id": "e11a5d7f0be16c7ae710cb40",
+      "title": "GitHub Copilot can now interact with desktop apps with computer use",
+      "url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
+      "sourceId": "github",
+      "sourceName": "GitHub Changelog",
+      "category": "ai-dev",
+      "publishedAt": "2026-10-01T19:11:26+00:00",
+      "detectedAt": "2026-10-02T01:41:14+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "83fc3a5030ae765029d82ceec9d7400dd7ae2dae7571dae21d4e205305226765",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "d8efb6ae3f1c14fd22be9554",
+      "title": "GitHub Copilot in VS Code, September 2026 releases",
+      "url": "https://github.blog/changelog/2026-10-01-github-copilot-in-vs-code-september-2026-releases",
+      "sourceId": "github",
+      "sourceName": "GitHub Changelog",
+      "category": "ai-dev",
+      "publishedAt": "2026-10-01T19:09:10+00:00",
+      "detectedAt": "2026-10-02T01:41:14+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "cfd282a07f6686af0109131bc99370eb5e7367f63ddf3470c303129a549ba882",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "release"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "d853f7f970be3c6c17721c56",
+      "title": "InsydeH2O IHISIにおける安全でないメモリ書き込みの脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU92911062/",
+      "sourceId": "jvn",
+      "sourceName": "JVN",
+      "category": "work",
+      "publishedAt": "2026-10-02T01:00:00+00:00",
+      "detectedAt": "2026-10-02T01:41:14+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-10-02T01:00:00+00:00",
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "1fe20b6c03b501acb4910fa121b91fffb17b6d01cd0882ffe33084f9f81b37a0",
+      "revision": 1,
+      "importance": 80,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "脆弱性"
+      ],
+      "tags": [
+        "セキュリティ"
+      ]
+    },
+    {
+      "id": "cb175b399ff7eaf3ad1a62a0",
+      "title": "Doom: The Dark Ages - Revelations Getting New 'Slaughter Mode' as Free Update Next Month",
+      "url": "https://store.steampowered.com/news/group/9869/view/711162324968277029",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-10-02T00:39:41+00:00",
+      "detectedAt": "2026-10-02T01:41:14+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "a3f04c194ebdae8bf53eda3e1a202db8146eb9c721642bda2d0df7c0189fd856",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "update"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "b3abbf9a49122235f36a1b34",
+      "title": "Rate limits for private vulnerability reports",
+      "url": "https://github.blog/changelog/2026-10-01-rate-limits-for-private-vulnerability-reports",
+      "sourceId": "github",
+      "sourceName": "GitHub Changelog",
+      "category": "ai-dev",
+      "publishedAt": "2026-10-01T19:57:39+00:00",
+      "detectedAt": "2026-10-02T01:41:14+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "8deb0523887b68c691d1c1c57f1bcd28185336c6b84dc4740adac0a7ef592522",
+      "revision": 1,
+      "importance": 80,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "vulnerability"
+      ],
+      "tags": [
+        "セキュリティ"
+      ]
+    },
+    {
+      "id": "af5d5a4fca73e3f1072a3740",
+      "title": "Final Fantasy 7 Revelation lead tried hard not to turn the series into his \"personal fan project\"",
+      "url": "https://store.steampowered.com/news/group/38509069/view/702155125711438842",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-10-01T23:58:53+00:00",
+      "detectedAt": "2026-10-02T01:41:14+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "0c72046d7ad197e7852e295c37931c1794c9a4c8059811a4a483f4d1e217f759",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "ad767634ce68abdcb9d1d495",
+      "title": "Epic: Netherlands",
+      "url": "https://store.steampowered.com/news/app/1665460/view/697651526084067570",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-10-02T00:11:31+00:00",
+      "detectedAt": "2026-10-02T01:41:14+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "af6f43d408712cc143dc887691c349ce36f53ec8abfe3b06140926496fda64cc",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "91ff475cdc6f58226619aa71",
+      "title": "October 1st, 2026 MSFS Weekly Briefing",
+      "url": "https://store.steampowered.com/news/app/2537590/view/670629928317748109",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-10-01T22:48:41+00:00",
+      "detectedAt": "2026-10-02T01:41:14+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "c4d158f780ab281bc3292890d084e17284cd4c9580eaa874f245e43489f609d9",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "771239a6e9a1d874244729a5",
+      "title": "Structured forms for private vulnerability reports",
+      "url": "https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports",
+      "sourceId": "github",
+      "sourceName": "GitHub Changelog",
+      "category": "ai-dev",
+      "publishedAt": "2026-10-01T19:57:28+00:00",
+      "detectedAt": "2026-10-02T01:41:14+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "97811f61910a1b67970b526e42cb3f1e1599f5c63b41365f4d8ed839b85e4d55",
+      "revision": 1,
+      "importance": 80,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "vulnerability"
+      ],
+      "tags": [
+        "セキュリティ"
+      ]
+    },
+    {
+      "id": "6e20975a5091e4d27d4a98e7",
+      "title": "Steam Officially Makes 2 New Releases 100% Free for a Limited Time",
+      "url": "https://store.steampowered.com/news/group/1450625/view/699903325897753594",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-10-01T23:09:18+00:00",
+      "detectedAt": "2026-10-02T01:41:14+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "cd8c7facddcd8ed8bcd1ac10f6239f41f23aa928783673cff8ea6f07e28e2886",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "release"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "4aedf916485bf425b7d1e314",
+      "title": "Jump Into Advanced Access Now!",
+      "url": "https://store.steampowered.com/news/app/3393110/view/689769594581157622",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-10-02T00:16:17+00:00",
+      "detectedAt": "2026-10-02T01:41:14+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "01e4f5279f6b06bf2c73721e8d8ac7f4e7ba3e1fa194eeb84013f2a2dfa8038e",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "2167384f51e2a4466793a69c",
+      "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+      "url": "https://openai.com/index/the-den-family-social",
+      "sourceId": "openai",
+      "sourceName": "OpenAI",
+      "category": "ai-dev",
+      "publishedAt": "2026-10-01T00:00:00+00:00",
+      "detectedAt": "2026-10-02T01:41:14+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "0748acf4839763497e65296309a97e197075bb554d23b8549c9d61c5f5ac87af",
+      "revision": 1,
+      "importance": 40,
+      "importanceReasons": [
+        "公式一次情報"
+      ],
+      "tags": []
+    },
+    {
+      "id": "20f94898ac7397b2decb7e67",
+      "title": "Dynamic workflows in Copilot CLI and the Copilot app",
+      "url": "https://github.blog/changelog/2026-10-01-dynamic-workflows-in-copilot-cli-and-the-copilot-app",
+      "sourceId": "github",
+      "sourceName": "GitHub Changelog",
+      "category": "ai-dev",
+      "publishedAt": "2026-10-01T16:30:10+00:00",
+      "detectedAt": "2026-10-02T01:41:14+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "191310f3c226008b7c1fa3a2d9c3e12b043f904f735379fe8bda0eee49eedd78",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "0ec87dafad53c01d10378f76",
+      "title": "Stranger Than Heaven showcases Kure, Hiroshima and Kokura, Fukuoka in new trailers",
+      "url": "https://store.steampowered.com/news/group/6070552/view/670629928317748123",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-10-02T00:48:23+00:00",
+      "detectedAt": "2026-10-02T01:41:14+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "7095106574fb6dae7e916590daf26f547c0eea6efa7fd21dfc1282c2f3841fed",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "03bc7da7be014d0a7edc8c0a",
+      "title": "Monster Hunter Outlanders launches on October 29 for iOS and Android",
+      "url": "https://store.steampowered.com/news/group/6070552/view/670629928317748119",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-10-02T00:28:23+00:00",
+      "detectedAt": "2026-10-02T01:41:14+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "94f3895f9a5096add86b0fce0e119b0270a5e7572f85b4513dbe435154bc994b",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "038fee3588d7f55541e39725",
+      "title": "GitHub Actions: macOS 14 runner image retirement",
+      "url": "https://github.blog/changelog/2026-10-01-github-actions-macos-14-runner-image-retirement",
+      "sourceId": "github",
+      "sourceName": "GitHub Changelog",
+      "category": "ai-dev",
+      "publishedAt": "2026-10-01T19:11:23+00:00",
+      "detectedAt": "2026-10-02T01:41:14+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "4b6fda175e9c9d4ce4f13cea3861453e58d1fdcce758386666ee0b116aea0873",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "00ef16fda49de0e157dc8784",
+      "title": "Accessibility statements highlighted on repository overview",
+      "url": "https://github.blog/changelog/2026-10-01-accessibility-statements-highlighted-on-repository-overview",
+      "sourceId": "github",
+      "sourceName": "GitHub Changelog",
+      "category": "ai-dev",
+      "publishedAt": "2026-10-01T19:04:32+00:00",
+      "detectedAt": "2026-10-02T01:41:14+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "0281b5bb70d2cf3c580ab29ca99d8f0119ff28f36992bdae3d2f1a04cd47d0fc",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
     {
       "id": "f517db42284b6303cd9581c8",
       "title": "The Autum Sale 2026 is here!",
@@ -1029,10 +1567,9 @@
       "summary": null,
       "contentHash": "3543bfc79ae2df2729cd7595e1d1300f4fcbfc52ceaf153b47363dab5b832656",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1052,10 +1589,9 @@
       "summary": null,
       "contentHash": "4615b233d7bb1a2bd79bba8b0144f80e6e7ce48051c5913e50115f187dd4e474",
       "revision": 1,
-      "importance": 65,
+      "importance": 55,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "update"
       ],
       "tags": [
@@ -1078,10 +1614,9 @@
       "summary": null,
       "contentHash": "6183753007247f5504e018915270794b1ec17e2d614db9f9a36a5c70e3eac921",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1101,10 +1636,9 @@
       "summary": null,
       "contentHash": "9a36dd1ce28b5c57db0fc620d4ff8ee9eaf68b48404daa51a49f07eb27132227",
       "revision": 1,
-      "importance": 65,
+      "importance": 55,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "update"
       ],
       "tags": [
@@ -1127,10 +1661,9 @@
       "summary": null,
       "contentHash": "a4b2ccb2e9a11607122dcb1ddac1b4c63c44a13d4b95e88328343c38a14432ff",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1150,10 +1683,9 @@
       "summary": null,
       "contentHash": "f22d71878a1b2f4a49f706968df0e1bcb283e0e52e36ce5d421e400c00c22748",
       "revision": 1,
-      "importance": 65,
+      "importance": 55,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "バージョン公開"
       ],
       "tags": [
@@ -1176,10 +1708,9 @@
       "summary": null,
       "contentHash": "b639954b03aa11f1ffe96879d79a7f3122969fbf71734ac1a32001b68c9cd117",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": [
         "イベント"
@@ -1201,10 +1732,9 @@
       "summary": null,
       "contentHash": "bfcfd202f962959e9ea3c50a9ecf031b0d1bad868b360c21376cce65166588a2",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1224,10 +1754,9 @@
       "summary": null,
       "contentHash": "54faa01ff4c7e930727bd62f3e3c5db7d75919f54951b6a50e43b7df123936c7",
       "revision": 1,
-      "importance": 65,
+      "importance": 55,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "update"
       ],
       "tags": [
@@ -1250,10 +1779,9 @@
       "summary": null,
       "contentHash": "285f92e18e43e8a3ea958cb2fb7a242ebb51703b121bacd87cfd924c2aa85f59",
       "revision": 1,
-      "importance": 75,
+      "importance": 65,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "バージョン公開",
         "codex"
       ],
@@ -1277,10 +1805,9 @@
       "summary": null,
       "contentHash": "0c405bb7f0443200efa1b06bfdd2e2d37cdb881e26cddeee2bb2d1214c65660f",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1300,10 +1827,9 @@
       "summary": null,
       "contentHash": "c9f674ef4d2c203bf8f736cf7d2fd27ffba436cfdd7340b4123db7695f9eaff6",
       "revision": 1,
-      "importance": 65,
+      "importance": 55,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "maintenance"
       ],
       "tags": [
@@ -1326,10 +1852,9 @@
       "summary": null,
       "contentHash": "60cfcb3bef163cbefc49359eb28fca9b6c3fde62be42ff1b5e1d3c170d037f4c",
       "revision": 1,
-      "importance": 65,
+      "importance": 55,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "release"
       ],
       "tags": [

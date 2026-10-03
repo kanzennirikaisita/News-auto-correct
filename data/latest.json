@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-03T09:08:04+00:00",
+  "generatedAt": "2026-10-03T14:18:47+00:00",
   "collector": {
-    "lastRun": "2026-10-03T09:08:04+00:00",
+    "lastRun": "2026-10-03T14:18:47+00:00",
     "success": 13,
     "failed": 0
   },
@@ -14,7 +14,7 @@
       "url": "https://www.digital.go.jp/rss/news.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-10-03T09:08:04+00:00",
+      "lastSuccess": "2026-10-03T14:18:47+00:00",
       "count": 38
     },
     {
@@ -24,7 +24,7 @@
       "url": "https://www.jpcert.or.jp/rss/jpcert.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-10-03T09:08:04+00:00",
+      "lastSuccess": "2026-10-03T14:18:47+00:00",
       "count": 36
     },
     {
@@ -34,7 +34,7 @@
       "url": "https://jvn.jp/rss/jvn.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-10-03T09:08:04+00:00",
+      "lastSuccess": "2026-10-03T14:18:47+00:00",
       "count": 20
     },
     {
@@ -44,7 +44,7 @@
       "url": "https://blogs.jpcert.or.jp/ja/atom.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-10-03T09:08:04+00:00",
+      "lastSuccess": "2026-10-03T14:18:47+00:00",
       "count": 15
     },
     {
@@ -54,7 +54,7 @@
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-10-03T09:08:04+00:00",
+      "lastSuccess": "2026-10-03T14:18:47+00:00",
       "count": 200
     },
     {
@@ -64,7 +64,7 @@
       "url": "https://github.blog/changelog/feed/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-10-03T09:08:04+00:00",
+      "lastSuccess": "2026-10-03T14:18:47+00:00",
       "count": 10
     },
     {
@@ -74,7 +74,7 @@
       "url": "https://api.github.com/repos/langgenius/dify/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-10-03T09:08:04+00:00",
+      "lastSuccess": "2026-10-03T14:18:47+00:00",
       "count": 27
     },
     {
@@ -84,7 +84,7 @@
       "url": "https://api.github.com/repos/openai/codex/releases?per_page=10",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-10-03T09:08:04+00:00",
+      "lastSuccess": "2026-10-03T14:18:47+00:00",
       "count": 1
     },
     {
@@ -94,7 +94,7 @@
       "url": "https://api.github.com/repos/anthropics/claude-code/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-10-03T09:08:04+00:00",
+      "lastSuccess": "2026-10-03T14:18:47+00:00",
       "count": 30
     },
     {
@@ -104,7 +104,7 @@
       "url": "https://jp.finalfantasyxiv.com/lodestone/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-10-03T09:08:04+00:00",
+      "lastSuccess": "2026-10-03T14:18:47+00:00",
       "count": 29
     },
     {
@@ -114,7 +114,7 @@
       "url": "https://steamcommunity.com/games/1245620/rss/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-10-03T09:08:04+00:00",
+      "lastSuccess": "2026-10-03T14:18:47+00:00",
       "count": 10
     },
     {
@@ -124,7 +124,7 @@
       "url": "https://store.steampowered.com/feeds/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-10-03T09:08:04+00:00",
+      "lastSuccess": "2026-10-03T14:18:47+00:00",
       "count": 10
     },
     {
@@ -134,11 +134,250 @@
       "url": "https://www.apple.com/jp/newsroom/rss-feed.rss",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-10-03T09:08:04+00:00",
+      "lastSuccess": "2026-10-03T14:18:47+00:00",
       "count": 20
     }
   ],
   "items": [
+    {
+      "id": "e9095d1ee9fc1e10e7e761ba",
+      "title": "New Official $535 Warcraft Release Confirmed for 2027",
+      "url": "https://store.steampowered.com/news/group/1450625/view/699903325897754511",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-10-03T13:41:35+00:00",
+      "detectedAt": "2026-10-03T14:18:47+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "f4255df224d13677371f2be49e281263befe0ba01e26b8596cd2fc4b809c5d89",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "release"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "ab7b0b40bfcfec20717963d1",
+      "title": "Astarion Officially Returns in New Baldur’s Gate Release",
+      "url": "https://store.steampowered.com/news/group/1450625/view/699903325897754509",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-10-03T13:11:34+00:00",
+      "detectedAt": "2026-10-03T14:18:47+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "8f0255c8ea3903db44cc3e171c1cba5ed2082823ab7d690de118b10459c424e6",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "release"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "a295b41f5f2b394a1b529e03",
+      "title": "Persona 4 Revival Shadow trailer released",
+      "url": "https://store.steampowered.com/news/group/6070552/view/670629928317749035",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-10-03T13:09:39+00:00",
+      "detectedAt": "2026-10-03T14:18:47+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "2921f9e2c4553a7b72d2e617a6e810242c98ba937d7a55fdeee7a39d09d04f72",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "release"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "93a66b5b62f9f9a380a96a4f",
+      "title": "ACE COMBAT 8: WINGS OF THEVE peaks at 52k players",
+      "url": "https://store.steampowered.com/news/group/4777282/view/717917724409333481",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-10-03T13:30:38+00:00",
+      "detectedAt": "2026-10-03T14:18:47+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "c1425b5719dea3d72969deb3fb642ac96ba96584bf0e179f31ba9c0fba952428",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "4de8e366d0b0bf7c504a8881",
+      "title": "Lord Of The Rings Is Officially Switching Genre In The Confrontation This December",
+      "url": "https://store.steampowered.com/news/group/38666666/view/708910525152495454",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-10-03T14:10:36+00:00",
+      "detectedAt": "2026-10-03T14:18:47+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "f3c204268c6ea7866b841bf306a3a6d688518f61f17611c86644a75c02ee37cc",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "43d268d9d4194dbb798a6730",
+      "title": "Stargate Meets The Expanse In New Open-World Sci-Fi RPG",
+      "url": "https://store.steampowered.com/news/group/38666666/view/708910525152495449",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-10-03T13:10:34+00:00",
+      "detectedAt": "2026-10-03T14:18:47+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "2ab8a0266829af4c5186d2af90cb04e45adab8f77d9d5f2a5d7af76c292de316",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "3a9c8b81dd08de46f2907861",
+      "title": "Call of Duty: Modern Warfare 4 Officially Reveals 'Server Culling' Anti-Cheat System",
+      "url": "https://store.steampowered.com/news/group/1450625/view/699903325897754514",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-10-03T13:51:36+00:00",
+      "detectedAt": "2026-10-03T14:18:47+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "ee634f8c389fcda9ec8efc72ad0710051e54d9218c8c5273aa5bffe0a8662298",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "2e25b46ecd4e5398649b312b",
+      "title": "Gamescom 2026: Persona 4 Revival Hands-On Preview — Time To (Re)Make History",
+      "url": "https://store.steampowered.com/news/group/7433348/view/698777425990911816",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-10-03T14:04:17+00:00",
+      "detectedAt": "2026-10-03T14:18:47+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "1743629fce6519c5b3f203b6f5ac14343c4da2f8391401ea86cfc5e8ad58833c",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "2924d24a4e37ff532c82606b",
+      "title": "The Outlast Trials peaks at 71k players",
+      "url": "https://store.steampowered.com/news/group/4777282/view/717917724409333479",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-10-03T12:20:36+00:00",
+      "detectedAt": "2026-10-03T14:18:47+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "b275856882e0a5bea670e44812a103e22128f0e76a72fbc288a1f4de2755ea44",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "1885f78c00bc6924abd275f8",
+      "title": "Deadlock's new hero Rat King has over 100 voice lines dedicated to throwing rats at you",
+      "url": "https://store.steampowered.com/news/group/1850/view/699903325897754516",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-10-03T13:58:15+00:00",
+      "detectedAt": "2026-10-03T14:18:47+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "87c289f1a73b6601360111ced87190b1b7b39b196cb01e850d3ef0cabc970b91",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
     {
       "id": "f122a215c04848a902647ea4",
       "title": "House Of The Dragon Makes Surprise Return In Lord Of The Hightower October 7",
@@ -976,10 +1215,9 @@
       "summary": null,
       "contentHash": "2dc318b3ecf17c099416d2d22b4cd2ab77915e335d2b0bd0ef7c9fa1c8f8e1ed",
       "revision": 1,
-      "importance": 70,
+      "importance": 60,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "security"
       ],
       "tags": [
@@ -1002,10 +1240,9 @@
       "summary": null,
       "contentHash": "14ebfb57f9e354bcd749a94d81e69c1afc7af5cc4d521eaf0e3347fea882f25a",
       "revision": 1,
-      "importance": 70,
+      "importance": 60,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "security"
       ],
       "tags": [
@@ -1051,10 +1288,9 @@
       "summary": null,
       "contentHash": "a3c95367ea97e578c774086b105b69295f52355488623961e542031bad0b20f2",
       "revision": 1,
-      "importance": 70,
+      "importance": 60,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "security"
       ],
       "tags": [
@@ -1348,10 +1584,9 @@
       "summary": null,
       "contentHash": "73951920beb97ea01cb44dc3db34863a86963b41bb86da55da1c687e61116a30",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },

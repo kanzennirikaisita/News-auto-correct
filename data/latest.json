@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-02T18:24:37+00:00",
+  "generatedAt": "2026-10-03T01:11:25+00:00",
   "collector": {
-    "lastRun": "2026-10-02T18:24:37+00:00",
+    "lastRun": "2026-10-03T01:11:25+00:00",
     "success": 13,
     "failed": 0
   },
@@ -14,7 +14,7 @@
       "url": "https://www.digital.go.jp/rss/news.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-10-02T18:24:37+00:00",
+      "lastSuccess": "2026-10-03T01:11:25+00:00",
       "count": 38
     },
     {
@@ -24,7 +24,7 @@
       "url": "https://www.jpcert.or.jp/rss/jpcert.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-10-02T18:24:37+00:00",
+      "lastSuccess": "2026-10-03T01:11:25+00:00",
       "count": 36
     },
     {
@@ -34,7 +34,7 @@
       "url": "https://jvn.jp/rss/jvn.rdf",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-10-02T18:24:37+00:00",
+      "lastSuccess": "2026-10-03T01:11:25+00:00",
       "count": 20
     },
     {
@@ -44,7 +44,7 @@
       "url": "https://blogs.jpcert.or.jp/ja/atom.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-10-02T18:24:37+00:00",
+      "lastSuccess": "2026-10-03T01:11:25+00:00",
       "count": 15
     },
     {
@@ -54,7 +54,7 @@
       "url": "https://openai.com/news/rss.xml",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-10-02T18:24:37+00:00",
+      "lastSuccess": "2026-10-03T01:11:25+00:00",
       "count": 200
     },
     {
@@ -64,7 +64,7 @@
       "url": "https://github.blog/changelog/feed/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-10-02T18:24:37+00:00",
+      "lastSuccess": "2026-10-03T01:11:25+00:00",
       "count": 10
     },
     {
@@ -74,7 +74,7 @@
       "url": "https://api.github.com/repos/langgenius/dify/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-10-02T18:24:37+00:00",
+      "lastSuccess": "2026-10-03T01:11:25+00:00",
       "count": 27
     },
     {
@@ -84,7 +84,7 @@
       "url": "https://api.github.com/repos/openai/codex/releases?per_page=10",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-10-02T18:24:37+00:00",
+      "lastSuccess": "2026-10-03T01:11:25+00:00",
       "count": 1
     },
     {
@@ -94,7 +94,7 @@
       "url": "https://api.github.com/repos/anthropics/claude-code/releases?per_page=30",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-10-02T18:24:37+00:00",
+      "lastSuccess": "2026-10-03T01:11:25+00:00",
       "count": 30
     },
     {
@@ -104,7 +104,7 @@
       "url": "https://jp.finalfantasyxiv.com/lodestone/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-10-02T18:24:37+00:00",
+      "lastSuccess": "2026-10-03T01:11:25+00:00",
       "count": 29
     },
     {
@@ -114,7 +114,7 @@
       "url": "https://steamcommunity.com/games/1245620/rss/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-10-02T18:24:37+00:00",
+      "lastSuccess": "2026-10-03T01:11:25+00:00",
       "count": 10
     },
     {
@@ -124,7 +124,7 @@
       "url": "https://store.steampowered.com/feeds/news/",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-10-02T18:24:37+00:00",
+      "lastSuccess": "2026-10-03T01:11:25+00:00",
       "count": 10
     },
     {
@@ -134,11 +134,342 @@
       "url": "https://www.apple.com/jp/newsroom/rss-feed.rss",
       "status": "ok",
       "error": null,
-      "lastSuccess": "2026-10-02T18:24:37+00:00",
+      "lastSuccess": "2026-10-03T01:11:25+00:00",
       "count": 20
     }
   ],
   "items": [
+    {
+      "id": "f34f6979f032e7f9a7b74a0a",
+      "title": "Patch Preview 1.1.0",
+      "url": "https://store.steampowered.com/news/app/3219630/view/701029225804596647",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-10-02T22:25:10+00:00",
+      "detectedAt": "2026-10-03T01:11:25+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "f4a6f14b1826282a59bb83c85757fef7fd55722039dafa4655639c8aac0a8761",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "patch"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "f177267151939b32dbcd37d1",
+      "title": "Final Fantasy 7 Revelation lead says he pushed Square Enix for a physical version of the JRPG",
+      "url": "https://store.steampowered.com/news/group/38509069/view/702155125711439456",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-10-02T23:40:09+00:00",
+      "detectedAt": "2026-10-03T01:11:25+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "c4ecc6c9eee4b3310ded5be12c9849c30bbf58f4cc534883a68daa8a07c1810a",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "e9d95e8ccd1e9e097ef3dc3d",
+      "title": "Birdseed VR Is Coming To Steam Next Week",
+      "url": "https://store.steampowered.com/news/group/25080149/view/679637128142914971",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-10-02T22:00:24+00:00",
+      "detectedAt": "2026-10-03T01:11:25+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "1fcc422745af0d267cdabcd4499019fb195a427c35d6873f5e49c27e083271a2",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "da2d811b9d25331f1ec1ddb3",
+      "title": "Claude Code v2.1.288",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.288",
+      "sourceId": "claude-code",
+      "sourceName": "Claude Code",
+      "category": "ai-dev",
+      "publishedAt": "2026-10-02T20:19:57+00:00",
+      "detectedAt": "2026-10-03T01:11:25+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": "2026-10-02T20:19:57+00:00",
+      "changeType": "new",
+      "kind": "release",
+      "summary": null,
+      "contentHash": "e057f9302f30f04f7fae99eb8d62b7931752dd7c3ab686855b1e12883ca8d4b4",
+      "revision": 1,
+      "importance": 65,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "バージョン公開"
+      ],
+      "tags": [
+        "更新"
+      ]
+    },
+    {
+      "id": "bf39fcb0c474ce4449be3bd2",
+      "title": "Deadlock: The Rat King Full Hero Kit And Abilities Explained",
+      "url": "https://store.steampowered.com/news/group/38458038/view/684140727200908734",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-10-02T22:49:19+00:00",
+      "detectedAt": "2026-10-03T01:11:25+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "3c885237618ed3ca254141046265e3d5cdef462c750692afb2b6b6372adb6a7a",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "be3b1d34107991259e7d370e",
+      "title": "Copilot code review: API support and new default effort level",
+      "url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
+      "sourceId": "github",
+      "sourceName": "GitHub Changelog",
+      "category": "ai-dev",
+      "publishedAt": "2026-10-02T19:13:50+00:00",
+      "detectedAt": "2026-10-03T01:11:25+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "e10a6767cec97da948c47f83e7df9d465c134336afa4a292669ce7c991d6ed0f",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "705956e4f1fcd62c79bb3c1f",
+      "title": "Selected models in GitHub Copilot deprecated",
+      "url": "https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated",
+      "sourceId": "github",
+      "sourceName": "GitHub Changelog",
+      "category": "ai-dev",
+      "publishedAt": "2026-10-02T18:24:19+00:00",
+      "detectedAt": "2026-10-03T01:11:25+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "52c77c1e2c4404459da79deabf9bced3fe35b9b6ea6405d65a63edf6388ab577",
+      "revision": 1,
+      "importance": 70,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内",
+        "deprecated"
+      ],
+      "tags": [
+        "終了・廃止"
+      ]
+    },
+    {
+      "id": "5f377e9a64cdd80c045d754a",
+      "title": "For once, I'm happy to see expensive corporate lawyers forcing a fan project offline",
+      "url": "https://store.steampowered.com/news/group/1850/view/699903325897754153",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-10-02T22:06:19+00:00",
+      "detectedAt": "2026-10-03T01:11:25+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "1ba2653b4940cae9d8731c9101bff59a51c1307df3f11ce1d095a74a088026a5",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "5dfc622d79cc3dcaabf56e8c",
+      "title": "End of Abyss (PC) Review",
+      "url": "https://store.steampowered.com/news/group/7433348/view/698777425990911503",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-10-02T23:09:27+00:00",
+      "detectedAt": "2026-10-03T01:11:25+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "1381356939e834f45a54bd5207ba51ef0a51a1c028f3649abf71bdfac16601f8",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "4ce371788dc0c71f881482b5",
+      "title": "Stateless GitHub App installation tokens rolled out",
+      "url": "https://github.blog/changelog/2026-10-02-stateless-github-app-installation-tokens-rolled-out",
+      "sourceId": "github",
+      "sourceName": "GitHub Changelog",
+      "category": "ai-dev",
+      "publishedAt": "2026-10-02T22:18:23+00:00",
+      "detectedAt": "2026-10-03T01:11:25+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "40fb0d8a1278891f27f15dbcf956b31c98c877b34930b812e8d1d9a548094664",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "4b76fed212be20e1bcaa8c53",
+      "title": "Community Crunch 526: Madness Takes Flight",
+      "url": "https://store.steampowered.com/news/app/2399830/view/717917724409333143",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-10-03T00:27:31+00:00",
+      "detectedAt": "2026-10-03T01:11:25+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "b4f968767be7d704db3828026a6451079a30fa979d08c632210f229f65f96bfa",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "3b3492f0783afbc98f07eb05",
+      "title": "The Rat King has arrived",
+      "url": "https://store.steampowered.com/news/group/1850/view/699903325897754137",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-10-02T21:56:18+00:00",
+      "detectedAt": "2026-10-03T01:11:25+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "88075acbc1989c0a65534fcb7636f3866521498d8a95af24a1a7f98386b37c91",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "1f6c07da921c1f5919989e2d",
+      "title": "Sakura Wars creator Hiroi Oji delves further on how a concept plot for Sakura Wars 6 exists",
+      "url": "https://store.steampowered.com/news/group/6070552/view/670629928317748828",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-10-03T00:39:14+00:00",
+      "detectedAt": "2026-10-03T01:11:25+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "e01e5323db65e19681e82cf2922b0db1d895a7980b7f4c73e0770d5250aeb0b1",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
+    {
+      "id": "1cc0928eddd1b7a69eb234d4",
+      "title": "Former NFL Coach Mike Tomlin Is a Hardcore Minecraft Player, Reveals City He Took 12 Years to Build",
+      "url": "https://store.steampowered.com/news/group/9869/view/711162324968277631",
+      "sourceId": "steam",
+      "sourceName": "Steam News",
+      "category": "game",
+      "publishedAt": "2026-10-02T23:51:06+00:00",
+      "detectedAt": "2026-10-03T01:11:25+00:00",
+      "updatedAt": null,
+      "sourceUpdatedAt": null,
+      "changeType": "new",
+      "kind": "article",
+      "summary": null,
+      "contentHash": "eca3b11943579fd9b109c50b50997cb5dc0ed72b82bbb0767a57a23769e7dbdc",
+      "revision": 1,
+      "importance": 50,
+      "importanceReasons": [
+        "公式一次情報",
+        "24時間以内"
+      ],
+      "tags": []
+    },
     {
       "id": "e5709b683db37171c820b011",
       "title": "Star Wars: Galactic Racer Metacritic score makes it one of the best-rated Star Wars games ever",
@@ -388,10 +719,9 @@
       "summary": null,
       "contentHash": "108ade79af51606068d5c04bb97d4dce2133de340e673c2259d8004195b36490",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -909,10 +1239,9 @@
       "summary": null,
       "contentHash": "15f874bb324acb9049058910f40917d6e50eed461a15e522c3af57738de5e16e",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -984,10 +1313,9 @@
       "summary": null,
       "contentHash": "d70edfb16eaf336c4979b24b3c64b9e96c57e142290b45a8ac83200d01bd75a3",
       "revision": 1,
-      "importance": 75,
+      "importance": 65,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "バージョン公開",
         "codex"
       ],
@@ -1011,10 +1339,9 @@
       "summary": null,
       "contentHash": "155eb8d873f7d18ce4afab08614579e29dea5dbc0855aa817580863629e779bf",
       "revision": 1,
-      "importance": 95,
+      "importance": 85,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "脆弱性",
         "アップデート"
       ],
@@ -1039,10 +1366,9 @@
       "summary": null,
       "contentHash": "83fc3a5030ae765029d82ceec9d7400dd7ae2dae7571dae21d4e205305226765",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1062,10 +1388,9 @@
       "summary": null,
       "contentHash": "cfd282a07f6686af0109131bc99370eb5e7367f63ddf3470c303129a549ba882",
       "revision": 1,
-      "importance": 65,
+      "importance": 55,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "release"
       ],
       "tags": [
@@ -1088,10 +1413,9 @@
       "summary": null,
       "contentHash": "1fe20b6c03b501acb4910fa121b91fffb17b6d01cd0882ffe33084f9f81b37a0",
       "revision": 1,
-      "importance": 80,
+      "importance": 70,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "脆弱性"
       ],
       "tags": [
@@ -1114,10 +1438,9 @@
       "summary": null,
       "contentHash": "a3f04c194ebdae8bf53eda3e1a202db8146eb9c721642bda2d0df7c0189fd856",
       "revision": 1,
-      "importance": 65,
+      "importance": 55,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "update"
       ],
       "tags": [
@@ -1140,10 +1463,9 @@
       "summary": null,
       "contentHash": "8deb0523887b68c691d1c1c57f1bcd28185336c6b84dc4740adac0a7ef592522",
       "revision": 1,
-      "importance": 80,
+      "importance": 70,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "vulnerability"
       ],
       "tags": [
@@ -1166,10 +1488,9 @@
       "summary": null,
       "contentHash": "0c72046d7ad197e7852e295c37931c1794c9a4c8059811a4a483f4d1e217f759",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1189,10 +1510,9 @@
       "summary": null,
       "contentHash": "af6f43d408712cc143dc887691c349ce36f53ec8abfe3b06140926496fda64cc",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1212,10 +1532,9 @@
       "summary": null,
       "contentHash": "c4d158f780ab281bc3292890d084e17284cd4c9580eaa874f245e43489f609d9",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1235,10 +1554,9 @@
       "summary": null,
       "contentHash": "97811f61910a1b67970b526e42cb3f1e1599f5c63b41365f4d8ed839b85e4d55",
       "revision": 1,
-      "importance": 80,
+      "importance": 70,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "vulnerability"
       ],
       "tags": [
@@ -1261,10 +1579,9 @@
       "summary": null,
       "contentHash": "cd8c7facddcd8ed8bcd1ac10f6239f41f23aa928783673cff8ea6f07e28e2886",
       "revision": 1,
-      "importance": 65,
+      "importance": 55,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "release"
       ],
       "tags": [
@@ -1287,10 +1604,9 @@
       "summary": null,
       "contentHash": "01e4f5279f6b06bf2c73721e8d8ac7f4e7ba3e1fa194eeb84013f2a2dfa8038e",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1354,10 +1670,9 @@
       "summary": null,
       "contentHash": "7095106574fb6dae7e916590daf26f547c0eea6efa7fd21dfc1282c2f3841fed",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1377,10 +1692,9 @@
       "summary": null,
       "contentHash": "94f3895f9a5096add86b0fce0e119b0270a5e7572f85b4513dbe435154bc994b",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1400,10 +1714,9 @@
       "summary": null,
       "contentHash": "4b6fda175e9c9d4ce4f13cea3861453e58d1fdcce758386666ee0b116aea0873",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1423,10 +1736,9 @@
       "summary": null,
       "contentHash": "0281b5bb70d2cf3c580ab29ca99d8f0119ff28f36992bdae3d2f1a04cd47d0fc",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1512,10 +1824,9 @@
       "summary": null,
       "contentHash": "19fb07f4654ef83392bdf9202a17d2b190f82f2167828373532cfcf08fe23351",
       "revision": 1,
-      "importance": 50,
+      "importance": 40,
       "importanceReasons": [
-        "公式一次情報",
-        "24時間以内"
+        "公式一次情報"
       ],
       "tags": []
     },
@@ -1560,10 +1871,9 @@
       "summary": null,
       "contentHash": "0ca652fc5b9239598302c7d64a7296019b880295695706f448e693b95ef22990",
       "revision": 1,
-      "importance": 65,
+      "importance": 55,
       "importanceReasons": [
         "公式一次情報",
-        "24時間以内",
         "update"
       ],
       "tags": [
